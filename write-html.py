@@ -49,7 +49,6 @@ if __name__ == "__main__":
     with open(f"index.html", "w") as fh:
         fh.write(out)
 
-
     for contest in contests:
         if contest % 10 == 0:
             print(contest)
