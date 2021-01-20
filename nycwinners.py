@@ -2,7 +2,7 @@ import json
 from typing import List, Dict
 import pandas as pd
 
-def _get_nyc_winners():
+def _get_nyc_winners(fname="io/raw.json"):
     """
     This file obtained by running this query at [1]:
 
@@ -19,7 +19,7 @@ def _get_nyc_winners():
 
     [1]:https://graphql.newyorker.com/graphiql
     """
-    with open("raw.json", "r") as f:
+    with open(fname, "r") as f:
         return json.load(f)
 
 def _expand(contest):
@@ -40,4 +40,4 @@ if __name__ == "__main__":
     assert all(keys[0] == k for k in keys), "All contests should have a top-rated caption"
 
     with open("nyc_winners.json", "w") as f:
-        json.dump(cooked, f)
+        json.dump(cooked, f, indent=2, sort_keys=True)
