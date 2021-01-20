@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Caption Contest Data2</title>
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+</head>
+
+<body>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
+  <div class="container-fluid">
+    <div class="row" align="center">
+      <h2>Contests</h2>
+      <table style="width:80%" align="center" class="table">
+        <tr>
+          <th>Contest Dashboard</th>
+          <th>Cartoon</th>
+          <th>Winning caption</th>
+        </tr>
+        {% for c in summary %}
+          <tr>
+            <td><a href="dashboards/{{c['contest']}}.html">{{c['contest']}} Dashboard</a></td>
+            <td><img src="{{c['cartoon']}}" width=300 /></td>
+            <td>{{c['winner']}}</td>
+          </tr>
+        {% endfor %}
+      </table>
+      </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+  </div>
+</body>
+</html>
+

@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Contest #{{contest}} Summary</title>
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+</head>
+
+<body>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
+  <div class="container-fluid">
+    <div class="row" align="center">
+      <h1>Contest #{{contest}} Summary</h1>
+      <ul>
+          <li> <a href="../cartoons/{{contest}}.jpg"> Cartoon </a></li>
+          <li> <a href="../summaries/{{contest}}.csv">Dashbaord CSV</a> </li>
+      </ul>
+    </div>
+
+    <br>
+    <div align="center">
+    <h2>Cartoon</h2>
+    <img src="../{{cartoon}}" width="300" alt="{{contest}}" />
+    </div>
+
+    {% if winners %}
+      <div class="row">
+        <h2>The winning captions</h2>
+        <p>These captions are chosen by The New Yorker.</p>
+        <ol>
+        {% for winner in winners %}
+        <li>{{winner}}</li>
+        {% endfor %}
+        </ol>
+      </div>
+    {% endif %}
+
+    <br><br>
+    <div class="row" align="center">
+      <h2>Dashboard</h2>
+      <table style="width:80%" class="table">
+        <tr>
+          <th>Rank</th>
+          <th>Caption</th>
+          <th>Mean</th>
+          <th>Precision</th>
+          <th>Total votes</th>
+          <th>"Not funny" votes</th>
+          <th>"Somewhat funny" votes</th>
+          <th>"Funny" votes</th>
+        </tr>
+        {% for c in captions %}
+          <tr>
+            <td>{{c['rank']}}</td>
+            <td>{{c["caption"]}}</td>
+            <td>{{"%.4f" | format(c["mean"])}}</td>
+            <td>{{"%.5f" | format(c["precision"])}}</td>
+            <td>{{c["votes"]}}</td>
+            <td>{{c["not_funny"]}}</td>
+            <td>{{c["somewhat_funny"]}}</td>
+            <td>{{c["funny"]}}</td>
+          </tr>
+        {% endfor %}
+      </table>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+  </div>
+</body>
+</html>
+
