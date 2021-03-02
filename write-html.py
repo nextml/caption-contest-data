@@ -49,6 +49,19 @@ if __name__ == "__main__":
     with open(f"index.html", "w") as fh:
         fh.write(out)
 
+    ## Cartoons are about 672KB each -> 80 of them are 52.5MB.
+    ## When I compress with tarfile (below), the smallest I can get is 68MB.
+    ## Solution: resize the cartoons.
+    #
+    #  import tarfile
+    #  with tarfile.open("all-data.tar.bz2", mode="w:bz2", compresslevel=9) as tf:
+    #  with tarfile.open("all-data.tar.xz", mode="w:xz") as tf:
+    #  with tarfile.open("all-data.tar.gz", mode="w:gz", compresslevel=9) as tf:
+        #  for f in Path("cartoons").glob("*.jpg"):
+            #  tf.add(f"cartoons/{f.name}")
+        #  for f in Path("summaries").glob("*.csv"):
+            #  tf.add(f"summaries/{f.name}")
+
     for contest in contests:
         if contest % 10 == 0:
             print(contest)
