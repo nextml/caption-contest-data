@@ -40,12 +40,14 @@
           <th>Contest Dashboard</th>
           <th>Cartoon</th>
           <th>Top Rated caption</th>
+          <th>The New Yorker's winner</th>
         </tr>
         {% for c in summary %}
           <tr>
             <td><a href="dashboards/{{c['contest']}}.html">{{c['contest']}} Dashboard</a></td>
             <td><img src="{{c['cartoon']}}" width=300 /></td>
-            <td>{{c['winner']}}</td>
+            <td>“{{c['winner']}}”</td>
+            <td>{{nycc_winners.get(c['contest'], ["", "", ""])[0]}}</td>
           </tr>
         {% endfor %}
       </table>
