@@ -1,12 +1,12 @@
 caption,mean,precision,votes,not_funny,somewhat_funny,funny
-They call it kitsch-and-release.,1.7964489537095751,0.012127062049720283,4731,2225,1244,1262
+They call it kitsch-and-release.,1.7967032967032968,0.012127166462048498,4732,2225,1244,1263
 "Well, well, well. If  it isn't the one who got away.",1.7955764075067024,0.014661070503743058,2984,1324,946,714
 If Bob calls and offers you a position on the board — don’t take it.,1.790110468174645,0.01864223427318848,1901,869,562,470
 "And if you think the singing part is bad, just wait til I tell you where the batteries go.",1.771601541001651,0.019355819138883158,1817,873,486,458
 Well if it isn't the one that got away.,1.7712697734074392,0.016631403263800505,2339,1085,704,550
 "No, Jerry, I did not have a good weekend.",1.7600178094390027,0.016696501773304232,2246,1037,711,498
 "Just remember: If it looks that good, there’s probably a string attached.",1.746969696969697,0.017646788490773946,1980,924,633,423
-"You think this is bad, you should'a seen what he did to the moose.",1.744978981784213,0.017284156821763975,2141,1027,633,481
+"You think this is bad, you should'a seen what he did to the moose.",1.7455648926237162,0.017286018368542884,2142,1027,633,482
 There are two things certain in life: death and taxidermy.,1.7405036278275714,0.016808073843187957,2343,1158,635,550
 "In hindsight, an earthworm in the middle of a river was pretty suspicious.",1.7357487922705315,0.017155294737719467,2070,976,665,429
 "Oh, they give you a plaque all right, but there’s a catch.",1.7306143001007048,0.017307436936601257,1986,930,661,395
@@ -19,12 +19,12 @@ I'm a throwback,1.7008750994431185,0.022220492989830323,1257,634,365,258
 I never should have opened my big mouth.,1.7001675041876048,0.022083288708717144,1194,580,392,222
 And another thing.  Stop referring to me as your trophy wife.,1.698019801980198,0.022687505012461168,1212,619,342,251
 "They said it was a permanent position, and I fell for it!",1.6966386554621848,0.022643850350867044,1190,600,352,238
-"When I asked you to mount me,  I had  something else entirely in mind.",1.6952789699570816,0.023373194817122224,1165,602,316,247
+"When I asked you to mount me,  I had  something else entirely in mind.",1.6963979416809605,0.023379933131618492,1166,602,316,248
 "A lot can happen between catch and release, my friend.",1.6935908691834942,0.022256450371026994,1139,549,390,200
 "Whatever you do,stay in school.",1.6925133689839573,0.022923148274492,1122,556,355,211
 "... and to top it all off, this isn't even my best side!",1.6923076923076923,0.022671838276283218,1131,556,367,208
+"Take my advice, kid. Stay in school.",1.690587138863001,0.023648361711424766,1073,539,327,207
 Of course I feel mounting frustration!,1.690232558139535,0.023906466829299915,1075,548,312,215
-"Take my advice, kid. Stay in school.",1.689365671641791,0.02363883637306337,1072,539,327,206
 And stop referring to me as your trophy wife,1.686046511627907,0.024683788629998867,1032,537,282,213
 "I'm tired of being your trophy wife, Ken.""",1.6836836836836837,0.024776692065006517,999,514,287,198
 And to think I was flattered when they asked me to be “on the board”.,1.6822810590631365,0.024891452668486466,982,504,286,192
@@ -53,7 +53,7 @@ And you said I would never mount to anything..,1.6483180428134556,0.029478657877
 "It's not a great job, but it's better than being canned.",1.6474258970358815,0.02905485343982959,641,326,215,100
 "Hey, I was quite the catch in my day.",1.6470588235294117,0.02871348102413488,646,326,222,98
 "I'd stay for lunch, but I'm stuffed",1.6470588235294117,0.029537494960243764,646,336,202,108
-"You're looking at the price of immortality, pal.",1.6444444444444444,0.029734381331264336,630,327,200,103
+"You're looking at the price of immortality, pal.",1.6434231378763866,0.02970478371558585,631,328,200,103
 "Well, you said you wanted a trophy wife.",1.6429699842022116,0.029801907649617196,633,331,197,105
 My dentist said getting rid of the plaque is going to be a challenge.,1.642512077294686,0.030605107277189684,621,331,181,109
 I'm having trouble seeing more than one side of this situation.,1.642016806722689,0.03012529738001737,595,305,198,92
@@ -172,6 +172,7 @@ Doc said I got a bad case of plaque,1.5667752442996743,0.04144731910676886,307,1
 Do you know a good dentist that can remove this plaque?,1.5666666666666667,0.04323417176637067,300,177,76,47
 "If they mention onboarding in the job interview, swim away.",1.5657894736842106,0.04477718398907852,304,187,62,55
 They said if I joined they'd give me a plaque.,1.5649350649350648,0.042113725974438423,308,180,82,46
+"Next time, YOU take the bait",1.5649122807017544,0.042478373224897316,285,162,85,38
 Of course it makes it harder to swim!,1.5642023346303502,0.044654467682973445,257,146,77,34
 "No, it's not a fish story; it's more of a cautionary tale.",1.5641891891891893,0.04182895024803465,296,169,87,40
 "Don't play coy, I knew you only wanted a trophy husband all along.",1.5618729096989967,0.041789631139222405,299,172,86,41
@@ -179,7 +180,6 @@ I went to boarding school!,1.5618374558303887,0.04388071827488901,283,166,75,42
 Don't take the bait Steve. Trust me.,1.5608108108108107,0.040170474654405174,296,164,98,34
 "Yeah, well I forgot the safe word, ok?",1.5608108108108107,0.041571484636974264,296,169,88,39
 Rule number one: Don't get caught.,1.560553633217993,0.04454993971637629,289,174,68,47
-"Next time, YOU take the bait",1.5598591549295775,0.04232552053461149,284,162,85,37
 My advice:  Stay In School !,1.5587188612099645,0.044137952557854736,281,166,73,42
 Stay in school! Don't get hooked and end up like me.,1.5586206896551724,0.04223550434101914,290,167,84,39
 I opened my big mouth just once and now look at me.,1.5571428571428572,0.04189044581598512,280,158,88,34
@@ -249,6 +249,7 @@ So look who's the trophy spouse now!,1.5313807531380754,0.04545258276306271,239,
 But you said you wanted a trophy wife,1.5303030303030303,0.04518489746654024,264,162,64,38
 "No, I don't know any other songs!",1.5301724137931034,0.04607865174112841,232,137,67,28
 "You think this is bad, you should’ve seen the moose.”",1.5301724137931034,0.046881554495906856,232,139,63,30
+He said he wanted me to be his trophy wife !,1.528888888888889,0.048399425711170126,225,137,57,31
 "'What an interesting worm' , you said! 'Why don't you try it?', you said!",1.528888888888889,0.045873839724573276,225,131,69,25
 "What do you mean, where have I been?",1.528688524590164,0.04587835277323502,244,147,65,32
 This wasn't what I meant when I asked you to mount me.,1.52863436123348,0.0488780753297755,227,140,54,33
@@ -268,7 +269,6 @@ It was either this or a tank in a pediatrician’s office,1.5248868778280542,0.0
 They even misspelled my name,1.5227272727272727,0.04530381817219057,220,127,71,22
 "The plaque isn’t bad, it’s the plate you want to stay off of.",1.5225225225225225,0.04545894389478373,222,129,70,23
 Recognition isn’t all its made out to be,1.5223214285714286,0.04426792428269417,224,128,75,21
-He said he wanted me to be his trophy wife !,1.5223214285714286,0.048166326955593725,224,137,57,30
 I prefer the term 'previously caught.',1.521551724137931,0.0440292791827112,232,134,75,23
 Don't you dare touch that 'on' switch,1.5211267605633803,0.0487133890949534,213,129,57,27
 Don't take the bait.,1.5205479452054795,0.04943176210181352,219,136,52,31
@@ -353,6 +353,7 @@ The most humiliating part was the twenty extra pounds they put on the inscriptio
 Think of me as a trophy wife!,1.4973262032085561,0.051079053660882105,187,116,49,22
 ...and if it couldn’t get any worse...I can’t stop singing either!,1.4972972972972973,0.049155216118937285,185,111,56,18
 "What am I, your trophy wife?",1.4972375690607735,0.05349899994605568,181,115,42,24
+I spend 10 years on the wall and the new spouse has him throw me away after 10 minutes.,1.497175141242938,0.053824157396537786,177,112,42,23
 Don't be too anxious to get on the Company Board.  It has its limitations.,1.4947916666666667,0.04728526588292556,192,117,57,18
 "It has its downsides, but I'm practically immortal now.",1.4946808510638299,0.05031324136392014,188,116,51,21
 Death and Taxidermy,1.4946808510638299,0.04974467773650875,188,115,53,20
@@ -377,11 +378,11 @@ Hangin' in there. And you?,1.4914285714285713,0.04785622379824812,175,102,60,13
 "Son, you either have to win awards or be an award, otherwise you're just another fish in the sea.",1.4914285714285713,0.0518102965266437,175,108,48,19
 See; Pop was wrong; he said I’d never ‘mount to a damn thing.,1.4893617021276595,0.04974011519057961,188,116,52,20
 On top of all that they expect you to sing on demand.,1.489010989010989,0.05093921528882687,182,113,49,20
+"I knew from the beginning I was a trophy wife, but this has gone too far.",1.488888888888889,0.051355849428963624,180,112,48,20
 Either I’m a trophy wife or I make dinner.  You don’t get to have it both ways.,1.4887640449438202,0.05358876260934398,178,114,41,23
 I didn't know that there was a string attached!,1.4887640449438202,0.05054063333256284,178,109,51,18
 "Well, are you happy now, you said you wanted a trophy wife",1.4887640449438202,0.0523907962705569,178,112,45,21
 What can I say?  He caught a bigger one.,1.4887640449438202,0.05116478857305456,178,110,49,19
-I spend 10 years on the wall and the new spouse has him throw me away after 10 minutes.,1.4886363636363635,0.0534453455286584,176,112,42,22
 "Don't be lured by shiny objects. That's the best advice I can give you, Junior.",1.4886363636363635,0.049666835706206384,176,106,54,16
 "I said I needed a tax attorney, not taxidermy!",1.4886363636363635,0.05221623146884077,176,110,46,20
 Somehow I thought getting board certified would feel different,1.4886363636363635,0.051590694547296916,176,109,48,19
@@ -436,7 +437,6 @@ when I'm on the wall, and you're on the plate!",1.4819277108433735,0.05519581893
 "Sure, singing was my dream, but fame has been a nightmare.",1.4819277108433735,0.053174433492396665,166,104,44,18
 "And I am here from the future to warn you ""Don't take the bait!""",1.481283422459893,0.05049478947922158,187,118,48,21
 They could've at least picked my good side.,1.4808743169398908,0.05012536379915268,183,114,50,19
-"I knew from the beginning I was a trophy wife, but this has gone too far.",1.4804469273743017,0.050941042157487855,179,112,48,19
 You think you’re miserable? I’ve to go back to Trump Tower,1.4797687861271676,0.0565566567477638,173,116,31,26
 "I'll identify as whoever I want, Bob.",1.4795321637426901,0.05135868544655375,171,106,48,17
 "That’s all I am to you, Bob. A trophy wife.",1.4792899408284024,0.0524738509101029,169,106,45,18
@@ -788,6 +788,7 @@ It turns out there are steps between 'catch and release.',1.415929203539823,0.05
 "'Gee, that worm looks good' you said. 'What could possibly go wrong?' you said...",1.4154929577464788,0.05404704047221924,142,95,35,12
 "He didn't understand the concept of '""catch and release.""",1.4152542372881356,0.056870776900890256,118,77,33,8
 People suck.,1.4144144144144144,0.06458900298715288,111,77,22,12
+This is what happens when you don't make a Living Will.,1.4144144144144144,0.06200112079046729,111,75,26,10
 Don't judge.  My other option was sautéed in lemon butter.,1.4144144144144144,0.060665796091982103,111,74,28,9
 I feel like I'm always on display.,1.4140625,0.05604165675706574,128,85,33,10
 "So I took the bait, what of it?",1.4140625,0.05493301189643418,128,84,35,9
@@ -878,7 +879,6 @@ Don’t eat the shiny things,1.4015151515151516,0.054689678759849,132,89,33,10
 So he waited a while to throw me back.,1.4,0.05946663126096803,110,74,28,8
 "I mean, he literally nailed my ass to a wall.",1.4,0.06273696496847277,115,81,22,12
 "I won the contest, what'd you do?",1.4,0.0622084526114707,110,76,24,10
-This is what happens when you don't make a Living Will.,1.4,0.06085298599839426,110,75,26,9
 "Well, technically it is still catch and release.",1.4,0.0622084526114707,110,76,24,10
 "Go out and get us a worm for dinner, you said.",1.4,0.0622084526114707,110,76,24,10
 I went to the dentist for a cleaning  but he couldn’t get this plaque off!!,1.4,0.06712298045747453,105,75,18,12
@@ -1022,6 +1022,7 @@ I just feel like there has been a wall between us lately…,1.3814432989690721,0
 It’s spring cleaning season,1.3814432989690721,0.0629379824996301,97,67,23,7
 Am I some kind of joke to you?,1.3814432989690721,0.061207948902257295,97,66,25,6
 I tried school. I was bored.,1.38135593220339,0.058864984629132894,118,83,25,10
+0f course I’m pissed! I thought they meant “Board of Directors”!,1.380952380952381,0.061096441478588503,105,73,24,8
 "Yes, I did know what a hook looked like!",1.3805309734513274,0.05804247767564401,113,78,27,8
 Don't get me started.,1.3804347826086956,0.06151921087999765,92,62,25,5
 . . . so they took me to the river.,1.3804347826086956,0.06343110317925262,92,63,23,6
@@ -1202,7 +1203,6 @@ When I go out with you don't put me on display.,1.3660714285714286,0.06082277951
 "Your loss, baby, I'm a catch.",1.3655913978494623,0.06074368900734792,93,64,24,5
 Have you seen any AA batteries floating around,1.3655913978494623,0.06263824586399261,93,65,22,6
 I was big in the 90s,1.3655913978494623,0.06626505886446614,93,67,18,8
-0f course I’m pissed! I thought they meant “Board of Directors”!,1.3653846153846154,0.05965060753279403,104,73,24,7
 It only took two decades of me repeatedly singing ‘Take Me to the River’ for someone to finally fucking do it.,1.3653846153846154,0.06561265860011968,104,77,16,11
 "Listen, there’s no free worms in life.",1.3647058823529412,0.07070485231612221,85,62,15,8
 Don't even think about pushing my button!,1.3645833333333333,0.06303680292806588,96,68,21,7

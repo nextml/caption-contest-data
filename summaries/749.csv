@@ -56,7 +56,7 @@ I just got a text. Your fly is open.,1.7270194986072422,0.020440725103911882,143
 "Martha,I thought you said my blind date was a musician!",1.7268326417704012,0.019580554929418653,1446,652,537,257
 "Arnold, this is not what I had in mind when I said I wanted a magical evening together.",1.7254623044096729,0.019459345781900932,1406,620,552,234
 "So far you've received three ""awesome"", five ""we've called PETA"" and sixteen ""jump!""",1.7210365853658536,0.02099121203238725,1312,613,452,247
-"This looks  a little ominous;  you have an impressive 255 likes, but I see a GoFundMe account just popped up for the rabbit.",1.7156862745098038,0.021361173893581675,1224,565,442,217
+"This looks  a little ominous;  you have an impressive 255 likes, but I see a GoFundMe account just popped up for the rabbit.",1.7151020408163264,0.02135172358233811,1225,566,442,217
 "Nothing for you, but the rabbit has 500 followers and a crowd-sorced liberation campaign.",1.7136824324324325,0.022765733356534198,1184,581,361,242
 The most popular comment says 'your fly is open'.,1.7119518486672398,0.022832253095920418,1163,568,362,233
 Now they want to see you disappear.,1.7071362372567191,0.023410176096544895,1079,523,349,207
@@ -98,8 +98,8 @@ The couple in 3B say your fly is open,1.6507413509060955,0.030400550130754038,60
 Our first night out in a year and you just had to bring the rabbit.,1.647940074906367,0.031909830623959426,534,272,178,84
 "So cute, it says Peter Rabbit.  Oh I got that wrong.  Peta is coming for the rabbit.",1.6455223880597014,0.032487068026587025,536,280,166,90
 "I'll distract them, you book the vaccine appointment!",1.6454033771106942,0.03359253951492931,533,288,146,99
+I guess people really have watched everything on Netflix.,1.6454033771106942,0.03186857736658575,533,272,178,83
 The rabbit already has over 1.2 million followers.  You have 32.,1.644808743169399,0.03135284082732243,549,280,184,85
-I guess people really have watched everything on Netflix.,1.644736842105263,0.03192155290665605,532,272,177,83
 Interest in the rabbit is multiplying.,1.6445993031358885,0.03047692257812597,574,291,196,87
 Tomorrow you're booked on the rooftop two buildings down.,1.6427221172022684,0.030124671740611952,529,255,208,66
 Do a few more tricks. The boys have robbed almost all their apartments.,1.6396039603960395,0.034355378090492404,505,274,139,92
@@ -278,6 +278,7 @@ City dwellers witness their first wild animal.,1.5198019801980198,0.050713055530
 Eleven likes and one complaint from PETA.,1.519650655021834,0.04572458010919949,229,136,67,26
 "The rabbit is getting more likes than you, dear.",1.5192307692307692,0.04306766734115729,260,155,75,30
 Who is PETA? She keeps calling you.,1.5190839694656488,0.05970287070309108,131,77,40,14
+This isn’t exactly what I meant by a magical evening for two.,1.5185185185185186,0.04684855792842043,216,128,64,24
 Only on comments so far: guy in 5C wants to know where you got the hat.,1.5180722891566265,0.04261968939654822,249,145,79,25
 It’s a call from PETA.,1.5178571428571428,0.038209593071033575,224,137,67,20
 "So this is what he meant by, 'A magical evening?'",1.5176991150442478,0.04531745417276383,226,133,69,24
@@ -287,7 +288,6 @@ The guy on the third floor wants to know what happened to the blonde with the bi
 "He used to pull a cat out of the hat until, you know, the whole Dr. Seuss thing.",1.5166666666666666,0.04648250171905873,240,148,60,32
 "Magician to spouse: If you won’t stop working during dinner, I won’t either.",1.5166666666666666,0.045726228349698785,240,146,64,30
 They're asking if you can pull out a vaccine.,1.5165289256198347,0.04544207378837674,242,147,65,30
-This isn’t exactly what I meant by a magical evening for two.,1.5162790697674418,0.04701316209820332,215,128,63,24
 "Venmo, PayPal, or Zelle to @savetherabbit. Phones close in an hour.",1.5161290322580645,0.04498042103618848,248,151,66,31
 "Honey, they’re telling me it’s not a standing ovation - they’re just standing.",1.5151515151515151,0.04460272166490084,231,136,71,24
 "Honey, you just have to see this YouTube video of a man on a balcony pulling a rabbit out of a hat...",1.514018691588785,0.047641478756629885,214,129,60,25
@@ -432,7 +432,6 @@ That rabbit has seen more of our neighbours this year than we have,1.46323529411
 You're trending away from the possibility of sex tonight.,1.4615384615384615,0.05254846546645948,156,98,44,14
 "Ok, you have 4 likes and 4 who called the Humane Society.",1.4615384615384615,0.04965755148135667,182,116,48,18
 "The kid in 5C says ""Yow!"".  The PETA person in 4A says she's going to sue.",1.461111111111111,0.046852442729819525,180,110,57,13
-"This is what I was talking about- every time I ask a serious question, he puts on a whole show and just pulls something out of his hat.",1.461111111111111,0.04879929434985083,180,113,51,16
 How did I miss this in your profile?,1.4605263157894737,0.055916567388248406,152,99,36,17
 "As Harold prepared for the big reveal,Joanne had already swiped left.",1.4603174603174602,0.05169435285491333,189,126,39,24
 The lady in 4G says she wants to see what you can do with your wand.,1.46,0.05235398358592626,150,93,45,12
@@ -442,6 +441,7 @@ Stanley the Ordinary had waited a lifetime for a captive audience.,1.45962732919
 "You’re doing great honey just please don’t drop this one, okay?",1.4591194968553458,0.053343088604665495,159,102,41,16
 "So far, 23 clapping and 4 thumbs down emojis.",1.4585987261146496,0.04989818627913053,157,96,50,11
 "Yikes, crowdfunding #freetherabbit is going viral.",1.4585987261146496,0.056063388522026275,157,104,34,19
+"This is what I was talking about- every time I ask a serious question, he puts on a whole show and just pulls something out of his hat.",1.4585635359116023,0.04859575882010625,181,114,51,16
 I'm making this chardonnay disappear,1.4583333333333333,0.051946819954759735,168,108,43,17
 "Cute Vaudeville”, “A refreshing throwback”, but overall they still prefer voyeurism.",1.4583333333333333,0.05055591067870106,168,106,47,15
 "Honey, look at my phone! There’s a man pulling a rabbit out of a hat on the ledge of a tall building!",1.458100558659218,0.04961585980657541,179,114,48,17
@@ -475,7 +475,6 @@ The neighborhood has voted—make her fly!,1.4511278195488722,0.0564441156181653
 Amazing! A virus made your magic act go viral.,1.4508670520231215,0.05081417041252253,173,112,44,17
 I don't think it's the bunny that's been cooped up too long.,1.450381679389313,0.05857351099276371,131,85,33,13
 You're now trending on PETA.,1.45,0.05201490022904607,140,86,45,9
-They want you to stop throwing the rabbits over the ledge.,1.4497041420118344,0.05929474365111405,169,122,18,29
 AstraZeneca!,1.4496644295302012,0.053395703759809045,149,95,41,13
 "You've got 37 likes for the show and 12 for ""Please close your blinds when you go to the bathroom!""",1.4489795918367347,0.05390679845364345,147,94,40,13
 Tweet storm says your popularity is hanging by a hare.,1.4487179487179487,0.05403095626102421,156,102,38,16
@@ -486,6 +485,7 @@ They want you to pull out a vaccine instead.,1.4482758620689655,0.05314958299773
 OMG... I’m on the worst Match date ever!,1.4482758620689655,0.04576056953562742,174,106,58,10
 Tough crowd.  You only got three applause emojis.,1.4482758620689655,0.04983789284753748,145,88,49,8
 Anybody can pull one out. I'll show you how to get one in.,1.4478527607361964,0.0477894076246247,163,100,53,10
+They want you to stop throwing the rabbits over the ledge.,1.4470588235294117,0.05900424728580286,170,123,18,29
 For your next trick they all want vaccine appointments.,1.446808510638298,0.05642645186075485,141,92,35,14
 "Put me back in, I dropped my cellphone in there.",1.446808510638298,0.04843320706208477,188,122,48,18
 Good news!!..You are finally trending...as#leavethebunnyalone..,1.4466666666666668,0.0539588596840609,150,97,39,14
@@ -641,11 +641,11 @@ Forget the rabbit! Make our waiter magically appear with our food!,1.41605839416
 "You’ve gotten 139 likes on Instagram, 4 positive reviews on Yelp, and 2 Tinder date requests...oh wait, that’s me.",1.416,0.05469445923462214,125,81,36,8
 They just sent a picture from their cameras to show you in action before they send it to PETA.,1.415929203539823,0.04823965620313252,113,72,37,4
 "Yeah, Marge, he gets great reviews, but honestly, collecting admission has been a real problem.",1.415929203539823,0.05992734712764263,113,75,29,9
-They want me to saw you in two.,1.415929203539823,0.05583192182857195,113,72,35,6
 Next time check the hat before we leave for dinner.,1.4154929577464788,0.05311489869084434,142,94,37,11
 This open-hare theater is getting a bit old hat.,1.4152542372881356,0.060571271410161685,118,80,27,11
 "Next, watch as I make my marriage disappear!",1.4146341463414633,0.056470951073210915,123,81,33,9
 You have eleven likes already.,1.4144144144144144,0.056470685528630334,111,71,34,6
+Looks like the rabbit tweeted something homophobic in 2011.,1.4137931034482758,0.060071129149596926,116,78,28,10
 apt 7c  wants its rabbit back,1.4137931034482758,0.06130632589536591,116,79,26,11
 The day after all shows on Netflix had been watched,1.4137931034482758,0.0558684542966195,145,100,30,15
 "For some, working from home has been a hare-raising experience.",1.413533834586466,0.05660701383744456,133,90,31,12
@@ -658,6 +658,7 @@ You've got seven 'likes' and two 'WTF's.,1.4130434782608696,0.05512769561115628,
 Not bad! You were trending for three seconds until Grumpy cat fell off the couch.,1.4129032258064516,0.050789408702797995,155,108,32,15
 "Woman at table: ""This is gonna be the worst dinner date yet."" Rabbit: ""Sorry babe. When I asked you out, I did not know it was a work night.""",1.4128440366972477,0.06544628305514585,109,76,21,12
 Most of the comments are about adopting the rabbit.,1.412280701754386,0.05546014136057366,114,73,35,6
+They want me to saw you in two.,1.412280701754386,0.05546014136057366,114,73,35,6
 The rabbit is trending but you're still not.,1.411764705882353,0.050393542202269735,153,101,41,11
 The chef is yelling that someone stole his rabbit.,1.411764705882353,0.05586492130615336,119,80,30,9
 They’ll lose interest once the Internet is back.,1.411764705882353,0.05896578724808001,119,80,29,10
@@ -672,7 +673,6 @@ The lady in 5B wants to know the rabbit's name.,1.4102564102564104,0.05841234531
 "The Rabbit is a fan-favorite. The Magician, they're not so sure about.",1.41,0.06046119049072351,100,67,26,7
 Views are surging since you held it over the edge.,1.4098360655737705,0.055522909121303,122,80,34,8
 "No, what's amazing is that we got the only table at the only rooftop restaurant in Manhattan that's still open",1.4094488188976377,0.05402709017496298,127,83,36,8
-Keep it up honey—you got 47 likes and $231 on the GoFundMe page for magicians out of work during the pandemic!,1.4090909090909092,0.059600357323341444,110,73,29,8
 "If I'm not out in 5 minutes, tag PETA.",1.4083333333333334,0.05736491052769633,120,80,31,9
 They want to know if that’s what’s for dinner and what’s a good wine pairing.,1.4083333333333334,0.05486912533504319,120,78,35,7
 The Smith’s on the 20th floor want you to hold it up a little higher,1.4083333333333334,0.05157984935040301,120,83,28,9
@@ -690,6 +690,7 @@ Nobody's ever seen a magician put a rabbit into a hat before.,1.40625,0.05703196
 "Darling, everyone is posting the same thing : 'You're blocking our view of the fireworks!'",1.4056603773584906,0.05808922388136808,106,69,31,6
 he says if you can turn  it into a chicken he'll send you his recipe for coq au vin,1.4054054054054055,0.0605440504423054,111,75,27,9
 Your one and three o’clock’s are canceled and PETA Rabbit is trending.,1.4054054054054055,0.05777526907215659,111,73,31,7
+Keep it up honey—you got 47 likes and $231 on the GoFundMe page for magicians out of work during the pandemic!,1.4054054054054055,0.05917585555072489,111,74,29,8
 "Oh wow look at Instagram honey, there’s a livestream going of a man doing a rooftop magic show",1.4054054054054055,0.05179556989897339,111,69,39,3
 You're trending on social media.  Free the rabbit and sing some songs.,1.4051724137931034,0.06119554554036036,116,80,25,11
 For your next trick they want to see you make yourself disappear.,1.4049586776859504,0.05451831698243261,121,79,35,7
@@ -720,7 +721,6 @@ Put it back before you make a fool of yourself,1.4,0.054959939644026706,115,75,3
 "They opened up off, off ,off Broadway",1.4,0.049153915231142424,150,99,42,9
 "Oink, oink. OOPS!",1.4,0.0560112033611204,120,80,32,8
 4B only gave you 2 stars. Try again!,1.4,0.05355408167804149,115,74,36,5
-Looks like the rabbit tweeted something homophobic in 2011.,1.4,0.058976782461958865,115,78,28,9
 It’s getting harder and harder to read the room.,1.4,0.0659158919778043,95,65,22,8
 "The parents are texting for something more original, the kids think you should jump off the balcony.",1.4,0.05724780279076,120,81,30,9
 "Your total is five 'like', three 'Lol ', four 'LMAO', two 'Heart' emojis, one 'Click here to earn $500 a day at home!', and a gif of a guy eating spaghetti.",1.4,0.05845824960412954,120,82,28,10
@@ -758,7 +758,6 @@ Eleven likes and four hearts but I'm still not letting you saw me in half.,1.394
 Put it back. You’re making a scene.,1.393939393939394,0.0545814259264257,132,90,32,10
 "So far it's four ""likes,""  eight ""call PETA's,"" and 63 ""who's the idiot?""",1.393939393939394,0.04899826477684933,132,85,42,5
 "Hmm, looks like the rabbit's Instagram page is getting all the likes.",1.3937007874015748,0.051423287478128014,127,83,38,6
-Thank you! I’ll be here all year.,1.3937007874015748,0.057177586341350596,127,88,28,11
 That was interesting.  Can you get a vaccination appointment next?,1.3934426229508197,0.06110283159463488,122,87,22,13
 You have 17 likes and one request for a birthday party. Let's eat.,1.3934426229508197,0.05649446027131108,122,83,30,9
 Thank heaven. It was a skunk last week.,1.3934426229508197,0.05528237553201612,122,82,32,8
@@ -787,6 +786,7 @@ The neighbors are watching.,1.3909774436090225,0.05210819412076994,133,89,36,8
 With all the neighborhood watching Tricia finally forced her husband to confront the fact that his life had become a mere cliché.,1.3909090909090909,0.06339762198197893,110,78,21,11
 "Sure, they love you now—they don’t know what’s for dinner.",1.390625,0.05681244937975795,128,89,28,11
 "You finally have your audience captivated, Harold.",1.390625,0.05681244937975795,128,89,28,11
+Thank you! I’ll be here all year.,1.390625,0.05681244937975795,128,89,28,11
 "I'm so grateful you didn't go to the dark-side, Marvin.",1.3904761904761904,0.04487515872866332,105,75,24,6
 Hey look! You are trending on @ASPCA.,1.3904761904761904,0.064187280493489,105,74,21,10
 "With 2 likes and 5 posts to the ASPCA on this rabbit trick, maybe you should skip the one where you cut me in half.",1.3902439024390243,0.054924307069447544,123,83,32,8
@@ -1096,6 +1096,7 @@ They were all now too-aware how the stovepipe hat got its name.,1.35514018691588
 And for this week's community cooking class: 'Lapin en chapeau'.,1.355140186915888,0.05353380079255015,107,73,30,4
 Evan in 2B wants to know if you can do anything else besides all this hocus-pocus.,1.3548387096774193,0.056476652431138544,93,63,27,3
 Thank god you now have hare under you hat.,1.3548387096774193,0.05850954076494033,93,64,25,4
+22% are moderately impressed but a resounding 67% recommend a lively Beaujolais with the stew.,1.3548387096774193,0.06422327173707344,93,67,19,7
 That night we finished Netflix,1.3548387096774193,0.060474130429637445,93,65,23,5
 Uh-oh.  PETA is watching your stream.,1.3545454545454545,0.06000606535420692,110,80,21,9
 And for my next trick I will disappear my wife's phone,1.3545454545454545,0.06000606535420692,110,80,21,9
@@ -1173,7 +1174,6 @@ I'm starting to think we've taken this farm-to-table concept too far.,1.34831460
 "One hundred likes, forty-seven 'How'd he do that?'s and one 'Mind = blown.' Not bad!",1.3482142857142858,0.05027245816191482,112,76,33,3
 "Honey I know you think you learned how to be a magician during Covid, but you have to show the rabbit coming out of the hat, not being shoved into it",1.3478260869565217,0.05872263186980054,92,69,16,7
 "When you can't get any volunteers from the audience, this is about as good as it gets",1.3478260869565217,0.05872263186980054,92,64,24,4
-22% are moderately impressed but a resounding 67% recommend a lively Beaujolais with the stew.,1.3478260869565217,0.06453698260249098,92,67,18,7
 "The next text says, “Your fly is open, made you look, Ha Ha!",1.3473684210526315,0.05942694057401,95,67,23,5
 "So far you have 7,000 likes and two pending lawsuits.",1.3473684210526315,0.05347587090255257,95,64,29,2
 83% say knock it off with the cheap tricks and get on with the proposal.,1.3473684210526315,0.0575117127223093,95,66,25,4
@@ -1223,12 +1223,10 @@ I'm sending this one to your mother.  You are finally living your dream.,1.34343
 Still not trending . . .,1.3434343434343434,0.05772005772005773,99,70,24,5
 "George, people are complaining again. Maybe you should try a vegan option next time.",1.3434343434343434,0.0644684210784666,99,74,16,9
 "Despite the pandemic, there was still money to be made in turning tricks.",1.3431372549019607,0.059921481723101605,102,74,21,7
-This is Reality Zoom in 10 Windows.,1.3431372549019607,0.05658895519765495,102,72,25,5
 Trick-O-Tillo: a Hare-Pulling Disorder,1.3431372549019607,0.0615200864162015,102,75,19,8
 Is there a hyphen in ta da?,1.3428571428571427,0.060262811822461015,105,77,20,8
 "Hon, there's a text from S.P.C.A",1.3428571428571427,0.05551716796900575,105,74,26,5
 He says the rabbit is fresh.,1.3428571428571427,0.05872355835266767,105,76,22,7
-Apartment 3-B says their six year old can do it better.,1.3428571428571427,0.057142857142857155,105,75,24,6
 "For his next trick, my husband will escape lockdown.",1.3428571428571427,0.057142857142857155,105,75,24,6
 47 Likes so far but one thumbs down each from PETA and ASPCA.,1.3428571428571427,0.05211387121485442,105,72,30,3
 I see nothing on line about how to put it back in. Hope no one is watching.,1.3425925925925926,0.057588009665410736,108,78,23,7
@@ -1246,6 +1244,7 @@ Thumper is a banger!,1.3411764705882352,0.06161446312545669,85,60,21,4
 they all want you to stop,1.3411764705882352,0.07208954355749451,85,65,11,9
 "Yep, the socially distanced magic show is now in progress",1.3411764705882352,0.05929780789725987,85,59,23,3
 Wait for it...,1.3411764705882352,0.056886887562973665,85,58,25,2
+"You're right, face-swap really does add something.",1.3409090909090908,0.05332801935148993,88,61,25,2
 "Just once, can you please leave the rabbit at home on our date night?",1.3409090909090908,0.05332801935148993,88,59,28,1
 "It says, 'The Building Is On Fire'.",1.3409090909090908,0.06641743571589573,88,65,16,7
 Instagram by Windows,1.3406593406593406,0.06293547720121477,91,66,19,6
@@ -1263,8 +1262,10 @@ Not even in 4K does this makes sense.,1.3404255319148937,0.05568399476321022,94,
 So THAT'S how you get a vaccination appointment,1.34,0.053597828992667906,100,69,28,3
 "I asked for 'rare', not a 'hare.'",1.34,0.058981250230796894,100,72,22,6
 "Three ""Likes,"" Two ""Smiley Faces,"" and one ""Poop Emoji"" . . .",1.3398058252427185,0.06101089843168943,103,76,19,8
+This is Reality Zoom in 10 Windows.,1.3398058252427185,0.056135795176903286,103,73,25,5
 This is exactly why we kicked him out of the group chat,1.3398058252427185,0.05441378585472321,103,72,27,4
 I'm just glad he gave up unicycling,1.3398058252427185,0.06101089843168943,103,76,19,8
+Apartment 3-B says their six year old can do it better.,1.3396226415094339,0.056693549650177505,106,76,24,6
 Seems they want you to make Covid disappear!,1.3396226415094339,0.05977915699114084,106,78,20,8
 "Yes, with the pandemic, it's amazing how easily people are entertained.",1.3392857142857142,0.05160482987695914,112,78,30,4
 We’re all waiting for some lady to be sawed in half.”,1.3392857142857142,0.05081949317134435,112,80,27,5
@@ -1304,7 +1305,6 @@ Now that’s what I call a “hare” raising performance!,1.3365384615384615,0.
 They would rather you saw me in half.,1.336283185840708,0.054230945882518644,113,81,26,6
 I’m getting worried about Bob. He keeps pulling his hare out.,1.3333333333333333,0.05883370913485065,108,80,20,8
 You’re getting 4 likes on YouTube,1.3333333333333333,0.05275349613399974,99,71,24,4
-"You're right, face-swap really does add something.",1.3333333333333333,0.05339744876421823,87,61,24,2
 "Two likes, one wow and seven saw-it-come-out-your-sleeve.",1.3333333333333333,0.0574307323005264,99,71,23,5
 """  it appears they all want you to disappear """,1.3333333333333333,0.05861461007820391,96,69,22,5
 "You have until the stroke of midnight to deliver our demands, or the rabbit disappears for good.",1.3333333333333333,0.05372153093502535,99,69,27,3
@@ -1325,7 +1325,6 @@ Google says that’s an old one.  Try having the rabbit pull you out of a hat”
 Didn't realize there were that many rabbit lovers out there.,1.3333333333333333,0.0578832903348144,93,66,23,4
 They don't realize it's just BYOB night.,1.3333333333333333,0.0649461639976082,78,56,18,4
 "Oops, didn’t know about the PETA convention when I booked this room.",1.3333333333333333,0.06412242068556367,84,61,18,5
-Pandemic Rabbit; Tricks are for kids!!!,1.3333333333333333,0.05826715823167509,81,56,23,2
 Our ex-President has asked me to make him disappear.,1.3333333333333333,0.05734400634796978,108,79,22,7
 "Bored@home tweeted, Shave the bunny, and now that has 527, whoops, 529 likes...",1.3333333333333333,0.06126431676042264,102,76,18,8
 While the A.S.P.C.A. was in lockdown....,1.3333333333333333,0.05373478296769046,96,69,23,4
@@ -1382,6 +1381,7 @@ A little hare raising.,1.3294117647058823,0.0656538654945365,85,63,16,6
 I think I might have the wrong hat,1.3294117647058823,0.05890750308679626,85,65,14,6
 Bob couldn’t help but notice that his assistant had lost interest in performing at the 3 o’clock show.,1.329268292682927,0.060248601830394856,82,58,21,3
 "Quick put it back, we’ve gone viral with the ASPCA.",1.329268292682927,0.060248601830394856,82,58,21,3
+Pandemic Rabbit; Tricks are for kids!!!,1.329268292682927,0.05769557955567415,82,57,23,2
 Q revealed!,1.329268292682927,0.06732931300165225,82,61,15,6
 You got ten likes so far.,1.329268292682927,0.060248601830394856,82,58,21,3
 I present to you....the AstraZeneca VACCINE!,1.329268292682927,0.05502422900879931,82,56,25,1
@@ -1450,7 +1450,6 @@ Everybody is complaining that the rabbit is too skinny!,1.3245614035087718,0.052
 The neighbors are not impressed. Try something vegan.,1.3243243243243243,0.06695389592273865,74,54,16,4
 "Okay, according to YouTube you now take a bow.",1.3243243243243243,0.053020420342799385,111,80,26,5
 Intense bidding pits neighbour against neighbour in affluent enclave of West FOMO at worlds first Non Fungible Rabbit auction.,1.3243243243243243,0.06695389592273865,74,54,16,4
-‘Wow are people desperate for live entertainment.’,1.323943661971831,0.05593416612923639,71,48,23,0
 Looks like the idea to promote your magic act now has PETA involved.,1.3238095238095238,0.046871420440103055,105,76,26,3
 Too bad he doesn’t also have a “magic Johnson.”,1.3238095238095238,0.06274437659264494,105,81,14,10
 Hashtag I wish you’d pull the vaccine out of that hat.,1.3238095238095238,0.059754133143233565,105,79,18,8
@@ -1523,6 +1522,7 @@ I think the neighbors are starved for live entertainment. They want to know what
 This was supposed to be vegan,1.3195876288659794,0.05191022797258005,97,68,27,2
 "Folks he claims to be non fungible, bidding starts at $1400.",1.3195876288659794,0.055894767490079454,97,70,23,4
 When the dinner is the show.,1.3194444444444444,0.05876396677084612,72,50,21,1
+‘Wow are people desperate for live entertainment.’,1.3194444444444444,0.05533504751887218,72,49,23,0
 "Phyllis, I’ll have to get back to you. Fred’s just wrapping up his Easter show for the neighbors.",1.3191489361702127,0.054980219311538896,94,67,24,3
 Ixnay on the abbit-ray. Getting a lot of PETA talk here.,1.3191489361702127,0.05285871655781801,94,66,26,2
 George couldn’t believe there was ACTUALLY a real rabbit in his hat. And the rabbit was pretty shocked himself.,1.3191489361702127,0.06090292533007282,94,70,18,6
@@ -1672,7 +1672,6 @@ How did this get in there.,1.3095238095238095,0.06331851400478904,84,63,16,5
 "For my next trick, I will flatten the curve.",1.3095238095238095,0.0610112488245389,84,62,18,4
 The rabbit's gone viral!,1.309278350515464,0.051524909612968545,97,69,26,2
 "He was merely retrieving his beloved Mr. Pickles from his hat carrier when Frank realized that sometimes one doesn’t choose greatness, it chooses you.",1.309278350515464,0.05927835051546391,97,73,18,6
-"Honey, I've gotten everyone else's attention, any chance you can give me, the rabbit and my bulging eyes five minutes of your time?",1.309090909090909,0.05882567019426067,110,85,16,9
 8 “likes” but wait till you cut me in half!,1.3088235294117647,0.06710282277256197,68,50,15,3
 Urban Falconry gone too far.,1.308641975308642,0.0573110833996798,81,58,21,2
 I think they were hoping you'd pull out a mask.,1.308641975308642,0.059943325364494884,81,59,19,3
@@ -1713,6 +1712,7 @@ Covid-19 was no match for Harry’s love of live magic,1.3066666666666666,0.0599
 WAIT. I THINK I'LL HAVE FROG'S LEGS INSTEAD.,1.3066666666666666,0.06288365729149628,75,55,17,3
 "For my next trick, vaccines for everyone",1.3066666666666666,0.06288365729149628,75,55,17,3
 Real magic is when a rabbit pulls a man out of a hat.,1.3064516129032258,0.07483000186397948,62,47,11,4
+"Honey, I've gotten everyone else's attention, any chance you can give me, the rabbit and my bulging eyes five minutes of your time?",1.3063063063063063,0.05835977094987886,111,86,16,9
 "Nice trick, but I had ordered the chicken.",1.3061224489795917,0.056936599894940126,98,73,20,5
 "You've had that in your hat ALL DAY?!""",1.3058823529411765,0.06039906832291228,85,63,18,4
 "The buzz is that the rabbit was threatening to jump, and you rescued it. Otherwise all those people wouldn't be watching.",1.3058823529411765,0.05803391602724995,85,62,20,3
@@ -1755,7 +1755,6 @@ They’re saying that they are reporting you to the ASPCA.,1.3047619047619048,0.
 Should I unmute them now?,1.3043478260869565,0.06941586695932576,69,52,13,4
 Why does everyone keep staring at my hare?,1.3043478260869565,0.06627446813222473,69,51,15,3
 "If you want to live out your dream of becoming an influencer, you need to go viral. Now drop the rabbit.",1.3043478260869565,0.057290156853792996,92,68,20,4
-"Look at my rabbit, bitches.",1.3043478260869565,0.057290156853792996,92,68,20,4
 It’s a good thing PETA is also working from home.,1.303921568627451,0.05358297177603614,102,75,23,4
 "Contrary to unkind Friend's Group rumors,
 the magic hasn't gone out of our marriage!",1.303921568627451,0.05536489795092542,102,76,21,5
@@ -1777,6 +1776,7 @@ Poor Ralph. Every night he fails to realize his neighbour is tap dancing naked.,
 Two hands please.,1.303030303030303,0.06817534286785877,66,49,14,3
 "If you try to come between me and my top hat again, I swear to God I'll toss you off this balcony!",1.303030303030303,0.04752055930757608,99,74,22,3
 There must be a power outage!,1.303030303030303,0.05458666758839174,99,73,22,4
+I know your profile said you were magical but...,1.303030303030303,0.05066969658320184,99,71,26,2
 "It seems they like your new act well enough, but they still prefer we go back to making love with the curtains open.",1.303030303030303,0.0715127809650175,66,50,12,4
 "You're getting 9 ""AMAZINGS!!'s"", 15 ""WOWZER!!'s"", and 
 one kid named Powder says, ""I dare you to toss the hare.""",1.303030303030303,0.05458666758839174,99,75,19,5
@@ -1793,7 +1793,6 @@ nine out of ten want a batch of stimulus cheques next...,1.302325581395349,0.062
 The real magic is my 5G is working!,1.302325581395349,0.05503330030790336,86,62,22,2
 Please put me back in the hat.,1.302325581395349,0.059798493001202775,86,64,18,4
 At least there is good reception out here.,1.302325581395349,0.057465310875321876,86,63,20,3
-I will now show my great admiration and respect for our frontline workers!,1.302325581395349,0.059798493001202775,86,64,18,4
 Pandemicadabra!,1.302325581395349,0.057465310875321876,86,63,20,3
 Fuck your smartphones here's a bunny.,1.302325581395349,0.06630726354531175,86,67,12,7
 "Hold it, honey––time for a selfie.",1.3020833333333333,0.05564571448850013,96,71,21,4
@@ -1817,6 +1816,7 @@ And little Jimmy in 4-B makes 10. This is your largest audience ever!,1.30107526
 "After shaking off excess flour, add pepper to taste and stir.",1.3010752688172043,0.054667481029691094,93,68,22,3
 Making viral great again.,1.3010752688172043,0.054667481029691094,93,68,22,3
 Let's start the bidding! Do I hear 10 dollars?,1.3010752688172043,0.05676519684479411,93,69,20,4
+"Look at my rabbit, bitches.",1.3010752688172043,0.05676519684479411,93,69,20,4
 Do you know anyone at the ASPCA?,1.3009708737864079,0.05744571172511091,103,81,14,8
 "For my next trick, I will make the overdue rent bill in 3C vanish.",1.3008130081300813,0.054069324481377766,123,95,19,9
 In lieu of a purchased ticket we will pass this little guy's hat.,1.3,0.06855503599782095,70,53,13,4
@@ -1847,6 +1847,7 @@ The boy in 12B says stop hurting the rabbit!,1.2988505747126438,0.05690714856267
 "When your dating service said he was magic, this isn't what I was looking for!",1.2988505747126438,0.04657457173272243,87,65,20,2
 "Ed, our relationship lacks magic.",1.2988505747126438,0.056907148562673995,87,64,20,3
 "And now, the next best thing to a vaccine for everyone!",1.2988505747126438,0.056907148562673995,87,64,20,3
+I will now show my great admiration and respect for our frontline workers!,1.2988505747126438,0.059209220260835936,87,65,18,4
 Non-contact magic left much to be desired.,1.2988505747126438,0.05450793842342887,87,63,22,2
 "Mom, look! Doesn’t that mean spring is coming?",1.2988505747126438,0.051998145590110983,87,62,24,1
 Please hold your applause emojis until the end.,1.2987012987012987,0.061494641484306146,77,57,17,3
@@ -1872,7 +1873,6 @@ I was wondering why you wore not only a tux but a top hat to our first date.,1.2
 We'll always have Paris.,1.2976190476190477,0.05813056777758131,84,62,19,3
 "Well, she certainly saw a rare bit of hair-raising magic.",1.2976190476190477,0.05813056777758131,84,62,19,3
 "Honey, I’m sorry. You were muted.",1.2976190476190477,0.052966399206046136,84,60,23,1
-"Hey, come sit down and check out this live video of someone doing magic on a roof",1.2976190476190477,0.05018543326712822,84,59,25,0
 "Yeah, Great Magic One, you also pulled 50 animal cruelty complaints out of your hat.",1.2972972972972974,0.060018908934940954,74,54,18,2
 My mother just called and asked whether you are still doing that stupid hat trick.,1.2972972972972974,0.060018908934940954,74,54,18,2
 They can never figure out how you pull a hat out of a rabbit.,1.2972972972972974,0.0658994379614264,74,56,14,4
@@ -1898,7 +1898,6 @@ New tricks are needed for maintaining long-term audiences/relationships",1.29629
 "And tonight madame will be having..., hare!",1.2962962962962963,0.06197481678030189,81,61,16,4
 "Great trick, Houdini! Now can you make the check disappear?",1.2959183673469388,0.04856272917301517,98,78,15,5
 "And for my next trick, I will make all your phones disappear!",1.2959183673469388,0.05839782396079194,98,75,17,6
-I know your profile said you were magical but...,1.2959183673469388,0.05068266074760108,98,71,25,2
 "Everyone was ready and waiting, but this time, Mandrake the Magnificent, managed to hold on to the squirming rabbit.",1.2959183673469388,0.05656776827514799,98,74,19,5
 "For dinner tonight, fresh hasenpfeffer!",1.2959183673469388,0.05068266074760108,98,71,25,2
 The Goldsteins from 7F aren't buying it.,1.2959183673469388,0.04401763048236477,98,73,23,2
@@ -1941,6 +1940,7 @@ Before lockdown he was an animal rights activist,1.2941176470588236,0.0696751005
 That’s how all the animals disappeared,1.2941176470588236,0.062226498295582786,85,65,15,5
 ..and now for my next amazing tweet.,1.2941176470588236,0.057549222414332524,85,63,19,3
 ‘I hope this is a vegan magic show’,1.2941176470588236,0.055011400477643496,102,77,20,5
+"Hey, come sit down and check out this live video of someone doing magic on a roof",1.2941176470588236,0.049714956160500944,85,60,25,0
 Pandemic life,1.2941176470588236,0.03480046931235064,85,68,14,3
 "And, just like that, the shelter-in-top-hat order was lifted.",1.2934782608695652,0.05472871783373013,92,68,21,3
 "At that one moment, in unison from their balconies, all of Frank’s neighbors began calling the cops.",1.2934782608695652,0.05686935993101575,92,69,19,4
@@ -2115,7 +2115,6 @@ A magician always tells.,1.2842105263157895,0.030535195835486275,95,74,20,1
 I call it: “going viral without getting viral”,1.2842105263157895,0.05110899556548356,95,70,23,2
 "Ahh, what's up doc?",1.2842105263157895,0.05325498655943968,95,71,21,3
 It looks like your a trending topic as #Covid hare removal,1.2842105263157895,0.05325498655943968,95,71,21,3
-"Quarantine entertainment, a welcome break from Netflix.",1.2840909090909092,0.05348088174005489,88,65,21,2
 The real trick here is that nobody is on Zoom!,1.2840909090909092,0.05348088174005489,88,65,21,2
 "So far, you’ve been canceled by Peter Rabbit, Roger Rabbit,  Bugs Bunny, and Harvey. Oh, and Little Bunny Foo Foo says you should be turned into a goon.",1.2840909090909092,0.050980110747624194,88,64,23,1
 When you can’t afford to get a magician for your kid’s birthday,1.2840909090909092,0.050980110747624194,88,64,23,1
@@ -2192,6 +2191,7 @@ Try transporting their credit cards.,1.28125,0.054818530370029296,96,73,19,4
 "I’ve seen this trick before, but not on the iPhone 12.",1.28125,0.05278042275612985,96,72,21,3
 Maintaining that relationship would be real magic!,1.28125,0.06853320797422294,64,49,12,3
 Joe was the only guy in the neighborhood to pick up a new hobby during the pandemic and despite only knowing one trick he felt obliged to use it to entertain others.,1.28125,0.04612893115468517,96,69,27,0
+"Quarantine entertainment, a welcome break from Netflix.",1.2808988764044944,0.052972818701488324,89,66,21,2
 "Allison in 6B wants to know if the rabbit was sourced sustainably, and if not, why not?",1.2808988764044944,0.05976794597374316,89,69,15,5
 No wonder patches of my hair have gone missing!,1.2808988764044944,0.05050501862456418,89,65,23,1
 "For your next trick, the gentleman in Apartment 3B wants you to saw me in half.",1.2808988764044944,0.05533066180784329,89,67,19,3
@@ -2276,6 +2276,7 @@ Help! Climate change! Help!,1.2777777777777777,0.06626115585708797,72,56,12,4
 "You're going to put that back, right? The city already has a rodent problem?",1.2771084337349397,0.055051209061870124,83,62,19,2
 They'd rather have you make Covid disappear!,1.2771084337349397,0.06254766742241297,83,65,13,5
 "The first vaccine gave Harold more hair. The second, more hare.",1.2771084337349397,0.055051209061870124,83,62,19,2
+Actual rabbit may vary.,1.2771084337349397,0.05765842505171365,83,63,17,3
 It’s like he’s not even trying to impress me anymore.,1.2771084337349397,0.055051209061870124,83,62,19,2
 Show’s over. The chef is ready.,1.2771084337349397,0.04791648691732165,83,65,16,2
 Honey the society group chat is calling you an idiot. Wrap it up will you?,1.2771084337349397,0.055051209061870124,83,62,19,2
@@ -2311,7 +2312,6 @@ Let’s skip the flambe “,1.2755102040816326,0.05185515327207703,98,74,21,3
 I'm not sure this socially distanced setting is working.,1.2755102040816326,0.053845615945918995,98,75,19,4
 Another Don't hesitate to go back to your day job . . .,1.2753623188405796,0.0615377606094388,69,52,15,2
 The Amazing Phozoomo reaches new heights in misdirection.,1.2753623188405796,0.06490880864975214,69,53,13,3
-"Well, dear, Mr. Rabbit is trending as 'too cute,' and you're trending as ''The Incredible Mr. Ho-Hum.'",1.2753623188405796,0.0615377606094388,69,52,15,2
 "This message says, ""Cute... But can you pull a functioning economy out of that hat?""",1.2753623188405796,0.06490880864975214,69,53,13,3
 “Dad-bod Blaine” is totally trending on Upper West Side Twitter.,1.2753623188405796,0.06490880864975214,69,53,13,3
 Do you think they know it's actually our chihuahua?,1.2753623188405796,0.0615377606094388,69,52,15,2
@@ -2407,6 +2407,7 @@ Great. Now PETA knows where we live.,1.271604938271605,0.0608893594847293,81,63,
 ...And into the hat he goes for quarantine! See you folks in 7 to 10 days to find out if he's disappeared,1.271604938271605,0.0608893594847293,81,63,14,4
 There's playing all the top nightclubs and then there's playing atop all the nightclubs.,1.2714285714285714,0.06077971142990493,70,53,15,2
 "Thank you for joining our socially-distanced magic show. The Great Covidini will now place a rabbit in a hat, and teleport it six feet away for it's own safety.",1.2714285714285714,0.06724827634518968,70,55,11,4
+"Well, dear, Mr. Rabbit is trending as 'too cute,' and you're trending as ''The Incredible Mr. Ho-Hum.'",1.2714285714285714,0.06077971142990493,70,53,15,2
 I know I put my keys somewhere,1.2714285714285714,0.06077971142990493,70,53,15,2
 "48% say it’s for our cat’s amusement, 37% say it’s for dinner. 15% undecided,",1.2714285714285714,0.06077971142990493,70,53,15,2
 "I still say that it would have been easier to give your Covid cooking class over Zoom, Darling",1.2714285714285714,0.05727211054740585,70,52,17,1
@@ -2481,7 +2482,6 @@ Our cable broke. Voila: Rabbit Ears!,1.2685185185185186,0.0502786996951927,108,8
 Please stop playing with your dinner.,1.2682926829268293,0.05500754235822341,82,62,18,2
 "OK, after this, let him rest until Easter.",1.2682926829268293,0.05219880835842336,82,61,20,1
 "‘Ok Detective ,I’ve got the photo of the guy in 4A for you.’",1.2682926829268293,0.057679665728435664,82,63,16,3
-Actual rabbit may vary.,1.2682926829268293,0.057679665728435664,82,63,16,3
 "Watch me pull a habbit out of my rat. Oh my, need another drink.",1.2682926829268293,0.057679665728435664,82,63,16,3
 "Babe, we're up to seven on the live stream.",1.2682926829268293,0.05219880835842336,82,61,20,1
 "Your mother posted a sad emoji. She says it's about time you stopped torturing that poor rabbit. In other news you got 13,000 likes on Facebook.",1.2682926829268293,0.057679665728435664,82,63,16,3
@@ -3103,6 +3103,7 @@ Too bad he can't pull a vaccine out of that hat.,1.2432432432432432,0.0571144035
 We saw his hare raising behavior!,1.2432432432432432,0.05377566222524919,74,57,16,1
 "Marty, the live stream comments are asking why the rabbit is white  #WhitePrivilege",1.2432432432432432,0.057114403566085395,74,58,14,2
 Weird is the new normal,1.2432432432432432,0.057114403566085395,74,58,14,2
+"At that one moment, in unison from their windows, all of Frank’s neighbors began calling the cops.",1.2432432432432432,0.057114403566085395,74,58,14,2
 The show must go on! Pandemic or no- Pandemic,1.2432432432432432,0.05377566222524919,74,57,16,1
 Easter dinner is weird this year,1.2432432432432432,0.05377566222524919,74,57,16,1
 "And now, for my next trick, I’ll become a meme!",1.2432432432432432,0.05377566222524919,74,57,16,1
@@ -3242,7 +3243,6 @@ The first gig is always the roughest,1.2375,0.051076233666644016,80,62,17,1
 When does the Easter egg roll start?,1.2372881355932204,0.05586042894941198,59,45,14,0
 "After a two-week quarantine in the hat, here it is.",1.2372881355932204,0.06549270642063962,59,47,10,2
 "For my next trick, I’ll make your social life disappear.",1.236842105263158,0.05884389414473129,76,61,12,3
-"Amazing, the reviews are starting to come in already!",1.236842105263158,0.054187527057826305,76,62,11,3
 "The rabbit's not for dinner, is it?",1.236842105263158,0.05254378642762082,76,59,16,1
 They'd prefer you pull a vaccine out of the freezer.,1.236842105263158,0.055782852966963656,76,60,14,2
 "They want me to do it, but naked.",1.236842105263158,0.055782852966963656,76,60,14,2
@@ -3252,7 +3252,6 @@ society,1.236842105263158,0.05254378642762082,76,59,16,1
 "I'm sorry, looks like only the rabbit can get vaccinated",1.236842105263158,0.055782852966963656,76,60,14,2
 "Don Jr., they're not buying it.",1.236842105263158,0.05884389414473129,76,61,12,3
 Herbert's career has revived since the pandemic hit.,1.236842105263158,0.055782852966963656,76,60,14,2
-"And for my next trick, I’m going to make COVID disappear",1.236842105263158,0.04909146870046743,76,58,18,0
 "Ignore those ghouls, Bertrand - it's a new week and I have high hopes for today's performance.",1.236842105263158,0.05884389414473129,76,61,12,3
 Everyone's really interested in how I clean out my hat after a show.,1.236842105263158,0.055782852966963656,76,60,14,2
 We are going live! Join our contemporary (t)witchcraft show,1.236842105263158,0.05254378642762082,76,59,16,1
@@ -3277,7 +3276,6 @@ Now they're asking if you can pull a vaccine out of your hat.,1.2361111111111112
 Not quite what you were aiming for--you're trending as the 'Malevolent Magician' for holding it by its ears.,1.2361111111111112,0.05414383973890982,72,56,15,1
 It’s actually #magicianbunglesbigdate that’s trending.,1.2361111111111112,0.05414383973890982,72,56,15,1
 Here’s to spending my stimulus check on a magic rabbit,1.2361111111111112,0.05414383973890982,72,56,15,1
-"They're watching the Hendersons' fight, Joe...",1.2361111111111112,0.05414383973890982,72,56,15,1
 I will now sacrifice this rabbit to the blood gods to end this pandemic.,1.2361111111111112,0.05764366130288755,72,57,13,2
 "We are filming the sequel to Rear Window, The Trouble With Hare.",1.2361111111111112,0.05040157809973301,72,55,17,0
 I need a new job,1.2359550561797752,0.05540839164500726,89,72,13,4
@@ -3332,6 +3330,7 @@ Now he says he’s going to make the rabbit disappear.,1.2340425531914894,0.0554
 Online he pulled a habit out of a rat.,1.2340425531914894,0.04883809415412414,94,74,18,2
 "Easter Sunday, old hat Monday.",1.2340425531914894,0.04643682634722063,94,73,20,1
 Now what do we do? Everyone is watching!,1.2338709677419355,0.04301280155099032,124,98,23,3
+"Amazing, the reviews are starting to come in already!",1.2337662337662338,0.053567544754511774,77,63,11,3
 Still not as magical as going to Nobu.,1.2337662337662338,0.05513949220709001,77,61,14,2
 Its a girl. Guess her weight!,1.2337662337662338,0.048547261524614,77,59,18,0
 finally - the virus rabbit!!,1.2337662337662338,0.051948051948051945,77,60,16,1
@@ -3346,6 +3345,7 @@ For my next trick you’re gonna have to turn on some instagram filters,1.233766
 today’s magic show is best viewed on your hand-held devices!",1.2337662337662338,0.05513949220709001,77,61,14,2
 "Next, braise the rabbit at 425 degrees for forty five minutes, or until brown.",1.2337662337662338,0.058156058158320666,77,62,12,3
 The magician's proposal took a turn for the worse after realizing he brought the wrong hat.,1.2337662337662338,0.058156058158320666,77,62,12,3
+"And for my next trick, I’m going to make COVID disappear",1.2337662337662338,0.048547261524614,77,59,18,0
 "Since we can't charge admission, our income is way down. Looks like rabbit stew for dinner.",1.2337662337662338,0.051948051948051945,77,60,16,1
 "Honey, do you like my trick”  “ Shush,I’m watching a magic trick on TikTok,the man is  pulling a rabbit out a hat,how incredible’ is that",1.2337662337662338,0.05513949220709001,77,61,14,2
 It's not the magic. They're taking your picture because with the pandemic they haven't seen anyone outside in a tux in ages.,1.2337662337662338,0.051948051948051945,77,60,16,1
@@ -3373,9 +3373,9 @@ Dad still swears it’s the rabbit who misses the Zoom acts.,1.2328767123287672,
 It was only then that Harry realized how foolish was for bringing his white rabbit out in public for it was now just a matter of time before the cartel found him.,1.2328767123287672,0.056940474490136644,73,58,13,2
 Now can you make yourself disappear?,1.2328767123287672,0.053494860793881195,73,57,15,1
 "Feeling pressure to further impress onlookers, Marvin considers making the rabbit fly...",1.2328767123287672,0.053494860793881195,73,57,15,1
-"At that one moment, in unison from their windows, all of Frank’s neighbors began calling the cops.",1.2328767123287672,0.056940474490136644,73,58,13,2
 "Honey, look! There’s finally something new to watch!",1.2328767123287672,0.04981147084308545,73,56,17,0
 Did anyone get that?,1.2328767123287672,0.0601891613080551,73,59,11,3
+"They're watching the Hendersons' fight, Joe...",1.2328767123287672,0.053494860793881195,73,57,15,1
 This website recommends hassenpfeffer,1.2328767123287672,0.04981147084308545,73,56,17,0
 "Got it, we all have full bars now, works like magic every time.",1.2325581395348837,0.05144802965162532,86,68,16,2
 "OK, TOSS HIM IN 5...4...3...",1.2325581395348837,0.048716546920086694,86,67,18,1
@@ -3771,7 +3771,6 @@ Ta da” 🎩🪄🐇📱📸🔝,1.2173913043478262,0.05791770780148665,69,56,1
 He is still saying 6 more weeks of COVID-19...should we push until tomorrow?,1.2173913043478262,0.05791770780148665,69,56,11,2
 I should’ve stayed home,1.2173913043478262,0.050019455794393694,69,54,15,0
 Three-to-one in favor of Lapin au pruneaux.,1.216867469879518,0.04863156105710082,83,66,16,1
-And for my next trick... defying gravity.,1.216867469879518,0.05156439751534847,83,67,14,2
 "Throw me off the roof, I'm not going back in that hat.",1.216867469879518,0.05433917050702214,83,68,12,3
 Don’t forget the carrots,1.216867469879518,0.05433917050702214,83,68,12,3
 What ‘s so big about turning a hat from a rabbit!,1.216867469879518,0.04037799933348173,83,66,17,0
@@ -3830,6 +3829,7 @@ Bob's magic trips were no longer popular. Hare today gone tomorrow,1.21428571428
 "John's pandemic magic show was getting ""like's "" all over the neighborhood !",1.2142857142857142,0.05342457442340369,70,56,13,1
 From across the street? Looks more like fatal attraction than magic.,1.2142857142857142,0.057168731202205635,70,57,11,2
 "Please be careful,these ears are rented.",1.2142857142857142,0.05101221145533819,84,68,14,2
+And for my next trick... defying gravity.,1.2142857142857142,0.05101221145533819,84,68,14,2
 Watch him make that rabbit disappear!,1.2142857142857142,0.05375041813985267,84,69,12,3
 The audience around the balcony at 137 was a little better,1.2142857142857142,0.05342457442340369,70,56,13,1
 The entertainment bar is remarkably low.,1.2142857142857142,0.05532833351724882,56,44,12,0
@@ -4107,8 +4107,6 @@ They're both phoning it in.,1.2048192771084338,0.04774994909656086,83,67,15,1
 I didn't expect  a live rabbit!,1.2048192771084338,0.04774994909656086,83,67,15,1
 "I am the great Mafesto! And I am legally obligated to introduce myself to you, my neighbors...",1.2048192771084338,0.046185803647755,83,69,12,2
 "I told him he needed to work on his pullout game, I didnt expect this",1.2048192771084338,0.05622839780338049,83,70,9,4
-"For today’s trick, we bring you 
-Robo Rabbit!",1.2045454545454546,0.04891479303131595,88,72,14,2
 "Yeah, I suppose. But it’s not as if he’s pulling a hat out of a rabbit.",1.2045454545454546,0.04616734730784048,88,71,16,1
 "The texts are coming in! With the exception of a few wifi
 disconnects, , and a few fogged up windows it was agreed Bob's  magic act has reached new heights!",1.2045454545454546,0.04324570426746518,88,70,18,0
@@ -4177,6 +4175,8 @@ Camera cadabra!,1.2023809523809523,0.05296639920604616,84,70,11,3
 Haha check out this video of Biden falling up the stairs.,1.2023809523809523,0.05018543326712824,84,69,13,2
 "I can't believe my eyes - wait, it's on insta - unbelievable!",1.2023809523809523,0.04724104126249248,84,68,15,1
 Okay. This one's not a request. She wants to know why P.C. Vey didn't give the rabbit tubular bug eyes.,1.202247191011236,0.04841664403947964,89,73,14,2
+"For today’s trick, we bring you 
+Robo Rabbit!",1.202247191011236,0.04841664403947964,89,73,14,2
 "OMG,Delores,look,a real rabbit!",1.202247191011236,0.050985625768042275,89,74,12,3
 "I thought I'd bring the Magic to you, ever view a Rabbit being pulled out of a Hat?",1.202127659574468,0.046815269577118276,94,77,15,2
 Close-up magic just isn't the same during Covid!,1.202020202020202,0.045357095658013595,99,81,16,2
@@ -4643,7 +4643,6 @@ Abra Covidabra!,1.1830985915492958,0.05782739582776625,71,61,7,3
 maybe some voodoo to vanquish the Virus ??!!,1.1829268292682926,0.05522407553472856,82,71,7,4
 Love’s magic.,1.1818181818181819,0.052486388108147784,66,55,10,1
 Dinner is the show.,1.1818181818181819,0.05675404305280447,66,56,8,2
-George didn’t tell them that he could only do the one trick.,1.1818181818181819,0.0479493093842668,77,64,12,1
 "Letting that last one a week ago take one hop too many really did build your audience, didn't it, dear?",1.1818181818181819,0.0479493093842668,77,64,12,1
 "Now, cook it at the table.",1.1818181818181819,0.05138968544451671,77,65,10,2
 "I’ve been trying to tell you.  
@@ -4700,6 +4699,7 @@ We're virtually awestruck.,1.180327868852459,0.04963361236225398,61,50,11,0
 "Honey, you have see this tik tok of a girl showing how to open a trash bag easier",1.180327868852459,0.04963361236225398,61,50,11,0
 "Well, this one doesn’t work without a volunteer...",1.180327868852459,0.04963361236225398,61,50,11,0
 I’ll be here all week. Don’t forget to tip your internet service provider!,1.1794871794871795,0.04738794815386097,78,65,12,1
+George didn’t tell them that he could only do the one trick.,1.1794871794871795,0.04738794815386097,78,65,12,1
 You're STILL losing subscribers.,1.1794871794871795,0.04738794815386097,78,65,12,1
 "Don't look at me, it's better than what Glenn Close had in mind!",1.1794871794871795,0.04373348027807394,78,64,14,0
 "Oh, no!  Not that old thing again!",1.1794871794871795,0.05395941341632321,78,67,8,3
