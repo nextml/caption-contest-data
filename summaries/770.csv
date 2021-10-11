@@ -32,7 +32,7 @@ I found those last two remote workers you asked me to check on.,1.75234936428966
 "I’m telling you. I’m not a workaholic. In fact, I’m hiking with my friends as we speak.",1.7468879668049793,0.020654217360726656,1446,675,462,309
 Just how big a policy did you buy?,1.7412670219064534,0.0189880997183824,1689,789,548,352
 "If he says ""Can you hear me now"" one more time,I'm kicking him down the mountain.",1.737381126554499,0.021369461236372494,1367,653,420,294
-"Don’t look at him, Carl. You’ll only encourage more billable hours.",1.7371705963938973,0.019857752245745406,1442,649,523,270
+"Don’t look at him, Carl. You’ll only encourage more billable hours.",1.7366597366597367,0.019850560685921087,1443,650,523,270
 Oh.  I thought you said we needed a “trail” lawyer.,1.7233169129720853,0.021414511233288008,1218,555,445,218
 Our accountant says this is a tax hike.,1.7221362229102166,0.02099530675125303,1292,597,457,238
 You were right. We should have just signed the release form.,1.7173553719008265,0.021422195728184643,1210,555,442,213
@@ -3320,6 +3320,7 @@ When you said 'take a financial hike' this isn't what I had in mind.,1.2,0.05724
 I wish he would get off the phone with your attorney.  This hike is going to cost us a fortune.,1.2,0.05369248441712195,75,62,11,2
 Do you really think Bill was ready to do this?,1.2,0.05694947974514994,75,63,9,3
 I'm running a little late for the Nanda Parbat pitch meeting.  There's traffic on the trail.,1.2,0.060302268915552716,55,45,9,1
+Doesn't it bother you that he's the only one not out of breath?,1.2,0.060302268915552716,55,45,9,1
 So happy we are finally alone...with my lawyer.,1.2,0.06564879518897745,55,46,7,2
 "I'm going to have to hang up, this commuter is giving me a dirty look.",1.2,0.052075564392329576,60,48,12,0
 I told you moving out here wouldn’t help. The work just follows me home.,1.2,0.07521014330903551,45,38,5,2
@@ -3554,7 +3555,6 @@ I warned you this would happen if you didn't sign the liability waiver.,1.192307
 "Markus, you do whatever it takes to make this sale!",1.1923076923076923,0.06748253524388616,52,44,6,2
 "The corporate ladder’s broken, so I’m making them climb the corporate hill.",1.1923076923076923,0.06748253524388616,52,44,6,2
 Ohhh..you said ‘price’ hike?,1.1923076923076923,0.054920074241356344,78,66,9,3
-"Why is Bill still wearing a suit and tie even when his ""camera isn't working""?",1.1923076923076923,0.05518692722918765,52,42,10,0
 I can't quite remember how a commute works.,1.1923076923076923,0.05518692722918765,52,42,10,0
 "Sir, the study group is doing well. They walked out of the confines of their home and just sort of kept on walking.",1.1923076923076923,0.05518692722918765,52,42,10,0
 "Boss, this corporate ladder looks weird, is some kind of millenial work ritual?",1.1923076923076923,0.06164206964379924,52,43,8,1
@@ -3623,6 +3623,7 @@ I just followed Google Maps and then I found myself follow two trekkers!,1.18867
 "I'm sorry, but I'm taking the high road on this one.",1.1886792452830188,0.054257113621244524,53,43,10,0
 "Colluns, it turns out ""Take the Mountain"" is not an executive coaching experience. It's a hike...up a mountain.",1.1886792452830188,0.060576594353292317,53,44,8,1
 The ultimate ambulance chaser.,1.1886792452830188,0.054257113621244524,53,43,10,0
+"Why is Bill still wearing a suit and tie even when his ""camera isn't working""?",1.1886792452830188,0.054257113621244524,53,43,10,0
 "Don’t worry…if something bad happens, I brought an agent along to sell the rights immediately.",1.1884057971014492,0.04742006474057418,69,56,13,0
 "Yeah, you mentioned his urbane insouciance . . .maybe there's some place we can drop him off .  .",1.1884057971014492,0.04742006474057418,69,56,13,0
 It can’t be ambulance chasing without an ambulance.,1.1884057971014492,0.05171962876419153,69,57,11,1
@@ -3692,7 +3693,6 @@ because if i break a leg he can sue for me immediately,1.1857142857142857,0.0549
 I’ll be sure to sell the stocks as soon as they’re at the peak.,1.1857142857142857,0.05104642933009962,70,58,11,1
 "You know honey, I’m getting the feeling he does know the Open House is next week.",1.1857142857142857,0.05104642933009962,70,58,11,1
 "I knew this marriage was an uphill battle, but Larry, do we always need the lawyer?",1.1857142857142857,0.05859944792614804,70,60,7,3
-Doesn't it bother you that he's the only one not out of breath?,1.1851851851851851,0.05954682150320808,54,45,8,1
 "Sorry, can't talk right now,I'm pursuing a couple of hot leads.",1.1851851851851851,0.05954682150320808,54,45,8,1
 I know our policy said we will protect them wherever they go but I didn't know it meant I have to go with them.,1.1851851851851851,0.05335739809593593,54,44,10,0
 I'm trying a scenic alternative to the corporate ladder.,1.1851851851851851,0.05954682150320808,54,45,8,1
@@ -4747,7 +4747,6 @@ so this is what they’re calling “out of office” now huh?,1.137931034482758
 So you are telling me that working in the same city is also considered remote work?,1.1379310344827587,0.045673529553966995,58,50,8,0
 Artist's rendering of the first slip and fall lawsuit.,1.1372549019607843,0.048665386847023,51,44,7,0
 Is that your sister's lawyer or her FBI lover?,1.1372549019607843,0.05614831789520141,51,45,5,1
-...and at the top he'll tell me what we've decided and I'll phone the bad news.,1.1372549019607843,0.048665386847023,51,44,7,0
 Tell the team I’m right behind them,1.1372549019607843,0.048665386847023,51,44,7,0
 "You can take the New Yorker out of the office, but you can't take the office out of a New Yorker.",1.1372549019607843,0.05614831789520141,51,45,5,1
 "I told you, if you want to ‘get away from it all’ you need to go to an office",1.1372549019607843,0.05614831789520141,51,45,5,1
@@ -4791,6 +4790,7 @@ It’s Gollum. He’s been following us for 3 days now,1.1355932203389831,0.0510
 "No, you tell him there is no corporate ladder out here.",1.1346153846153846,0.055121189353288455,52,46,5,1
 They will slip and fall any time now.,1.1346153846153846,0.04779328093727965,52,45,7,0
 The professional hiking path was not as Bob had expected.,1.1346153846153846,0.055121189353288455,52,46,5,1
+...and at the top he'll tell me what we've decided and I'll phone the bad news.,1.1346153846153846,0.04779328093727965,52,45,7,0
 "If he plays “Valderi, Valdera” again on he is not making it to the top!",1.1346153846153846,0.04779328093727965,52,45,7,0
 Up here there's a perfect spot to push him off.,1.1346153846153846,0.04779328093727965,52,45,7,0
 Some people reach for different heights!,1.1346153846153846,0.04779328093727965,52,45,7,0
@@ -4841,7 +4841,6 @@ How much will you take for her? I brought cash...,1.1320754716981132,0.046951599
 "Roger that, if he lags behind he gets the papers.",1.1320754716981132,0.05413078722488102,53,47,5,1
 He's carrying my Manolos for the party at the summit,1.1320754716981132,0.04695159976668159,53,46,7,0
 I'm helping them on their journey to seek divine litigation.,1.1320754716981132,0.04695159976668159,53,46,7,0
-As far as he’s concerned it’s still 1929,1.131578947368421,0.04717308652543423,76,68,6,2
 If I hit him in the head with this stick dou you think he will finally stop trying to sell us that damn insurance policy?,1.131578947368421,0.05557219020090345,38,33,5,0
 "I suggest we move upwind, and avoid sudden movements.",1.131578947368421,0.043294605892116034,76,67,8,1
 He doesn't get the bears won't care he's WFH.,1.1311475409836065,0.05469942625679649,61,55,4,2
@@ -4863,6 +4862,7 @@ Did you really have to assign your life insurance policy to your Ex?,1.130434782
 Might want to get the chopper up early for these two.,1.1304347826086956,0.05020437123388058,46,40,6,0
 "Yeah, you sound like you wanna eat water using a fork",1.1304347826086956,0.045762664165056526,69,61,7,1
 "Don’t worry honey, the Rangers say this is a shortcut.",1.1304347826086956,0.05020437123388058,46,40,6,0
+As far as he’s concerned it’s still 1929,1.12987012987013,0.04658776821420219,77,69,6,2
 "Yes, I'm climbing the mountain with the best cell service so call me as soon as you know.",1.12987012987013,0.04658776821420219,77,69,6,2
 "Well, it’s cold up here too. I told you global warming was a hoax!",1.12987012987013,0.04276279513224073,77,68,8,1
 Current grocery store workers,1.12987012987013,0.03856025347250398,77,67,10,0
@@ -4892,7 +4892,6 @@ Smile pleasantly but don,1.1285714285714286,0.04951704046747739,70,63,5,2
 So this is what you meant by 'work from roam',1.127659574468085,0.05784458168682141,47,42,4,1
 we cant seem to get rid of him,1.127659574468085,0.049202908961969306,47,41,6,0
 Why does this man keep asking if we’re going to circle back?,1.127659574468085,0.049202908961969306,47,41,6,0
-that I think I have taken a It has been so long since I have done in person business meeting that I think I  took a wrong turn somewhere and ended up joining a hiking group.,1.127659574468085,0.05784458168682141,47,42,4,1
 "You're breaking up...not you two, he's breaking up..yes, you, sir are breaking up. The he was you...no, not you two.  I'm talking to the two, not you.  Who?  He's on first...What's on second and I dunno is on third!",1.127659574468085,0.049202908961969306,47,41,6,0
 I didn't think my divorce lawyer would have taken me on going on this hike,1.127659574468085,0.05784458168682141,47,42,4,1
 Was told your office was just a small hike away,1.1272727272727272,0.04535342286998722,55,48,7,0
@@ -4952,6 +4951,7 @@ Due to supply shortages the new cabin will take awhile to build,1.125,0.04824031
 "Insurance, Smimsurance...what about it?",1.125,0.056689086094851654,48,43,4,1
 "Bezos owns this hill. Opportunity, darling.",1.125,0.04459412925079223,56,49,7,0
 "When we get to the top of the mountain, we will need an accountant.",1.125,0.0472455591261534,64,57,6,1
+that I think I have taken a It has been so long since I have done in person business meeting that I think I  took a wrong turn somewhere and ended up joining a hiking group.,1.125,0.056689086094851654,48,43,4,1
 What are you going to say when we get to the top and there is no leader?,1.125,0.04459412925079223,56,49,7,0
 "So this whole Me Too thing’s a trip, right?",1.125,0.04824031156174748,48,42,6,0
 "Yes, still on-brand.",1.125,0.04824031156174748,48,42,6,0
@@ -4968,7 +4968,6 @@ Stop staring Bob! He is going to figure out that this is not the corporate ladde
 Well this isn’t exactly what I envisioned when I said the company should hike up our prices,1.125,0.04459412925079223,56,49,7,0
 "I set my goals pretty high for this year, I am going to make it!",1.125,0.04459412925079223,56,49,7,0
 I said Invest it all in up the hill real state,1.125,0.04459412925079223,56,49,7,0
-"No, only you will need life insurance at the top, my dear.",1.125,0.05136133772583239,56,50,5,1
 phew..it's only one of the Sherpa lawyers auditing the mountain for trash,1.125,0.05136133772583239,56,50,5,1
 "Unfortunately, you can’t make money the old fashioned way.",1.123076923076923,0.046552763218885414,65,58,6,1
 I did text them. They just won't answer.,1.123076923076923,0.046552763218885414,65,58,6,1
@@ -4994,6 +4993,7 @@ He must have misread “adventure cap” for “venture cap”.,1.12280701754385
 You said you would leave your work at home,1.1228070175438596,0.043859649122807036,57,50,7,0
 We are still searching for U.S.‘s dignity.,1.1228070175438596,0.043859649122807036,57,50,7,0
 Do you think he has car warranty?,1.1228070175438596,0.05049985383360874,57,51,5,1
+"No, only you will need life insurance at the top, my dear.",1.1228070175438596,0.05049985383360874,57,51,5,1
 "No, it’s the perfect spot for a Starbucks",1.1228070175438596,0.056363123168042664,57,52,3,2
 Welp. There goes the neighborhood.,1.1228070175438596,0.043859649122807036,57,50,7,0
 "You'd think that, if he owns the company that makes land mines, he'd know where they are.",1.1224489795918366,0.04731438007905976,49,43,6,0
