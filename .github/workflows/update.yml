@@ -32,7 +32,7 @@ jobs:
         CCD_MACHINE: ${{ secrets.CCD_MACHINE }}
         FOO: bar
       run: |
-        env
+        env | grep CCD
         python download_dashboards.py
         export C=$(python -c "import download_dashboards as d; print(d.get_latest_contest())")
         git add summaries/$C.csv cartoons/$C.jpg  # only 1 contest added as specified in download-dashboards.py
