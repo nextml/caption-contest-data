@@ -2,7 +2,7 @@ name: Update data
 
 # on:
   # schedule:
-    # - cron: '4 2 * * 2'  # 2:04 on Tuesdays
+    # - cron: '4 2 * * 4'  # 2:04 on Thursdays
 on: push
 
 jobs:
@@ -31,6 +31,9 @@ jobs:
         cd nyccwinners; python get_nycc_winners.py; cd ..
         git add nyccwinners/nyc_winners.json
     - name: Download data
+      env:
+        CCD_IP: ${{ secrets.CCD_IP }}
+        CCD_MACHINE: ${{ secrets.CCD_MACHINE }}
       run: |
         python download_dashboards.py
         export C=$(python -c "import download_dashboards as d; print(d.get_latest_contest())")
