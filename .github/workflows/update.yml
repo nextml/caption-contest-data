@@ -24,10 +24,8 @@ jobs:
       run: |
         ls
     - name: Setup environment
-      uses: conda-incubator/setup-miniconda@v2
       run: |
-        conda env create -f env.yaml
-        conda activate ccd
+        pip install -r requirements.txt
     - name: Get caption contest IDs
       run: |
         cd nyccwinners; python get_nycc_winners.py; cd ..
