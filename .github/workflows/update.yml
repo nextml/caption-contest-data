@@ -29,7 +29,7 @@ jobs:
         git add nyccwinners/nyc_winners.json
     - name: Download data
       run: |
-        python download-dashboards.py
+        python download_dashboards.py
         export C=$(python -c "import download_dashboards as d; print(d.get_latest_contest())")
         git add summaries/$C.csv cartoons/$C.jpg  # only 1 contest added as specified in download-dashboards.py
     - name: Integrate data
