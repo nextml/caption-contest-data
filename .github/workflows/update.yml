@@ -20,6 +20,9 @@ jobs:
         stale-pr-message: 'Stale pull request message'
         stale-issue-label: 'no-issue-activity'
         stale-pr-label: 'no-pr-activity'
+    - name: debug
+      run: |
+        ls
     - name: Get caption contest IDs
       run: |
         cd nyccwinners; python get_nycc_winners.py; cd ..
