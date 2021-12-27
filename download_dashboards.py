@@ -56,13 +56,15 @@ def image_download():
     with open(f"all-contests-{today}.json", "w") as f:
         json.dump(all_contests, f)
     for c in all_contests["contests"]:
-        print("getting image for contest ", c["contest_number"])
         name = c["contest_number"]
         exp_uid = c["exp_uid"]
+        path = f"cartoons/{name}.jpg"
+        if Path(path).exists():
+            continue
+        print("getting image for contest ", c["contest_number"])
         try:
             url = f"{CCD_IP}/{exp_uid}/cartoon.jpg"
             r = requests.get(url, stream=True)
-            path = f"cartoons/{name}.jpg"
             if r.status_code == 200:
                 with open(path, "wb") as f:
                     r.raw.decode_content = True
@@ -74,8 +76,33 @@ def image_download():
 
 
 def get_and_write(contest):
+    """
+    Parameters
+    ----------
+    contest : Dict[str, Union[str, int]]
+        Example dict:
+
+            {'contest_number': 784,
+            'exp_uid': 'nyi71f8b14a553152ec4da8251f57d5c494b',  # fake
+            'launched': '2021-12-13 16:44:35.999066'}
+
+    Returns
+    -------
+    written : bool
+        If files written to disk.
+
+    Notes
+    -----
+    This function writes a file to disk.
+
+    """
     name = contest["contest_number"]
     exp_uid = contest["exp_uid"]
+    fname = f"summaries/{name}.csv"
+
+    if Path(fname).exists():
+        return False
+
     try:
         print("Getting contest ", contest["contest_number"])
         df = main(exp_uid, str(name))
@@ -83,10 +110,17 @@ def get_and_write(contest):
         warn(f"Failed on {name}")
         logging.exception(e)
         return False
-    fname = f"summaries/{name}.csv"
     print("Writing contest ", contest["contest_number"], "to summaries/")
     df.to_csv(fname, index=False, header=False)
     return True
+
+
+def get_latest_contest():
+    contests = [
+        int(c.name.replace(".csv", "")) for c in Path("summaries").glob("*.csv")
+    ]
+    most_recent = max(contests)
+    return most_recent
 
 
 if __name__ == "__main__":
@@ -95,5 +129,6 @@ if __name__ == "__main__":
     try:
         futures = map(get_and_write, all_contests["contests"])
         results = list(futures)
+        assert sum(results) in {0, 1}, "Only download 0 or 1 dashboards"
     except KeyboardInterrupt:
         pass

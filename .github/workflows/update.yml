@@ -1,27 +1,42 @@
-# This workflow warns and then closes issues and PRs that have had no activity for a specified amount of time.
-#
-# You can adjust the behavior by modifying this file.
-# For more information, see:
-# https://github.com/actions/stale
 name: Update data
 
 on:
   schedule:
-  - cron: '34 17 * * *'
+    - cron: '4 2 * * 2'  # 2:04 on Tuesdays
+# on: push
 
 jobs:
-  stale:
-
+  update_caption_data:
     runs-on: ubuntu-latest
     permissions:
       issues: write
       pull-requests: write
 
     steps:
-    - uses: actions/stale@v3
+    - uses: actions/checkout@v2
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         stale-issue-message: 'Stale issue message'
         stale-pr-message: 'Stale pull request message'
         stale-issue-label: 'no-issue-activity'
         stale-pr-label: 'no-pr-activity'
+    - name: Get caption contest IDs
+      run: |
+        cd nyccwinners; python get_nycc_winners.py; cd ..
+        git add nyccwinners/nyc_winners.json
+    - name: Download data
+      run: |
+        python download-dashboards.py
+        export C=$(python -c "import download_dashboards as d; print(d.get_latest_contest())")
+        git add summaries/$C.csv cartoons/$C.jpg  # only 1 contest added as specified in download-dashboards.py
+    - name: Integrate data
+      run: |
+        python write-html.py
+        git add dashboards/*.html
+        git add index.html
+    - name: Push
+      run: |
+          git config --global user.name 'Scott S.'
+          git config --global user.email 'stsievert@users.noreply.github.com'
+          git commit -m "Update caption contest data"
+          git push

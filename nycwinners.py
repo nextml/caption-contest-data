@@ -1,6 +1,8 @@
 import json
-from typing import List, Dict
+from typing import Dict, List
+
 import pandas as pd
+
 
 def _get_nyc_winners(fname="io/raw.json"):
     """
