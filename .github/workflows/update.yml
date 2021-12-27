@@ -7,11 +7,10 @@ on: push
 
 jobs:
   update_caption_data:
+    environment:
+      CCD_IP: ${{ secrets.CCD_IP }}
+      CCD_MACHINE: ${{ secrets.CCD_MACHINE }}
     runs-on: ubuntu-latest
-    permissions:
-      issues: write
-      pull-requests: write
-
     steps:
     - uses: actions/checkout@v2
       with:
@@ -31,9 +30,6 @@ jobs:
         cd nyccwinners; python get_nycc_winners.py; cd ..
         git add nyccwinners/nyc_winners.json
     - name: Download data
-      env:
-        CCD_IP: ${{ secrets.CCD_IP }}
-        CCD_MACHINE: ${{ secrets.CCD_MACHINE }}
       run: |
         python download_dashboards.py
         export C=$(python -c "import download_dashboards as d; print(d.get_latest_contest())")
