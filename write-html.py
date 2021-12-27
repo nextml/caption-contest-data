@@ -1,9 +1,10 @@
 import json
-from pathlib import Path
-from jinja2 import Environment, FileSystemLoader
-import pandas as pd
 import sys
+from pathlib import Path
 from typing import List
+
+import pandas as pd
+from jinja2 import Environment, FileSystemLoader
 
 
 def _get_html_for_contest(contest: int, template, winners=None):

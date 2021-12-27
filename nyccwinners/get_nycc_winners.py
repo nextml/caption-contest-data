@@ -8,11 +8,13 @@ Original file is located at
 """
 
 import json
+
 import requests
+
 
 def make_contest_id_list():
     ids = {}
-    with open('productionCaptionContestIds.json','r') as f:
+    with open("productionCaptionContestIds.json", "r") as f:
         idslt748 = json.load(f)
     for k in idslt748.keys():
         no = int(k[-3:])
@@ -20,33 +22,46 @@ def make_contest_id_list():
     print(ids)
     # We dropped contest 748 annoyingly
     # Now let us get the ones from s3
-    contest_log = requests.get('https://s3-us-west-2.amazonaws.com/mlnow-newyorker/contest_log.json').json()['contests']
+    contest_log = requests.get(
+        "https://s3-us-west-2.amazonaws.com/mlnow-newyorker/contest_log.json"
+    ).json()["contests"]
     expids = {}
     for d in contest_log:
-        no = d['contest_number']
+        no = d["contest_number"]
         if no > 749:
-            expids[no] = d['exp_uid']
+            expids[no] = d["exp_uid"]
     for k in expids:
         print(expids[k])
-        d = requests.get('https://s3-us-west-2.amazonaws.com/mlnow-newyorker/%s/nyr_json.json'%expids[k]).json()['data']['primary']['cartoon']['cartoonId']
+        d = requests.get(
+            "https://s3-us-west-2.amazonaws.com/mlnow-newyorker/%s/nyr_json.json"
+            % expids[k]
+        ).json()["data"]["primary"]["cartoon"]["cartoonId"]
         ids[k] = d
-    with open('NYCCcartoonIds.json', 'w') as f:
+    with open("NYCCcartoonIds.json", "w") as f:
         json.dump(ids, f)
     print(ids)
     return ids
 
 
 def get_winners(id):
-    def run_query(query): # A simple function to use requests.post to make the API call. Note the json= section.
-        request = requests.post('https://graphql.newyorker.com/graphql', json={'query': query})
+    def run_query(
+        query,
+    ):  # A simple function to use requests.post to make the API call. Note the json= section.
+        request = requests.post(
+            "https://graphql.newyorker.com/graphql", json={"query": query}
+        )
         if request.status_code == 200:
             return request.json()
         else:
-            raise Exception("Query failed to run by returning code of {}. {}".format(request.status_code, query))
+            raise Exception(
+                "Query failed to run by returning code of {}. {}".format(
+                    request.status_code, query
+                )
+            )
 
-            
-    # The GraphQL query (with a few aditional bits included) itself defined as a multi-line string.       
-    query = """
+    # The GraphQL query (with a few aditional bits included) itself defined as a multi-line string.
+    query = (
+        """
     {
         cartoon(copilotId: "%s") {
             title
@@ -57,15 +72,19 @@ def get_winners(id):
             }
         }
     }
-    """ % id
-    result = run_query(query) # Execute the query
+    """
+        % id
+    )
+    result = run_query(query)  # Execute the query
     print(result)
     return result
 
-ids_dict = make_contest_id_list()
-winners = []
-for cartoonId in ids_dict.values():
-    winners.append(get_winners(cartoonId))
 
-with open('nyc_winners.json','w') as f:
-    json.dump(winners, f)
+if __name__ == "__main__":
+    ids_dict = make_contest_id_list()
+    winners = []
+    for cartoonId in ids_dict.values():
+        winners.append(get_winners(cartoonId))
+
+    with open("nyc_winners.json", "w") as f:
+        json.dump(winners, f)
