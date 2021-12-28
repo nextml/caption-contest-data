@@ -2,7 +2,7 @@ name: Update data
 
 on:
   schedule:
-    - cron: '4 2 * * 4'  # 2:04 on Thursdays
+    - cron: '42 1 * * 1'  # 1:42 on Mondays
   branches:
     - 'gh-pages'
 # on: push
@@ -12,12 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-      with:
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
-        stale-issue-message: 'Stale issue message'
-        stale-pr-message: 'Stale pull request message'
-        stale-issue-label: 'no-issue-activity'
-        stale-pr-label: 'no-pr-activity'
+      with: {}
     - name: debug
       run: |
         ls
@@ -34,10 +29,8 @@ jobs:
         CCD_MACHINE: ${{ secrets.CCD_MACHINE }}
         FOO: bar
       run: |
-        env | grep CCD
         python download_dashboards.py
-        export C=$(python -c "import download_dashboards as d; print(d.get_latest_contest())")
-        git add summaries/$C.csv cartoons/$C.jpg  # only 1 contest added as specified in download-dashboards.py
+        git add summaries/*.csv cartoons/*.jpg
     - name: Integrate data
       run: |
         python write-html.py
