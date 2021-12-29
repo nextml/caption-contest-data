@@ -100,8 +100,8 @@ def get_and_write(contest):
     exp_uid = contest["exp_uid"]
     fname = f"summaries/{name}.csv"
 
-    if Path(fname).exists():
-        return False
+    #  if Path(fname).exists():
+        #  return False
 
     try:
         print("Getting contest ", contest["contest_number"])
@@ -129,6 +129,6 @@ if __name__ == "__main__":
     try:
         futures = map(get_and_write, all_contests["contests"])
         results = list(futures)
-        assert sum(results) in {0, 1}, "Only download 0 or 1 dashboards"
+        #  assert sum(results) in {0, 1}, "Only download 0 or 1 dashboards"
     except KeyboardInterrupt:
         pass
