@@ -1,11 +1,10 @@
 name: Update data
 
-on:
-  schedule:
-    - cron: '42 1 * * 1'  # 1:42 on Mondays
-  branches:
-    - 'gh-pages'
-# on: push
+# on:
+  # schedule:
+    # - cron: '42 1 * * 1'  # 1:42 on Mondays
+  # branches: [gh-pages]
+on: push
 
 jobs:
   update_caption_data:
