@@ -2,8 +2,8 @@ name: Update data
 
 on:
   schedule:
-    - cron: '* * * * *'  # 1:42 on Mondays
-  branches: [gh-pages]
+    - cron: '* * * * *'
+  # branches: [gh-pages]
 # on: push
 
 jobs:
