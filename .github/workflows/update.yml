@@ -3,7 +3,8 @@ name: Update data
 on:
   schedule:
     - cron: '*/15 * * * *'
-  branches: [gh-pages]
+
+  # branches: [gh-pages]
 
 # on: push
 
