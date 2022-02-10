@@ -1,4 +1,4 @@
-name: Update data
+name: Pull data from S3, write HTML and push
 
 on:
   schedule:
