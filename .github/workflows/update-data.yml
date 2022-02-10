@@ -2,7 +2,7 @@ name: Pull data from S3, write HTML and push
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '45 * * * *'
 
   # branches: [gh-pages]
 
