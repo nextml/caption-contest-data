@@ -1,12 +1,12 @@
 caption,mean,precision,votes,not_funny,somewhat_funny,funny
-Teach a bear to shop and he will never have to fish again.,1.917303683113273,0.015323866278984388,2878,1101,914,863
+Teach a bear to shop and he will never have to fish again.,1.916985064258423,0.015321855925953087,2879,1102,914,863
 Could you toss it to me instead? I want to tell my wife I caught it.,1.8571428571428572,0.020574874108922683,1512,607,514,391
 It's an appetizer. I'm having people for dinner tonight.,1.8218418514946961,0.013022885309035045,4148,1894,1099,1155
 Throw it to me.  I want to say I caught it.,1.8148032479700187,0.014091192037373954,3202,1369,1057,776
-This is so much easier. I wish I thought of it sooner.,1.7996323529411764,0.01908456739730573,1632,681,597,354
-I'm on a salmon run.,1.7992530345471522,0.016963523076211535,2142,918,736,488
+This is so much easier. I wish I thought of it sooner.,1.7991426821800367,0.019079161790146123,1633,682,597,354
+I'm on a salmon run.,1.7988800746616893,0.01695970681045091,2143,919,736,488
 "No bag. In fact, if you could toss it at me, that would be great.",1.7987679671457906,0.020182167830395562,1461,611,533,317
-I prefer wild caught but my husband can’t tell the difference.,1.793952967525196,0.017958647142510754,1786,736,682,368
+I prefer wild caught but my husband can’t tell the difference.,1.7935086737548964,0.017954092833191396,1787,737,682,368
 "No bag, thanks. I want my wife to think I caught it.",1.7692542787286063,0.013693161105052027,3272,1468,1091,713
 The stream was on my commute but we're work-from-home now.,1.7679582063561168,0.01594777279678455,2297,999,832,466
 "When I was a kid, we had to catch our own fish!",1.7649122807017543,0.015088404581412635,2565,1121,926,518
@@ -25,25 +25,25 @@ Tough year….overhybernated and missed the salmon run,1.7206030150753768,0.0245
 I’d appreciate the ‘Endangered Species’ discount,1.717754651529486,0.013735235922420715,3171,1522,1022,627
 The airline said I could check one emotional support animal.,1.7166970802919708,0.016957671073711288,2192,1089,635,468
 "If my wife asks, you never saw me.",1.7164616285881664,0.018332997540907028,1707,800,591,316
-When I said Holy Mackerel...I meant the price,1.7146676852559206,0.015079157565722673,2618,1259,847,512
+When I said Holy Mackerel...I meant the price,1.7147766323024054,0.015073792581801516,2619,1259,848,512
 I find my odds are much better at catching them here.,1.7137274059599414,0.01636936981504223,2047,938,757,352
 "... it's the standing in the river getting my feet wet I can't stand, you know?""",1.713186813186813,0.02463828824115717,910,419,333,158
 This is the only place I can get wild-caught anymore.,1.711318795430945,0.014059489377393668,2889,1362,999,528
-"I know, but the water is soooo cold.",1.7087682672233822,0.017310676174416423,1916,910,654,352
+"I know, but the water is soooo cold.",1.708398539384455,0.017305593733747987,1917,911,654,352
 There were a dozen but I got hungry in line.,1.7053669222343921,0.01432646943871462,2739,1292,962,485
 I'd like to return it for something in salmon.,1.7008099094807052,0.016466942009059075,2099,1005,717,377
 I miss the chase.,1.6997590361445782,0.016146310563126706,2075,966,766,343
 "Actually,would you mind stepping back a bit and throwing it at me?",1.698051948051948,0.0303012390679849,616,295,212,109
 "Actually, you can skip the bag--I'll just take it in my mouth so my wife thinks I caught it in the river.",1.695906432748538,0.01860911874172922,1539,715,577,247
 "If it comes up, you never saw me. I told my family I was going to the river",1.695328031809145,0.016309241022168117,2012,938,749,325
-"Believe me, I can tell fresh from frozen!",1.6913696060037524,0.015888447574751125,2132,1004,782,346
+"Believe me, I can tell fresh from frozen!",1.6915142991092358,0.01588165609602003,2133,1004,783,346
 "I used to look for fish in rivers, but then I found this place.",1.690792487402657,0.015926870112173804,2183,1046,766,371
 "Sure, it's fresh.  I know the guy who caught it.",1.6902212705210564,0.015661645436890963,2802,1531,608,663
 "What, precisely, does ""wild caught"" mean to you?",1.6855036855036856,0.01829933971461009,1628,780,580,268
 "This is wild caught, right?",1.6841025641025642,0.017100679743345327,1950,961,644,345
-You can just put it in my mouth.,1.6834118262689692,0.017149313767996017,1911,935,646,330
+You can just put it in my mouth.,1.6835774058577406,0.017141141864390478,1912,935,647,330
 "Oh, yes, it’s so nice having folks over for dinner again. It seems like we’ve been in hibernation forever!",1.6827380952380953,0.01799986335944605,1680,808,597,275
-I know 'wild caught' and this is definitely farm raised.,1.6815974096060442,0.01710564550227537,1853,891,661,301
+I know 'wild caught' and this is definitely farm raised.,1.6812297734627832,0.01710036897774704,1854,892,661,301
 You never saw me.,1.6811827956989247,0.017458706528221946,1860,918,617,325
 "Don't bother bagging it, I'll eat it on the way home.",1.6800232288037167,0.017625861958355672,1722,824,625,273
 I had to stop catching them myself.  Bad arthritis.,1.6782490974729243,0.017790849663310286,2216,1248,433,535
@@ -79,9 +79,9 @@ Just confirming that the fish is definitely wild caught.,1.6063432835820894,0.03
 Some days I just like to pamper myself.,1.6062992125984252,0.024817168184026923,889,487,265,137
 I've just had my claws done.,1.603680981595092,0.025899036635844187,815,448,242,125
 Sometimes I like fish other times I love a Klondike. My boyfriend says I’m a bipolar bear.,1.6035578144853875,0.02667968232163896,787,438,223,126
-"Oh, and can I get half a pound of the baby seal with that?",1.603448275862069,0.027752126516885783,696,379,214,103
 It’s a special anniversary gift for my husband. Year five is Tuna.,1.6033755274261603,0.03505011972390144,474,269,124,81
 "I tried Amazon, but they sent Piranha",1.6032689450222883,0.02910371937205,673,378,184,111
+"Oh, and can I get half a pound of the baby seal with that?",1.6025824964131994,0.027725802298591756,697,380,214,103
 There's a farm?,1.6006787330316743,0.026156536926488262,884,514,209,161
 My friends call me crazy but I just prefer the taste of store-bought.,1.5982042648709316,0.024401100820706897,891,487,275,129
 "I'm sorry sir, we don't accept returns on fresh fish. Or anything with bitemarks",1.595600676818951,0.030592932273948235,591,331,168,92
@@ -107,8 +107,8 @@ Can you mark it 'Wild Caught' for me...,1.567651632970451,0.029849501703721113,6
 "Cash--when I charge, people scream.",1.5675675675675675,0.04667373729998218,259,153,65,41
 Really?  You think she'd like flowers better?,1.5666666666666667,0.02949341380879386,630,368,167,95
 I found that I already had one just like it at home.,1.5664488017429194,0.03341481262018949,459,260,138,61
-My supply chain was a river. What do you guys use?,1.564796905222437,0.03104298214442301,517,290,162,65
 It looked a lot bigger online,1.5647058823529412,0.02835222258417033,680,398,180,102
+My supply chain was a river. What do you guys use?,1.5637065637065637,0.031002175150055596,518,291,162,65
 Can you make it look like it fought for its life?,1.5626168224299066,0.03150980119444829,535,310,149,76
 "Yeah, and then the ice cap melted and so that's how I ended up Los Angeles.",1.5614973262032086,0.03162118325545208,561,334,139,88
 I'll give you ten bucks to keep this between us.,1.5604575163398693,0.029288414742476586,612,354,173,85
@@ -138,8 +138,8 @@ I don't want to be taught to fish. I just want the fish!,1.5395256916996047,0.03
 I started calling it lox when we were relocated to the Bronx Zoo.,1.5382978723404255,0.03439753337271556,470,289,109,72
 My husband’s still in that stupid stream.,1.5369458128078817,0.03598686577557622,406,244,106,56
 No bag... she'll know I wasn't fishing with the guys last night.,1.5340206185567011,0.033579491663019975,485,298,115,72
-No bag! I'll eat it now.,1.5333333333333334,0.034091836066106766,420,246,124,50
 I couldn't find the lemon and dill.,1.5325581395348837,0.03350183890457563,430,251,129,50
+No bag! I'll eat it now.,1.5320665083135392,0.034034346456259634,421,247,124,50
 "Well, I would have returned it within 30 days, but I was hibernating!",1.5310344827586206,0.03553045800529147,435,269,101,65
 ... and a bottle of Pinot Blanc.,1.5306603773584906,0.035623317937705797,424,260,103,61
 "If anyone asks, I caught this in my mouth out of mid-air at the stream, OK?",1.530054644808743,0.03065688344914065,549,331,145,73
@@ -278,12 +278,12 @@ Could you put some teeth marks in it? My wife thinks I’m a sissy.,1.4566037735
 "Finally, somebody who uses ""ironic"" correctly.",1.455737704918033,0.04017493818379241,305,203,65,37
 Net or line caught?,1.4555984555984556,0.041347398327691694,259,166,68,25
 Because the sign said: “BEARS—NO FISHING”,1.4553571428571428,0.04640192282088367,224,148,50,26
-You guys have made wild caught alot easier,1.4549180327868851,0.04238235745982505,244,156,65,23
 "Okay, nice & slow. Put the fish in the bag, and nobody gets hurt",1.4548736462093863,0.04259138484622882,277,186,56,35
 Can you guarantee that this fish has not been in contact with nuts of any type,1.4545454545454546,0.04702556968216571,220,146,48,26
 And could you throw in a buttery chardonnay?,1.4545454545454546,0.04408825553126462,231,149,59,23
 You can put it right in my mouth.,1.454183266932271,0.043036741010540114,251,164,60,27
 Organic?,1.4533898305084745,0.0390306471850331,236,142,81,13
+You guys have made wild caught alot easier,1.453061224489796,0.042249835259860154,245,157,65,23
 My doctor says I need more Omega fatty acids in my diet.,1.452127659574468,0.05019280975954543,188,124,43,21
 "If anyone asks, I caught it myself.",1.4521072796934866,0.04216568392912481,261,171,62,28
 How can you justify a bag tax in a bear market?,1.452054794520548,0.04206134224951471,292,199,54,39
@@ -635,7 +635,6 @@ Thank you but I won't need a bag,1.3717948717948718,0.04999416733386849,156,110,
 "Look, I gave it a try––Impossible Salmon just isn't for everyone.",1.3707865168539326,0.04764767123481959,178,127,36,15
 Could you wrap it please? It's a gift.,1.3706293706293706,0.05221228297708195,143,101,31,11
 I trust that's sustainably sourced.,1.3703703703703705,0.05734183740851239,135,99,22,14
-Now you’re sure this is wild caught North Atlantic Salmon? I asked for Alaskan but they said they only had farm raised.,1.37012987012987,0.04870907896996471,154,107,37,10
 "I have to return these, my wife said 'slippers' not 'kippers'",1.37012987012987,0.05042161490620353,154,109,33,12
 I ate two more in the store,1.36986301369863,0.056686742178345684,146,109,20,17
 "When my son said he wanted COD for his birthday, he meant the video game Call Of Duty",1.3696969696969696,0.05102369811876523,165,120,29,16
@@ -647,6 +646,7 @@ Goldilocks wants fish for dinner tonight so here I am.,1.368421052631579,0.05594
 I love supporting local business.,1.368421052631579,0.04730835430919929,152,104,40,8
 I was a hunter but now I'm a gatherer.,1.368421052631579,0.056088898950035,114,79,28,7
 Can we just pretend I caught it?,1.3680981595092025,0.04996177832804005,163,117,32,14
+Now you’re sure this is wild caught North Atlantic Salmon? I asked for Alaskan but they said they only had farm raised.,1.367741935483871,0.048452685612710676,155,108,37,10
 Do you have any wasabi?,1.3673469387755102,0.048345694568455874,147,101,38,8
 "At these prices, I could've just gone to the Yukon myself!",1.3673469387755102,0.05381852788770557,147,107,26,14
 "It smells fishy, so I am returning it.",1.3672316384180792,0.04845121272844455,177,128,33,16
@@ -875,7 +875,6 @@ Between you and me I usually get my fish fresher than this.,1.3365384615384615,0
 Do you mind throwing it in the trash first?,1.3364485981308412,0.05625082570940402,107,77,24,6
 It's my cheat day.,1.3363636363636364,0.0609588011207065,110,83,17,10
 Did you just call me Smokey?,1.3362068965517242,0.054681804813825945,116,84,25,7
-"If my wife calls, I'm not here.",1.3362068965517242,0.053293289823542506,116,83,27,6
 "I won’t need a bag, if you could just throw it toward my mouth for me.",1.3361344537815125,0.05505019776093436,119,87,24,8
 Do you do price matching?,1.3361344537815125,0.060002030688194104,119,91,16,12
 "Do you have one that's still flapping around a bit? It's part of the whole dining ""experience""",1.3361344537815125,0.05505019776093436,119,87,24,8
@@ -904,6 +903,7 @@ You can save the bag. I'll just eat it now.,1.3333333333333333,0.051639777949432
 It's  Lent.  I don't eat seal on Fridays.,1.3333333333333333,0.05616310032414831,123,92,21,10
 "This is so much easier than trying to bag one in the river"".",1.3333333333333333,0.057166195047502956,120,90,20,10
 "He wasn't farm raised, right?",1.3333333333333333,0.05466133744605253,120,88,24,8
+"If my wife calls, I'm not here.",1.3333333333333333,0.05291391225591752,117,84,27,6
 "Frankly, catching salmon in frigid cold waters isn't all it's cracked up to be. I prefer farm raised.",1.3333333333333333,0.05067241600875504,120,85,30,5
 They used to be free you know.,1.3333333333333333,0.04792487285046291,150,109,32,9
 And you’re sure it’s wild caught?,1.331360946745562,0.04338610060579973,169,121,40,8
@@ -3302,7 +3302,6 @@ That’s a herring! It’s ‘S-A-L-M-O-N’!,1.2065217391304348,0.0451626658066
 Farm raised or fresh caught?,1.2065217391304348,0.04773424269856957,92,75,15,2
 It just seemed so much more sporting when we would wade in the river and catch them ourselves. Did you throw in the fresh basil?,1.2065217391304348,0.050174191266479935,92,76,13,3
 "No need to wrap it up, I’ll bat it around here.",1.2063492063492063,0.05615578032096342,63,51,11,1
-"That’s not a fish farmed trout, correct?",1.2063492063492063,0.06054340949726558,63,52,9,2
 My doctor tell me that eating fish may prevent Alzheimer's in me...and the fish.,1.2063492063492063,0.05615578032096342,63,51,11,1
 "...and next thing I know she's telling me, 'Mom, I'm vegan!'",1.2063492063492063,0.06054340949726558,63,52,9,2
 Could you give me your least crinkly bag? I am planning to sneak it into the new Marvel movie as a quick snack.,1.2063492063492063,0.05615578032096342,63,51,11,1
@@ -3374,6 +3373,7 @@ With the Arctic ice melting I have had to find alternative food sources.,1.20430
 "My asthma's been acting up, so I need to return it.",1.2043010752688172,0.04472956446887328,93,75,17,1
 No bag. Just toss it into my mouth.,1.2040816326530612,0.045774958984969194,98,80,16,2
 What's the size limit for carry-ons?,1.2037037037037037,0.06676946806414794,54,45,7,2
+"That’s not a fish farmed trout, correct?",1.203125,0.05967707203430227,64,53,9,2
 Can you hold for me. Wall Street just called and I have to go.,1.203125,0.06747900724411107,64,55,5,4
 "What with the kids home all the time now, I just don't have time to catch a proper meal.",1.203125,0.05536534277465963,64,52,11,1
 is it wild harvest caught?,1.203125,0.05536534277465963,64,52,11,1
@@ -3391,7 +3391,6 @@ That's mine!,1.2028985507246377,0.05295895137424503,69,56,12,1
 I'm returning this one. It failed the smell test.”,1.2028985507246377,0.05684107660983553,69,57,10,2
 I thought you asked for my cod.,1.2028985507246377,0.06715415377087121,69,60,4,5
 "It stinks, so I'm returning it!!",1.2028985507246377,0.05684107660983553,69,57,10,2
-"After you put the hors d'oeuvre in the bag, I'll be ready for the main course.",1.2028985507246377,0.06715415377087121,69,60,4,5
 I don’t need a bag. We’ve got plenty in the river already.,1.2028985507246377,0.06047450247559489,69,58,8,3
 Is that farm raised or wild caught?,1.2027027027027026,0.05435403616647048,74,61,11,2
 Wrap it for flying!,1.2027027027027026,0.05765929668779837,74,62,9,3
@@ -3513,6 +3512,7 @@ Is that salmon wild or farmed? You can't be too careful.,1.2,0.04964862530219503
 I'll save the 5c bag charge and just carry it out in my mouth.,1.2,0.05724365605193376,60,49,10,1
 Skip the bag.  I'll just eat it here.,1.2,0.05227733021739333,70,57,12,1
 "No bag, please.  I prefer to catch them as they are going up-stream.",1.2,0.05046599329648382,90,75,12,3
+"After you put the hors d'oeuvre in the bag, I'll be ready for the main course.",1.2,0.0662512939832223,70,61,4,5
 Hibernate? And miss out on the gentrification?!,1.2,0.052393683199558394,85,71,11,3
 I prefer to catch and release.,1.2,0.056098109857700425,70,58,10,2
 I hope you accept Bear-coin.,1.2,0.04923659639173309,100,84,12,4
@@ -3681,7 +3681,6 @@ Just not in shape to catch them myself after all that hibernation.,1.19444444444
 Don’t bag it.  I’m trying to reduce my environmental impact.,1.1944444444444444,0.050964442209003334,72,59,12,1
 Please seal the deal.,1.1944444444444444,0.061409146630307714,72,62,6,4
 "I only like farm raised…weird, huh?",1.1944444444444444,0.046434546089062695,108,91,13,4
-You call that fresh?,1.1944444444444444,0.05813645141504054,72,61,8,3
 But is it fresh?,1.1944444444444444,0.054668187059789215,72,60,10,2
 PayPal?,1.1944444444444444,0.050964442209003334,72,59,12,1
 Oh you know what? I just realized I forgot honey.,1.1940298507462686,0.05311979229866326,67,55,11,1
@@ -3753,6 +3752,7 @@ I'll skip the bag and eat it right now.,1.1917808219178083,0.053979864920259725,
 "By the way, my new cookbook, “Polar Bear Recipes from the Hudson on the Upper West Side”,comes out next week",1.1917808219178083,0.05033198101609266,73,60,12,1
 "I distinctly asked for Coho Salmon, and this is Atlantic.",1.1917808219178083,0.053979864920259725,73,61,10,2
 "Can you make this fish feed 5,000 of my closest friends?",1.1917808219178083,0.04639817678744647,73,59,14,0
+You call that fresh?,1.1917808219178083,0.05739637027386542,73,62,8,3
 "It was a gift, but I’m vegan, so I’d like a refund.",1.1917808219178083,0.05033198101609266,73,60,12,1
 I'd like to send this to my mother.,1.1917808219178083,0.053979864920259725,73,61,10,2
 "Skip the bag, I'll just carry it my mouth.",1.1917808219178083,0.053979864920259725,73,61,10,2
@@ -4761,7 +4761,6 @@ Is it Farm-Raised or Wild-Catch?,1.1527777777777777,0.042697219026612325,72,61,1
 I usually fish but I’m on vacation. By Isaro Rugema,1.1527777777777777,0.05104434470208267,72,63,7,2
 "Don't panic, it's my post-hibernation stomach growling.",1.1527777777777777,0.05104434470208267,72,63,7,2
 "Can you wear gloves, you are handling my lunch.",1.152542372881356,0.04721067919755555,59,50,9,0
-I'm returning it because it's not my size. It's too small.,1.152542372881356,0.04721067919755555,59,50,9,0
 so can i get a discount if i don't get the bag?,1.152542372881356,0.05304056717493127,59,51,7,1
 It won’t work downstream.,1.152542372881356,0.05304056717493127,59,51,7,1
 My Lunch,1.1521739130434783,0.04353794279315701,92,80,10,2
@@ -4815,6 +4814,7 @@ What kind of suit did you call it? And what’s this about a “convention”? L
 I don’t need a bag. I’m gonna eat it in the car.,1.1506849315068493,0.04645431495291281,73,63,9,1
 You can leave it out--that's a snack for the ride home.,1.1506849315068493,0.04645431495291281,73,63,9,1
 Pick a cod. Any cod.,1.1506849315068493,0.04645431495291281,73,63,9,1
+I'm returning it because it's not my size. It's too small.,1.15,0.046486739497974515,60,51,9,0
 Credit. I have the polar express rewards card for all raw deals.,1.15,0.047400795805956415,80,70,8,2
 "It's ok, I don't need the bag.",1.15,0.04393608706786989,80,69,10,1
 Oh…do you have plastic?,1.15,0.04017367360141355,80,68,12,0
