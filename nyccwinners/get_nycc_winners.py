@@ -65,10 +65,16 @@ def get_winners(id):
     {
         cartoon(copilotId: "%s") {
             title
+            votingEndDate
+            announceFinalistsDate
+            contestSubmissionEndDate
+            issueDate
+            announceFinalistsIssueDate
             contestFinalists {
                 id
                 text
                 rating
+                createdDate
             }
         }
     }

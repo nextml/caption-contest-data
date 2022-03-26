@@ -7,7 +7,7 @@ import pandas as pd
 from jinja2 import Environment, FileSystemLoader
 
 
-def _get_html_for_contest(contest: int, template, winners=None):
+def _get_html_for_contest(contest: int, template, winners=None, dates=None):
     summary = pd.read_csv(Path("summaries") / f"{contest}.csv")
     captions = [{"rank": k, **row} for k, row in summary.iterrows()]
 
@@ -16,6 +16,7 @@ def _get_html_for_contest(contest: int, template, winners=None):
         contest=contest,
         cartoon=f"cartoons/{contest}.jpg",
         winners=winners,
+        dates=dates,
     )
     return out
 
@@ -45,17 +46,34 @@ if __name__ == "__main__":
     nycc_winners = {
         w["contest"]: [w["rank1"], w["rank2"], w["rank3"]] for w in nyc_winners
     }
+        # fmt: on
+
 
     with open("nyccwinners/nyc_winners.json", "r") as f:
         raw = json.load(f)
         rare = [r["data"]["cartoon"] for r in raw]
         mrare = {r["title"]: r["contestFinalists"] for r in rare}
-        mwell = {
+        chosen = {
             int(k.strip("Contest #")): _fmt_captions(v)
             for k, v in mrare.items()
             if "Contest #" in k
         }
-    nycc_winners.update(mwell)
+
+        mrare2 = {
+            r["title"]: {k: r[k] for k in r.keys() if "date" in k.lower()} for r in rare
+        }
+        meta = {
+            int(k.strip("Contest #")): v
+            for k, v in mrare2.items()
+            if "Contest #" in k
+        }
+        #  "votingEndDate": "2019-07-21T22:44:00.000Z",
+        #  "announceFinalistsDate": "2019-07-15T22:42:00.000Z",
+        #  "contestSubmissionEndDate": "2019-06-30T22:42:00.000Z",
+        #  "issueDate": "",
+        #  "announceFinalistsIssueDate": "July 22, 2019",
+
+    nycc_winners.update(chosen)
 
     contests = {int(f.name.replace(".csv", "")) for f in summaries.glob("*.csv")}
 
@@ -67,7 +85,7 @@ if __name__ == "__main__":
 
     summary = list(sorted(summary, key=lambda x: -x["contest"]))
     out = env.get_template("index.html").render(
-        summary=summary, nycc_winners=nycc_winners
+        summary=summary, nycc_winners=nycc_winners, dates=meta
     )
     with open(f"index.html", "w") as fh:
         fh.write(out)
@@ -89,6 +107,6 @@ if __name__ == "__main__":
     for contest in contests:
         if contest % 10 == 0:
             print(contest)
-        out = _get_html_for_contest(contest, template, nycc_winners.get(contest, []))
+        out = _get_html_for_contest(contest, template, nycc_winners.get(contest, []), dates=meta.get(contest, {}))
         with open(f"dashboards/{contest}.html", "w") as fh:
             fh.write(out)

@@ -23,6 +23,9 @@
       <p>
         These data were gathered as part of the The New Yorker (TNY) cartoon caption contest.  The crowdsourced ratings inform the final judging of the captions, but the official winner is decided by the TNY editorial staff.
       </p>
+      <p>
+      <i>Note: this data is updated daily. The most recent contest is likely receiving votes at <a href="https://www.newyorker.com/cartoons/vote">https://www.newyorker.com/cartoons/vote</a>.</i>
+      </p>
     </div>  
   </div>
    
@@ -41,6 +44,7 @@
           <th>Cartoon</th>
           <th>Top Rated caption</th>
           <th>The New Yorker's winner</th>
+          <th>Finalists Announced (date of issue)</th>
         </tr>
         {% for c in summary %}
           <tr>
@@ -48,6 +52,7 @@
             <td><img src="{{c['cartoon']}}" width=300 /></td>
             <td>“{{c['winner']}}”</td>
             <td>{{nycc_winners.get(c['contest'], ["", "", ""])[0]}}</td>
+            <td>{{dates.get(c['contest'], {}).get('announceFinalistsIssueDate', "")}}</th>
           </tr>
         {% endfor %}
       </table>
