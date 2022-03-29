@@ -1,9 +1,9 @@
 caption,mean,precision,votes,not_funny,somewhat_funny,funny
 I told you no lawyer on earth would take our case.,1.8750569995440036,0.01713727278370636,2193,860,747,586
-It’s worse than an invasion. It’s an audit.,1.860090391039497,0.011228218809894717,5089,2038,1725,1326
+It’s worse than an invasion. It’s an audit.,1.8601178781925345,0.011226046307677368,5090,2038,1726,1326
 "Oh, I thought Robert said he was practicing Martial law.",1.8302196001311046,0.014660534706452755,3051,1303,963,785
 Oh no. Legal aliens.,1.8050108932461875,0.013504598207157291,3672,1657,1074,941
-Gun-toting and a lawyer. They understand America very well.,1.8008819538670284,0.014734336657491945,2948,1295,945,708
+Gun-toting and a lawyer. They understand America very well.,1.8006103763987793,0.014731842866637774,2949,1296,945,708
 Those must be the legal aliens.,1.799494790022103,0.014157412331017631,3167,1386,1030,751
 "Oh oh, looks like we're facing a space suit.",1.796100278551532,0.018358872318728528,1795,763,635,397
 "I think that they'll fit right in.  After all, they have guns and a lawyer.",1.78158628935831,0.01558445177084435,2509,1098,861,550
@@ -17,9 +17,9 @@ Oh no! They’re returning him.,1.7520245741413014,0.013075447812820282,3581,165
 Oh no. They brought him back.,1.750266429840142,0.01456064626067628,2815,1279,960,576
 I knew they’d return him. Nobody can spend two weeks with Bob.,1.7495987158908508,0.031105713375687735,623,285,209,129
 "Well, on the plus side, they'll only be probing us with questions.",1.744139849026619,0.01538638642979695,2517,1154,853,510
-"I was expecting the invasion, but not the audit.",1.7432432432432432,0.015054652135346876,2516,1123,916,477
-We should have never let him study abroad.,1.7432266009852218,0.019103742025771815,1624,743,555,326
-I've heard they'll sue anyone who tries to call it an invasion.,1.7410881801125704,0.023937771064518665,1066,499,344,223
+"I was expecting the invasion, but not the audit.",1.742947953913389,0.015051566605242083,2517,1124,916,477
+We should have never let him study abroad.,1.7427692307692308,0.019097459884199888,1625,744,555,326
+I've heard they'll sue anyone who tries to call it an invasion.,1.7413308341143392,0.023916556890414633,1067,499,345,223
 Looks like four aliens and a lawyer. Let's try communicating with the aliens.,1.737327188940092,0.015858284159803268,2387,1112,790,485
 Bad sign. They've lawyered up,1.7353191489361701,0.015715608088981464,2350,1075,822,453
 They must be legal aliens.,1.7337278106508875,0.018429883980889985,1859,900,554,405
@@ -28,18 +28,18 @@ They brought an immigration lawyer.,1.7323205866946045,0.01742720673217679,1909,
 There's really only one I am worried about.,1.7177940542869452,0.015705177001203063,2321,1084,808,429
 "Dear, God! We're going to be scanned, probed, and audited.",1.7147568013190437,0.022576044487660502,1213,597,365,251
 I bet they plead the 5th dimension.,1.713170731707317,0.017342550523808006,2050,1010,618,422
-"That's Timmy, but, my god, those bastards turned him into a lawyer.",1.7093023255813953,0.02248460990211964,1204,592,370,242
 "He says the commute is terrible, but the money is out of this world.",1.7091121495327102,0.01822679451677034,1712,808,594,310
+"That's Timmy, but, my god, those bastards turned him into a lawyer.",1.708713692946058,0.022473652817065495,1205,593,370,242
 "He loves the new job, but he says the commute takes light years.",1.7064471879286693,0.01595849703413777,2187,1024,781,382
 I don't trust the one at the back.,1.701589170100059,0.018503259926956898,1699,823,560,316
-So that's where accountants come from.,1.6948941469489414,0.01946370078511426,1606,808,480,318
+So that's where accountants come from.,1.6950840074673303,0.019452511751482868,1607,808,481,318
 Looks like we're going to be abducted and audited!,1.693063228974831,0.0188521210929976,1629,798,533,298
 I’ll bet Randall was just a diversity hire.,1.692261185006046,0.01854569495288439,1654,803,557,294
 "Look on the bright side--if they really wanted to destroy us, they'd have sent more litigators.",1.6910669975186103,0.018576350480465072,1612,774,562,276
 "Should we tell him that ""Zoom in for the meeting"" means something different now?",1.6898106402164113,0.022916244631896624,1109,548,357,204
 They brought their lawyer. This can't be good.,1.685603615235636,0.018936948568969224,1549,750,536,263
+Rats. They're returning him.,1.6837491571139582,0.020489458877611253,1483,770,412,301
 Remember when I told you it was a bad idea to shine that laser pointer at the sky?,1.6830645161290323,0.02162469907213432,1240,618,397,225
-Rats. They're returning him.,1.6828609986504723,0.020484017497414034,1482,770,412,300
 We have come for our inalienable rights,1.6825842696629214,0.020318087191704807,1424,716,444,264
 We are legal aliens.,1.681655960028551,0.020521628287702574,1401,707,433,261
 He was too much for them; they are taking him back to FOX News.,1.6790393013100438,0.02146818120368081,1374,726,363,285
@@ -80,9 +80,9 @@ They apparently have some issues with the whole 'inalienable rights' thing.,1.62
 "I told you I hired a lawyer. These are the partners from §}ÐŠ, ŒØý, ¥¶§ÅË, Çü¤ and Weinstein.",1.622286541244573,0.02890714796798128,691,379,194,118
 "Whoa, is that Rudy Giuliani?",1.6214177978883861,0.030187777159935623,663,373,168,122
 It’s a natural progression from anal probes to lawyers.,1.6184798807749627,0.03035812702117364,671,384,159,128
+They must be Texans.  Open carry AND a lawyer.,1.6182380216383307,0.03104023489433805,647,372,150,125
 We should have been more specific than ‘space for rent’.,1.6180124223602483,0.029649733731452986,644,352,186,106
 Remember when I said I rear-ended a spaceship?,1.6162420382165605,0.031004702703643847,628,356,157,115
-They must be Texans.  Open carry AND a lawyer.,1.6160990712074303,0.03101442361268199,646,372,150,124
 We were looking for intelligent life and accidentally picked up a  politician.,1.6114649681528663,0.03062074518077984,628,354,164,110
 Middle management looks the same pretty much everywhere.,1.6106623586429725,0.028336719691810165,619,321,218,80
 I think this time they mean business.,1.6102719033232629,0.028819915450663012,662,361,198,103
@@ -110,8 +110,8 @@ This is awfully elaborate for a lawyer joke.,1.5923694779116466,0.03255110335420
 Trump claimed to be the greatest President in the universe and they are here to sue him for that slander.,1.59,0.033556699840842766,500,285,135,80
 Oh no!  They’re back! And this time they have representation!,1.589430894308943,0.03210946645282323,492,267,160,65
 Oh oh. The tall one looks like trouble.,1.5872689938398357,0.03211063123113699,487,264,160,63
+It is even worse than I thought - they abducted him and sent him to law school.,1.5865800865800865,0.03587013329494084,462,272,109,81
 Not so different from us.. .  one out of five is an Attorney.,1.5846774193548387,0.03451259258398688,496,292,118,86
-It is even worse than I thought - they abducted him and sent him to law school.,1.5835140997830803,0.03581646993783245,461,272,109,80
 My clients will neither confirm nor deny that they come in peace.,1.5828220858895705,0.0325541519834912,489,271,151,67
 "Well, at least they're legal aliens.",1.5826612903225807,0.032953041268940435,496,280,143,73
 Still no signs of intelligent life.,1.5821782178217823,0.033217597520119185,505,290,136,79
@@ -129,10 +129,10 @@ They've come to litigate not exterminate.,1.5721271393643033,0.03548495714921994
 Looks like we're about to get another offer to buy our house.,1.572072072072072,0.035700833568527726,444,261,112,71
 He specializes in illegal aliens.,1.5717703349282297,0.0363525606854408,418,243,111,64
 They're returning an abducted lawyer.  They say he doesn't qualify as a lifeform.,1.5695364238410596,0.035843363902766386,453,271,106,76
-What a terrifying world they must come from - 20% of their species are lawyers!,1.5682382133995036,0.03607824481210739,403,230,117,56
 "He’s the new diversity hire
 at Little Green Mann.",1.5681233933161953,0.03742896080253212,389,226,105,58
 It's not the ones with the ray guns that I'm afraid of.,1.5675057208237986,0.033767935254708184,437,244,138,55
+What a terrifying world they must come from - 20% of their species are lawyers!,1.566831683168317,0.03601630623594412,404,231,117,56
 We’re here to certify the election results.,1.5655913978494624,0.035652289609260826,465,282,103,80
 That audit couldn't have gone well. The IRS just seized their flying saucer.,1.5651041666666667,0.036166491307760104,384,216,119,49
 You can have your leader back. We expected a lot more.,1.5639810426540284,0.03658335652120675,422,251,104,67
@@ -144,6 +144,7 @@ Weapons and a lawyer. Definitely hostile.,1.562043795620438,0.036391755646138335
 "I’m guessing they’ll say, ‘Take me to your lawyer.’",1.5609137055837563,0.03549076089998208,394,222,123,49
 "They’re from Xat, Xat, Xat, Xat & Goldstein.",1.5604395604395604,0.04077384771531444,364,225,74,65
 "Actually, I’m more afraid of their attorney.",1.5602605863192183,0.040702771699664186,307,175,92,40
+Looks like this isn't their first visit.,1.5602240896358543,0.03804494023751704,357,205,104,48
 At least they brought their lunch.,1.5596816976127321,0.037270580632446995,377,218,107,52
 "Oh my gosh, when he said they were visitors from an entirely different galaxy I thought he meant Florida!",1.5593667546174141,0.03616894136016957,379,214,118,47
 I thought Jerry specialized in martial law.,1.5583126550868487,0.034727547732936646,403,226,129,48
@@ -151,7 +152,6 @@ I thought Jerry specialized in martial law.,1.5583126550868487,0.034727547732936
 "Don't worry, we're vaccinated.",1.558011049723757,0.03641401350462714,362,202,118,42
 "Keep an eye on the tall, shady looking one in the back.",1.5572139303482586,0.03532739322203884,402,229,122,51
 "So, are we supposed to believe these are 'legal' aliens?",1.5569948186528497,0.03661600113144066,386,223,111,52
-Looks like this isn't their first visit.,1.5561797752808988,0.03793577881844907,356,205,104,47
 "If they were coming as friends, they wouldn't have brought a lawyer",1.5558441558441558,0.03724201941818722,385,226,104,55
 He most definitely has been working remotely!,1.5553047404063205,0.03511164426942554,443,263,114,66
 "The first four look friendly. The last one, not so much.",1.554945054945055,0.03669317659357214,364,206,114,44
@@ -166,12 +166,12 @@ This explains those hourly fees.,1.5492537313432835,0.03908614151361048,335,195,
 I guess these are legal aliens.,1.547872340425532,0.03795651654236441,376,225,96,55
 I think they're here to stay. That's an immigration lawyer.,1.5469613259668509,0.03708242740360387,362,209,108,45
 I guess they heard we're litigious.,1.5469168900804289,0.03645764957236046,373,215,112,46
+"You're the couple who tore the tag off the mattress, correct?",1.546875,0.04306271341244077,320,200,65,55
 Of course they brought their lawyer.,1.5449101796407185,0.038496209313817295,334,193,100,41
 It was the only law school Richard could get into.,1.5432835820895523,0.03933516535304662,335,198,92,45
 I told you that you should have reported that extraterrestrial income!,1.5426829268292683,0.039506639774404335,328,193,92,43
 Apparently they are adapting quickly to life on earth.,1.5426356589147288,0.035100609705946285,387,221,122,44
 Fred's sales territory has evidently expanded.,1.5424242424242425,0.039090948361091914,330,193,95,42
-"You're the couple who tore the tag off the mattress, correct?",1.542319749216301,0.04295555083644611,319,200,65,54
 "You know you can’t park there, right?",1.5416666666666667,0.04129398837230266,312,187,81,44
 "Well, Bobby  did say that he had friends in high places...",1.5411392405063291,0.038359098434722246,316,179,103,34
 How quickly they learn our ways!,1.5405405405405406,0.0374898987241825,370,220,100,50
@@ -186,17 +186,17 @@ And here comes the time share sales pitch.,1.5365168539325842,0.0367328995580966
 So that's where lawyers come from. Who knew?,1.536050156739812,0.042279751256980254,319,199,69,51
 "I told you,honey...This is the exact reason that I always pick a public place when I sell something on Craigslist.",1.534375,0.04003596969618827,320,191,87,42
 Apparently they want to tell me about my car's extended warranty.,1.534013605442177,0.04271332170476772,294,179,73,42
+Which one is your cousin?,1.5333333333333334,0.04361924373917495,300,188,64,48
 "How weird, right? I mean who even wears a suit these days?",1.5331010452961673,0.04351622346893735,287,176,69,42
-Which one is your cousin?,1.528428093645485,0.04348775629568855,299,188,64,47
 "Since Roswell, they've unionized.",1.528125,0.03778585860998024,320,184,103,33
 Twenty bucks says it’s a hostile takeover.,1.5275862068965518,0.04373114134527373,290,181,65,44
 "Corporate lawyer, open carry, they don't seemed that advanced to me.",1.5275080906148868,0.04263720848515439,309,194,67,48
+"I’ve heard he’s successful, but alienates everyone.",1.527331189710611,0.04067648131308675,311,188,82,41
 "Trump’s new legal strategy was shocking, but not totally unexpected.",1.5268456375838926,0.040654992942698545,298,177,85,36
 Well that explains why Marvin couldn’t get our taxes done this year.,1.5265017667844523,0.040754364011292364,283,165,87,31
 His rates must be astronomical.,1.526143790849673,0.04012875047829341,306,182,87,37
-"I’ve heard he’s successful, but alienates everyone.",1.5258064516129033,0.040779228645917466,310,188,81,41
-When Bill told me he was representing 'illegal aliens' I thought he meant undocumented people.,1.5253164556962024,0.040935105038794946,316,194,78,44
 Merger or acquisition?,1.5241379310344827,0.04263303742124026,290,178,72,40
+When Bill told me he was representing 'illegal aliens' I thought he meant undocumented people.,1.523659305993691,0.040839403010923356,317,195,78,44
 Armed and lawyered up.  Not good.,1.5236486486486487,0.040867042983783734,296,177,83,36
 Close accountants of the fifth kind?,1.5230263157894737,0.04113198925001542,304,185,79,40
 Call 911.  Tell them there's a lawyer with a briefcase in the park.,1.5226480836236933,0.04269193876644739,287,176,72,39
@@ -256,6 +256,7 @@ I should have asked more questions about the exchange students.,1.49382716049382
 It was the only flight without a layover in Atlanta.,1.4931506849315068,0.04772476658546282,219,138,54,27
 "When Carson bragged that he made partner at a global transportation law firm, this isn't what I envisioned!",1.4930875576036866,0.04531273047128575,217,131,65,21
 Take us to your legal counsel.,1.4926470588235294,0.040680346307797904,272,165,80,27
+I'm not sure which worries me more -- the guns or the attorney.,1.4926470588235294,0.04326605563096455,272,173,64,35
 It looks like they really mean business this time.,1.492537313432836,0.04212629954759264,268,166,72,30
 Looks like they're planning a hostile takeover,1.4916666666666667,0.04573575894938189,240,152,58,30
 Remember when Brad bragged he could sell insurance to Martians if he had to?,1.4913793103448276,0.04731615426715237,232,149,52,31
@@ -263,7 +264,6 @@ Sorry I'm late.  Our flight was rerouted.,1.4913793103448276,0.04488768692654475
 "Mom, Dad. Stella couldn't make it but I'd like you to meet your grandkids.",1.4912280701754386,0.04914102099035621,228,150,44,34
 "Be careful dear, they have a lawyer.",1.4910394265232976,0.04121106971953947,279,173,75,31
 Well it’s clearly a hostile takeover.,1.4909747292418774,0.04143028277429352,277,172,74,31
-I'm not sure which worries me more -- the guns or the attorney.,1.4907749077490775,0.04338533122555459,271,173,63,35
 "You had to do the taxes yourself, didn't you.",1.4904761904761905,0.049255323186200774,210,134,49,27
 "Oh my God,they have a lawyer.",1.4900398406374502,0.04667853949544465,251,165,49,37
 Our lawyer says it's not technically abduction if you sign the waiver beforehand.,1.489795918367347,0.044282407105476713,245,153,64,28
@@ -273,6 +273,7 @@ Damn! They brought their lawyer this time.,1.488262910798122,0.04344248977156329
 "Uh-oh!  That's the weird guy I dated in college, who told me I got him pregnant.",1.4879227053140096,0.05026075404991721,207,134,45,28
 They're back.  AND they're lawyered up!,1.4879032258064515,0.043509764530108776,248,154,67,27
 Want to guess which one does the probing?,1.4875,0.04611142967856662,240,154,55,31
+"Now, aren't you glad we hired Kzzt, Grrft, Qdvvtx, Pllb, and Goldblatt?",1.4870689655172413,0.04770466762322206,232,151,49,32
 "No, I'm pretty sure they're legal aliens.",1.4867256637168142,0.047027717718889986,226,144,54,28
 "Unfortunately, at the moment we do not have a leader.",1.4867256637168142,0.047444047051369835,226,145,52,29
 Uh-oh. Now they've got a lawyer,1.4864864864864864,0.041068366628368776,259,157,78,24
@@ -283,6 +284,7 @@ Oh no! They abducted little Stevie and turned him into a Republican!,1.485232067
 """Bob did say he was working remotely.""",1.4852320675105486,0.046549831313636596,237,153,53,31
 I think they ask you to sign a waver before the probes now.,1.4850746268656716,0.04111142120350089,268,165,76,27
 I thought they were supposed to be more highly evolved.,1.4849785407725322,0.04515062537409689,233,146,61,26
+The legal has landed.,1.4845814977973568,0.045604425872509964,227,142,60,25
 "They're challenging the travel ban.""",1.4834710743801653,0.04468106216932408,242,153,61,28
 So litigation continues to exist in advanced civilizations?,1.4833333333333334,0.04132003655291874,240,143,78,19
 They bring a lawyer?? I thought they would have been more advanced than that.,1.4831932773109244,0.04444713965776778,238,149,63,26
@@ -293,13 +295,11 @@ I hear he represents illegal aliens.,1.4823529411764707,0.04225951646737592,255,
 I told you they'd appeal.,1.4816326530612245,0.04234023696701689,245,150,72,23
 He only comes back to Earth when he needs money.,1.4813278008298756,0.04403686825797803,241,151,64,26
 At least our other son is a doctor.,1.4811320754716981,0.04654871429011873,212,132,58,22
-"Now, aren't you glad we hired Kzzt, Grrft, Qdvvtx, Pllb, and Goldblatt?",1.4805194805194806,0.04745793458921359,231,151,49,31
 I hear all abductions require an NDA now.,1.4801762114537445,0.04429584853031292,227,140,65,22
 "These aliens are here to stay, they brought an immigration lawyer.",1.4797047970479704,0.041766117703197166,271,171,70,30
 I thought that lawyer said he was going to put a lien on our property,1.4796747967479675,0.046692206736929434,246,163,48,35
 "Huh, their lawyer.  So much for ""We come in peace"".....",1.4795081967213115,0.044402215248916424,244,155,61,28
 He’s practicing Martian law.,1.4786729857819905,0.045231675858028154,211,129,63,19
-The legal has landed.,1.4778761061946903,0.04530881267498826,226,142,60,24
 "Oh, good. They're legal aliens.",1.477832512315271,0.0485487194165535,203,129,51,23
 "Oh no, they're returning Elon Musk.",1.4777327935222673,0.046543317581725106,247,164,48,35
 "That reminds me, my mother is coming to visit.",1.4773869346733668,0.04926963681594149,199,127,49,23
@@ -310,6 +310,7 @@ Oh… so that’s why he said his representation was stellar,1.4761904761904763,
 Jim did mention he's been feeling alienated.,1.4761904761904763,0.04876720180843815,210,136,48,26
 I think they're here to establish First Contract.,1.4758064516129032,0.04460125432085468,248,160,58,30
 "Somehow, the lawyer is the most menacing of the bunch.",1.4754901960784315,0.04632684160167238,204,126,59,19
+"So it's going to be a hostile takeover, then?",1.4743083003952568,0.04393782072831294,253,163,60,30
 Looks like they raised him better than we would have.,1.4741784037558685,0.04915532002962125,213,140,45,28
 "Uh oh, this is a hostile takeover.",1.4741379310344827,0.04568335275518261,232,149,56,27
 I believe that my clients are eligible for your alien settlement program.,1.4739336492890995,0.04421042680931137,211,128,66,17
@@ -330,15 +331,14 @@ I told you to read the Terms of Service before agreeing for the Amazon app.,1.47
 it's the lawyer i'm afraid of!,1.4700854700854702,0.046971015894393,234,155,48,31
 They know better than to come without a lawyer.,1.4700460829493087,0.04573817089594524,217,137,58,22
 "Aliens, yes.  Illegal? We'll see about that.",1.4700460829493087,0.04711675359605132,217,140,52,25
+"Based on the 5th guy, I'd say they speak legalese.",1.4696969696969697,0.04785245557377256,198,125,53,20
 Is that Jake from state farm?,1.4696132596685083,0.05514723663110574,181,123,31,27
 I have a feeling they're no longer illegal.,1.4688995215311005,0.04939080642713045,209,138,44,27
 We shall bring terror and crippling litigation to your planet.,1.4688796680497926,0.046676655750900374,241,161,47,33
 "They said they come in peace, but why are they bringing their lawyer?",1.46875,0.045139573301425005,224,142,59,23
 "I don't trust it.  If they come in peace, why'd they bring a lawyer?",1.4686192468619246,0.04506414064547702,239,155,56,28
-"So it's going to be a hostile takeover, then?",1.4682539682539681,0.043691736144027556,252,163,60,29
 What do you bet this white guy is about to Aliensplain?,1.4673913043478262,0.051643328472181595,184,120,42,22
 I don't mind the ray guns. You deal with the lawyer.,1.4672489082969433,0.045270530737686256,229,147,57,25
-"Based on the 5th guy, I'd say they speak legalese.",1.467005076142132,0.04801982053993705,197,125,52,20
 "Well Stan, looks like your little drone stunt really ticked off the neighbors.",1.4666666666666666,0.04683334488761393,210,134,54,22
 We are returning your father. He did a great job on our tax returns.,1.4661016949152543,0.04548270845177257,236,154,54,28
 They don't come in peace - that's my ex-husband's divorce lawyer!,1.4660633484162895,0.04734746777725485,221,145,49,27
@@ -347,12 +347,12 @@ This is serious.  They brought a lawyer.,1.4646017699115044,0.043948842647949654
 Who carries a briefcase anymore?,1.46448087431694,0.05067227316285649,183,118,45,20
 He’s going to help them get a green card.,1.4644549763033174,0.04568578037639502,211,133,58,20
 I wish I could remember what my un-alienable rights are.,1.4642857142857142,0.04926195212067754,196,127,47,22
-"What do you mean, you want to 'exchange the attorney for a human specimen'?""",1.4639639639639639,0.04929318018395143,222,151,39,32
 Uh-oh. They've lawyered up.,1.4632034632034632,0.043261801440811355,231,145,65,21
 Hector mentioned that he was representing a new boy band that was out of this world.,1.4625550660792952,0.044245417543966034,227,144,61,22
 Looks like another hostile takeover going down on Wall Street.,1.4623115577889447,0.046025566713682034,199,124,58,17
 "He says they come in peace, pending evolving caselaw.",1.4622222222222223,0.044527699798919726,225,143,60,22
 "I’m so glad he made friends at school,",1.4619047619047618,0.046815966807551096,210,135,53,22
+"What do you mean, you want to 'exchange the attorney for a human specimen'?""",1.4618834080717489,0.049115722933252726,223,152,39,32
 Oh no. Not the tax probe!,1.4615384615384615,0.05262543357160138,182,121,38,23
 When Ted said he'd find us more tax deductions he wasn't kidding,1.4612244897959183,0.04459430758745753,245,161,55,29
 I wasn't frightened until that last one stepped out.,1.4606741573033708,0.05231416041656652,178,117,40,21
@@ -421,6 +421,7 @@ Appears the IRS is cracking down on non-resident aliens.,1.4411764705882353,0.04
 Looks like Price Waterhouse went to extra lengths this year to protect the Oscar results.,1.4408602150537635,0.04936371142828258,186,123,44,19
 Great. Millions of advanced civilizations and we get Limited Liability Aliens.,1.4408602150537635,0.05109935344285832,186,126,38,22
 They come in peace but ready to litigate.,1.4406779661016949,0.04861563193924038,177,114,48,15
+We have come to give your leader back.,1.4404761904761905,0.0511504243153515,168,110,42,16
 Isn’t that your ex-wife’s attorney?,1.440251572327044,0.05397295404381149,159,106,36,17
 It's cool - they're legal aliens.,1.44,0.04841196745604154,200,134,44,22
 I think they're going to make us sign a non-disclosure agreement.,1.4395604395604396,0.0476626163414685,182,117,50,15
@@ -430,12 +431,13 @@ I guess they’re not as advanced as we thought.,1.4378378378378378,0.0483375613
 You shouldn't have criticized their favorite twilight zone episode.,1.4375,0.04944907520834984,176,115,45,16
 Isn’t that Phil from Mergers and Acquisitions?,1.4375,0.0507452575994168,176,117,41,18
 We should have been more specific when we told the adoption agency we wanted four boys.,1.4371584699453552,0.0505263600592902,183,123,40,20
-We have come to give your leader back.,1.437125748502994,0.05134712923344993,167,110,41,16
 "They must be from the planet Litigate.""",1.4370860927152318,0.05683029921304619,151,103,30,18
+"This species is the most feared. They don’t abduct, they sue.",1.4365482233502538,0.04946016796223331,197,134,40,23
 It's always bad news when they bring a lawyer,1.4362745098039216,0.04561617821506521,204,133,53,18
 I accused them of abducting me.,1.436241610738255,0.05414284977411272,149,98,37,14
 "Clearly, they're ray-gun Republicans.",1.4361233480176212,0.04626803575084575,227,155,45,27
 It's just not the kind of hostile takeover I expected.,1.4357541899441342,0.04948138964470605,179,118,44,17
+Apparently “How to Serve Mankind” was about a subpoena.,1.4357541899441342,0.05431918178944,179,126,28,25
 Better Call Saul,1.4357541899441342,0.05011166151515133,179,119,42,18
 I told you not to make fun of their heads.,1.435483870967742,0.04813457306790327,186,122,47,17
 The lawyer means it's definitely a hostile takeover.,1.4345238095238095,0.049692439402958685,168,109,45,14
@@ -446,7 +448,6 @@ It's not so much the laser guns...it's the attorney that scares me.,1.4331550802
 "With all that travel, they're fanatics about expense accounts",1.4331210191082802,0.04805024636690407,157,98,50,9
 "There’s our Georgie, always trying to stand out.",1.4329268292682926,0.049787140474718765,164,106,45,13
 "So, my  boss hired some illegal aliens.",1.432748538011696,0.05044576259149739,171,113,42,16
-Apparently “How to Serve Mankind” was about a subpoena.,1.4325842696629214,0.054532113366149694,178,126,27,25
 So what did they teach you on Mars that you couldn't have learned going to M.I.T.?,1.4324324324324325,0.053522854136237585,148,97,38,13
 I miss the days when they just used a death ray to take over the planet,1.4324324324324325,0.054374852443443006,148,98,36,14
 They've turned our most dangerous weapons against us!,1.4320388349514563,0.04630524583498114,206,137,49,20
@@ -455,15 +456,14 @@ I think that’s their immigration attorney.,1.43125,0.05438469063506475,160,109
 I think they want us to sign something before we go with them.,1.4310344827586208,0.0477632071610759,174,112,49,13
 "Well that's it, we're doomed.  They've got a lawyer.",1.4308510638297873,0.04948852738401257,188,127,41,20
 "Shelter our money in a secret Martian account, you said.",1.4304635761589404,0.05599584798139376,151,103,31,17
-"Whatever you do, don’t sign anything.",1.4294871794871795,0.05614598975901848,156,108,29,19
 "Oh, wait. First 'contract'  with aliens. Not 'contact.",1.4294478527607362,0.049971077868060675,163,106,44,13
 It's E.T.s and their E.T.ESQ.,1.4294117647058824,0.05131509005819673,170,114,39,17
 Looks like they're prepared to fight for the movie rights this time.,1.4285714285714286,0.05743073230052641,154,108,26,20
 Don’t sign anything Hank. They brought their lawyer with them.,1.4285714285714286,0.04883794071233273,182,121,44,17
-"This species is the most feared. They don’t abduct, they sue.",1.4285714285714286,0.04906237553187756,196,134,40,22
 I think they are really serious this time.,1.4277777777777778,0.04794378792366115,180,118,47,15
 Little Garrett's birthday drone just tapped their bumper and we get this?,1.427710843373494,0.049322733332448104,166,108,45,13
 "Successful trip!!!  You traded them for Vladimir Putin, Donald Trump, Kim Jon Un and Tucker Carlson?",1.427710843373494,0.05492619433754771,166,116,29,21
+"Whatever you do, don’t sign anything.",1.4267515923566878,0.05585425673803098,157,109,29,19
 We've held off the invasion till your world couldn't get any worse.,1.4266666666666667,0.05124548687863922,150,97,42,11
 Uh oh. Close encounters of the IRS kind.,1.4259259259259258,0.05091416096822977,162,107,41,14
 I wasn't expecting the probing to be into our accounting practices...,1.4259259259259258,0.0516617171917498,162,108,39,15
@@ -477,6 +477,7 @@ It’s the Doomsday scenario: they’ve lawyered-up!,1.4245283018867925,0.066955
 They mean business! they brought their lawyer.,1.4240837696335078,0.04535436987045142,191,124,53,14
 He only gets paid if they win.,1.423529411764706,0.04988880163742161,170,113,42,15
 "We're doomed.  They're not invading, they're filing a class action.",1.4232804232804233,0.04807962682972856,189,127,44,18
+"If they ask, tell them the dent in our bumper was from backing into our mail box.",1.4228187919463087,0.054857637806353124,149,101,33,15
 Should I be more worried about the four ray guns or the attorney?,1.4223300970873787,0.04519468281562108,206,137,51,18
 The last one is a legal alien.,1.421875,0.04752494436653119,192,129,45,18
 "Be careful, they might do a legal probe.",1.4216867469879517,0.05214701313455239,166,113,36,17
@@ -508,7 +509,6 @@ Take me to your ledger.,1.4135802469135803,0.05513648826915469,162,115,27,20
 "Actually, it's the legal alien that concerns me...",1.4131736526946108,0.05113636104542334,167,114,37,16
 "Uh oh, that's the guy who tried to sell me a universal life insurance policy.",1.4129032258064516,0.05320644301270265,155,106,34,15
 I thought I had a bad commute.,1.4125874125874125,0.05465494973783437,143,97,33,13
-"If they ask, tell them the dent in our bumper was from backing into our mail box.",1.412162162162162,0.05417744236718905,148,101,33,14
 They've lawyered up since last time!,1.412121212121212,0.049377408938871444,165,110,42,13
 "I think he said ""Take us to your lawyer""",1.412121212121212,0.049377408938871444,165,110,42,13
 "Damn, a lawyer?",1.411764705882353,0.05681112207777604,153,109,25,19
@@ -538,6 +538,7 @@ I told you not to buy a bootleg 'Star Wars.',1.4082840236686391,0.05201910884958
 See? I told you lawyers aren't actually human!,1.4080459770114941,0.05156147138074685,174,122,33,19
 …I’m more worried that they brought a lawyer.,1.4078947368421053,0.054714365844103885,152,106,30,16
 Isn’t that our attorney?,1.4076923076923078,0.05535827240738365,130,87,33,10
+"Mr. and Mrs. Arbuckle, these are your exchange students for the Fall Semester.",1.4076433121019107,0.05187597334552279,157,107,36,14
 This can't end well. They brought their lawyer.,1.4076086956521738,0.04826194778750124,184,126,41,17
 The IRS is using creative scare tactics this tax season.,1.4074074074074074,0.05882232506044326,135,95,25,15
 I told you not to file for a refund.,1.407185628742515,0.04890820731150459,167,112,42,13
@@ -549,6 +550,7 @@ I think they mean business.,1.406060606060606,0.05005316441613571,165,112,39,14
 Looks like they mean business—they brought their lawyer.,1.4057142857142857,0.047323879943941924,175,117,45,13
 They got a lawyer. I told you yelling “ET go home” wasn’t a good move.,1.4055944055944056,0.05366299060248201,143,97,34,12
 I knew it was only a matter of time before they sued over the Roswell Incident,1.4055944055944056,0.05807049028206795,143,102,24,17
+He does anything to boost his frequent flyer miles.,1.4055944055944056,0.05083539506764423,143,94,40,9
 "Please take him back, and tell him that we aren’t interested in an extended warranty for our spaceship!",1.4054054054054055,0.05494304814964365,148,103,30,15
 I knew E.T.'s parents would eventually want to discuss custody.,1.4047619047619047,0.05011968512517808,168,115,38,15
 Four ray-guns and a lawyer. It's going to be a hostile takeover!,1.4046242774566473,0.048389960431217974,173,117,42,14
@@ -557,6 +559,7 @@ They’ll regret landing in Delaware.,1.4042553191489362,0.0560238798812241,141,
 I told you not to shine your laser pointer at Mars,1.404109589041096,0.054620057639835025,146,101,31,14
 So that's what happened to D. B. Cooper,1.404109589041096,0.054620057639835025,146,101,31,14
 Is it weird that the guy with briefcase is what worries me?,1.404109589041096,0.05286212324528574,146,99,35,12
+Did you ever see anything so terrifying? And there are four aliens too.,1.403973509933775,0.054936292982986856,151,106,29,16
 Looks like they've lawyered up already.,1.403973509933775,0.05330474505343279,151,104,33,14
 I told you that drone would cause trouble.,1.4038461538461537,0.050456023120489135,156,105,39,12
 Oh God!  It's a lawyer!,1.4038461538461537,0.054400139694942846,156,110,29,17
@@ -576,17 +579,16 @@ Take us to your Plaintiff.,1.4025974025974026,0.051724755634293976,154,105,36,13
 This could be trouble.  They brought a lawyer.,1.4022988505747127,0.04885204029583663,174,119,40,15
 This can’t be good. They brought their attorney.,1.4022988505747127,0.04676750513872009,174,116,46,12
 I guess on his planet he’d be considered a diversity hire.,1.4015748031496063,0.05728935377715134,127,87,29,11
-He does anything to boost his frequent flyer miles.,1.4014084507042253,0.05102080439158245,142,94,39,9
 "Oh, God! It's my first husband. He hasn't aged at all.",1.401360544217687,0.05516798073828634,147,103,29,15
 Looks like they’ve come to do business.,1.401360544217687,0.050769738015496675,147,98,39,10
 "Omg, they brought their lawyer with them!",1.4013157894736843,0.05301954861952767,152,105,33,14
 "Bill!  I know I said I'd wait for you, but you never even called.",1.4012345679012346,0.052145058877527774,162,113,33,16
 Let's hope they're only looking to settle.,1.401197604790419,0.04809319902519277,167,112,43,12
 Looks like a close encounter of the litigious kind,1.401098901098901,0.04857253842111197,182,126,39,17
-Did you ever see anything so terrifying? And there are four aliens too.,1.4,0.05515891217963932,150,106,28,16
 They must expect trouble...they brought their lawyer.,1.4,0.05345224838248489,140,95,34,11
 "Wow, dad has not changed a day in 20 years.",1.4,0.05806046392974222,140,100,24,16
 "Oh,oh,Bobby is home! I guess they couldn't live with him either.",1.4,0.0514555624373053,155,106,36,13
+"First come the space billionaires, then come the lawyers.",1.4,0.059024325220555784,125,87,26,12
 "Oh, that's so cute! They bring even their pet!",1.4,0.05583676754864957,135,93,30,12
 Those ray guns don't scare me but that lawyer looks like trouble.,1.4,0.05266924355828776,150,103,34,13
 "When we visit earth, we always bring our attorney.",1.3984962406015038,0.055398728288007425,133,91,31,11
@@ -595,7 +597,6 @@ Congratulations! You are our SpaceStation Clearinghouse Contest Winners.,1.39849
 I guess NDAs have kept them unidentified,1.3975155279503106,0.050831214356126524,161,111,36,14
 I told you that you shouldn’t have pulled the tag off the mattress,1.3975155279503106,0.05158926346122106,161,112,34,15
 "I'm not worried about the ray guns, but that guy with the briefcase could be a lawyer.",1.3974358974358974,0.05199055648446042,156,108,34,14
-"Mr. and Mrs. Arbuckle, these are your exchange students for the Fall Semester.",1.3974358974358974,0.05118891459705976,156,107,36,13
 These IRS audits have reached an entirely new level.,1.3973509933774835,0.04889911242907214,151,100,42,9
 "I'm not sure what scares me more, aliens with weapons or what looks to be their lawyer.",1.3973509933774835,0.04889911242907214,151,100,42,9
 Just wait until they find out lawyers aren't human.,1.3969465648854962,0.06099525824391257,131,95,20,16
@@ -643,12 +644,12 @@ Adoption is always complicated.,1.3875,0.04855417450266476,160,109,40,11
 Now apparently you have to sign a consent form before being abducted.,1.3873239436619718,0.05178715144675474,142,97,35,10
 Apparently they want us to take Jeff Bezos back.,1.3870967741935485,0.05367679094730605,155,111,28,16
 Isn't that Elon Musk's attorney?,1.3870967741935485,0.059181493529792246,124,88,24,12
-"First come the space billionaires, then come the lawyers.",1.3870967741935485,0.05806305910693425,124,87,26,11
 Look at that really weird one.,1.3857142857142857,0.05697560312142183,140,101,24,15
 Which one is him?,1.3857142857142857,0.052271835020933924,140,96,34,10
 They’re way less advanced then I thought.,1.3856209150326797,0.051736431315809656,153,107,33,13
 Oh god...They lawyered up!,1.3856209150326797,0.05004657532024027,153,105,37,11
 Take us to your attorney!,1.3855421686746987,0.05030948440099927,166,117,34,15
+"Exclude me, earthling. Have you been injured in an auto accident?",1.385185185185185,0.058529223503221164,135,98,22,15
 They're looking for Elon Musk,1.385135135135135,0.05383239623510522,148,105,29,14
 Holy.... It's my old boyfriend. I thought he ghosted me.,1.3846153846153846,0.05714809912591036,130,92,26,12
 "Oh, no! E. T. phoned his lawyer!",1.3846153846153846,0.05609496099765123,130,91,28,11
@@ -670,7 +671,7 @@ Law & Order: SETI?,1.38135593220339,0.06127654950041229,118,85,21,12
 "Uh oh, here come the little Putins.",1.381294964028777,0.05811812943799048,139,102,21,16
 We come in peace. The lawyer does not.,1.38125,0.052359331612600236,160,115,29,16
 "The law firm of Glib, Glob, Gleep, Gloob, and Cohen.",1.3805970149253732,0.05684517807111144,134,96,25,13
-"Exclude me, earthling. Have you been injured in an auto accident?",1.3805970149253732,0.058786188609268285,134,98,21,15
+I was afraid of this...real estate attorneys are everywhere these day!,1.3805970149253732,0.05684517807111144,134,96,25,13
 Look out!  He's got a BRIEFCASE!!!,1.380281690140845,0.052632615602609276,142,99,32,11
 "Hank, tell me you didn’t violate the NDA!",1.380281690140845,0.05540634068202996,142,102,26,14
 "You know, honey, even aliens have the right to a lawyer.",1.380281690140845,0.05069923060005878,142,97,36,9
@@ -684,20 +685,22 @@ We come in cease and desist.,1.3790849673202614,0.051638558841017194,153,108,32,
 "On the bright side, the invasion will be negotiated.",1.3790849673202614,0.048192774470403536,153,104,40,9
 Uh oh. Looks like they've lawyered up.,1.3790322580645162,0.05905180256556366,124,89,23,12
 Apparently lawyers look the same on any planet.,1.378787878787879,0.05744411945408004,132,95,24,13
+This will be our first contract with aliens.,1.3785714285714286,0.05116108926483439,140,96,35,9
 I knew this neighborhood would gentrify sooner or later.,1.3785714285714286,0.05014660638413676,140,95,37,8
 "Oh my, they must have avoided landing in court.",1.3785714285714286,0.052155843178719304,140,97,33,10
 Now there's a half-assed attempt at assimilation.,1.3783783783783783,0.06010372423162912,111,78,24,9
 How was I supposed to know eating a Mars bar was copyright infringement?,1.3782051282051282,0.05091629284019001,156,110,33,13
 Uh oh!  Ray guns and a real estate agent.,1.3782051282051282,0.05172216026546819,156,111,31,14
 "Herb, I told you we never should have started talking to those bots at the IRS.",1.3779527559055118,0.05581892388115842,127,89,28,10
+If you really 'come in peace' you wouldn't be brandishing a lawyer!,1.3777777777777778,0.05649292129660394,135,97,25,13
 "From the look of their council, they do not come in peace.",1.3770491803278688,0.05247933490807455,122,82,34,6
 "Uh oh, they brought their lawyer... They definitely do not come in peace.",1.376923076923077,0.05596807231014705,130,92,27,11
 They've come to challenge certain inalienable rights.,1.3768115942028984,0.050599807107237146,138,94,36,8
 I thought you said you stopped responding to Craigslist ads.,1.3767123287671232,0.05423963254120916,146,105,27,14
 It looks likes ET's kids want to negotiate a better deal for the sequel.,1.3761467889908257,0.05943011558470299,109,76,25,8
 Oh no !!!!  My first husband.. !!!,1.3761467889908257,0.06222321085436026,109,78,21,10
-I was afraid of this...real estate attorneys are everywhere these day!,1.3759398496240602,0.05708166670160754,133,96,24,13
 I think they're ready to negotiate!,1.3759398496240602,0.05400512173650917,133,93,30,10
+He's always tried to work where he can stand out,1.375886524822695,0.04986202552933852,141,96,37,8
 "Oh, my God! This looks worse than we thought. They brought their lawyer.",1.375886524822695,0.04986202552933852,141,96,37,8
 I have no intention of signing the non-disclosure agreement.,1.3758389261744965,0.05170458271091476,149,105,32,12
 "Bristling with guns and lawyers? Why, they're just like us!",1.3758389261744965,0.04900285408635104,149,102,38,9
@@ -722,7 +725,6 @@ This is the last time we send our kids to camp,1.3738317757009346,0.063021220372
 "Was this what you had in mind in hiring an ""out-of-this-world"" cleaning service?",1.3733333333333333,0.05141981152388037,150,106,32,12
 We’re back and we brought our lawyer,1.3733333333333333,0.05141981152388037,150,106,32,12
 We are so grateful you were able to get a flight on such short notice.,1.3732394366197183,0.05155571454344759,142,99,33,10
-If you really 'come in peace' you wouldn't be brandishing a lawyer!,1.373134328358209,0.05672350510031762,134,97,24,13
 "Well, it's about time! We've been waiting light years.",1.373015873015873,0.05934470408339976,126,92,21,13
 I always thought lawyers were not human.,1.3727272727272728,0.06038394103673391,110,78,23,9
 "Oh, god, they brought their lawyer …",1.3725490196078431,0.053177624336400504,153,111,27,15
@@ -735,7 +737,6 @@ Look out!!Behind you! !!,1.372093023255814,0.061345704617614,129,97,16,16
 "Oh, he's our immigration attorney, Bernie",1.3719512195121952,0.04670457534159951,164,113,41,10
 "Apparently, this is not their first invasion.",1.3717948717948718,0.05162211482770178,156,112,30,14
 Watch while the suit ruins everything.,1.3716814159292035,0.05507535675647639,113,77,30,6
-He's always tried to work where he can stand out,1.3714285714285714,0.05001834929783963,140,96,36,8
 He's not kidnapped; he's on retainer.,1.3714285714285714,0.05782559172273788,105,72,27,6
 I didn't know he was bringing the whole family!,1.371212121212121,0.05312934804054534,132,92,31,9
 Looks like these guys mean business.,1.371212121212121,0.05831834812675219,132,97,21,14
@@ -752,6 +753,7 @@ Is that Tucker Carlson?,1.3693693693693694,0.06260509974429486,111,81,19,11
 You know it must be serious if they brought their lawyer with them.,1.3693693693693694,0.06260509974429486,111,81,19,11
 "Just, whatever you do, don't sign anything.",1.3692307692307693,0.05475424744631442,130,92,28,10
 Clearly they know their rights,1.3692307692307693,0.052531004603552964,130,90,32,8
+These are the Four Moonbeams. You used one of their songs in your tire store commercial without permission.,1.3692307692307693,0.0599527358449683,130,97,18,15
 It's always a bad sign when they bring a lawyer.,1.3691275167785235,0.048884707321256125,149,103,37,9
 But it was only a little space junk.,1.3689320388349515,0.06321287340263843,103,74,20,9
 I don't think he's fooling anyone with his fucking briefcase.,1.3689320388349515,0.06168873442305677,103,73,22,8
@@ -764,6 +766,7 @@ Looks like another hostile takeover.,1.3680555555555556,0.0528394672799222,144,1
 "Legal aliens, I guess.",1.368,0.057401809570217226,125,90,24,11
 "Look, it's the Legal Aliens...",1.368,0.057401809570217226,125,90,24,11
 Looks like they brought their own asshole.,1.368,0.05960731715204531,125,92,20,13
+"We paid your tuition, you don’t call us, and now this is the crowd you’re running around with?",1.3679245283018868,0.06043488948187966,106,75,23,8
 I told you they would bring their lawyer.,1.3676470588235294,0.056019782851614325,136,99,24,13
 Look!  It's  Marjorie Taylor Greene's legal team.,1.3675213675213675,0.06491769778533961,117,89,13,15
 "Wow, are they still litigating ET’s phone bill?",1.3675213675213675,0.06260657356135392,117,87,17,13
@@ -773,7 +776,6 @@ Let us hope it is not a cease and de-exist letter.,1.3671875,0.05419313957248132
 My god and they come with their lawyer!!,1.3671875,0.055316614798679005,128,91,27,10
 He has the names of this year's Oscar winners,1.3671875,0.05419313957248132,128,90,29,9
 One of these things is not like the others.,1.3669724770642202,0.05924624296318201,109,77,24,8
-This will be our first contract with aliens.,1.3669064748201438,0.05017318031941199,139,96,35,8
 "Apparently, ""Klaatu Barada Nikto"" means ""You will he hearing from our lawyers.""",1.3669064748201438,0.055124133518276656,139,101,25,13
 I'm 80% confident that they are friendly.,1.3666666666666667,0.055424682451382636,120,84,28,8
 He was outsourced.,1.3666666666666667,0.05667408091222623,120,85,26,9
@@ -788,6 +790,7 @@ I hear his commute is pretty bad but the company's benefits are out of this worl
 Can you take him back and pretend that never happened?,1.364963503649635,0.051674319908391185,137,96,32,9
 I hope your lawyer informed you this is not an open carry state.,1.3644859813084111,0.05996608011471825,107,76,23,8
 It's the one with the spreadsheets that scares me.,1.3644067796610169,0.054714374616716695,118,82,29,7
+Musk made it to Mars.,1.3643410852713178,0.057121250593757736,129,94,23,12
 He must be in charge of the probe.,1.3643410852713178,0.05605098784488206,129,93,25,11
 "Oh, my god, they've brought their lawyer!",1.3643410852713178,0.05920376112554313,129,96,19,14
 He must be carrying the codes.,1.3636363636363635,0.051157403079194363,121,82,34,5
@@ -801,6 +804,7 @@ Are we getting audited again?,1.3629032258064515,0.0490329740999797,124,83,37,4
 Greetings. Take us to your ledger.,1.3628318584070795,0.060369106587134236,113,82,21,10
 Apparently Musk isn't any more popular on Mars than he is on Earth.,1.3627450980392157,0.05876687882341707,102,71,25,6
 It looks like these aliens mean business!,1.3624161073825503,0.05405283666153216,149,110,24,15
+"I am open to a close encounter, but not with a lawyer!",1.3623188405797102,0.05032637474606823,138,96,34,8
 Rudy Giuliani and his team finally deliver the missing ballots.,1.3623188405797102,0.0562802197211744,138,102,22,14
 This is bad. They brought a lawyer.,1.3622047244094488,0.05552725463969795,127,91,26,10
 He did say he would be working remotely.,1.361904761904762,0.054342236495790106,105,71,30,4
@@ -811,6 +815,7 @@ Oh no!  An attorney!,1.36,0.05130553639244139,125,86,33,6
 He did mention his job was out of this world.,1.359375,0.054037724455884326,128,91,28,9
 "Wow, a real hitchhiker from the galaxy.",1.359375,0.054037724455884326,128,91,28,9
 "Honey,I alienized the kids.",1.3592233009708738,0.05829999961149183,103,72,25,6
+"I know who the four guys are, but who's the alien?",1.3592233009708738,0.06450084953780219,103,76,17,10
 "Well, the adoption agency did say they were illegal aliens.",1.358974358974359,0.05879918627116085,117,85,22,10
 "Oh my gosh, it’s Harrison! We were in grade school together!",1.358974358974359,0.06003920820995564,117,86,20,11
 "We come in peace; though, our lawyer requires a binding agreement.",1.358974358974359,0.06003920820995564,117,86,20,11
@@ -832,10 +837,8 @@ Can we get them green cards?,1.3583333333333334,0.06126106295029647,120,90,17,13
 Well I guess our son misunderstood when we said  to use your law degree to help impoverished “aliens”.,1.3583333333333334,0.05525068073567392,120,85,27,8
 Jim’s been practicing interstellar law.,1.3577981651376148,0.0618589252740011,109,80,19,10
 They're dropping off Rudy Giuliani.,1.3577235772357723,0.06013233584616524,123,92,18,13
-"I am open to a close encounter, but not with a lawyer!",1.3576642335766422,0.05047777982064738,137,96,33,8
 "We’re returning this item,it’s defective.",1.3571428571428572,0.059298156576863575,112,81,22,9
 "They have a screen test at Disney today, and he’s their agent.",1.3571428571428572,0.0606394799968584,112,82,20,10
-These are the Four Moonbeams. You used one of their songs in your tire store commercial without permission.,1.3565891472868217,0.05906085254911154,129,97,18,14
 "Honey, it's Norman!  He looks so good in a suit.",1.3565217391304347,0.061992475550182564,115,86,17,12
 "If the choice is forced abduction or litigation, I vote for abduction.",1.3565217391304347,0.054108550313787404,115,80,29,6
 "They've sent Martian, Martian, Martian, Martian & Marshall.",1.3565217391304347,0.054108550313787404,115,80,29,6
@@ -872,12 +875,10 @@ I didn’t know he was bringing the kids,1.3533333333333333,0.046474516523092355
 What is the statute of limitations in light years?,1.3529411764705883,0.058531599424116995,102,72,24,6
 It looks like you're also going to be probed by the taxman!,1.3525179856115108,0.05192901701460582,139,100,29,10
 This is bad.  They came with a lawyer.,1.3525179856115108,0.05580036260029561,139,104,21,14
-"We paid your tuition, you don’t call us, and now this is the crowd you’re running around with?",1.3523809523809525,0.05896070644875562,105,75,23,7
 "If they brought a lawyer, it’s a hostile takeover.",1.352,0.05594467312991382,125,91,24,10
 We plan to take by force all of this planet's natural resources. McCrimmon will handle the paperwork,1.352,0.05594467312991382,125,91,24,10
 I didn't think making first contact with our new accountant would be this exciting.,1.3518518518518519,0.05929494425725719,108,78,22,8
 "Uh-Oh, it’s worse than an invasion to wipe us out. They want to litigate.",1.3517241379310345,0.053184989890847245,145,107,25,13
-Musk made it to Mars.,1.3515625,0.0561102197516701,128,94,23,11
 You can always spot the Air Marshall.,1.3508771929824561,0.05707573493843728,114,82,24,8
 Do you suppose their people want to talk to our people?,1.3508771929824561,0.05569904957571332,114,81,26,7
 "Since they came to negotiate, let's go ahead and ask for the ship. They can have this planet.",1.3508771929824561,0.05707573493843728,114,82,24,8
@@ -938,8 +939,8 @@ Take us to your leader or legal representative.,1.34375,0.05369870286120865,128,
 Their leader’s a tax auditor. This can’t be good.,1.34375,0.054832309681786796,128,94,24,10
 I wasn't frightened until I saw they brought their attorney,1.3435114503816794,0.05283617015694881,131,95,27,9
 "Uh oh, they’re litigious.",1.3435114503816794,0.05171287136446542,131,94,29,8
+Take us to your representative.,1.3434343434343434,0.0644684210784666,99,74,16,9
 "Don’t worry , they are just Mars’ s version of the Beatles",1.3434343434343434,0.06284929795204205,99,73,18,8
-"I know who the four guys are, but who's the alien?",1.3431372549019607,0.06307819031505105,102,76,17,9
 No question--it's a hostile takeover.,1.3431372549019607,0.0615200864162015,102,75,19,8
 Space aliens never concern me so much as guys with briefcases...,1.3431372549019607,0.06459872409101206,102,77,15,10
 "Maybe we should have said, from anywhere in the “world”instead of “universe”, in the adoption form.",1.3431372549019607,0.05484681202765845,102,71,27,4
@@ -1024,6 +1025,7 @@ Take us to your best sci-fi movie producer.,1.3333333333333333,0.054288528498704
 I wonder if he billed for his travel time.,1.3333333333333333,0.05965885891765365,102,75,20,7
 Our Harold—accountant to the stars!,1.3333333333333333,0.05428951483655598,129,96,23,10
 """At least it seems as if they're willing to negotiate the terms of our surrender.""",1.3333333333333333,0.054799662435119106,111,80,25,6
+"Wow, Dennis has really made a name for himself the field of mergers and acquisitions.",1.3333333333333333,0.05257335815637598,135,100,25,10
 They must be a far more advanced civilization than us…they only brought one lawyer!,1.3333333333333333,0.055249462010983,105,75,25,5
 Call 911 and report we spotted a lawyer.,1.3333333333333333,0.056938289043578914,117,87,21,9
 The death rays we can handle. But the litigation….,1.3333333333333333,0.0493187035882402,114,79,32,3
@@ -1072,14 +1074,12 @@ Never fly standby.”,1.3295454545454546,0.05987096650613739,88,63,21,4
 You couldn’t find a job closer to home?,1.3295454545454546,0.06201423748005561,88,64,19,5
 I knew Fred had a new carpool but this is out of this world.,1.3294117647058823,0.06348478565417674,85,62,18,5
 You had children while up there?,1.3286713286713288,0.04939925102463513,143,105,29,9
-"Wow, Dennis has really made a name for himself the field of mergers and acquisitions.",1.328358208955224,0.05272947178584024,134,100,24,10
 More foreign investors looking for New York City real estate and acting like they own the place.,1.328358208955224,0.050556458475111025,134,98,28,8
 I bet they're here to get a restraining order on Elon Musk.,1.328125,0.05215505232734137,128,94,26,8
 "This is scary, they have a lawyer.",1.328,0.05051476947867693,125,90,29,6
 Looks like they brought their immigration lawyer.,1.328,0.05877897363798966,125,97,15,13
 They really mean business.,1.3277310924369747,0.05351781600318351,119,87,25,7
 What was the name of that adoption agency again?,1.3277310924369747,0.05859928363845082,119,91,17,11
-This is going to cost us.,1.3275862068965518,0.05713796405960216,116,87,20,9
 "Sir, you can't park there.",1.3272727272727274,0.06072826156721401,110,84,16,10
 I recognize him. He’s a notorious UFO chaser.,1.3272727272727274,0.05791640881641668,110,82,20,8
 Where do you report an unindemnified flying object?,1.3272727272727274,0.05496088670504373,110,80,24,6
@@ -1094,7 +1094,6 @@ What? You couldn't call ahead?,1.3271028037383177,0.05905220506205324,107,80,19,
 For the last time Lauren Boebert lives 3 houses down.,1.3269230769230769,0.05867962740975496,104,77,20,7
 He said he needed to be back by tax season.,1.3267326732673268,0.05820569685821413,101,74,21,6
 "Their planet must not be any more intelligent than ours. They have lawyers too.""",1.3265306122448979,0.05940923520693788,98,72,20,6
-Take us to your representative.,1.3265306122448979,0.06285096736982557,98,74,16,8
 So much for them coming in peace!,1.3263157894736841,0.06426796028840678,95,72,15,8
 Their alien lawyer makes this really bad - a close encounter of the legal kind!,1.3263157894736841,0.06426796028840678,95,72,15,8
 It looks like E T phoned his lawyer!,1.3258426966292134,0.06142519325499753,89,65,19,5
@@ -1111,10 +1110,12 @@ I bet the last one is an illegal alien.,1.3252032520325203,0.05226565457787646,1
 I have been sent here to advise you that your automobile warranty has run out,1.3247863247863247,0.05800121423805442,117,89,18,10
 I wondered when Larry would figure out he got in the wrong carpool.,1.3247863247863247,0.056716652199869426,117,88,20,9
 Oh no! It's my ex!,1.3247863247863247,0.05267534516049945,117,85,26,6
+This is going to cost us.,1.3247863247863247,0.056716652199869426,117,88,20,9
 I know they’re calling it a “leveraged buyout” but it still feels like an invasion.,1.3247863247863247,0.056716652199869426,117,88,20,9
 My clients wish to file a copyright infringement action against the makers of the Mars bar.,1.3243243243243243,0.05746795163156267,111,83,20,8
 He must be a resident alien.,1.323943661971831,0.050518533658425714,142,106,26,10
 "Oh, no.  Elon Musk is finally going to have to go back home!",1.3238095238095238,0.06126750044558263,105,80,16,9
+I hate it when your brother invites his friends for a visit.,1.3235294117647058,0.059379050331776956,102,76,19,7
 They claim they invented Bitcoin. And they brought a lawyer!,1.3235294117647058,0.059379050331776956,102,76,19,7
 Can't be sure. This cartoon's black and white.,1.3235294117647058,0.059379050331776956,102,76,19,7
 Well ...HELLO STRANGERS!!!,1.3235294117647058,0.05601426154805489,102,74,23,5
@@ -1137,6 +1138,7 @@ The NRA seems pretty desperate to prove guns are an inalienable right …,1.3220
 "I see the lasers, but they don't look Jewish!",1.3218390804597702,0.06224494146666465,87,64,18,5
 I heard his fees are out of this world.,1.3218390804597702,0.06640067131371775,87,66,14,7
 "Oh, Oh!  It looks like a hostile takeover!",1.3217391304347825,0.05460883168857889,115,85,23,7
+They can't be all that intelligent if they've got a lawyer with them,1.3217391304347825,0.05598821125637305,115,86,21,8
 We’re in trouble now.  Lawyers are involved.,1.3217391304347825,0.05460883168857889,115,85,23,7
 "I think you're mistaken, Harvey. Those are legal aliens.",1.3217391304347825,0.057334414630176335,115,87,19,9
 And you thought the British Invasion was exciting!,1.3217391304347825,0.05460883168857889,115,85,23,7
@@ -1159,6 +1161,7 @@ He always was more follower than leader.,1.3203125,0.05194730842979638,128,95,25
 The scariest one is the IRS agent.,1.32,0.060100925218512326,100,75,18,7
 They brought a space suit.,1.32,0.05400119472991374,125,94,22,9
 Resident aliens travel business class?,1.32,0.061758735529003614,100,76,16,8
+I'm more worried about the government probe.,1.32,0.05839607015973771,100,74,20,6
 I knew gerrymandering would lead to this.,1.32,0.060100925218512326,100,75,18,7
 We're looking for Sidney Powell and Mike Lindell.,1.319672131147541,0.05614446286399283,122,93,19,10
 Looks like the alien conquest will be through eminent domain!,1.319672131147541,0.051090789020631744,122,89,27,6
@@ -1193,7 +1196,7 @@ You’re in a no-parking zone,1.3176470588235294,0.06309426655597127,85,63,17,5
 Dick from legal has already told me he is doing some pro bono work for undocumented aliens.,1.3174603174603174,0.04995336701656113,126,92,28,6
 They're not friendlies...they brought a lawyer.,1.3174603174603174,0.04995336701656113,126,92,28,6
 Bill never misses a chance to sell insurance.,1.3173076923076923,0.05997326868577731,104,79,17,8
-I hate it when your brother invites his friends for a visit.,1.316831683168317,0.05958718227061813,101,76,18,7
+We'd like to volunteer to be abducted.,1.316831683168317,0.05958718227061813,101,76,18,7
 "Oh my God, it's a Republican!",1.316831683168317,0.0628225428879814,101,78,14,9
 "Well you didn’t want to adopt an 
 American Baby",1.316831683168317,0.05958718227061813,101,76,18,7
@@ -1210,7 +1213,6 @@ You idiot - we told you we wanted to put 'a lien' on this property.,1.3162393162
 I guess the IRS is taking this audit seriously...,1.3162393162393162,0.052423681282471074,117,86,25,6
 "It must be a ""hostile takeover.""",1.3157894736842106,0.05476203545238053,114,85,22,7
 Death. Taxes. Lawyers.,1.3157894736842106,0.06545529160062324,76,56,16,4
-They can't be all that intelligent if they've got a lawyer with them,1.3157894736842106,0.05616169443680241,114,86,20,8
 How was your first day back at the office?,1.3157894736842106,0.06217980987282059,95,72,16,7
 Now I'm scared - they brought a lawyer.,1.3157894736842106,0.057527309315991336,114,87,18,9
 He’s here in case this becomes a hostile takeover,1.3157894736842106,0.05651934410995645,95,69,22,4
@@ -1242,7 +1244,6 @@ Jonathan told us that he wasn’t going to law school to get a corporate job but
 I never knew your brother had such a long commute.,1.3131313131313131,0.05857946069317299,99,74,19,6
 Guess who’s coming to dinner.,1.3131313131313131,0.06363947206695512,99,77,13,9
 They saw his ad on television.,1.3131313131313131,0.06031331758731996,99,75,17,7
-I'm more worried about the government probe.,1.3131313131313131,0.05857946069317299,99,74,19,6
 Was that man with them when we dropped them off at summer camp?,1.3130434782608695,0.055738872208752475,115,87,20,8
 Looks like they mean business.,1.3125,0.05816705018441048,112,86,17,9
 "Seriously, how do Aliens get somebody from Human Resources!",1.3125,0.05794829062159566,96,71,20,5
@@ -1383,7 +1384,6 @@ I guess they didn’t think they could get a fair trial on Mars .,1.301075268817
 You said your ex was out of this world but you never mentioned he was a Martian.”,1.3009708737864079,0.058268288975688365,103,79,17,7
 This is scary - they brought their lawyer!,1.3008849557522124,0.05316314927886814,113,85,22,6
 "Wow, witness protection has really upgraded",1.3,0.055754948051358985,90,66,21,3
-We'd like to volunteer to be abducted.,1.3,0.057735026918962574,100,76,18,6
 They probably want us to sign an NDA.,1.3,0.05222329678670935,100,73,24,3
 Here he comes with the brood. I knew he had a second wife and kids somewhere out there.,1.3,0.05595813731096785,100,75,20,5
 "I’m more frightened by the lawyer, honestly.",1.3,0.0611340636419152,100,78,14,8
@@ -1414,6 +1414,7 @@ I suppose we count as an offshore investment for them,1.297872340425532,0.060179
 I think one of them is a legal alien.,1.297872340425532,0.06205101781007094,94,73,14,7
 Which one is your brother?,1.297872340425532,0.06205101781007094,94,73,14,7
 Did I ever mention that I had my ex's attorney abducted?,1.297872340425532,0.060179300526514684,94,72,16,6
+They must be expecting us to cede Earth. They brought a lawyer,1.297872340425532,0.060179300526514684,94,72,16,6
 He told me he would be out of cell phone range today.,1.297872340425532,0.0562493290008888,94,70,20,4
 This is what you did with your art history degree?,1.2976190476190477,0.06937918688892442,84,67,9,8
 We represent the planet SPAM. Why won't you ever take our calls?,1.2975206611570247,0.05460177407986424,121,94,18,9
@@ -1663,6 +1664,7 @@ It's time we defunded the aliens.,1.28,0.06168796807648479,75,57,15,3
 "Upon his return home from fantasy camp, Bob’s friends couldn’t believe how relaxed he looked.",1.28,0.05333333333333333,100,76,20,4
 Did they say take me to your lawyer?..,1.2796610169491525,0.049458304571739664,118,90,23,5
 Just another ZOOM meeting.,1.2795698924731183,0.05589509516788062,93,71,18,4
+He’s their HR representative. He’s here to make sure the only thing probing are their questions.,1.2795698924731183,0.05589509516788062,93,71,18,4
 "Oh dear,they brought their lawyer.",1.2795698924731183,0.05794838871377718,93,72,16,5
 I thought they were more advanced,1.2795698924731183,0.05589509516788062,93,71,18,4
 I couldn't wait till next week so I went with same day delivery.,1.2795698924731183,0.06371246366773757,93,75,10,8
@@ -1670,7 +1672,6 @@ I didn't know Joe was made a partner at Xzlblorg and Zort.,1.2795698924731183,0.
 Business as usual I see!,1.2795698924731183,0.05589509516788062,93,71,18,4
 "It appears they really want ""To Serve Man"".",1.2795698924731183,0.06185082001005478,93,74,12,7
 I think he’s your father.,1.2795698924731183,0.05993137613320426,93,73,14,6
-They must be expecting us to cede Earth. They brought a lawyer,1.2795698924731183,0.05794838871377718,93,72,16,5
 Take us to your agent.,1.2795698924731183,0.053763440860215075,93,70,20,3
 He must handle the licensing.,1.2795698924731183,0.05794838871377718,93,72,16,5
 You should ask them for the name of their barber.,1.2790697674418605,0.06111405943077911,86,67,14,5
@@ -1850,6 +1851,7 @@ I hope they like pizza.,1.271604938271605,0.06576319676747686,81,65,10,6
 Is this about the star you bought me?,1.2714285714285714,0.07314703016046159,70,57,7,6
 "Honey, I think they're planning to adopt us legally!",1.2714285714285714,0.06409564725042378,70,54,13,3
 "At this point with the world as is, this is a surprisingly normal thing to see.",1.2710280373831775,0.05722386942722666,107,86,13,8
+The lawyer says they want 35 per cent of the Area 51 merchandise sales and 50 per cent of the box office revenues of the x-files movie,1.2708333333333333,0.05634940858565614,96,75,16,5
 But we don't have a leader.,1.2708333333333333,0.05634940858565614,96,75,16,5
 See? I told you the sixties were coming back.,1.2708333333333333,0.054368718969083525,96,74,18,4
 "Clearly, the era of remote work is over",1.2708333333333333,0.06191244289151675,96,78,10,8
@@ -1871,6 +1873,7 @@ Forget the lasers. The tall one at the back is carrying a briefcase. Watch him.,
 Space is the one place where the White Guy is at the end of the line.,1.2702702702702702,0.0674749457727343,74,59,10,5
 Where are the cute ones like  from Close Encounters?,1.2702702702702702,0.06467329479845493,74,58,12,4
 So much for your Human Resources Department's commitment to diversity!,1.27,0.052905480802936666,100,77,19,4
+They said they had enough points to travel intergalactically and here they are!!!!,1.27,0.056595320504705185,100,79,15,6
 Don't you think it's strange our son travels with an attache case and no luggage?,1.2698412698412698,0.06482221622648096,63,48,13,2
 We have your husband.  We're from France.,1.2696629213483146,0.05709167972413532,89,69,16,4
 We come from Planet Trump.,1.2696629213483146,0.059285938540571494,89,70,14,5
@@ -1967,7 +1970,6 @@ Litigious invaders from Mars!,1.2637362637362637,0.058125301128664125,91,72,14,5
 They've lawyered up.  Now we're in trouble.,1.2637362637362637,0.062184814220984624,91,74,10,7
 I'd say they are either going to sue or settle.,1.2636363636363637,0.045985225765485874,110,83,25,2
 "In retrospect, I should have signed the pre-nup.",1.263157894736842,0.06587713458076698,76,61,10,5
-The lawyer says they want 35 per cent of the Area 51 merchandise sales and 50 per cent of the box office revenues of the x-files movie,1.263157894736842,0.05641496850082867,95,75,15,5
 He must have passed the Milky Way Bar.,1.263157894736842,0.05836619601004484,95,76,13,6
 They don’t faze me.  I’m worried about their lawyer.,1.263157894736842,0.05641496850082867,95,75,15,5
 This is not what I meant when I encouraged him to be a world traveler.,1.263157894736842,0.05733380574866034,76,58,16,2
@@ -2016,7 +2018,6 @@ Corporate raiders come in all varieties but you can always spot the accountant,1
 Oh no! It's the four spacemen of the apocalypse and their agent,1.2608695652173914,0.04855672626819284,92,69,22,1
 They've come to sue Hollywood for defamation.,1.2608695652173914,0.05095730771070601,92,70,20,2
 He's a lawyer... he's used to being probed.  Maybe he even liked it.,1.2608695652173914,0.07047571248232014,69,56,8,5
-He’s their HR representative. He’s here to make sure the only thing probing are their questions.,1.2608695652173914,0.053249777017025594,92,71,18,3
 We don't have a chance--they've retained an attorney.,1.2608695652173914,0.06072934769429053,69,53,14,2
 Are you sure this is our UberPool?,1.2608695652173914,0.055447545442538,92,72,16,4
 The one in back looks like trouble!,1.2608695652173914,0.05756146140293596,92,73,14,5
@@ -2209,7 +2210,6 @@ Told you this would be an other-worldly experience.,1.2527472527472527,0.0554555
 Why am I more worried about the guy in the suit?,1.2526315789473683,0.05389305708468548,95,75,16,4
 "Oh great, now EVERYONE is moving in on those apartments the Russians are selling!",1.2526315789473683,0.05389305708468548,95,75,16,4
 "Look Harold, our son has returned at last. But which one is he?",1.2526315789473683,0.057899826713040635,95,77,12,6
-They said they had enough points to travel intergalactically and here they are!!!!,1.2525252525252526,0.05437646084102963,99,79,15,5
 I hear he bills in lightyears.,1.2524271844660195,0.0547017363040833,103,83,14,6
 I knew we shouldn't have itemized that alien tax credit last year.,1.2521739130434784,0.04916306133343397,115,91,19,5
 I'm guessing this isn't our campsite.,1.25,0.07066410175300032,68,56,7,5
@@ -2293,6 +2293,7 @@ Things really are opening up post-pandemic.,1.2470588235294118,0.060125644246543
 Now we're really in trouble.  That's an IRS agent!,1.2470588235294118,0.05527086941984991,85,67,15,3
 "I knew it would be trouble when your drone hit that UFO.""",1.2470588235294118,0.05774929481166006,85,68,13,4
 Maybe the man with the briefcase will know if we can adopt just one.  We'll have to build another bedroom if we need to take all four.,1.2470588235294118,0.05267596189542411,85,66,17,2
+"When George said his new job was front man for The Aliens, I thought it was a new rock n roll band.",1.2470588235294118,0.05774929481166006,85,68,13,4
 Our little space cadet is all grown up!,1.2470588235294118,0.060125644246543875,85,69,11,5
 Pluto's outsourcing legal these days.,1.2470588235294118,0.05774929481166006,85,68,13,4
 "Zeke, this is not what we sent you to law school for!",1.2470588235294118,0.05527086941984991,85,67,15,3
@@ -2496,7 +2497,6 @@ The tax man does get around.,1.2386363636363635,0.05597599449516393,88,71,13,4
 Could y’all give us a minute? We’re in the middle of something.,1.2386363636363635,0.05826272375692998,88,72,11,5
 Complaining is universal.,1.2380952380952381,0.05519237627642364,84,67,14,3
 He just for scaring us.  He’s only carrying their lunch.,1.2380952380952381,0.057732660874787296,84,68,12,4
-"When George said his new job was front man for The Aliens, I thought it was a new rock n roll band.",1.2380952380952381,0.057732660874787296,84,68,12,4
 Where are the other three?,1.2380952380952381,0.06284876358057999,63,50,11,2
 """That's what you get for creating a story entitled ""Teenage space aliens made me pregnant.",1.2380952380952381,0.057732660874787296,84,68,12,4
 "Great, more foreigners coming to steal our jobs.",1.2380952380952381,0.06679820247360646,63,51,9,3
@@ -2728,6 +2728,7 @@ Um. I don't know...I still think November 2016 tops this one!,1.2297297297297298
 This way to the Capitol Building!,1.2297297297297298,0.06815736657742744,74,63,5,6
 We took him to our leader!,1.2297297297297298,0.05625383214490832,74,59,13,2
 "Sorry, we dropped him at the office. We didn’t realise he was working from home",1.2297297297297298,0.05945356909331092,74,60,11,3
+"Last week when they abducted me, they didn't realize I was a lawyer.",1.2297297297297298,0.0653849628876873,74,62,7,5
 They're suing for peace.,1.2297297297297298,0.05286076412654233,74,58,15,1
 They don't look Mexican!,1.2295081967213115,0.063562037261619,61,49,10,2
 "Last time I was abducted, they didn’t bring a lawyer.",1.2295081967213115,0.06772429895007506,61,50,8,3
@@ -3044,7 +3045,6 @@ I’m sorry Henry but I never knew my ex would return… he was always a “spac
 "Dammit, they’re not bluffing this time. They brought their lawyer.",1.2173913043478262,0.05791770780148665,69,56,11,2
 I so hoped that lawyers would evolve.,1.2173913043478262,0.055353804808394365,92,77,10,5
 They think we're Steven Spielberg.,1.2173913043478262,0.04844965507666401,92,74,16,2
-Now it’s our turn to show them what a normal marriage is like.,1.2173913043478262,0.045918161263364475,92,73,18,1
 We’re not signing another NDA. Our family cow was the final straw!,1.2173913043478262,0.05791770780148665,69,56,11,2
 Wow! They are serious about challenging their deportation orders!,1.2173913043478262,0.05791770780148665,69,56,11,2
 "Apparently, lawyering up is universal",1.2173913043478262,0.05791770780148665,69,56,11,2
@@ -3106,6 +3106,7 @@ Their death-ray guns are still in their holsters and they’ve already lawyered-
 Bosley Medical is thataway.,1.2151898734177216,0.05885107394843846,79,66,9,4
 Looks like it is time for us to bulk up on our leafy greens,1.2151898734177216,0.05305006140654649,79,64,13,2
 Oh Dear!  I think they mean business!,1.2150537634408602,0.05035976776967562,93,76,14,3
+Now it’s our turn to show them what a normal marriage is like.,1.2150537634408602,0.04548184284329831,93,74,18,1
 This looks like a REALLY hostile takeover.,1.2142857142857142,0.04811843705815134,84,67,16,1
 Looks like Niko's suing the Galactic Federation again.,1.2142857142857142,0.057168731202205635,70,57,11,2
 I hope his brief has an amicus hominum clause.,1.2142857142857142,0.056355737798860085,84,70,10,4
@@ -3143,6 +3144,7 @@ This is so Devo.,1.2134831460674158,0.056434560149382106,89,75,9,5
 Level two probing.,1.2134831460674158,0.05171203292685246,89,73,13,3
 Honey….  Didn’t TurboTax say  that 45-million mile trip to mars was tax deductible?,1.2134831460674158,0.054124827614885296,89,74,11,4
 I always said our lawyer was a bit of a space cadet.,1.2133333333333334,0.05787010410349153,75,62,10,3
+He must have the list of their rights.,1.2133333333333334,0.05787010410349153,75,62,10,3
 "alright, let me do the talking— you always say the stupidest shit around jews",1.2133333333333334,0.054667985042331564,75,61,12,2
 They're using a new type of anal probe--a lawyer!,1.2133333333333334,0.05787010410349153,75,62,10,3
 "Oh Gawd, are we going to have to sign a non-disclosure agreement?",1.2133333333333334,0.05787010410349153,75,62,10,3
@@ -3379,7 +3381,6 @@ Oh my God. I think we're being audited.,1.2054794520547945,0.05145857383371985,7
 "They’ve been sent by our Leader to certify His election, …again.",1.2054794520547945,0.05145857383371985,73,59,13,1
 What on earth did the kids do to get kicked outer space?,1.2054794520547945,0.055031830105908446,73,60,11,2
 We're light-years apart in this negotiation.,1.2054794520547945,0.055031830105908446,73,60,11,2
-"Last week when they abducted me, they didn't realize I was a lawyer.",1.2054794520547945,0.06155921809457883,73,62,7,4
 "Oh god,they",1.2054794520547945,0.05145857383371985,73,59,13,1
 They want to be sure that we don't infringe on their landing rights.,1.2054794520547945,0.05145857383371985,73,59,13,1
 "God help us, Jerry.  A lawyer!",1.2054794520547945,0.06155921809457883,73,62,7,4
@@ -3441,7 +3442,6 @@ Lawyers are lawyers even if they’re aliens.,1.2028985507246377,0.0529589513742
 "Hey, you must be the poly couple from craiglist? Cool, we- we've never done this before so thanks for meeting up. Anyway how many viable holes do each of you have?",1.2028985507246377,0.06047450247559489,69,58,8,3
 "Look, charlie's almost 18, and we've talked about seeing other planets.",1.2028985507246377,0.05684107660983553,69,57,10,2
 Wow! Open carry laws have become interplanetary!,1.2028985507246377,0.05684107660983553,69,57,10,2
-He must have the list of their rights.,1.2027027027027026,0.05765929668779837,74,62,9,3
 Check out the big brain on Brad,1.2027027027027026,0.05083431912242363,74,60,13,1
 "Their case is mostly defamatory. If we promise to stop making ""Little Green Man"" jokes, they won't obliterate all life on this planet.",1.2027027027027026,0.05765929668779837,74,62,9,3
 They must have been exposed to weed killer.,1.2027027027027026,0.060785094731168526,74,63,7,4
@@ -5566,7 +5566,6 @@ They must be here to negotiate the terms of the moon.,1.1147540983606556,0.04114
 The tall one must be the insurance company mascot,1.1145833333333333,0.03881408584823194,96,87,7,2
 I think I preferred the anal probes.,1.1142857142857143,0.0433716527952698,70,63,6,1
 Legal. Aliens.,1.1142857142857143,0.0383017178628478,70,62,8,0
-Where's your cup?,1.1142857142857143,0.0383017178628478,70,62,8,0
 I told you there was something strange about Elon and that whole Space X program,1.1142857142857143,0.0433716527952698,70,63,6,1
 I think that’s Richy at the end,1.1142857142857143,0.0383017178628478,70,62,8,0
 "Serve MAN! Denzel, McQueen, Bronson and Balboa-not this Softling.",1.1142857142857143,0.047908025853103935,70,64,4,2
@@ -5588,6 +5587,7 @@ Among other things it seems no one is alien to using lawyers,1.1129032258064515,
 "Look Joe, the Chernobyl commandoes are coming!",1.1129032258064515,0.051957141297641354,62,57,3,2
 "Those ""E.T. phone 1-800-SPACELAW"" ads are quite effective.",1.1129032258064515,0.051957141297641354,62,57,3,2
 "IRS. Ever since we started outsourcing, compliance has sky-rocketed.Bad ? I know, but they love it.",1.1126760563380282,0.04278670967729594,71,64,6,1
+Where's your cup?,1.1126760563380282,0.037792698211264054,71,63,8,0
 This doesn’t look good. They brought their lawyer””.,1.1126760563380282,0.037792698211264054,71,63,8,0
 I feel a NDA coming on !!!,1.1126760563380282,0.037792698211264054,71,63,8,0
 Speak more clearly if you want Siri to put you on the A-Line.,1.1126760563380282,0.04278670967729594,71,64,6,1
