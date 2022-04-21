@@ -13,19 +13,19 @@ The stream was on my commute but we're work-from-home now.,1.7679582063561168,0.
 Do I look like I want a bag?,1.762936221419976,0.02783251124614145,831,389,250,192
 No bag—my cubs still think I catch my own salmon.,1.7625145518044238,0.014700909047327192,2577,1096,997,484
 Obviously you haven’t stood for hours in a freezing river trying to catch one with your mouth!,1.7591822591822592,0.014321088489603968,2886,1285,1011,590
-"That didn’t come from a river where peanuts are processed, did it?",1.7580266249021144,0.015725652780257632,2554,1190,792,572
+"That didn’t come from a river where peanuts are processed, did it?",1.7581213307240704,0.01571978200720763,2555,1190,793,572
 Can I get a discount? This fish is dead.,1.7570128885519334,0.01527564691374511,2638,1210,859,569
 Don't bother with the bag -- I'll eat it in the car.,1.7533482142857142,0.01454245940712944,2688,1177,997,514
 Some blonde ate all my porridge.,1.7508361204013378,0.02362564295589462,1196,585,324,287
 You're sure it's wild caught?  My in-laws can tell.,1.7478260869565216,0.020751571846829603,1265,544,496,225
-I was in the mood for fast food tonight,1.7476444080294962,0.015235666453783587,2441,1077,903,461
+I was in the mood for fast food tonight,1.7473382473382473,0.015232503263047583,2442,1078,903,461
 "I was assigned omnivore at birth, but I  identify as pescatarian.",1.7376970855231724,0.01715774780506898,2093,991,660,442
 "I used to catch them myself. But by the time I fly up to Alaska and take a taxi out to the river, the carbon footprint is the same.",1.7228628230616303,0.01531938147117917,2515,1187,838,490
 Tough year….overhybernated and missed the salmon run,1.7206030150753768,0.024596017854634236,995,477,319,199
 I’d appreciate the ‘Endangered Species’ discount,1.717754651529486,0.013735235922420715,3171,1522,1022,627
 The airline said I could check one emotional support animal.,1.7166970802919708,0.016957671073711288,2192,1089,635,468
 "If my wife asks, you never saw me.",1.7164616285881664,0.018332997540907028,1707,800,591,316
-When I said Holy Mackerel...I meant the price,1.7147766323024054,0.015073792581801516,2619,1259,848,512
+When I said Holy Mackerel...I meant the price,1.714503816793893,0.015070507666049709,2620,1260,848,512
 I find my odds are much better at catching them here.,1.7137274059599414,0.01636936981504223,2047,938,757,352
 "... it's the standing in the river getting my feet wet I can't stand, you know?""",1.713186813186813,0.02463828824115717,910,419,333,158
 This is the only place I can get wild-caught anymore.,1.711318795430945,0.014059489377393668,2889,1362,999,528
@@ -446,6 +446,7 @@ Save the bag. I'm going to eat it now,1.4101382488479262,0.044900778099783586,21
 "It's okay, I don't need the bag--I want my wife to think I caught it with my bear hands.",1.4090909090909092,0.051769172540246086,176,124,32,20
 "Don't wrap it up, I'll eat it here.",1.4088669950738917,0.04446214561890596,203,136,51,16
 Is it farm raised or wild? I only eat wild.,1.4086956521739131,0.042599821613620484,230,156,54,20
+It was my son’s first catch. Can you mount it?,1.4086538461538463,0.04728420221785025,208,146,39,23
 Hold on. I forgot the capers.,1.4086021505376345,0.04604252250364532,186,124,48,14
 That's okay:  save the bag!,1.4082840236686391,0.0492363501182456,169,114,41,14
 "Normally, I'd just swipe my paw.",1.4082840236686391,0.047784238161731656,169,112,45,12
@@ -458,7 +459,6 @@ It's not the same as freshly caught.,1.407185628742515,0.04816500675316459,167,1
 Can you make it look like it's been in a tussle? It's a gift.,1.4065420560747663,0.04721892238920639,214,152,37,25
 "Give a bear a fish, teach a bear to fish? 
 So much easier to just buy it!",1.4060913705583757,0.04650665335699481,197,135,44,18
-It was my son’s first catch. Can you mount it?,1.4057971014492754,0.04742638834336278,207,146,38,23
 ...but I can TEACH a man to fish,1.4057142857142857,0.05002274875409975,175,121,37,17
 Could we talk about the bear claws that you're selling in aisle 4?,1.4057142857142857,0.04591499453299596,175,115,49,11
 Our ancestors used catch these with their bare teeth,1.405128205128205,0.04683898318869078,195,134,43,18
@@ -621,7 +621,6 @@ I’d also like a bagel and cream cheese.,1.3734177215189873,0.05272863906823671
 I usually get it myself but I'm trying to support local.,1.3734177215189873,0.04707366346912301,158,108,41,9
 "That's not farm-raised, right?",1.3733333333333333,0.048739518271239145,150,103,38,9
 Do you mind if I bite it first so my wife won't get suspicious?,1.3732394366197183,0.05155571454344759,142,99,33,10
-Can't wait to stop working from home.,1.373134328358209,0.0536739553132021,134,94,30,10
 "Don't juge me, it's too cold outside today.",1.3726708074534162,0.04811660572624293,161,112,38,11
 Could you please wrap it in yesterday's newspaper? It gives it that certain je ne sais quoi.,1.3726708074534162,0.05047897583423319,161,115,32,14
 I'm returning it because it smells.,1.3724137931034484,0.05265446860251198,145,103,30,12
@@ -634,6 +633,7 @@ Thank you but I won't need a bag,1.3717948717948718,0.04999416733386849,156,110,
 "Thanks, but this doesn't make up for the ice caps",1.3709677419354838,0.05305725563473507,124,85,32,7
 "Look, I gave it a try––Impossible Salmon just isn't for everyone.",1.3707865168539326,0.04764767123481959,178,127,36,15
 Could you wrap it please? It's a gift.,1.3706293706293706,0.05221228297708195,143,101,31,11
+Can't wait to stop working from home.,1.3703703703703705,0.0533465372759104,135,95,30,10
 I trust that's sustainably sourced.,1.3703703703703705,0.05734183740851239,135,99,22,14
 "I have to return these, my wife said 'slippers' not 'kippers'",1.37012987012987,0.05042161490620353,154,109,33,12
 I ate two more in the store,1.36986301369863,0.056686742178345684,146,109,20,17
