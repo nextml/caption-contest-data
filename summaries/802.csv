@@ -1,72 +1,72 @@
 caption,mean,precision,votes,not_funny,somewhat_funny,funny
-It was so much easier when everyone was still working from home.,1.8974504249291784,0.01897022018302113,1765,660,626,479
-Be careful. It's hot.,1.8938271604938273,0.015567225003550247,2835,1140,856,839
-I'm surprised you didn't order wings.,1.8786078098471986,0.016602009804080983,2356,925,792,639
-This is from the ladies over there on the 40th floor balcony,1.8328736900165472,0.013395854552681922,3626,1533,1166,927
-We usually don’t deliver above 82nd Street.,1.8239355581127732,0.012280084470465018,4345,1873,1364,1108
-Separate checks?  Really?,1.8043103448275861,0.01675947507712706,2320,1027,720,573
-John will pay you.  That's John on the end.,1.8,0.01963772544667328,1605,689,548,368
-Funny how we never get the same delivery guy.,1.7998350288699478,0.013246056440847127,3637,1597,1171,869
-"Nice try, but I still made it in under 30 minutes.",1.7905909351692484,0.01872463945016377,1743,753,602,388
-"When you guys called saying you were high and craving pizza, I was picturing something else.",1.7895123744180348,0.0126636178250171,4081,1855,1230,996
-I'd appreciate it if you didn't tip me.,1.7863720073664826,0.01908199629530625,1629,694,589,346
-You guys are fearless - pineapple AND anchovies?!,1.783946251768034,0.015034029813531502,2828,1275,889,664
-Why aren't you guys getting the large anymore?  And where's Frank?,1.782172131147541,0.011657138530078198,4880,2265,1413,1202
-"No five second rule for you guys,am I right?",1.7801608579088473,0.018344491530373395,1865,835,605,425
-…So what’s the second fastest way down?,1.7694786174575279,0.013423515762846136,3414,1534,1133,747
+It was so much easier when everyone was still working from home.,1.896045197740113,0.01895400822405248,1770,664,626,480
+Be careful. It's hot.,1.8934224410833627,0.015545978934252419,2843,1144,858,841
+I'm surprised you didn't order wings.,1.8775942397289285,0.016579529075658617,2361,928,794,639
+This is from the ladies over there on the 40th floor balcony,1.8323237885462555,0.013385520560626597,3632,1537,1167,928
+We usually don’t deliver above 82nd Street.,1.8232183908045978,0.012271879435512082,4350,1877,1365,1108
+Separate checks?  Really?,1.803010752688172,0.01673792767050365,2325,1031,721,573
+Funny how we never get the same delivery guy.,1.7999451152579582,0.013240194072265938,3644,1601,1171,872
+John will pay you.  That's John on the end.,1.7992541951522685,0.01962200175212388,1609,692,548,369
+"When you guys called saying you were high and craving pizza, I was picturing something else.",1.789087350134573,0.012654497310477025,4087,1859,1231,997
+"Nice try, but I still made it in under 30 minutes.",1.7883295194508009,0.018698371239193483,1748,758,602,388
+I'd appreciate it if you didn't tip me.,1.7854523227383863,0.019059617465281724,1636,699,589,348
+You guys are fearless - pineapple AND anchovies?!,1.7833450952717007,0.015018718733836357,2834,1279,890,665
+Why aren't you guys getting the large anymore?  And where's Frank?,1.7820748925721301,0.011650258682562167,4887,2269,1414,1204
+"No five second rule for you guys,am I right?",1.7781934794227685,0.018309737043592747,1871,840,606,425
+…So what’s the second fastest way down?,1.7695232524129862,0.013419209999361756,3419,1537,1133,749
 "This is not what I expected when they said delivery was in
-Upper Manhattan.",1.7680081163341224,0.014448944848266032,2957,1335,973,649
-"When DoorDash said I was 800 feet away, I didn’t know it meant in this direction",1.7673559822747416,0.014752682647708416,2708,1186,966,556
-"Please, don't drop it again.",1.7654417513682565,0.021923456568462757,1279,578,423,278
-"With the delivery charge, it's $983.""",1.76328125,0.01564049367378429,2560,1176,814,570
-Would have figured you guys to be more adventurous than plain cheese.,1.758645795413178,0.01480316184482045,2747,1238,934,575
-"What do you mean, I've got the wrong address?",1.7568995889606576,0.01886328334747739,1703,773,571,359
-It IS an extra large....  Everything looks smaller from up this high.,1.752808988764045,0.018315566422369003,1691,740,629,322
-Try not to drop this one.,1.7511961722488039,0.010879121817109892,5225,2427,1671,1127
-"For the record, this isn't what we mean by free delivery within 2,000 feet.",1.7501323451561672,0.01797301927384878,1889,871,619,399
-"Sorry it took so long, I had to take the stairs",1.75,0.018805890756447206,1616,714,592,310
-"You want a tip? Don't look down""",1.748800959232614,0.019075251328854213,1668,768,551,349
-"You guys need to stop challenging our ""30 minutes or it's free"" policy.",1.745466756212223,0.01961582168059186,1489,664,540,285
-Don't look down is not exactly the tip I was hoping for.,1.73943956503555,0.015822719370053785,2391,1108,798,485
-"Napkins? Sure, be right back.",1.738438771735109,0.014801462837551951,2703,1246,918,539
-I’d actually prefer if you didn’t tip me.,1.7342465753424658,0.028703297344677248,730,342,240,148
-You ordered a pizza for… six?,1.7281956622058146,0.01664809265909508,2167,1025,706,436
-It would be safer if you were wearing masks and sitting 6 feet apart.,1.7235668789808918,0.028360630836007678,785,386,230,169
-"Please, don't tip",1.7193627450980393,0.01868659596402227,1632,758,574,300
-"No tips needed thanks,just the balance.",1.716540837336994,0.019803104804454973,1457,681,508,268
-When you said your crew was ‘pretty high’ I wasn’t expecting this,1.7155490051584377,0.020591298656251845,1357,638,467,252
-And one more thing. Can you take a picture of us?,1.711243611584327,0.022692076322772314,1174,573,367,234
-"If you drop it, it'll be on the house.",1.7107516650808754,0.0167167676657107,2102,1009,692,401
-Wait! This isn't the 64th floor?,1.7104072398190044,0.019206533785157714,1547,730,535,282
-That’ll be $22.50 and a clean pair of underpants.,1.7086614173228347,0.01922517756749253,1651,814,504,333
-Please tell me I have the right floor.,1.700122900450635,0.015191196574440267,2441,1163,847,431
-You guys are braver than I am. I’d never eat one of these.,1.6964746345657782,0.021996216443129563,1163,557,402,204
+Upper Manhattan.",1.7674654066824165,0.014435200289604587,2963,1339,974,650
+"When DoorDash said I was 800 feet away, I didn’t know it meant in this direction",1.7671333824613118,0.01473571097028134,2714,1189,968,557
+"Please, don't drop it again.",1.7628304821150855,0.021846092433908986,1286,583,425,278
+"With the delivery charge, it's $983.""",1.7621832358674463,0.015621602847854122,2565,1180,815,570
+Would have figured you guys to be more adventurous than plain cheese.,1.7586206896551724,0.014784706617103472,2755,1242,936,577
+"What do you mean, I've got the wrong address?",1.7549707602339182,0.018831309644847638,1710,779,571,360
+It IS an extra large....  Everything looks smaller from up this high.,1.7523584905660377,0.01829311359790336,1696,743,630,323
+Try not to drop this one.,1.7505257121009368,0.01087148657390172,5231,2432,1672,1127
+"For the record, this isn't what we mean by free delivery within 2,000 feet.",1.7493403693931397,0.01793066488434041,1895,874,622,399
+"Sorry it took so long, I had to take the stairs",1.7481527093596059,0.01876378374351232,1624,720,593,311
+"You want a tip? Don't look down""",1.7467144563918757,0.019033699774633137,1674,773,552,349
+"You guys need to stop challenging our ""30 minutes or it's free"" policy.",1.7456492637215528,0.019605279710147357,1494,667,540,287
+Don't look down is not exactly the tip I was hoping for.,1.7397831526271894,0.01580381192111857,2398,1111,800,487
+"Napkins? Sure, be right back.",1.7380073800738007,0.014781245690661013,2710,1250,920,540
+I’d actually prefer if you didn’t tip me.,1.7346938775510203,0.028664222807124873,735,345,240,150
+You ordered a pizza for… six?,1.7276908923643055,0.016619240682812664,2174,1029,708,437
+It would be safer if you were wearing masks and sitting 6 feet apart.,1.720606826801517,0.028265653869355666,791,391,230,170
+"Please, don't tip",1.7181208053691275,0.018649790360816317,1639,763,575,301
+"No tips needed thanks,just the balance.",1.716142270861833,0.01977407602661957,1462,684,509,269
+When you said your crew was ‘pretty high’ I wasn’t expecting this,1.7138664710198093,0.020555805717661305,1363,643,467,253
+"If you drop it, it'll be on the house.",1.710014238253441,0.016701945737785863,2107,1013,692,402
+And one more thing. Can you take a picture of us?,1.7098138747884941,0.0226075240863704,1182,578,369,235
+Wait! This isn't the 64th floor?,1.7088688946015425,0.01914787602898996,1556,736,537,283
+That’ll be $22.50 and a clean pair of underpants.,1.707905853952927,0.019191278424040354,1657,818,505,334
+Please tell me I have the right floor.,1.6989775051124745,0.015177134549222938,2445,1167,847,431
+You guys are braver than I am. I’d never eat one of these.,1.6957264957264957,0.021928386618497806,1170,561,404,205
 "This time, don’t drop it.",1.688927943760984,0.016477029280288057,2276,1167,650,459
 Our ad does say we deliver above 14th Street.,1.6849848550411077,0.0162442068875136,2311,1183,673,455
-"It will be a total of 80 dollars. Ten for the pizza, fifty for the delivery, and twenty for a new pair of pants.",1.6821917808219178,0.02843443339278896,730,368,226,136
 You guys are fearless! Nobody orders Chicago pizza here in Brooklyn.,1.6809386578839027,0.01654158024176,2429,1318,568,543
-"No, I'm not afraid of heights. It's the subway that scares me.",1.6804692891649413,0.01966107636358003,1449,711,490,248
-Why can’t you just have lunch pails like those guys in the picture,1.6736276849642004,0.018166542773521487,1676,826,571,279
+"It will be a total of 80 dollars. Ten for the pizza, fifty for the delivery, and twenty for a new pair of pants.",1.6798365122615804,0.02832839569494656,734,371,227,136
+"No, I'm not afraid of heights. It's the subway that scares me.",1.6781056966369252,0.019612954347912423,1457,718,490,249
+Why can’t you just have lunch pails like those guys in the picture,1.6736152471709351,0.018160153799673787,1679,828,571,280
 Here's yesterday's order.,1.6728506787330317,0.017225066752567783,2210,1204,525,481
 I prefer the word ‘gratuity’.,1.6709677419354838,0.017834909195711124,2015,1086,506,423
 Did you guys get the word that it's safe to eat indoors now?,1.6706827309236947,0.01782376462730612,1992,1066,516,410
-"You know what, don't worry about tipping.",1.670232850849591,0.018193178006001395,1589,766,581,242
+"You know what, don't worry about tipping.",1.670219435736677,0.01816085139101298,1595,769,583,243
 This pizza’s on me if you never order from us again.,1.6568627450980393,0.019264464255941232,1632,870,452,310
-"Five hungry men, six slices, what could go wrong?",1.6543110394842868,0.020594909380433454,1241,615,440,186
-One 'Pie in the Sky' pizza.,1.6534412955465587,0.02133468806470558,1235,635,393,207
+"Five hungry men, six slices, what could go wrong?",1.6546184738955823,0.020572488378890905,1245,617,441,187
+One 'Pie in the Sky' pizza.,1.6529126213592233,0.02132397458109075,1236,636,393,207
 You’re kidding — nobody ordered a pizza?,1.651536312849162,0.020332008163039834,1432,760,411,261
 Sorry for the delay. First 2 guys didn’t make it.,1.6474074074074074,0.021065773423779837,1350,726,374,250
 Weren’t there six of you on Monday?,1.6438746438746439,0.020649571793382185,1404,759,386,259
 "Don’t worry. If you drop it, it’s on the house.",1.63922942206655,0.022460871119844423,1142,609,336,197
 I felt safer when we were all wearing masks.,1.638516179952644,0.02205792796148365,1267,702,321,244
 They said this would be my last delivery.,1.6354515050167224,0.02227362932526616,1196,652,328,216
-just don't drop this one,1.6281179138321995,0.024278466000062657,882,454,302,126
 "You know, you can save $3 if you pick it up yourself.",1.6280193236714975,0.023555105790977866,1035,561,298,176
+just don't drop this one,1.6278280542986425,0.024237590065490738,884,455,303,126
 "Oh, wait, is this twenty-SEVEN West 34th?",1.625235404896422,0.023053495717533068,1062,573,314,175
-Could you also take our picture?,1.6239600665557403,0.03137693189839665,601,333,161,107
-Sorry for the delay. I had trouble parking - apparently there is some kind of construction in the area.,1.6239520958083833,0.02524797558113595,835,438,273,124
-"Ah, don’t read anything into this, but it’s cut into quarters.",1.6225247524752475,0.0268439507767369,808,445,223,140
-It's been a riveting experience.,1.6162943495400788,0.025291643854957177,761,387,279,95
+"Ah, don’t read anything into this, but it’s cut into quarters.",1.6228501228501229,0.026740638341925357,814,448,225,141
+Could you also take our picture?,1.6227347611202636,0.03122326218092593,607,337,162,108
+Sorry for the delay. I had trouble parking - apparently there is some kind of construction in the area.,1.6224611708482677,0.02520963678831025,837,440,273,124
+It's been a riveting experience.,1.617801047120419,0.02527520383680408,764,388,280,96
 "Don't look down"" isn't exactly the tip I was looking for.",1.6158475426278835,0.024782279323527594,997,570,240,187
 "No tip, please. Just the balance.",1.6152099886492621,0.02688934879116803,881,515,190,176
 Next time order the wings.,1.6140350877192982,0.025577641249954586,969,566,211,192
@@ -74,18 +74,18 @@ Next time order the wings.,1.6140350877192982,0.025577641249954586,969,566,211,1
 "Please do not tip me, dear GOD, no TIPPING!!!",1.608284023668639,0.025708012227668324,845,466,244,135
 The calzone is on the house—the one below us.,1.606020942408377,0.028103765444101286,764,440,185,139
 You mean this isn't the Chrysler Building?,1.6058588548601864,0.02675974283753089,751,408,231,112
-I hate to be that kind of guy but we actually ordered a margherita pizza not a pepperoni,1.6057838660578387,0.029017346494594917,657,362,192,103
+I hate to be that kind of guy but we actually ordered a margherita pizza not a pepperoni,1.6048265460030167,0.028895500999634404,663,366,193,104
 Who had the 'Build Your Own?',1.6046511627906976,0.024724198007581893,860,463,274,123
 "My mistake, fellas, this one's for the Chrysler Building.",1.6032540675844806,0.026778932137072334,799,450,216,133
 You ever notice we never have the same delivery boy twice?,1.5997536945812807,0.026798184702978588,812,464,209,139
 It's the fall special.,1.5979247730220494,0.02757321361353758,771,443,195,133
 Sorry for the wait. First two guys didn't make it.,1.5973509933774834,0.02701940944275217,755,421,217,117
 It's cold.,1.596938775510204,0.02757075445693763,784,455,190,139
+Oh the ambulance? That's for the first delivery man.,1.5953177257525084,0.02947066520924218,598,325,190,83
 "29 minutes. Nice try, fellas",1.5941828254847645,0.027444778841384358,722,402,211,109
 Oh wait ; this is for next door!,1.5941255006675568,0.02791625755876989,749,432,189,128
 Don't even think about tipping me.,1.5931972789115647,0.027343741354863782,735,412,210,113
 "If I were you guys, I think I would have ordered the wings instead!""",1.593150684931507,0.027762239977894797,730,414,199,117
-Oh the ambulance? That's for the first delivery man.,1.592964824120603,0.029425836965508174,597,325,190,82
 When you said you were high and needed a pizza delivered this is not what I envisioned.,1.5921787709497206,0.02867400053482816,716,416,176,124
 Please select contactless delivery next time.,1.58887171561051,0.02961770816648268,647,371,171,105
 I am afraid you’ll tip.,1.588235294117647,0.028847543447867635,595,320,200,75
@@ -93,14 +93,14 @@ I am afraid you’ll tip.,1.588235294117647,0.028847543447867635,595,320,200,75
 "Yes, we are a cloud-based company",1.5875968992248062,0.02945166197141215,645,368,175,102
 "I don't care if it took me longer than 30 minutes, you are not getting this for free.",1.5873715124816445,0.027922641559333064,681,379,204,98
 "When you said sixty-second floor I thought there would be a floor.""",1.5870503597122303,0.028380113320431728,695,397,188,110
-This is my pie in the sky special,1.586080586080586,0.03177565972845549,546,310,152,84
 And could you get us some napkins?,1.5857338820301783,0.02802735634945706,729,422,187,120
 That’ll be twenty bucks for the pizza. And a five hundred dollar delivery charge.,1.5853293413173652,0.029209120613018405,668,386,173,109
+This is my pie in the sky special,1.5850091407678244,0.03173560776419837,547,311,152,84
 Watch out; it's hot!,1.584033613445378,0.027373446619569884,714,401,209,104
 Please don’t tip. Please don’t tip.,1.583076923076923,0.029934694284404924,650,381,159,110
+I’m gonna go out on a ledge and say you ordered ‘The Works’?,1.5805825242718448,0.03178339299501931,515,287,157,71
 One floor higher and you would have been outside of our delivery zone.,1.5799373040752351,0.030067909237070336,638,374,158,106
 "Actually, I'd rather you not tip me.",1.5795981452859351,0.029005966498468247,647,369,181,97
-I’m gonna go out on a ledge and say you ordered ‘The Works’?,1.5795677799607073,0.03183337559255281,509,283,157,69
 "Yeah,we'll give you a tip; don't look down",1.5759493670886076,0.03047442734375159,632,376,148,108
 That'll be 23 bucks for the pizza and $450.00 for delivery.,1.575037147102526,0.028927984889854458,673,393,173,107
 "This is freaking me out.  Could you please put on your mask?""",1.57439446366782,0.03180218891446028,578,344,136,98
@@ -356,12 +356,12 @@ You'll like it. Our pizza is riveting.,1.445414847161572,0.0438878254649158,229,
 I just realised I left your drinks back in my car.,1.4439461883408071,0.04472978869356893,223,146,55,22
 I'll be right back with your sodas.,1.4430379746835442,0.04403993718181552,237,157,55,25
 What happened to the guy who wanted the Hawaiian?,1.4423076923076923,0.04753973389163887,208,139,46,23
-"Skip the tip, just tell me how to get out of this alive.",1.441860465116279,0.050301215854500037,172,112,44,16
 Do you need napkins? I have napkins in the car.,1.4414414414414414,0.046643207662614934,222,150,46,26
 Any of you know the best way down.,1.4413145539906103,0.04718031104692508,213,143,46,24
 And my wife says SHE had a tough delivery.,1.4411764705882353,0.05273968696136279,170,114,37,19
 "$20 bucks for the pizza, $500 for delivery",1.440909090909091,0.04826414326979194,220,152,39,29
 "Sorry to make you go back, but I ordered a gluten-free crust.",1.4396135265700483,0.045684032659855385,207,135,53,19
+"Skip the tip, just tell me how to get out of this alive.",1.439306358381503,0.050074791744100226,173,113,44,16
 No. No one here ordered a pizza.,1.4389140271493213,0.04808666148617483,221,153,39,29
 Now I know why you ordered wings with this.,1.4389140271493213,0.04678590607359254,221,150,45,26
 We have the highest ratings in the city.,1.438095238095238,0.047179562292284455,210,141,46,23
@@ -670,12 +670,12 @@ I'll be back in a minute with your sodas,1.3706293706293706,0.05406578036205481,
 "We are so high, we thought pizza sounded so good.",1.3703703703703705,0.054372891764588364,135,96,28,11
 What do you mean you don't have any money?,1.3703703703703705,0.052300045122509735,135,94,32,9
 This definitely was not covered during the DoorDash orientation.,1.3703703703703705,0.056369566238092764,135,98,24,13
-"My car is double parked, what's the fastest way down?",1.3703703703703705,0.0533465372759104,135,95,30,10
 "Well, when you ordered, you did say that you were 'high' and 'had the munchies,' but we thought...",1.369942196531792,0.04721142359654079,173,122,38,13
 Isn’t pizza the best when you’re high?,1.3692307692307693,0.05792934805901771,130,95,22,13
 Can you break a hundred?,1.3687943262411348,0.0555084698464484,141,103,24,14
 The guarantee is only good for 30 stories or less.,1.3680981595092025,0.04842208762148067,163,115,36,12
 Not that kinda tip!!!,1.367741935483871,0.05259846619333163,155,113,27,15
+"My car is double parked, what's the fastest way down?",1.3676470588235294,0.05302281287447043,136,96,30,10
 We ordered extra pepperoni.,1.3674698795180722,0.047800981378163174,166,117,37,12
 "Here ya go, Mike. How come only 5 slices this time?",1.3671875,0.059599109532252253,128,95,19,14
 "Just don't tip me.""",1.3669064748201438,0.05417015489718928,139,100,27,12
@@ -866,7 +866,6 @@ Sorry. I dropped the napkins.,1.3407407407407408,0.04950050444819818,135,96,32,7
 "Hi guys! Next time, feel free to call our competitor if you want it delivered...",1.3405797101449275,0.05393279236618936,138,103,23,12
 Two secs please. I forgot the breadsticks in the car.,1.3404255319148937,0.0511566195106865,141,103,28,10
 One pie in the sky?,1.3404255319148937,0.04913619312252135,141,101,32,8
-We'll give you the old lunchboxes back when the photo shoot starts again,1.3404255319148937,0.06515067359448462,94,70,16,8
 "NO! Thanks, but I don’t wanna tip.",1.3402777777777777,0.05589144285371467,144,111,17,16
 "Napkins? Ah . . . okay, I'll be right back.",1.3402777777777777,0.04844432482003723,144,103,33,8
 We forgot to slice it. Is that OK?,1.34,0.05166576458763631,150,112,25,13
@@ -887,6 +886,7 @@ Fred 's coming back tomorrow,1.338235294117647,0.05029389468538535,136,98,30,8
 "Sorry, guys... I forgot the napkins.",1.3380281690140845,0.05085162649961921,142,104,28,10
 Can you crop me out of the photo? I don’t want my ex-wife to know I’m delivering pizzas now….,1.337837837837838,0.048468031036423526,148,107,32,9
 Oh this is nothing; yesterday I had to deliver to Escher.,1.3368421052631578,0.07271802959957198,95,76,6,13
+We'll give you the old lunchboxes back when the photo shoot starts again,1.3368421052631578,0.06456075433401327,95,71,16,8
 "Actually, as it turns out, we will not be needing that sixth slice.",1.3365384615384615,0.0635203520440557,104,79,15,10
 Tip what you like but hazard pay is $100 apiece,1.3363636363636364,0.05957490883485279,110,82,19,9
 Feel free to pass the tip down.,1.336283185840708,0.054230945882518644,113,81,26,6
@@ -1230,7 +1230,6 @@ I forgot your breadsticks in my car. I'll be right back!,1.3,0.06408873374282763
 We also ordered some crushed red pepper.,1.3,0.05595813731096785,100,75,20,5
 "Sorry, I forgot my mask in the car.",1.3,0.054105817921403974,110,83,21,6
 "Sorry I took so long, I fell on my way up.",1.2993630573248407,0.04648775357524984,157,120,27,10
-It sure makes a change from crime-ridden neighborhoods.,1.2992125984251968,0.05038901365529013,127,96,24,7
 "Careful,the toppings are lopsided.",1.2991452991452992,0.05044008690880406,117,87,25,5
 "If you need anything else, I'll be up here forever.",1.2991452991452992,0.05188029089833095,117,88,23,6
 Is it too late to order garlic knots?,1.2990654205607477,0.05509638445623759,107,81,20,6
@@ -1256,6 +1255,7 @@ This is the guy who fell last week.,1.297029702970297,0.05178889833909709,101,74
 I might be back with your drinks.,1.297029702970297,0.06059858910138357,101,79,14,8
 Please don’t make me go back for the napkins.,1.297029702970297,0.05723765715958269,101,77,18,6
 They said on the phone that you could split the bill.,1.297029702970297,0.058942083430246386,101,78,16,7
+It sure makes a change from crime-ridden neighborhoods.,1.296875,0.05004842020641091,128,97,24,7
 "I’m used to delivering pizza to people who are high, but this is ridiculous!",1.2967032967032968,0.06151229166207569,91,70,15,6
 Is this the 12th floor?,1.2967032967032968,0.0574052396312373,91,68,19,4
 I had to eat the others to make it up the stairs.,1.2967032967032968,0.06346622936428876,91,71,13,7
@@ -1462,7 +1462,6 @@ Our policy states that we give priority to people who are isolating,1.2808988764
 "Jimmy fell off, so someone gets an extra slice.",1.280701754385965,0.053605845756251824,114,89,18,7
 That took over 30 minutes so this pizza is free,1.2804878048780488,0.0632226728850309,82,64,13,5
 You've set the pizza delivery bar pretty high.,1.2804878048780488,0.06781839434277613,82,66,9,7
-Later that day “Pizza Boy” Pete applied for early retirement..,1.2804878048780488,0.06079467282974132,82,63,15,4
 I knew I should have gone to college!,1.280373831775701,0.05277419771887758,107,82,20,5
 You might have said it was a walk-up.,1.280373831775701,0.059080105940086246,107,86,12,9
 'That will be an extra $50 for the delivery',1.28,0.056995480947921194,100,78,16,6
@@ -1503,6 +1502,7 @@ I thought the tip was included.,1.2772277227722773,0.0509684660444901,101,76,22,
 There's a prize in one of the slices.,1.2771084337349397,0.06254766742241297,83,65,13,5
 "This is gluten-free,right?",1.2771084337349397,0.060152741747275584,83,64,15,4
 "When they said to deliver it to the 13th floor, I kinda thought there'd be a building!",1.2771084337349397,0.06254766742241297,83,65,13,5
+Later that day “Pizza Boy” Pete applied for early retirement..,1.2771084337349397,0.060152741747275584,83,64,15,4
 "Sorry it’s cold, our drone’s down.",1.2767857142857142,0.05106620829941322,112,86,21,5
 Please tell me you're Matt,1.2765957446808511,0.05537719355921566,94,72,18,4
 Change?!,1.2765957446808511,0.05740569802641553,94,73,16,5
@@ -1628,7 +1628,6 @@ Did someone order some high end pizza?,1.2682926829268293,0.057679665728435664,8
 You didn't say the last 500 feet were straight up,1.268041237113402,0.051846207112077713,97,74,20,3
 Did you find the place ok?,1.268041237113402,0.047523425037592215,97,72,24,1
 "Man, I just really want to go to college",1.268041237113402,0.059557835094285284,97,78,12,7
-"Did someone order a Skyscraper Special, hold the OSHA?",1.267605633802817,0.06936836753184764,71,57,9,5
 "15% tip sounds good to me, right fellas?",1.267605633802817,0.06936836753184764,71,57,9,5
 We didn’t order it with pineapple. Maybe it was the next girder.,1.2673267326732673,0.052447218368907034,101,78,19,4
 "I don’t care how big the tip is, CALL DOMINO’S NEXT TIME!!!",1.2673267326732673,0.056095902868179386,101,80,15,6
@@ -1694,6 +1693,7 @@ Will you be needing plates and utensils?,1.264367816091954,0.06217085501930308,8
 You guys really should install an elevator.,1.2641509433962264,0.05734761328744995,106,86,12,8
 I was told I'd have to work my way up from the bottom.,1.2641509433962264,0.050694878168294905,106,82,20,4
 I’m new to the app,1.2641509433962264,0.04889045053158237,106,81,22,3
+"Did someone order a Skyscraper Special, hold the OSHA?",1.2638888888888888,0.06849904205136334,72,58,9,5
 Is tip included?,1.2638888888888888,0.07129765121435423,72,59,7,6
 Did you hold the anchovies?,1.2638888888888888,0.06849904205136334,72,58,9,5
 "You can split Ernie, Chuck, and Jimmy's slices.",1.2638888888888888,0.06558111355584914,72,57,11,4
@@ -2271,7 +2271,6 @@ I’ve heard great things about pie in the sky.,1.2345679012345678,0.05898211943
 "You will not believe what I just did to get up here. And um, what’s the quickest way down?",1.2345679012345678,0.05630495926415497,81,65,13,3
 "That took longer than 30 minutes, you know.",1.2345679012345678,0.05898211943501855,81,66,11,4
 "Sorry I’m late, a giant ape stopped me on the 34th floor girder and swiped your banana peppers.",1.234375,0.06951571243822256,64,53,7,4
-"Do you guys want plates and napkins?""",1.234375,0.06585136695439135,64,52,9,3
 I’m never asking for a raise again.,1.234375,0.06585136695439135,64,52,9,3
 Eh! Whicha youse guys is Kong? I got 'n exotic pizza here for K.Kong. S'pose to be a big tipper.,1.2340425531914894,0.05542112628612492,94,77,12,5
 "If it's not hot enough, I figure one of you guys must know a welder.",1.2340425531914894,0.053317170212019274,94,76,14,4
@@ -2335,6 +2334,7 @@ Why was I told to cut it into six equal pieces?,1.2307692307692308,0.05748380571
 "Here you go. 1/4 pepperoni, 1/4 cheese, 1/4 linguica,1/4 vegetarian. And a side of anchovies for you.",1.2307692307692308,0.057483805717545654,78,63,12,3
 I can't accept tips!,1.2307692307692308,0.057483805717545654,78,63,12,3
 "Wait, didn't you order a pizza for six? """,1.2307692307692308,0.06493055006205434,65,53,9,3
+"Do you guys want plates and napkins?""",1.2307692307692308,0.06493055006205434,65,53,9,3
 The Flying Wallendas  enjoy take out lunch.,1.2307692307692308,0.0545104355767976,78,62,14,2
 It's ok - don't worry about the tip!,1.2307692307692308,0.055048978854826666,104,87,10,7
 Thanks again Peter Parker!,1.2307692307692308,0.05200949259867792,91,73,15,3
@@ -2836,7 +2836,6 @@ Our drone is not working.,1.211111111111111,0.04868929863285581,90,73,15,2
 I thought it'd be gig servin down to earth guys . . Girder Grub,1.2105263157894737,0.060162905963095606,76,64,8,4
 Brrr. Your drinks are in my pockets.,1.2105263157894737,0.05373973370975062,95,80,10,5
 You ordered it with anchovies?  Really?,1.2105263157894737,0.060162905963095606,76,64,8,4
-This time I only dropped it three or four times.,1.2105263157894737,0.06301152630199289,76,65,6,5
 Anchovies! Nobody told me anchovies!,1.2105263157894737,0.057172528901053773,76,63,10,3
 "Ooops, forgot your soda. I'll be right back.",1.2105263157894737,0.057172528901053773,76,63,10,3
 I really hate having to double park.,1.2105263157894737,0.04707511531578504,95,77,16,2
@@ -2905,6 +2904,7 @@ You took longer than 30 minutes so we don’t owe you a dime!,1.2083333333333333
 „And mom said this job had no perspective…“,1.2083333333333333,0.04892857905103333,96,79,14,3
 "Keep 'em coming, we need more weight on the end.",1.2079207920792079,0.05135169298966313,101,85,11,5
 "Pizza for Mr. Jones, room 223",1.2077922077922079,0.0500773917035414,77,62,14,1
+This time I only dropped it three or four times.,1.2077922077922079,0.06224788477099333,77,66,6,5
 "Louis Hines says ""thank you for the photograph.""",1.2077922077922079,0.05649134587834131,77,64,10,3
 I'll be right back with the napkins.,1.2077922077922079,0.05943934436721713,77,65,8,4
 The last guys I delivered to were even higher.,1.2077922077922079,0.05649134587834131,77,64,10,3
@@ -3342,7 +3342,6 @@ Really hope 1 of you ordered 1 slice,1.1927710843373494,0.052718713991964566,83,
 I forgot plates and napkins,1.1927710843373494,0.04985383079259017,83,69,12,2
 Anyone else love drinking piss?,1.1927710843373494,0.05802567987975032,83,72,6,5
 "Guys, I know you love pizza, but please have other plans for dinner",1.1927710843373494,0.052718713991964566,83,70,10,3
-"Damn, I forgot your drinks.",1.1923076923076923,0.05179975117387881,78,65,11,2
 The first to finish jumps!,1.1923076923076923,0.05179975117387881,78,65,11,2
 It was much easier getting up here the second time around.,1.1923076923076923,0.054920074241356344,78,66,9,3
 "Sorry it’s cold, the elevator hasn’t arrived yet.",1.1923076923076923,0.05179975117387881,78,65,11,2
@@ -3415,6 +3414,7 @@ Brown Pants Pizza,1.1904761904761905,0.06342802710311082,63,54,6,3
 A tip? Hmmm ... Plant your tomatoes early.,1.1904761904761905,0.052137859745800555,84,71,10,3
 "One slice, each.",1.19,0.04648231987117319,100,84,13,3
 I'll keep the balance.,1.1898734177215189,0.05119775815863599,79,66,11,2
+"Damn, I forgot your drinks.",1.1898734177215189,0.05119775815863599,79,66,11,2
 I'll be right back with the side of ranch.,1.1898734177215189,0.05119775815863599,79,66,11,2
 Apologies - it's only been sliced into four pieces!,1.1898734177215189,0.05119775815863599,79,66,11,2
 "Sorry , matey, no money on us for a tip",1.1898734177215189,0.04792327717974918,79,65,13,1
@@ -3797,7 +3797,6 @@ Flip him a tip will ya Jim?,1.178082191780822,0.052857702752466776,73,62,9,2
 My grandfather says that back in 1932 there were eleven of you. What happened?,1.178082191780822,0.05634229533905509,73,63,7,3
 "It's free, I couldn't get here within 30 minutes.",1.178082191780822,0.052857702752466776,73,62,9,2
 Just the one pizza? I feel like you guys have been up here since 1929... no bread sticks?,1.178082191780822,0.052857702752466776,73,62,9,2
-"With a nice tip, this could be the high point of my day.",1.178082191780822,0.052857702752466776,73,62,9,2
 "Hold this, I have to go back and get the sodas!",1.178082191780822,0.052857702752466776,73,62,9,2
 "We were out of sausage, so I hope everybody's OK with pineapple.",1.178082191780822,0.05634229533905509,73,63,7,3
 I need to get a real job.,1.178082191780822,0.0491265634505708,73,61,11,1
@@ -3876,6 +3875,7 @@ Guess no charge? Took me over thirty minutes. Just 47 seconds over but still.,1.
 Your next order comes with free wings!”,1.1756756756756757,0.04851786278573962,74,62,11,1
 There's an extra delivery charge.,1.1756756756756757,0.0556277763638545,74,64,7,3
 "Sorry, I'll bring back one with no anchovies.",1.1756756756756757,0.052194025100977155,74,63,9,2
+"With a nice tip, this could be the high point of my day.",1.1756756756756757,0.052194025100977155,74,63,9,2
 Darn...I left the garlic knots in the truck.,1.1756756756756757,0.052194025100977155,74,63,9,2
 Nope. They were all out of pepperoni.,1.1756756756756757,0.04851786278573962,74,62,11,1
 No need for a tip,1.1756756756756757,0.04453930581352029,74,61,13,0
@@ -4060,7 +4060,6 @@ I hope they won’t figure out it’s not a gluten-free base,1.1694915254237288,
 "I see why you ordered it pile high with toppings.""",1.1692307692307693,0.06032456592830045,65,57,5,3
 "Just letting you know, we can’t deliver here anymore until this building is finished.",1.1692307692307693,0.0517447078733604,65,55,9,1
 "look! We made you overcome your fear, thanks for the treat",1.1692307692307693,0.06032456592830045,65,57,5,3
-Five into eight doesn't go.,1.1690140845070423,0.049079722002617565,71,60,10,1
 "Total comes to a week's wages, plus tip.",1.1690140845070423,0.060133705794827005,71,63,4,4
 I suppose the gig economy has always been a bit precarious.,1.1690140845070423,0.060133705794827005,71,63,4,4
 "Here you go. Half feather, half bowling ball.",1.1690140845070423,0.05302106749939831,71,61,8,2
@@ -4126,6 +4125,7 @@ Sorry but we also ordered garlic knots.,1.1685393258426966,0.04298595589887807,8
 "Last one to get his slice, just toss the box and save me a trip back",1.1685393258426966,0.04586016811409948,89,76,11,2
 Thanks. But actually we ordered a little pizazz.  @newyorkercartoons,1.1685393258426966,0.04856457180256656,89,77,9,3
 I'm expecting a huge tip.,1.1666666666666667,0.059025354442335316,60,52,6,2
+Five into eight doesn't go.,1.1666666666666667,0.048450158311150925,72,61,10,1
 Careful...It's hot.,1.1666666666666667,0.055399937447194535,66,57,7,2
 We don’t typically deliver this far above Manhattan,1.1666666666666667,0.050338308523724166,84,73,8,3
 "I came for the view, not the tip.",1.1666666666666667,0.04622501635210242,78,66,11,1
@@ -4156,7 +4156,6 @@ Next time feel free to just drop in.,1.1666666666666667,0.04622501635210242,78,6
 I hope you have exact change.,1.1666666666666667,0.04969660420745535,78,67,9,2
 "Sorry, we don't take Apple Pay.",1.1666666666666667,0.046225016352102404,66,55,11,0
 This one is for Bill and Ted. BRB with the next one.,1.1666666666666667,0.05294103137220507,78,68,7,3
-"Same pizza, same time tomorrow; next storey up though.",1.1666666666666667,0.05402796234942498,60,51,8,1
 Don't touch this box; I use pizzas for balance.,1.1666666666666667,0.04969660420745535,78,67,9,2
 "No kidding, you’ve really been waiting on lunch for 90 years?",1.1666666666666667,0.04969660420745535,78,67,9,2
 "So, what's it like to be in a union?",1.1666666666666667,0.050338308523724166,84,73,8,3
@@ -4253,6 +4252,7 @@ Stand and deliver…,1.164179104477612,0.05462347961518495,67,58,7,2
 "I realize I'm past the 30 minute delivery guarantee, but do any of you guys validate?",1.164179104477612,0.05462347961518495,67,58,7,2
 Hang on while I terrify myself scrambling back for the other four.,1.1639344262295082,0.05320507735360911,61,52,8,1
 This pizza is made for toppings.,1.1639344262295082,0.05320507735360911,61,52,8,1
+"Same pizza, same time tomorrow; next storey up though.",1.1639344262295082,0.05320507735360911,61,52,8,1
 Tipping is encouraged.,1.1639344262295082,0.0626392563099764,61,54,4,3
 "Darn it, did you need plates too?",1.1639344262295082,0.0626392563099764,61,54,4,3
 "Sorry, the pepperoni goes to the 95th floor.",1.1639344262295082,0.05811392555691986,61,53,6,2
@@ -4266,7 +4266,6 @@ There’s a coupon inside that can be used before 4:00.,1.1627906976744187,0.046
 "I'll be right back.
 I forgot the cannoli.",1.1627906976744187,0.04332445313847636,86,73,12,1
 Your wives ordered extra olive oil...and upped your life insurance....,1.1627906976744187,0.05194036651199686,86,76,6,4
-"Good thing this ain't Chicago, huh, pal?",1.1627906976744187,0.04923620479061171,86,75,8,3
 All I ask is that you NOT tip me.,1.1625,0.04150548995256567,80,67,13,0
 We also ordered 5 drinks?!,1.1625,0.04150548995256567,80,67,13,0
 Are you sure this is organic pizza?,1.1625,0.04515707466615903,80,68,11,1
@@ -4331,6 +4330,7 @@ And you're sure this isn't the Empire State Building?,1.1612903225806452,0.04128
 "Just FYI, it’s the pizza that makes it New York style.",1.160919540229885,0.04587666140408817,87,75,10,2
 ‘Don’t look down’  is not the tip I had in mind.,1.160919540229885,0.04587666140408817,87,75,10,2
 Pizza Pizza,1.160919540229885,0.04587666140408817,87,75,10,2
+"Good thing this ain't Chicago, huh, pal?",1.160919540229885,0.048702939007284646,87,76,8,3
 The man up there is paying,1.160919540229885,0.048702939007284646,87,76,8,3
 Flip the kid a nickel. See how far out he'll reach to get it.,1.1604938271604939,0.0540255715729409,81,72,5,4
 You said “no anchovies??!!”,1.1604938271604939,0.04464119686855444,81,69,11,1
@@ -4459,7 +4459,6 @@ Sorry. I couldn’t find the address.,1.155844155844156,0.0525004803055042,77,68
 You’re telling me nobody ordered the anchovies?,1.155844155844156,0.04913793781438531,77,67,8,2
 "The pizza's $34; the delivery charge is $3,400.",1.155844155844156,0.0525004803055042,77,68,6,3
 Prefer that you guys don't tip me.,1.155844155844156,0.04552772158797496,77,66,10,1
-"What do you mean ""it's the wrong  address!""",1.155844155844156,0.0525004803055042,77,68,6,3
 "Yeah, I  know ordered six, but there was a sudden gust of wind ...",1.155844155844156,0.04913793781438531,77,67,8,2
 "Within 30 minutes or it's free, but you guys were a challenge.",1.155844155844156,0.04552772158797496,77,66,10,1
 It might be cold. Sorry.,1.155844155844156,0.04552772158797496,77,66,10,1
@@ -4530,6 +4529,7 @@ You're late.,1.1538461538461537,0.05014771080925116,65,56,8,1
 "Here's your ""extra high rise""!",1.1538461538461537,0.0449846352461904,78,67,10,1
 "40 stories or it’s free, right?",1.1538461538461537,0.05014771080925116,65,56,8,1
 I thought we ordered an extra large!?,1.1538461538461537,0.0449846352461904,78,67,10,1
+"What do you mean ""it's the wrong  address!""",1.1538461538461537,0.05186152788178788,78,69,6,3
 "Hey  . . . look at that, we all have the same kicks.""  ""Wha the hell is a kicks?!",1.1538461538461537,0.06290548936075434,65,59,2,4
 Fast. Free delivery. Enjoy!,1.1538461538461537,0.05014771080925116,65,56,8,1
 One pizza hold the grease.,1.1538461538461537,0.0449846352461904,78,67,10,1
@@ -4826,8 +4826,6 @@ The pizza may be a bit shook up.,1.1428571428571428,0.04790300390810151,77,68,7,
 I’ll be right back with everyone’s drink order.,1.1428571428571428,0.05925438255602432,63,57,3,3
 "Sorry, I'll be right back with one without anchovies.",1.1428571428571428,0.04419201606355329,77,67,9,1
 I don’t this this is what they mean by ‘pie in the sky!’,1.1428571428571428,0.05101745037270873,70,62,6,2
-"I heard you lost the dare
-My advice is share",1.1428571428571428,0.04444078691701825,63,54,9,0
 Sorry I'm late. My number of orders were sky high.,1.1428571428571428,0.05101745037270873,70,62,6,2
 "Fair warning,there may be more cheese under the lid than on the pizza.",1.1428571428571428,0.04419201606355329,77,67,9,1
 "No, the service fee doesn’t count as a tip.",1.1428571428571428,0.04678356086900139,70,61,8,1
@@ -4905,6 +4903,8 @@ Can't carry lunchboxes like your coworkers on the ground?,1.1408450704225352,0.0
 "Joe left the group in chase of more grounded dreams, but not without constructing one last, cheesy goodbye.",1.1408450704225352,0.05033399372892188,71,63,6,2
 "Keep the change, you filthy animal",1.1408450704225352,0.05418418045541222,71,64,4,3
 The tip is already included in the price for a party of 500ft or more.,1.140625,0.04913531839612815,64,56,7,1
+"I heard you lost the dare
+My advice is share",1.140625,0.043797805514170944,64,55,9,0
 You don't need to tip me this time fellas,1.140625,0.04913531839612815,64,56,7,1
 I really admire you guys.,1.140625,0.04913531839612815,64,56,7,1
 They forgot mushrooms.  I hope that's ok.,1.140625,0.05836388443166186,64,58,3,3
@@ -5138,7 +5138,6 @@ Sitting here was the only way to obtain free delivery in Downtown,1.130952380952
 "I got hungry on the way up, so there are only 4 pieces",1.130952380952381,0.04071845422256089,84,74,9,1
 "Please return this, I clearly said no anchovies!",1.130952380952381,0.04410050166290234,84,75,7,2
 "That’s our motto, 30 minutes or it’s free fall.",1.130952380952381,0.037028783150812844,84,73,11,0
-"No tip for you, Bub - you're 30 minutes late.""",1.1304347826086956,0.05020437123388052,69,62,5,2
 You may collect the tip from the last fella sitting!,1.1304347826086956,0.04084071463598804,69,60,9,0
 The words -‘Free Delivery’-have taken on a whole new meaning for me now!,1.1304347826086956,0.054283849812765045,69,63,3,3
 "I'm okay for not wearing a mask, fellas?",1.1304347826086956,0.045762664165056526,69,61,7,1
@@ -5182,6 +5181,7 @@ No. I do not want to be tipped.,1.1285714285714286,0.04951704046747739,70,63,5,2
 "Friends, I think it's about time we unionize.",1.1285714285714286,0.04951704046747739,70,63,5,2
 "I left the peppers in the car, be right back.",1.1285714285714286,0.04514264748228169,70,62,7,1
 "Sorry, we didn’t order the pineapple pizza, this is for the guys  ten beams up!",1.1285714285714286,0.053535184426749045,70,64,3,3
+"No tip for you, Bub - you're 30 minutes late.""",1.1285714285714286,0.04951704046747739,70,63,5,2
 "One pepperoni pizza, extra rivets.",1.1285714285714286,0.04951704046747739,70,63,5,2
 "It’s been 35 minutes, delivery guy.",1.1285714285714286,0.04951704046747739,70,63,5,2
 When's the elevator going in?,1.1285714285714286,0.04029615300200892,70,61,9,0
@@ -5228,7 +5228,6 @@ I thought I selected contactless delivery..,1.1265822784810127,0.041737221436360
 "Hey guys, it's free because I am late.   There was a lot of traffic and the elevator was slow.",1.1265822784810127,0.03764871456510459,79,69,10,0
 "Sorry, but the drinks spilled and UberEats had the wrong address.",1.1265822784810127,0.04545949403645994,79,71,6,2
 Yeah classy move taking advantage of that 30 minutes or free bull. You know how long it took me to climb this shit? Do I look like goddamn king kong to you?,1.1265822784810127,0.041737221436360945,79,70,8,1
-"I forgot your soda - I""ll be back in...tomorrow.",1.1264367816091954,0.039390564861992855,87,77,9,1
 We ordered the Margherita”,1.1264367816091954,0.039390564861992855,87,77,9,1
 It was fresh at street level,1.125,0.052231930877334055,64,58,4,2
 Did you include the “teeter tots”?,1.125,0.05572645856918899,72,67,1,4
@@ -5238,6 +5237,7 @@ There’s only four slices that’s not my problem.,1.125,0.052231930877334055,6
 The boss says if you don't like pepperoni he'll exchange it for carpaccio.,1.125,0.05678209532243724,64,59,2,3
 "Sorry, we did not have a ten-foot pie for the five of you.",1.125,0.043951442120546434,72,64,7,1
 Did You Uber eats it?,1.125,0.0472455591261534,64,57,6,1
+"I forgot your soda - I""ll be back in...tomorrow.",1.125,0.03896686961894279,88,78,9,1
 "''Sorry, guys, you had to ask for pre-sliced.''",1.125,0.041242567416306754,80,71,8,1
 Kevin McCallister?,1.125,0.043951442120546434,72,64,7,1
 You guys said you were doing to be down-town,1.125,0.04491553253932474,80,72,6,2
@@ -5271,7 +5271,6 @@ Just don’t fight over the sixth slice.,1.123456790123457,0.0443843901536976,81
 "Another freebie guys , as I missed our promised 10 minute delivery window.",1.123456790123457,0.0443843901536976,81,73,6,2
 "It's been more than 30 minutes, we're not paying for this.  orkercaption",1.123456790123457,0.0443843901536976,81,73,6,2
 We were out of Hawaiian pizza.,1.123456790123457,0.036778936073496804,81,71,10,0
-"34 minutes, you'r late, so... It's free",1.123456790123457,0.04075944202276335,81,72,8,1
 Didn't someone order paparazzi?,1.123456790123457,0.0443843901536976,81,73,6,2
 Take it back. I ordered a Hawaiian with anchovies cut into 5 pieces.,1.1232876712328768,0.047563165881277764,73,66,5,2
 Don’t worry. We aren’t going to tip you.,1.1232876712328768,0.047563165881277764,73,66,5,2
@@ -5291,6 +5290,7 @@ And I thought delivering pizza to the sewers was ridiculous!,1.123076923076923,0
 "Piece"" be upon you, Godspeed",1.1228070175438596,0.043859649122807036,57,50,7,0
 Do you expect a tip?,1.1219512195121952,0.04028744917972489,82,73,8,1
 Do it for the vine,1.1219512195121952,0.04028744917972489,82,73,8,1
+"34 minutes, you'r late, so... It's free",1.1219512195121952,0.04028744917972489,82,73,8,1
 "Still twenty stories or less and it’s free, right?",1.1219512195121952,0.04028744917972489,82,73,8,1
 I know it’s 30min or less guarantee but i’m going to need some wiggle room here to get the rest,1.1219512195121952,0.036358828902435546,82,72,10,0
 And still none of us has work insurance,1.1216216216216217,0.04282120038926688,74,66,7,1
@@ -5414,7 +5414,6 @@ I cannot believe I just left the party napkins in the car.,1.1153846153846154,0.
 Parmigiana cheese?!,1.1153846153846154,0.03640875553275107,78,69,9,0
 Anyone have a few bucks for tip?,1.1149425287356323,0.041443118108781464,87,79,6,2
 and I thought New Jersey was just a myth”,1.1149425287356323,0.038081804476895194,87,78,8,1
-This motherfucker…,1.1147540983606556,0.04732379255652671,61,55,5,1
 Delivery included,1.1142857142857143,0.0383017178628478,70,62,8,0
 My Mama always said Life is Like a Box of Chocolates; you never know what you’re gonna get!,1.1142857142857143,0.047908025853103935,70,64,4,2
 I'm not bringing seconds.,1.1142857142857143,0.0383017178628478,70,62,8,0
@@ -5430,6 +5429,7 @@ Pizza to go - vertigo!,1.1139240506329113,0.04023358353168818,79,71,7,1
 "Sky dash ,",1.1139240506329113,0.04408300339841241,79,72,5,2
 I’ve never delivered pizza to anyone who was this high,1.1136363636363635,0.0340255381600195,88,78,10,0
 Food of the Gods with extra cheese,1.1129032258064515,0.046591027055115045,62,56,5,1
+This motherfucker…,1.1129032258064515,0.046591027055115045,62,56,5,1
 "That will be $50.00, the extra $30.00 for climbing up here.",1.1129032258064515,0.04052040316035682,62,55,7,0
 "Sorry I’m late. Elevator is
 busted.",1.1129032258064515,0.046591027055115045,62,56,5,1
@@ -5646,7 +5646,6 @@ Now you do it in 13 months or less,1.0945945945945945,0.03928705114416442,74,68,
 Sorry it's no longer warm. No elevators.,1.0945945945945945,0.03928705114416442,74,68,5,1
 "One pepperoni pizza, hold my hand.
 Anita Barlow, Edmond, OK",1.0945945945945945,0.03928705114416442,74,68,5,1
-The tip tricked the trip.,1.0945945945945945,0.03928705114416442,74,68,5,1
 Here is your Pineapple pizza,1.0945945945945945,0.03928705114416442,74,68,5,1
 I got it from Mystic Pizza - and they only gave us  five slices…,1.0941176470588236,0.03598758505103164,85,78,6,1
 And the red pepper flake packets we ordered?,1.09375,0.0429490169335173,64,59,4,1
@@ -5657,6 +5656,7 @@ My manager is going to have a pizza me if I manage to get down.,1.09333333333333
 "Wise man say, forgiveness is divine but never pay full price for late pizza. THAT'S FROM NINJA TURTLES!",1.0933333333333333,0.0387801998950999,75,69,5,1
 "Oh,no! Typical Italian joint. Delivers burgers in a pizza box.",1.0933333333333333,0.033816320668333295,75,68,7,0
 Extra mushrooms?  Damn!  Back in an hour.,1.0933333333333333,0.0387801998950999,75,69,5,1
+The tip tricked the trip.,1.0933333333333333,0.0387801998950999,75,69,5,1
 This better be New York style.,1.0930232558139534,0.03150535522951525,86,78,8,0
 "Who ordered the no dairy, no gluten!",1.0923076923076922,0.04230769230769232,65,60,4,1
 It's slim pickings up here.,1.0923076923076922,0.04230769230769232,65,60,4,1
