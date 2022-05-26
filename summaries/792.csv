@@ -3,7 +3,7 @@ caption,mean,precision,votes,not_funny,somewhat_funny,funny
 "‘Good news, you got into Juilliard’",1.8083975551421738,0.013066183720767456,3763,1638,1208,917
 "These reviews are all terrible, but 'washed up' really hurts.",1.7811786203746003,0.012268720328933355,4378,2026,1284,1068
 "It says the first five bottle messages were free, but if we want the rest of the composition we need a paid subscription.",1.777535441657579,0.018197529101825927,1834,806,630,398
-"If you no longer wish to receive these messages, check unsubscribe and  place in the bottle labeled return.",1.7758902988129348,0.011307192320919797,4886,2196,1589,1101
+"If you no longer wish to receive these messages, check unsubscribe and  place in the bottle labeled return.",1.7759361571516268,0.011304971367409893,4887,2196,1590,1101
 This one suggests we move to a major key.,1.7718676122931443,0.015559823512205783,2538,1135,847,556
 We're saved! They're coming to tune the piano!,1.7583225248594898,0.016352021512073357,2313,1062,748,503
 We have been trying to reach you regarding your piano's extended warranty.,1.753287197231834,0.014865739874764234,2890,1367,869,654
@@ -15,7 +15,7 @@ The reviews are in. 'Her new work is engaging yet remote',1.7455673758865249,0.0
 "So far, it looks like no one is coming to the recital.",1.7377846562016361,0.011500218013628114,4523,2101,1507,915
 Due to rising sea levels we are being advised to move further inland.,1.722856091277144,0.01494547865309871,2717,1305,860,552
 FINAL NOTICE: If payment is not recieved immediately the piano will be removed from your premises!,1.7217084984588287,0.016266898470106057,2271,1086,731,454
-We never should have started taking requests.,1.7165668662674651,0.017080121862806552,2004,950,672,382
+We never should have started taking requests.,1.716708229426434,0.01707218624944754,2005,950,673,382
 Great.  The keys are in Florida.,1.7129140662506002,0.017421926341536012,2083,1043,595,445
 "Doesn't matter how many times Ikea sends the instructions, it never ends up as a boat!",1.7119624141669678,0.01490997419229213,2767,1364,836,567
 "Damn, I wish they'd sent the whole score in one bottle.",1.6914852997327223,0.014665680950075768,2619,1266,895,458
@@ -31,7 +31,7 @@ The neighbors still want to know if we could practice elsewhere.,1.6620781527531
 It's bad news.  Elvis is dead.,1.6613607188703465,0.012941772857973884,3895,2153,908,834
 "All these useless messages are how to build a boat, catch a fish, light a signal fire, dig a well... but nothing about how to play the piano!",1.6593947923997185,0.019925760950365794,1421,725,455,241
 "Oh, great, your mother's coming to visit!",1.6588877855014896,0.017223407386194923,2014,1062,577,375
-"Shoot, this one is also for violin.",1.658254468980021,0.023989517108894548,951,478,320,153
+"Shoot, this one is also for violin.",1.6586134453781514,0.023966993303419285,952,478,321,153
 "Next time they ask you, ""What's the one thing you'd bring with you to a desert island,"" maybe you should say something about food and a boat?",1.6575212866603595,0.016728640766062935,2114,1111,616,387
 We seem to be 94 bottles short of finishing the song,1.6555609995100442,0.016855047217795495,2041,1064,616,361
 It's another one asking you to keep it down.,1.6549778315195485,0.01477215882606741,2481,1247,843,391
