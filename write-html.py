@@ -1,8 +1,7 @@
 import json
-import sys
 from typing import Dict
 from pathlib import Path
-from typing import List
+from typing import List, Optional
 from datetime import datetime, timedelta
 
 import pandas as pd
@@ -65,23 +64,9 @@ if __name__ == "__main__":
             r["title"]: {k: r[k] for k in r.keys() if "date" in k.lower()} for r in rare
         }
 
-        def _get_end_date(v: Dict[str, str]) -> datetime:
-            d_str = v.get("votingEndDate", "") or ""
-            if len(d_str) and d_str[-1] == "Z":
-                d_str = d_str[:-1]  # Zulu time zone
-            eps = timedelta(days=1)
-            if d_str != "":
-                return datetime.fromisoformat(d_str) + eps
-            return datetime.now() + 2 * eps
-
-        welldone = {
-            k: v
-            for k, v in mwell.items()
-            if _get_end_date(v) <= datetime.now()
-        }
         meta = {
             int(k.strip("Contest #")): v
-            for k, v in welldone.items()
+            for k, v in mwell.items()
             if "Contest #" in k
         }
         #  "votingEndDate": "2019-07-21T22:44:00.000Z",
@@ -101,8 +86,30 @@ if __name__ == "__main__":
     ]
 
     summary = list(sorted(summary, key=lambda x: -x["contest"]))
+
+    def _get_end_date(v: Dict[str, str]) -> Optional[datetime]:
+        if "votingEndDate" not in v or v["votingEndDate"] is None:
+            return None
+        d_str = v["votingEndDate"]
+        if len(d_str) and d_str[-1] == "Z":
+            d_str = d_str[:-1]  # Zulu time zone
+        eps = timedelta(hours=6)
+        return datetime.fromisoformat(d_str) + eps
+
+    meta2 = {
+        k: v
+        for k, v in meta.items()
+        if _get_end_date(v) and _get_end_date(v) <= datetime.now()
+    }
+    summary = [
+            v 
+            for v in summary 
+
+            if v["contest"] in meta2 and _get_end_date(meta2[v["contest"]])
+                and _get_end_date(meta2[v["contest"]]) <= datetime.now()]
+
     out = env.get_template("index.html").render(
-        summary=summary, nycc_winners=nycc_winners, dates=meta
+        summary=summary, nycc_winners=nycc_winners, dates=meta2
     )
     with open(f"index.html", "w") as fh:
         fh.write(out)
@@ -121,7 +128,7 @@ if __name__ == "__main__":
     #  for f in Path("summaries").glob("*.csv"):
     #  tf.add(f"summaries/{f.name}")
 
-    for contest in contests:
+    for contest in list(contests)[::-1]:
         if contest % 10 == 0:
             print(contest)
         out = _get_html_for_contest(contest, template, nycc_winners.get(contest, []), dates=meta.get(contest, {}))
