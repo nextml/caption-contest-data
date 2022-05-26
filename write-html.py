@@ -1,7 +1,9 @@
 import json
 import sys
+from typing import Dict
 from pathlib import Path
 from typing import List
+from datetime import datetime, timedelta
 
 import pandas as pd
 from jinja2 import Environment, FileSystemLoader
@@ -59,12 +61,27 @@ if __name__ == "__main__":
             if "Contest #" in k
         }
 
-        mrare2 = {
+        mwell = {
             r["title"]: {k: r[k] for k in r.keys() if "date" in k.lower()} for r in rare
+        }
+
+        def _get_end_date(v: Dict[str, str]) -> datetime:
+            d_str = v.get("votingEndDate", "") or ""
+            if len(d_str) and d_str[-1] == "Z":
+                d_str = d_str[:-1]  # Zulu time zone
+            eps = timedelta(days=1)
+            if d_str != "":
+                return datetime.fromisoformat(d_str) + eps
+            return datetime.now() + 2 * eps
+
+        welldone = {
+            k: v
+            for k, v in mwell.items()
+            if _get_end_date(v) <= datetime.now()
         }
         meta = {
             int(k.strip("Contest #")): v
-            for k, v in mrare2.items()
+            for k, v in welldone.items()
             if "Contest #" in k
         }
         #  "votingEndDate": "2019-07-21T22:44:00.000Z",

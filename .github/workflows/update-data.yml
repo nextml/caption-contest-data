@@ -22,7 +22,7 @@ jobs:
         pip install -r requirements.txt
     - name: Get caption contest IDs
       run: |
-        cd nyccwinners; python get_nycc_winners.py; cd ..
+        cd nyccwinners && python get_nycc_winners.py && cd ..
         git add nyccwinners/nyc_winners.json
     - name: Download data
       env:
