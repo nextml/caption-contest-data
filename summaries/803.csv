@@ -9,7 +9,7 @@ And it is 100% guaranteed to stop your teenagers from asking to borrow the car.,
 (Submitted by Bella Nesbit, age 10)",1.8370221327967806,0.017740364292238256,1988,810,692,486
 "Five accidents, but thankfully they were all number ones.",1.8315850815850816,0.019649937214786112,1716,737,531,448
 You wouldn’t believe how many people tell me this was their first car.,1.8284389489953632,0.01520480461546001,2588,1034,964,590
-It's a great commuter car for people who work from home.,1.8216374269005848,0.015138755228757645,2736,1145,934,657
+It's a great commuter car for people who work from home.,1.8217025940811107,0.015133363380668749,2737,1145,935,657
 "Trust me, we have customers crying for these.",1.8168032786885246,0.015647519982364837,2440,996,897,547
 Your decision.  I'm not going to push you.,1.8136525396311873,0.014136307488841413,3091,1296,1075,720
 "One owner, nonsmoker, fully potty trained.",1.8047556142668428,0.012811247694511264,3785,1617,1290,878
@@ -20,13 +20,13 @@ And it comes standard with two juice box holders.,1.7950920245398774,0.013341625
 The prior owner is in time-out,1.7947672443085287,0.014346375293894029,2943,1255,1037,651
 "Keyless entry, air conditioning, great on gas and kid friendly.",1.793103448275862,0.02257955699772252,1131,467,431,233
 It's all driveway miles.,1.7841536084749503,0.011505112587025617,4531,1953,1603,975
-"So, we ran your credit report...",1.7829820452771272,0.012857917717108855,3843,1728,1221,894
+"So, we ran your credit report...",1.7832986472424557,0.01285847063649099,3844,1728,1221,895
 I’m not trying to pressure you but I do have a VERY motivated second grader coming back this afternoon for a third look.,1.7774946921443737,0.015321734084476102,2355,971,937,447
 "Its last owner had two accidents, but she’s potty-trained now.",1.7705207413945279,0.013544994777646275,3399,1539,1101,759
-This will run for as long as you can.,1.7658058771148708,0.013076425242213759,3369,1457,1244,668
+This will run for as long as you can.,1.7658753709198813,0.01307272913511087,3370,1457,1245,668
 Here’s what I have in your price range.,1.7647058823529411,0.021351499875058796,1343,606,447,290
+"If you want sportier, we have a Big Wheel.",1.7614603348888278,0.01278206251039326,3643,1625,1264,754
 What’s it gonna take for me to push you home in this today?,1.7613707165109034,0.013599847793736875,3210,1434,1112,664
-"If you want sportier, we have a Big Wheel.",1.760911336810321,0.012791036141719773,3643,1625,1264,754
 This is something you buy and pass down to your kids.,1.7598760650658405,0.014674809269847029,2582,1102,998,482
 The previous owner outgrew it.,1.759871931696905,0.011163592754623879,4685,2065,1680,940
 It’s a great three-year-old car.,1.7593378607809846,0.01576258010693038,2356,1041,841,474
@@ -35,14 +35,14 @@ I can get you in this car today. Not sure about getting you out.,1.7484381507705
 It only has thirteen blocks on it.,1.7459165154264973,0.014504171739270301,2755,1237,981,537
 We call this one the toy-ota.,1.7420837589376916,0.017299480160970947,1958,891,681,386
 And remember- the wheels on this car go round and round!...,1.741067675493905,0.015845907610918045,2379,1098,799,482
-Just a couple signatures here and you’ll be saying “v’room v’room” in no time,1.7386148007590132,0.01674222022772681,2108,970,719,419
+Just a couple signatures here and you’ll be saying “v’room v’room” in no time,1.739212897107634,0.016744964687223196,2109,970,719,420
 Practically brand new. The previous owner never took it out of the driveway.,1.7378640776699028,0.014348643654634816,2678,1181,1018,479
 It combines zero-emissions frugality with a high-intensity workout.,1.7358012170385395,0.017060909935548093,1972,895,703,374
 One owner. Only driven to the end of the driveway and back.,1.7277570591369207,0.016901504520748838,1877,828,732,317
 I recommend rotating your shoes twice a year.,1.7232558139534884,0.018208352087584728,1720,794,608,318
 No engine problems here...none.,1.722159090909091,0.017946836233061095,1760,811,627,322
 The previous owner just took it to the end of the driveway and back.,1.720783322804801,0.019047561214945843,1583,737,551,295
-One owner. Non-smoker. Only drove it to the end of the cul-de-sac.,1.7189496096522356,0.020115040063463277,1409,655,495,259
+One owner. Non-smoker. Only drove it to the end of the cul-de-sac.,1.7191489361702128,0.020101757287890022,1410,655,496,259
 The only emissions come from you,1.7179690598968662,0.01554151518570901,2521,1223,786,512
 It’s perfect for a first time driver,1.7173423423423424,0.017740193277143927,1776,818,642,316
 "It’s only had one previous owner, but we’re required to disclose that it was involved in a number of #1 and #2 accidents.",1.7157611136057476,0.01643539143421537,2227,1076,708,443
@@ -1563,6 +1563,7 @@ It's the only one we have in color.,1.2989690721649485,0.06246123961956541,97,76
 As you can see it just screams FUN ...,1.2989690721649485,0.05892243367519672,97,74,17,6
 "With gas prices through the roof, our tie-in with McDonald's Happy Meals will let us afford out-of-state tuition.",1.2989690721649485,0.06071762365664818,97,75,15,7
 "It’s not fast, it’s not comfortable, but the fuel efficiency can’t be beat!",1.2989690721649485,0.05111503361045882,97,70,25,2
+The ultimate drive. You don’t need gas or electric.,1.2989690721649485,0.05892243367519672,97,74,17,6
 "Well, it is a classic.",1.2989690721649485,0.06071762365664818,97,75,15,7
 "Of course, if you really want to go eco, there's only one choice....",1.2989690721649485,0.06246123961956541,97,76,13,8
 This little number never left the previous owner's driveway.,1.2988505747126438,0.059209220260835936,87,65,18,4
@@ -1677,7 +1678,6 @@ Now here is a car that will make you feel young again.,1.2920353982300885,0.0528
 Its MPG varies as a function of diaper size.,1.2916666666666667,0.060908089131390626,96,75,14,7
 Less than one mile on her. The original owner only used it to go back and forth to the kitchen.,1.2916666666666667,0.06268248214015987,96,76,12,8
 This is our most basic model.,1.2916666666666667,0.05719439509610496,96,73,18,5
-The ultimate drive. You don’t need gas or electric.,1.2916666666666667,0.059080428874741506,96,74,16,6
 « You’ll save big on gas »,1.2916666666666667,0.06975673132354487,72,56,11,5
 It comes in any color you want as long as it is red and yellow.,1.2912621359223302,0.05626733793530424,103,79,18,6
 "Instead of a sunroof, it has a retractable floor.",1.2912621359223302,0.05626733793530424,103,79,18,6
