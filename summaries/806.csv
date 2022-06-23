@@ -15,7 +15,7 @@ Does this outfit make me look middle aged?,1.7349974785678266,0.0124117311559480
 You look like you've never seen a middle aged lifeguard before.,1.7342885053728427,0.013959398009219715,3071,1435,1017,619
 "Laugh all you want, but which one of us looks more like shark bait?",1.7259427828348504,0.01346126434497179,3076,1394,1131,551
 "I'm a lifeguard by day, but I still have a knight job.",1.725163161711385,0.02055449939957925,1379,643,472,264
-"Swimmers in distress are all yours, damsels in distress are mine.",1.7239732569245463,0.013440537809189529,3141,1444,1120,577
+"Swimmers in distress are all yours, damsels in distress are mine.",1.7243793761935073,0.013442395628978473,3142,1444,1120,578
 USC. And you?,1.7217514124293785,0.01466713444193928,2832,1366,888,578
 I'm having a Middle-Ages crisis.,1.719583604424203,0.013627505828268468,3074,1429,1078,567
 High tide.  What's you're greatest fear?,1.7172222222222222,0.017757224971761992,1800,837,635,328
@@ -746,7 +746,6 @@ You watch the ocean. I've got the sand castle.,1.3020134228187918,0.041187587643
 "My Duchy, my rules!",1.3012820512820513,0.04401281093565317,156,116,33,7
 This is a lot easier than my last gig.,1.3012820512820513,0.04401281093565317,156,116,33,7
 "I appreciate you're wearing a bronzer, but I still maintain I have the better defensive capability.",1.300751879699248,0.04889408345964512,133,100,26,7
-It's hard to say what is the dumbest part of this job.,1.300751879699248,0.0500455049321264,133,101,24,8
 "I don't have a lifeguard certification, but what I do have is a very particular set of skills.",1.3006535947712419,0.04551143393936878,153,115,30,8
 I thought you only work knights.,1.3,0.048301042952061994,140,106,26,8
 "Sharks? Sure, but what about Viking longboats?",1.3,0.0461241900136937,140,104,30,6
@@ -767,6 +766,7 @@ Beware the tides of March,1.298780487804878,0.044257113079324915,164,124,31,9
 The suit of armor has better protection than any SPF.,1.2987012987012987,0.04430936428303814,154,115,32,7
 It's not easy working the knight shift,1.2985074626865671,0.04857970501612103,134,101,26,7
 High tide? What do you mean?,1.2985074626865671,0.05192928163719847,134,104,20,10
+It's hard to say what is the dumbest part of this job.,1.2985074626865671,0.04972130921533928,134,102,24,8
 It looked so big when I was small.,1.2982456140350878,0.04054558845520553,171,126,39,6
 I will do anything to protect my beachside property.,1.2982456140350878,0.04301561451371009,171,129,33,9
 The metal detector guy worries me the most.,1.2981366459627328,0.04813664596273294,161,126,22,13
@@ -4221,7 +4221,6 @@ But then.. yeah...",1.1285714285714286,0.04951704046747739,70,63,5,2
 SPF 100 but really hot!,1.1285714285714286,0.04029615300200892,70,61,9,0
 The hordes are dying to get in today.,1.1285714285714286,0.04514264748228169,70,62,7,1
 I'll be out of your way come High Tide,1.1285714285714286,0.04951704046747739,70,63,5,2
-Who knew OSHA had regulations for moat construction?,1.1285714285714286,0.04029615300200892,70,61,9,0
 Rutgers changed their lifeguard dress code,1.1285714285714286,0.04951704046747739,70,63,5,2
 "Did your mommy give you a time-out too?""",1.1282051282051282,0.04601674237795457,78,70,6,2
 My Lady - you will never be a proper castle guard dressed like that!,1.1282051282051282,0.038099080213023176,78,68,10,0
@@ -4269,6 +4268,7 @@ The catapult is stuck in traffic.,1.1267605633802817,0.03976580062454872,71,62,9
 I'm expecting an attack at high tide.,1.1267605633802817,0.044539121974202504,71,63,7,1
 Okay. We'll see who has the best tan at the ends of the day.,1.1267605633802817,0.03976580062454872,71,62,9,0
 Because the inflatable dragons will soon be upon us!,1.1267605633802817,0.044539121974202504,71,63,7,1
+Who knew OSHA had regulations for moat construction?,1.1267605633802817,0.03976580062454872,71,62,9,0
 Bingo,1.1265822784810127,0.04545949403645994,79,71,6,2
 Sorry I'm late. I didn't get time to change out of my LARP costume.,1.1265822784810127,0.03764871456510459,79,69,10,0
 First they take away your spear!,1.1265822784810127,0.03764871456510459,79,69,10,0
