@@ -1246,7 +1246,6 @@ It's a temp job.,1.2523364485981308,0.05327149207679171,107,86,15,6
 "Dragons aren't my thing anymore, I mostly talk about sun protection.""",1.2523364485981308,0.05158988393893248,107,85,17,5
 I call dibs on any damsels out there.,1.2523364485981308,0.05327149207679171,107,86,15,6
 "I came, I saw, I bought a condo.",1.2523364485981308,0.048050438482101374,107,83,21,3
-"Sure the Huns are pretty bad, but they have nothing on the unsupervised six year-olds!",1.2523364485981308,0.05327149207679171,107,86,15,6
 "Trust me, you don't want to give mouth-to-mouth to a dragon.",1.2522522522522523,0.04868200391389654,111,87,20,4
 SPF 1000 equivalent. And you?,1.2522522522522523,0.0519378266071364,111,89,16,6
 "Same job, different costume",1.2522522522522523,0.04868200391389654,111,87,20,4
@@ -1305,6 +1304,7 @@ It's not easy to defend when they come in waves.,1.25,0.0588331327829961,88,71,1
 I prefer this to building castles in the sky.,1.25,0.04944307347557363,108,85,19,4
 His majesty is on a snack break.,1.25,0.06109566566553756,92,76,9,7
 Every castle needs a knight.,1.25,0.05029895632611329,116,93,17,6
+"Sure the Huns are pretty bad, but they have nothing on the unsupervised six year-olds!",1.25,0.05282762580097078,108,87,15,6
 "You keepeth the shore and I’ll keepeth the castle, good madame",1.25,0.04993560847296239,112,89,18,5
 "OK, and I'll handle the damsels...",1.25,0.04669091947809488,124,98,21,5
 It’s just way more effective than SPF 100,1.25,0.04621530419392146,120,94,22,4
@@ -1566,7 +1566,6 @@ Any dragons your direction?,1.2333333333333334,0.05708263279047432,90,74,11,5
 "Yes, I'm single",1.2333333333333334,0.04223008428447825,120,94,24,2
 That's your job. I'm just the knight watchman.,1.2333333333333334,0.04841078504124872,120,98,16,6
 Could be rough siege today.,1.2333333333333334,0.05252667118728806,90,72,15,3
-The king told me to defend the castle.  So here I am.,1.2330827067669172,0.04118214718083957,133,105,25,3
 "Yes, I have used my lance a lot.",1.233009708737864,0.04407365271593292,103,80,22,1
 "When a five-year-old asks me to guard their castle, I take that responsibility seriously.",1.233009708737864,0.050135706747021606,103,83,16,4
 The missus decided to downsize.,1.233009708737864,0.05199958173026885,103,84,14,5
@@ -1609,6 +1608,7 @@ couldn't find my sunscreen...,1.2314814814814814,0.0485270787963912,108,87,17,4
 My kid built this castle. I must protect it at all costs!,1.2314814814814814,0.0502786996951927,108,88,15,5
 "In today’s market, this was a steal.",1.2314814814814814,0.046709818132625494,108,86,19,3
 We decided to downsize now that the kids are gone.,1.2314049586776858,0.04659232160240553,121,98,18,5
+The king told me to defend the castle.  So here I am.,1.2313432835820894,0.040910657115390145,134,106,25,3
 Thank God for global warming,1.2313432835820894,0.04483686449245939,134,109,19,6
 "I'm sorry, did the Lilliputians take your clothes.",1.2307692307692308,0.04970181667505552,104,84,16,4
 Beautiful weather on the Rubicon. My armor has a high SPF rating.,1.2307692307692308,0.04441155916843276,117,93,21,3
@@ -3841,6 +3841,7 @@ Do you know a good architect?,1.1428571428571428,0.04005926187397017,91,79,11,1
 May I borrow your flotation device as the tide seems to be closing in on my moat?,1.1428571428571428,0.04419201606355329,77,67,9,1
 "I'm all set for the great white sharks, but it sure rusts up fast in the water.",1.1428571428571428,0.048330881521855336,84,75,6,3
 I alternate between this and the day shift,1.1428571428571428,0.045266017894605576,84,74,8,2
+"Well, it's not really my home ... but I get to defend it until the end of tide.",1.1428571428571428,0.038409489852704655,84,72,12,0
 "if it's all right by you, I'd rather rescue a damsel in distress!",1.1428571428571428,0.04790300390810151,77,68,7,2
 "The King told me to guard it with my life so if any sumbitch even looks at it sideways I'm not only going to impale them, I'm gonna kill his wife, all his friends, and burn his damn house down.""",1.1428571428571428,0.045266017894605576,84,74,8,2
 I want to be ready for anything.,1.1428571428571428,0.045266017894605576,84,74,8,2
@@ -4114,7 +4115,6 @@ And your armor is made of SPF?,1.1326530612244898,0.0373703104271054,98,86,11,1
 "No, and fuck you for asking.",1.1325301204819278,0.04460649886088055,83,74,7,2
 "Hot,yes,but sharks hate it",1.1325301204819278,0.04460649886088055,83,74,7,2
 "thhthjmrk,k",1.1325301204819278,0.04460649886088055,83,74,7,2
-"Well, it's not really my home ... but I get to defend it until the end of tide.",1.1325301204819278,0.03744359785176951,83,72,11,0
 Who did you know to get this summer Life Guard job,1.1325301204819278,0.04118108036896784,83,73,9,1
 Just making the beaches safer. I’ve already saved 5 people from shark attacks,1.1325301204819278,0.04118108036896784,83,73,9,1
 Will you watch my castle while i go get some food?,1.1325301204819278,0.04118108036896784,83,73,9,1
