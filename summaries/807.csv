@@ -1,68 +1,68 @@
 caption,mean,precision,votes,not_funny,somewhat_funny,funny
 We use the males as a control group - they never ask for directions.,1.842814371257485,0.01601283550627495,2672,1158,776,738
-"I wasn't sure if you said maze or maize, so I did both.",1.8175046554934824,0.0199890317024895,1611,692,521,398
-"To accurately simulate the IKEA experience there is, in fact, no way out.",1.7867403314917127,0.018916738712258917,1810,820,556,434
+"I wasn't sure if you said maze or maize, so I did both.",1.817617866004963,0.0199769484979696,1612,692,522,398
+"To accurately simulate the IKEA experience there is, in fact, no way out.",1.7874102705687465,0.018918156188624146,1811,820,556,435
 There is no exit. We're measuring existential dread.,1.7619753086419754,0.01800898252565068,2025,963,581,481
-"We took away his phone, he's already lost.",1.753390256152687,0.017888867027739803,1991,940,602,449
-The smartest ones simply eat their way out.,1.7415399705738106,0.01711186685575761,2039,940,686,413
-"For some reason,they return in baseball uniforms.",1.7400593471810089,0.019528636958273452,1685,817,489,379
+"We took away his phone, he's already lost.",1.7530120481927711,0.017883884031344027,1992,941,602,449
+The smartest ones simply eat their way out.,1.7416666666666667,0.017103945880754486,2040,940,687,413
+"For some reason,they return in baseball uniforms.",1.7402135231316727,0.019517659650733137,1686,817,490,379
 I accidentally spelled it ‘maize’ in the grant proposal.,1.7346411977284462,0.018019213341962433,1937,934,583,420
-Our research is backed by a hedge fund.,1.7277406073082862,0.017884964600803237,1943,940,592,411
+Our research is backed by a hedge fund.,1.728395061728395,0.017887738341742582,1944,940,592,412
 Now we get a research grant AND a farm subsidy.,1.7263743051266214,0.019081490336500487,1619,759,544,316
-We’ve decided the most intelligent ones never enter the maze at all.,1.7239043824701195,0.015482932052350335,2510,1197,809,504
-This is Donald. He is going to get lost and then declare victory.,1.7233300099700897,0.018438805450902783,2006,1038,485,483
+This is Donald. He is going to get lost and then declare victory.,1.7239661185849526,0.018440590470284724,2007,1038,485,484
+We’ve decided the most intelligent ones never enter the maze at all.,1.723616089207487,0.015479449638700352,2511,1198,809,504
 "He’s smarter then we thought, he refuses to go in.",1.7223149693934334,0.017920241830672617,1797,837,622,338
-It’s cannabis.  They never get far.,1.7130696044066098,0.01732619432461809,1997,967,636,394
-The lab tech thought I said 'maize.',1.7124681933842238,0.019111619099318793,1572,742,540,290
-"Next time, let's try putting the cheese at the end of the maze.",1.710495283018868,0.018658959082327262,1696,817,553,326
+It’s cannabis.  They never get far.,1.7137137137137137,0.017329494772400148,1998,967,636,395
+The lab tech thought I said 'maize.',1.712650985378258,0.019100340133284623,1573,742,541,290
+"Next time, let's try putting the cheese at the end of the maze.",1.7112551561579257,0.01866343593627931,1697,817,553,327
 "Forget the experiment for a minute, where the hell has your mouth gone?",1.7083333333333333,0.0159304774942933,2664,1402,637,625
-"Honestly, I think the fact we cultivated miniature corn is more impressive.",1.7025838372732272,0.017921278012746258,1819,882,596,341
-Our grant was awarded by a hedge fund.,1.7019265721555799,0.014962053007291398,2751,1379,813,559
+"Honestly, I think the fact we cultivated miniature corn is more impressive.",1.7032967032967032,0.017925608695045423,1820,882,596,342
+Our grant was awarded by a hedge fund.,1.7023982558139534,0.014964051072851594,2752,1379,813,560
 He's not one of the test mice--he's with the rescue team.,1.700382722799344,0.017736733636814526,1829,882,613,334
 "Just as we thought, the city mouse has no idea what to do next.",1.6999503229011426,0.016900036085008018,2013,971,675,367
 "Yes I did do my undergrad at Iowa, how’d you know?",1.696774193548387,0.015208337914863895,2480,1201,830,449
-"He should do well, he is a field mouse.",1.6927662957074723,0.015009304526643768,2516,1218,853,445
+"He should do well, he is a field mouse.",1.6932856575288042,0.015012326699709592,2517,1218,853,446
 He seems reluctant to go in — maybe he’d rather work from home.,1.688135593220339,0.01952147414870489,1475,716,503,256
-It’s a MAGA rat. It has already claimed that the results are rigged.,1.6805460750853243,0.02073923784687655,1465,770,393,302
-The walls have ears…,1.676379417234966,0.019305359111294888,1613,830,475,308
+It’s a MAGA rat. It has already claimed that the results are rigged.,1.6807639836289223,0.02072623173856992,1466,770,394,302
+The walls have ears…,1.6759603469640645,0.019297944973710592,1614,831,475,308
 'It gets them off the wheel and into nature.',1.673403766651355,0.016158064455975958,2177,1090,708,379
+This way we get funding from the Department of Agriculture.,1.6706624605678233,0.018335851219025413,1585,769,569,247
 You call it corn. We call it maze.,1.670569451836083,0.01766439405229169,1879,962,574,343
-This way we get funding from the Department of Agriculture.,1.6704545454545454,0.018346250954073676,1584,769,568,247
 We’re testing if the mice can navigate the US healthcare system before we proceed with the drug trials.,1.6699842849659507,0.017676495755301364,1909,988,563,358
 The real trick was getting them to grow the corn.,1.6676816006959547,0.0158790801757359,2299,1175,713,411
 Had to take his phone away – he was using Google Maps.,1.6673479816044967,0.0176793488649823,1957,1032,544,381
 It's made out of marijuana.  That's as far as they get.,1.6663336663336663,0.01701010177108142,2002,1025,620,357
 He hasn't moved in an hour. Maybe the marijuana maze wasn't such a good idea.,1.6630864895421142,0.018263274566671983,1769,920,525,324
 "Just for fun, we put a cat at the other end.",1.6607669616519174,0.02125334076211396,1356,723,370,263
-You could have put the cheese a little deeper.,1.6592039800995024,0.019166284026381177,1608,842,472,294
+You could have put the cheese a little deeper.,1.6600372902423866,0.019172486395275693,1609,842,472,295
 It has nothing to do with the mouse. I'm studying tiny corn.,1.6440993788819875,0.01846317328631367,1610,830,523,257
-The study was modified slightly after we got a grant from Nebraska.,1.6417910447761195,0.018222464520118945,1675,873,529,273
-Their development of agriculture was an unexpected result.,1.641095890410959,0.017827157954883648,1825,974,532,319
-"Unlike the males, she does it backwards, in high heels.",1.6407185628742516,0.018017362011490238,1837,996,505,336
-It's a female.  She's asking for directions.,1.639819345126082,0.01596327952868832,2657,1550,514,593
-He’s still dizzy from the crop circles.,1.6325932132383745,0.01646919937049914,2387,1372,520,495
-Amazing.  She's the first rat to do it backwards,1.6291997556505804,0.01845284753177734,1637,872,500,265
-Turns out rats are just as puzzled by tiny corn as we are.,1.6217391304347826,0.024278519082681194,920,489,290,141
+"Unlike the males, she does it backwards, in high heels.",1.6414581066376497,0.018022736231034144,1838,996,505,337
+The study was modified slightly after we got a grant from Nebraska.,1.6414081145584725,0.01821561412326037,1676,874,529,273
+Their development of agriculture was an unexpected result.,1.6412924424972617,0.017818476420494774,1826,974,533,319
+It's a female.  She's asking for directions.,1.6399548532731376,0.01595784800292949,2658,1550,515,593
+He’s still dizzy from the crop circles.,1.632747068676717,0.01646302022123891,2388,1372,521,495
+Amazing.  She's the first rat to do it backwards,1.6294261294261294,0.0184429679537719,1638,872,501,265
+Turns out rats are just as puzzled by tiny corn as we are.,1.6221498371335505,0.024255621095936764,921,489,291,141
 "To tell the truth, once we worked out the genetics for the tiny corn I pretty much lost interest in the rest of the project...",1.6072772898368883,0.025732333215310526,797,428,254,115
-The smart ones just run around the outside.,1.602536997885835,0.02481638131643378,946,538,246,162
-Most of the funding went to finding tiny farmers.,1.5992691839220463,0.026172614234764777,821,461,228,132
+The smart ones just run around the outside.,1.6029567053854277,0.02479371486029254,947,538,247,162
+Most of the funding went to finding tiny farmers.,1.599756690997567,0.026145300120823074,822,461,229,132
 Who says lab scientists can't do field studies?,1.5902439024390245,0.020243526644332516,1230,665,404,161
-He always likes for me to say go before he begins.,1.5843585237258349,0.021469307182326734,1138,633,345,160
+He always likes for me to say go before he begins.,1.584723441615452,0.021453553431715556,1139,633,346,160
 Wait...did that one just do it backwards?,1.582648401826484,0.021276108516311808,1095,595,362,138
-We built it from compacted cannabis.  So far none of them have made it through.,1.5788973384030418,0.022754124439335374,1052,601,293,158
-He’s the best in his field.,1.5778275475923853,0.024389795267698296,893,505,260,128
+He’s the best in his field.,1.5794183445190157,0.024414380195629276,894,505,260,129
+We built it from compacted cannabis.  So far none of them have made it through.,1.5792972459639125,0.02273602260513709,1053,601,294,158
+We teach the smartest rats to drive the tractor.,1.5745992601726264,0.025050731578901926,811,452,252,107
 I can’t wait to see his reaction to the vegan cheese!,1.5744466800804828,0.022797489978996006,994,558,301,135
-We teach the smartest rats to drive the tractor.,1.5740740740740742,0.02507616487845487,810,452,251,107
 20 years of research funded entirely through corn subsidies and the Iowa Congressional Caucus,1.5674157303370786,0.02428057787565356,890,509,257,124
-It should be simple. It’s an exact replica of the New York City sewer systems.,1.5649432534678436,0.026132537601959674,793,462,214,117
+It should be simple. It’s an exact replica of the New York City sewer systems.,1.5654911838790933,0.026105355276958685,794,462,215,117
 "Next time, place the cheese at the finish line.",1.56,0.026105450718627948,825,493,202,130
 "The data from the rat tests are still inconclusive. On the upside, at least we now know we can successfully grow tiny corn.",1.558968058968059,0.02485012946154588,814,463,247,104
-"Oh, I thought you said maize.",1.5551425030978934,0.026106141984808557,807,481,204,122
+"Oh, I thought you said maize.",1.556930693069307,0.026135059128535525,808,481,204,123
 This one backs up and goes around it. He thinks outside the maze.,1.5518617021276595,0.026943317339152718,752,449,191,112
-It’s so darn cute when they go on the hayride.,1.543859649122807,0.028532794023695036,627,368,177,82
+It’s so darn cute when they go on the hayride.,1.5445859872611465,0.028496581583938675,628,368,178,82
 USDA confirmed that using organic mini corn instead of plastic for the maze means we can now label our experiments “sustainable”,1.5401785714285714,0.026427184713037656,672,383,215,74
 He’s our new hedge fund manager,1.527331189710611,0.029887584441062105,622,389,138,95
-"Just between us,  there's no way out.",1.5223880597014925,0.03078297445897641,536,325,142,69
+"Just between us,  there's no way out.",1.5232774674115457,0.030738467068371723,537,325,143,69
 "When they get out the other side, there's a tiny hay ride, too.",1.5210526315789474,0.029290175357334313,570,341,161,68
 This way we get corn subsidies to fund the experiment.,1.5171755725190839,0.031204224123322778,524,321,135,68
 He was expecting a baseball field.,1.5114942528735633,0.029733165578454828,522,310,157,55
@@ -98,8 +98,8 @@ This job may seem boring but it gets you out of the usual rat race.,1.4536082474
 The hardest part was teaching him to use the hedge trimmers.,1.453125,0.038243270736973346,320,210,75,35
 We told him the end has affordable housing.,1.4520958083832336,0.03848536910332856,334,224,69,41
 Maybe we should have put the cheese at the end of the maze instead of the entrance.,1.4520123839009287,0.03922285457148628,323,217,66,40
+"Build it and they will come, they said...",1.4512987012987013,0.03824006480594953,308,200,77,31
 It's Tails--you lose.,1.4508474576271186,0.03886984198429033,295,191,75,29
-"Build it and they will come, they said...",1.4495114006514658,0.038322901339686855,307,200,76,31
 He wants to know the time he needs to beat to qualify for the THC study,1.4491803278688524,0.04014940484844974,305,205,63,37
 "Oh, he made it. We trained him to walk backwards.",1.4485049833887043,0.03915664473120794,301,198,71,32
 We're actually testing them for a sense of humor.,1.4463087248322148,0.038272314635199534,298,193,77,28
@@ -260,6 +260,7 @@ We're getting much better results now that the subjects fully understand the dif
 The smart ones just eat their way through it.,1.3495145631067962,0.040373273566527125,206,145,50,11
 We decided to shrink the corn rather than grow the mice.,1.349112426035503,0.04377346284022503,169,118,43,8
 "You're impressed with how we do science here in Iowa, aren't you?",1.348993288590604,0.049417222694553835,149,107,32,10
+"I know I went to school for 8 years, but it just hit me that this is a maze made out of maize",1.3485714285714285,0.04716499455354808,175,128,33,14
 We found we had better participation if we charged them $15 to get in.,1.3475935828877006,0.04562587995967579,187,137,35,15
 Next week I'm adding a minotaur!,1.3475609756097562,0.04784329015257228,164,119,33,12
 Pretty slow but let's give him style points for finishing backwards.,1.3472222222222223,0.0495898528009528,144,103,32,9
@@ -270,7 +271,6 @@ Welcome to Iowa.,1.3461538461538463,0.050353462104337776,156,115,28,13
 So far none of them have made it past the chainsaw wielding clown.,1.3459119496855345,0.05201720348246454,159,120,23,16
 I just think there must be better applications for our genetically engineered corn.,1.3459119496855345,0.04720297112191216,159,114,35,10
 I built it and they came.,1.3452380952380953,0.047000184462092455,168,122,34,12
-"I know I went to school for 8 years, but it just hit me that this is a maze made out of maize",1.3448275862068966,0.047287160035312366,174,128,32,14
 "It’s about the journey, not the destination",1.3442622950819672,0.04755206036566658,183,137,29,17
 "She's confused and can't decide whether to run through it,eat it,or smoke it.",1.3440860215053763,0.047604179830491755,186,140,28,18
 Let’s see how he does this time without gps!,1.3440860215053763,0.046989736098067184,186,139,30,17
