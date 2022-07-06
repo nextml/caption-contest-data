@@ -45,6 +45,7 @@
           <th>Top Rated caption</th>
           <th>The New Yorker's winner</th>
           <th>Finalists Announced (date of issue)</th>
+          <th>Sampler(s)</th>
         </tr>
         {% for c in summary %}
           <tr>
@@ -53,6 +54,7 @@
             <td>“{{c['winner']}}”</td>
             <td>{{nycc_winners.get(c['contest'], ["", "", ""])[0]}}</td>
             <td>{{dates.get(c['contest'], {}).get('announceFinalistsIssueDate', "")}}</th>
+            <td>{{samplers[c['contest']]}}</td>
           </tr>
         {% endfor %}
       </table>
