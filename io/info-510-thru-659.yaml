@@ -1,0 +1,444 @@
+512:
+  n_captions: 4399
+  n_participants: 759
+  n_responses: 43120
+  start: 2016-03-08
+  votingStartDate: '2016-03-08'
+513:
+  n_captions: 4141
+  n_participants: 525
+  n_responses: 34013
+  start: 2016-03-14
+  votingStartDate: '2016-03-14'
+514:
+  n_captions: 3951
+  n_participants: 10867
+  n_responses: 192198
+  start: 2016-03-21
+  votingStartDate: '2016-03-21'
+515:
+  n_captions: 4270
+  n_participants: 1230
+  n_responses: 47448
+  start: 2016-03-28
+  votingStartDate: '2016-03-28'
+516:
+  n_captions: 5918
+  n_participants: 1232
+  n_responses: 49365
+  start: 2016-04-04
+  votingStartDate: '2016-04-04'
+517:
+  n_captions: 7782
+  n_participants: 2041
+  n_responses: 59717
+  start: 2016-04-11
+  votingStartDate: '2016-04-11'
+518:
+  n_captions: 4509
+  n_participants: 7429
+  n_responses: 248180
+  start: 2016-04-18
+  votingStartDate: '2016-04-18'
+519:
+  n_captions: 4614
+  n_participants: 7469
+  n_responses: 191935
+  start: 2016-04-25
+  votingStartDate: '2016-04-25'
+520:
+  n_captions: 6645
+  n_participants: 9455
+  n_responses: 209322
+  start: 2016-05-02
+  votingStartDate: '2016-05-02'
+521:
+  n_captions: 5176
+  n_participants: 7980
+  n_responses: 183912
+  start: 2016-05-09
+  votingStartDate: '2016-05-09'
+522:
+  n_captions: 4747
+  n_participants: 12167
+  n_responses: 347335
+  start: 2016-05-16
+  votingStartDate: '2016-05-16'
+523:
+  n_captions: 4189
+  n_participants: 15090
+  n_responses: 249063
+  start: 2016-05-23
+  votingStartDate: '2016-05-23'
+524:
+  n_captions: 3963
+  n_participants: 6718
+  n_responses: 172680
+  start: 2016-05-30
+  votingStartDate: '2016-05-30'
+526:
+  n_captions: 4885
+  n_participants: 7774
+  n_responses: 238677
+  start: 2016-06-20
+  votingStartDate: '2016-06-20'
+527:
+  n_captions: 4601
+  n_participants: 6746
+  n_responses: 237412
+  start: 2016-06-27
+  votingStartDate: '2016-06-27'
+528:
+  n_captions: 4445
+  n_participants: 3277
+  n_responses: 96609
+  start: 2016-07-04
+  votingStartDate: '2016-07-04'
+529:
+  n_captions: 4483
+  n_participants: 10197
+  n_responses: 231291
+  start: 2016-07-18
+  votingStartDate: '2016-07-18'
+530:
+  n_captions: 3429
+  n_participants: 8918
+  n_responses: 218558
+  start: 2016-07-25
+  votingStartDate: '2016-07-25'
+531:
+  n_captions: 4077
+  n_participants: 17858
+  n_responses: 498337
+  start: 2016-08-01
+  votingStartDate: '2016-08-01'
+532:
+  n_captions: 5779
+  n_participants: 15620
+  n_responses: 714986
+  start: 2016-08-15
+  votingStartDate: '2016-08-15'
+533:
+  n_captions: 5005
+  n_participants: 11176
+  n_responses: 377496
+  start: 2016-08-22
+  votingStartDate: '2016-08-22'
+534:
+  n_captions: 4295
+  n_participants: 32608
+  n_responses: 425529
+  start: 2016-08-29
+  votingStartDate: '2016-08-29'
+535:
+  n_captions: 6103
+  n_participants: 24460
+  n_responses: 488929
+  start: 2016-09-05
+  votingStartDate: '2016-09-05'
+536:
+  n_captions: 6599
+  n_participants: 17710
+  n_responses: 415065
+  start: 2016-09-12
+  votingStartDate: '2016-09-12'
+537:
+  n_captions: 5559
+  n_participants: 19951
+  n_responses: 665537
+  start: 2016-09-19
+  votingStartDate: '2016-09-19'
+538:
+  n_captions: 3104
+  n_participants: 22268
+  n_responses: 385675
+  start: 2016-09-26
+  votingStartDate: '2016-09-26'
+539:
+  n_captions: 4827
+  n_participants: 30823
+  n_responses: 555190
+  start: 2016-10-03
+  votingStartDate: '2016-10-03'
+540:
+  n_captions: 4475
+  n_participants: 29498
+  n_responses: 456690
+  start: 2016-10-10
+  votingStartDate: '2016-10-10'
+541:
+  n_captions: 5066
+  n_participants: 34896
+  n_responses: 510944
+  start: 2016-10-17
+  votingStartDate: '2016-10-17'
+542:
+  n_captions: 6189
+  n_participants: 25544
+  n_responses: 581602
+  start: 2016-10-24
+  votingStartDate: '2016-10-24'
+543:
+  n_captions: 6227
+  n_participants: 19180
+  n_responses: 450498
+  start: 2016-10-31
+  votingStartDate: '2016-10-31'
+544:
+  n_captions: 4304
+  n_participants: 8140
+  n_responses: 198246
+  start: 2016-11-07
+  votingStartDate: '2016-11-07'
+545:
+  n_captions: 5188
+  n_participants: 10623
+  n_responses: 344095
+  start: 2016-11-14
+  votingStartDate: '2016-11-14'
+546:
+  n_captions: 4924
+  n_participants: 13059
+  n_responses: 333116
+  start: 2016-11-21
+  votingStartDate: '2016-11-21'
+547:
+  n_captions: 3710
+  n_participants: 17849
+  n_responses: 398746
+  start: 2016-11-28
+  votingStartDate: '2016-11-28'
+548:
+  n_captions: 5517
+  n_participants: 20695
+  n_responses: 501425
+  start: 2016-12-05
+  votingStartDate: '2016-12-05'
+549:
+  n_captions: 5789
+  n_participants: 19293
+  n_responses: 475431
+  start: 2016-12-12
+  votingStartDate: '2016-12-12'
+550:
+  n_captions: 5554
+  n_participants: 25040
+  n_responses: 463593
+  start: 2016-12-26
+  votingStartDate: '2016-12-26'
+551:
+  n_captions: 4843
+  n_participants: 33132
+  n_responses: 583185
+  start: 2017-01-02
+  votingStartDate: '2017-01-02'
+552:
+  n_captions: 5437
+  n_participants: 16935
+  n_responses: 519548
+  start: 2017-01-09
+  votingStartDate: '2017-01-09'
+553:
+  n_captions: 6996
+  n_participants: 27780
+  n_responses: 547090
+  start: 2017-01-16
+  votingStartDate: '2017-01-16'
+554:
+  n_captions: 5154
+  n_participants: 31775
+  n_responses: 928060
+  start: 2017-01-23
+  votingStartDate: '2017-01-23'
+555:
+  n_captions: 6353
+  n_participants: 11382
+  n_responses: 501078
+  start: 2017-01-30
+  votingStartDate: '2017-01-30'
+556:
+  n_captions: 5054
+  n_participants: 18041
+  n_responses: 713533
+  start: 2017-02-06
+  votingStartDate: '2017-02-06'
+557:
+  n_captions: 8861
+  n_participants: 17861
+  n_responses: 767998
+  start: 2017-02-21
+  votingStartDate: '2017-02-21'
+558:
+  n_captions: 3925
+  n_participants: 14486
+  n_responses: 524297
+  start: 2017-02-27
+  votingStartDate: '2017-02-27'
+559:
+  n_captions: 5012
+  n_participants: 12900
+  n_responses: 562601
+  start: 2017-03-06
+  votingStartDate: '2017-03-06'
+560:
+  n_captions: 4482
+  n_participants: 10061
+  n_responses: 418917
+  start: 2017-03-13
+  votingStartDate: '2017-03-13'
+561:
+  n_captions: 5368
+  n_participants: 8725
+  n_responses: 438112
+  start: 2017-03-20
+  votingStartDate: '2017-03-20'
+562:
+  n_captions: 5456
+  n_participants: 3527
+  n_responses: 176381
+  start: 2017-03-27
+  votingStartDate: '2017-03-27'
+563:
+  n_captions: 4304
+  n_participants: 2747
+  n_responses: 128912
+  start: 2017-04-04
+  votingStartDate: '2017-04-04'
+564:
+  n_captions: 6200
+  n_participants: 7654
+  n_responses: 349268
+  start: 2017-04-11
+  votingStartDate: '2017-04-11'
+565:
+  n_captions: 5569
+  n_participants: 2570
+  n_responses: 148779
+  start: 2017-04-18
+  votingStartDate: '2017-04-18'
+566:
+  n_captions: 3855
+  n_participants: 4680
+  n_responses: 191877
+  start: 2017-04-24
+  votingStartDate: '2017-04-24'
+567:
+  n_captions: 4421
+  n_participants: 6445
+  n_responses: 239829
+  start: 2017-05-01
+  votingStartDate: '2017-05-01'
+568:
+  n_captions: 5155
+  n_participants: 7845
+  n_responses: 290737
+  start: 2017-05-08
+  votingStartDate: '2017-05-08'
+569:
+  n_captions: 4836
+  n_participants: 7620
+  n_responses: 270136
+  start: 2017-05-16
+  votingStartDate: '2017-05-16'
+570:
+  n_captions: 6198
+  n_participants: 7297
+  n_responses: 303014
+  start: 2017-05-23
+  votingStartDate: '2017-05-23'
+571:
+  n_captions: 3975
+  n_participants: 10685
+  n_responses: 363323
+  start: 2017-05-29
+  votingStartDate: '2017-05-29'
+572:
+  n_captions: 6241
+  n_participants: 4663
+  n_responses: 218335
+  start: 2017-06-12
+  votingStartDate: '2017-06-12'
+573:
+  n_captions: 4950
+  n_participants: 10838
+  n_responses: 366782
+  start: 2017-06-19
+  votingStartDate: '2017-06-19'
+574:
+  n_captions: 4894
+  n_participants: 14549
+  n_responses: 410803
+  start: 2017-06-26
+  votingStartDate: '2017-06-26'
+575:
+  n_captions: 5059
+  n_participants: 23833
+  n_responses: 593171
+  start: 2017-07-03
+  votingStartDate: '2017-07-03'
+576:
+  n_captions: 7903
+  n_participants: 6918
+  n_responses: 284529
+  start: 2017-07-17
+  votingStartDate: '2017-07-17'
+577:
+  n_captions: 4230
+  n_participants: 16328
+  n_responses: 389881
+  start: 2017-07-24
+  votingStartDate: '2017-07-24'
+578:
+  n_captions: 4463
+  n_participants: 25671
+  n_responses: 593761
+  start: 2017-07-31
+  votingStartDate: '2017-07-31'
+579:
+  n_captions: 6999
+  n_participants: 13245
+  n_responses: 480412
+  start: 2017-08-14
+  votingStartDate: '2017-08-14'
+580:
+  n_captions: 4141
+  n_participants: 14510
+  n_responses: 425835
+  start: 2017-08-21
+  votingStartDate: '2017-08-21'
+581:
+  n_captions: 5694
+  n_participants: 6426
+  n_responses: 203573
+  start: 2017-08-28
+  votingStartDate: '2017-08-28'
+582:
+  n_captions: 3778
+  n_participants: 10128
+  n_responses: 196119
+  start: 2017-09-05
+  votingStartDate: '2017-09-05'
+583:
+  n_captions: 6115
+  n_participants: 11096
+  n_responses: 342411
+  start: 2017-09-12
+  votingStartDate: '2017-09-12'
+584:
+  n_captions: 6292
+  n_participants: 14839
+  n_responses: 501501
+  start: 2017-09-18
+  votingStartDate: '2017-09-18'
+585:
+  n_captions: 4703
+  n_participants: 11837
+  n_responses: 356787
+  start: 2017-09-26
+  votingStartDate: '2017-09-26'
+586:
+  n_captions: 4965
+  n_participants: 15204
+  n_responses: 480072
+  start: 2017-10-03
+  votingStartDate: '2017-10-03'
