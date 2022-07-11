@@ -1,3 +1,5 @@
 pandas
 jinja2
 requests
+toolz
+PyYAML

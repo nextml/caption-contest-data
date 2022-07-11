@@ -7,7 +7,7 @@ on:
 
   # branches: [gh-pages]
 
-# on: push
+  # on: push
 
 jobs:
   update_caption_data:

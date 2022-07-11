@@ -127,7 +127,7 @@ if __name__ == "__main__":
     image_download()
     all_contests = requests.get(f"{CCD_MACHINE}/contest_log.json").json()
     try:
-        futures = map(get_and_write, all_contests["contests"])
+        futures = map(get_and_write, all_contests["contests"][::-1])
         results = list(futures)
         #  assert sum(results) in {0, 1}, "Only download 0 or 1 dashboards"
     except KeyboardInterrupt:
