@@ -1,12 +1,12 @@
 name: Pull data from S3, write HTML and push
 
-on:
-  schedule:
-    - cron: '0 16 * * *'  # this is in UTC (so noon eastern)
+  #on:
+  #  schedule:
+  #    - cron: '0 16 * * *'  # this is in UTC (so noon eastern)
 
   # branches: [gh-pages]
 
-# on: push
+on: push
 
 jobs:
   update_caption_data:
