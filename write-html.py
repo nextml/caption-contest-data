@@ -5,6 +5,7 @@ from typing import List, Optional
 from datetime import datetime, timedelta
 from collections import OrderedDict
 
+import yaml
 from toolz import groupby
 import pandas as pd
 from jinja2 import Environment, FileSystemLoader
@@ -168,7 +169,6 @@ if __name__ == "__main__":
     samplers_html = {c: ", ".join(s) for c, s in contest_samplers.items()}
 
 
-    import yaml
     with open(Path("io") / "info-510-thru-659.yaml", "r") as f:
         old_info = yaml.safe_load(f)
     for v in old_info.values():
