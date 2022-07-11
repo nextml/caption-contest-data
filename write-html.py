@@ -15,22 +15,26 @@ def _get_html_for_contest(
         contest: int,
         template,
         winners=None,
-        dates=None
+        meta=None
 ):
     # captions = [{"rank": k, **row} for k, row in summary.iterrows()]
     samplers = list(summaries.keys())
     for summary in summaries.values():
         if "score" in summary.columns and "mean" not in summary.columns:
             summary["mean"] = summary["score"]
-    captions = {sampler: [{"rank": k, **row} for k, row in summary.iterrows()] for sampler, summary in summaries.items()}
+    captions = {
+        sampler: [{"rank": k, **row} for k, row in summary.iterrows()]
+        for sampler, summary in summaries.items()
+    }
 
     out = template.render(
         captions=captions,
         contest=contest,
         cartoon=f"cartoons/{contest}.jpg",
         winners=winners,
-        dates=dates,
+        meta=meta,
         samplers=samplers,
+        summary_fnames=[f.name for f in Path("summaries").glob(f"{contest}*.csv")],
     )
     return out
 
@@ -90,6 +94,12 @@ if __name__ == "__main__":
             for k, v in mwell.items()
             if "Contest #" in k
         }
+    for contest, v in meta.items():
+        summaries = Path()
+        dfs = [pd.read_csv(f) for f in Path("summaries").glob(f"{contest}*.csv")]
+        v["n_captions"] = int(max({len(df) for df in dfs}))
+        v["n_responses"] = int(sum(df["votes"].sum() for df in dfs))
+
         #  "votingEndDate": "2019-07-21T22:44:00.000Z",
         #  "announceFinalistsDate": "2019-07-15T22:42:00.000Z",
         #  "contestSubmissionEndDate": "2019-06-30T22:42:00.000Z",
@@ -157,12 +167,24 @@ if __name__ == "__main__":
     }
     samplers_html = {c: ", ".join(s) for c, s in contest_samplers.items()}
 
+
+    import yaml
+    with open(Path("io") / "info-510-thru-659.yaml", "r") as f:
+        old_info = yaml.safe_load(f)
+    for v in old_info.values():
+        y, m, d = v["votingStartDate"].split("-")
+        start = datetime(int(y), int(m), int(d))
+        end = start + timedelta(days=13)
+        v["announceFinalistsIssueDate"] = end.isoformat()[:10] + " (estimated)"
+    assert set(meta.keys()).intersection(set(old_info.keys())) == set()
+    meta.update(old_info)
+    meta2.update(old_info)
+
     out = env.get_template("index.html").render(
         summary=summary, nycc_winners=nycc_winners, dates=meta2, samplers=samplers_html,
     )
     with open(f"index.html", "w") as fh:
         fh.write(out)
-
 
     for contest in list(contests)[::-1]:
         if contest % 10 == 0:
@@ -171,7 +193,7 @@ if __name__ == "__main__":
         fnames = sorted([f for f in summaries_dir.glob(f"{contest}*.csv")])
         summaries = OrderedDict([(_get_sampler(f.name), pd.read_csv(f)) for f in fnames])
         print(summaries.keys())
-        out = _get_html_for_contest(summaries, contest, template, nycc_winners.get(contest, []), dates=meta.get(contest, {}))
+        out = _get_html_for_contest(summaries, contest, template, nycc_winners.get(contest, []), meta=meta.get(contest, {}))
         with open(f"dashboards/{contest}.html", "w") as fh:
             fh.write(out)
 

@@ -15,17 +15,15 @@
 
   <div class="container-fluid">
     <div class="row" align="center">
-      <h1>Contest #{{contest}} Summary</h1>
-      <ul>
-          <li> <a href="../cartoons/{{contest}}.jpg"> Cartoon </a></li>
-          <li> <a href="../summaries/{{contest}}.csv">Dashboard CSV</a> (<a href="../summaries/{{contest}}.csv" download>download</a>) </li>
-      </ul>
+      <h1>Contest #{{contest}}</h1>
     </div>
 
     <br>
     <div align="center">
     <h2>Cartoon</h2>
-    <img src="../{{cartoon}}" width="300" alt="{{contest}}" />
+    <a href="../cartoons/{{contest}}.jpg">
+      <img src="../{{cartoon}}" width="300" alt="{{contest}}" />
+    </a>
     </div>
 
     {% if winners %}
@@ -42,25 +40,46 @@
 
     <br><br>
     <div class="row" align="center">
-      <div class="table-responsive-sm">
-        <table style="width:40%; min-width: 300px;" class="table" align="center">
+        <table style="width:40%; min-width: 300px;" class="table table-bordered" align="center">
+          <thead>
           <tr>
-            <th scope="col" style="text-align: right;">Event</th>
-            <th scope="col" style="text-align: left;">Date</th>
+            <th scope="col" style="text-align: right;">Name</th>
+            <th scope="col" style="text-align: left;">Value</th>
           </tr>
-          <tr>
-              <td style="text-align: right;">Submission deadline</td>
-              <td style="text-align: left;">{{dates.get('contestSubmissionEndDate','')}}</td>
-          </tr><tr>
-            <td style="text-align: right;">Voting ended</td>
-            <td style="text-align: left;">{{dates.get('votingEndDate', '')}}</li>
-          </tr><tr>
-            <td style="text-align: right;">Finalists announced</td>
-            <td style="text-align: left;">{{dates.get('announceFinalistsDate', '')}}</td>
-          </tr><tr>
-            <td style="text-align: right;">Magazine(s) announcing finalists issued</td>
-            <td style="text-align: left;"> {{dates.get('announceFinalistsIssueDate', '')}}</td>
-          </tr>
+          </thead>
+          <tbody>
+            <tr>
+                <td style="text-align: right;">Submission deadline</td>
+                <td style="text-align: left;">{{meta.get('contestSubmissionEndDate','-')}}</td>
+            </tr>
+            <tr>
+                <td style="text-align: right;">Voting started</td>
+                <td style="text-align: left;">{{meta.get('votingStartDate', '-')}}</li>
+            </tr>
+            <tr>
+                <td style="text-align: right;">Voting ended</td>
+                <td style="text-align: left;">{{meta.get('votingEndDate', '-')}}</li>
+            </tr>
+            <tr>
+                <td style="text-align: right;">Finalists announced</td>
+                <td style="text-align: left;">{{meta.get('announceFinalistsDate', '-')}}</td>
+            </tr><tr>
+                <td style="text-align: right;">Magazine(s) announcing finalists issued</td>
+                <td style="text-align: left;">{{meta.get('announceFinalistsIssueDate', '-')}}</td>
+            </tr>
+            <tr>
+                <td style="text-align: right;">Number of captions</td>
+                <td style="text-align: left;">{{meta['n_captions']}}</td>
+            </tr>
+            <tr>
+                <td style="text-align: right;">Number of responses</td>
+                <td style="text-align: left;">{{meta['n_responses']}}</td>
+            </tr>
+            <tr>
+                <td style="text-align: right;">Number of participants</td>
+                <td style="text-align: left;">{{meta.get('n_participants','-')}}</td>
+            </tr>
+          </tbody>
         </table>
             <!--
             {'votingEndDate': '2020-11-15T23:32:00.000Z',
@@ -69,68 +88,91 @@
             'issueDate': '',
             'announceFinalistsIssueDate': 'November 16, 2020'}
             -->
-        </ul>
       </div>
     </div>
     <br><br>
-    <div class="row" align="center">
-      <h2>Dashboard</h2>
-
-      <p><i>In this table, the "mean" means the empirically measured average
-        funniness score when the "unfunny", "somewhat funny" and "funny"
-        receive a funniness score of 1, 2, 3 respectively. "Precison" is the
-        standard deviation of those responses.
-        </i></p>
-
-      <ul class="nav nav-tabs" id="samplersTabs" role="tablist">
-        {% for sampler in samplers %}
-        <li class="nav-item" role="presentation">
-            <button class="nav-link {% if loop.index == 1 %}active{% endif %}"
-            id="{{sampler}}-tab"
-            data-bs-toggle="tab"
-            data-bs-target="#{{sampler}}"
-            type="button" role="tab"
-            aria-controls="{{sampler}}"
-            aria-selected={% if loop.index == 1 %}"true"{% else %}"false"{% endif %}>
-            {{sampler}}
-          </button>
-        </li>
-        {% endfor %}
-      </ul>
-
-      <div class="tab-content" id="samplersContent">
-          {% for sampler in samplers %}
-          <div class={% if loop.index == 1 %}"tab-pane fade show active"{% else %}"tab-pane fade"{% endif %}
-              id="{{sampler}}" role="tabpanel"
-              aria-labelledby="{{sampler}}-tab">
-            <table style="width:80%" class="table" align="center">
-              <tr>
-                <th>Rank</th>
-                <th>Caption</th>
-                <th>Mean</th>
-                <th>Precision</th>
-                <th>Total votes</th>
-                <th>"Not funny" votes</th>
-                <th>"Somewhat funny" votes</th>
-                <th>"Funny" votes</th>
-              </tr>
-              {% for c in captions[sampler] %}
-                <tr>
-                  <td>{{c['rank']}}</td>
-                  <td>{{c["caption"]}}</td>
-                  <td>{{"%.4f" | format(c["mean"])}}</td>
-                  <td>{{"%.5f" | format(c["precision"])}}</td>
-                  <td>{{c["votes"]}}</td>
-                  <td>{{c["not_funny"]}}</td>
-                  <td>{{c["somewhat_funny"]}}</td>
-                  <td>{{c["funny"]}}</td>
-                </tr>
-              {% endfor %}
-            </table>
-          </div>
-          {% endfor %}
+    <div class="container-sm mw-100">
+      <div class="row" align="center">
+        <div class="col">
+          <h2>Dashboard</h2>
+        </div>
       </div>
-
+      <div class="row" align="center">
+        <ul>
+            {% for s in summary_fnames %}
+            <li> <a href="../summaries/{{s}}" download>{{s}}</a> </li>
+            {% endfor %}
+        </ul>
+      </div>
+      <div class="row" align="center">
+        <div class="offset-sm-2 col-sm-8">
+          <div class="col">
+            <p><i>In this table, the "mean" means the empirically measured
+                average funniness score when the "unfunny", "somewhat funny"
+                and "funny" receive a funniness score of 1, 2, 3 respectively.
+                "Precison" is the
+                <a href="https://en.wikipedia.org/wiki/Standard_error">standard error
+                  of the mean</a>,
+              the standard deviation of the mean estimate. With that, a caption with an empirical mean μ and
+              precision σ has true mean in the range [μ - 2σ, μ + 2σ]
+              with 95% probability by the
+              <a href="https://en.wikipedia.org/wiki/68–95–99.7_rule">68-95-99.7 rule</a> assuming the responses are indepedent and identically distributed.
+              </i></p>
+          </div>
+        </div>
+      </div>
+      <div>
+      <div class="row" align="center">
+        <div class="offset-sm-2 col-sm-8">
+          <ul class="nav nav-tabs" id="samplersTabs" role="tablist">
+            {% for sampler in samplers %}
+            <li class="nav-item" role="presentation">
+                <button class="nav-link {% if loop.index == 1 %}active{% endif %}"
+                id="{{sampler}}-tab"
+                data-bs-toggle="tab"
+                data-bs-target="#{{sampler}}"
+                type="button" role="tab"
+                aria-controls="{{sampler}}"
+                aria-selected={% if loop.index == 1 %}"true"{% else %}"false"{% endif %}>
+                {{sampler}}
+              </button>
+            </li>
+            {% endfor %}
+          </ul>
+          <div class="tab-content" id="samplersContent">
+            {% for sampler in samplers %}
+            <div class={% if loop.index == 1 %}"tab-pane fade show active"{% else %}"tab-pane fade"{% endif %}
+                id="{{sampler}}" role="tabpanel"
+                aria-labelledby="{{sampler}}-tab">
+              <table class="table table-responsive" align="center">
+                <tr>
+                  <th>Rank</th>
+                  <th>Caption</th>
+                  <th>Mean</th>
+                  <th>Precision</th>
+                  <th>Total votes</th>
+                  <th>"Unfunny" votes</th>
+                  <th>"Somewhat funny" votes</th>
+                  <th>"Funny" votes</th>
+                </tr>
+                {% for c in captions[sampler] %}
+                  <tr>
+                    <td>{{c['rank']}}</td>
+                    <td>{{c["caption"]}}</td>
+                    <td>{{"%.4f" | format(c["mean"])}}</td>
+                    <td>{{"%.5f" | format(c["precision"])}}</td>
+                    <td>{{c["votes"]}}</td>
+                    <td>{{c["not_funny"]}}</td>
+                    <td>{{c["somewhat_funny"]}}</td>
+                    <td>{{c["funny"]}}</td>
+                  </tr>
+                {% endfor %}
+              </table>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
     </div>
 
   </div>
