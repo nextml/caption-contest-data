@@ -2,7 +2,8 @@ name: Pull data from S3, write HTML and push
 
 on:
   schedule:
-    - cron: '0 16 * * *'  # this is in UTC (so noon eastern)
+    # - cron: '0 16 * * *'  # this is in UTC (so noon eastern)
+    - cron: '5 * * * *'  # this is in UTC (so noon eastern)
 
   # branches: [gh-pages]
 
