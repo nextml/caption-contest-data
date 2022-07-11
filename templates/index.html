@@ -13,7 +13,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
   <div class="container">
     <div class="row" align="center"><h2>The New Yorker Cartoon Caption Contest Dataset</h2></div>
-    <div class="row">
+    <div class="row col-md-8 offset-md-2">
       <p>
         Thanks for your interest in this dataset.  The data may not be used for commercial purposes. If you do use it for academic research, we would appreciate you referencing the dataset as follows: 
       </p>
@@ -25,6 +25,19 @@
       </p>
       <p>
       <i>The most recent contest (not shown) is likely receiving votes at <a href="https://www.newyorker.com/cartoons/vote">https://www.newyorker.com/cartoons/vote</a>.</i>
+      </p>
+      <p>
+      More insight into this dataset is at
+      <a href="https://nextml.github.io/caption-contest-data-api/examples.html">
+          https://nextml.github.io/caption-contest-data-api/examples.html
+      </a>, which answers the following questions:
+        <ul>
+            <li>How many responses are gathered per contest?</li>
+            <li>How does the system perform, both for the web server and sampling algorithm?</li>
+            <li>How do ratings behave after users have seen many captions?</li>
+            <li>How funny are captions? How do top captions behave?</li>
+            <li>How well can (older) natural language processing (NLP) tools find similar captions?</li>
+        </ul>
       </p>
     </div>  
   </div>
@@ -45,7 +58,10 @@
           <th>Top Rated caption</th>
           <th>The New Yorker's winner</th>
           <th>Finalists Announced (date of issue)</th>
+          <th>Number of votes</th>
+          <!--
           <th>Sampler(s)</th>
+          -->
         </tr>
         {% for c in summary %}
           <tr>
@@ -54,7 +70,10 @@
             <td>“{{c['winner']}}”</td>
             <td>{{nycc_winners.get(c['contest'], ["", "", ""])[0]}}</td>
             <td>{{dates.get(c['contest'], {}).get('announceFinalistsIssueDate', "")}}</th>
+            <td>{{"{:,.0f}".format(c.get('n_responses', -1))}}</td>
+            <!--
             <td>{{samplers[c['contest']]}}</td>
+            -->
           </tr>
         {% endfor %}
       </table>

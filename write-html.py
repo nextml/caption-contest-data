@@ -98,8 +98,8 @@ if __name__ == "__main__":
     for contest, v in meta.items():
         summaries = Path()
         dfs = [pd.read_csv(f) for f in Path("summaries").glob(f"{contest}*.csv")]
-        v["n_captions"] = int(max({len(df) for df in dfs}))
-        v["n_responses"] = int(sum(df["votes"].sum() for df in dfs))
+        meta[contest]["n_captions"] = int(max({len(df) for df in dfs}))
+        meta[contest]["n_responses"] = int(sum(df["votes"].sum() for df in dfs))
 
         #  "votingEndDate": "2019-07-21T22:44:00.000Z",
         #  "announceFinalistsDate": "2019-07-15T22:42:00.000Z",
@@ -122,6 +122,7 @@ if __name__ == "__main__":
         {"contest": k, "cartoon": f"cartoons/{k}.jpg", "winner": _get_winner(k)}
         for k in contests
     ]
+
     summary = list(sorted(_summary, key=lambda x: -x["contest"]))
 
     def _get_end_date(v: Dict[str, str]) -> Optional[datetime]:
@@ -136,7 +137,10 @@ if __name__ == "__main__":
     meta2 = {
         k: v
         for k, v in meta.items()
-        if _get_end_date(v) and _get_end_date(v) <= datetime.now()
+        if (
+            (_get_end_date(v) and _get_end_date(v) <= datetime.now())
+            or k <= 620
+        )
     }
 
     summary = [
@@ -163,8 +167,8 @@ if __name__ == "__main__":
     fnames = [f.name for f in summaries_dir.glob(f"*.csv")]
     contest_fnames = groupby(_get_contest, fnames)
     contest_samplers = {
-            contest: [_get_sampler(f) for f in fnames]
-            for contest, fnames in contest_fnames.items()
+        contest: [_get_sampler(f) for f in fnames]
+        for contest, fnames in contest_fnames.items()
     }
     samplers_html = {c: ", ".join(s) for c, s in contest_samplers.items()}
 
@@ -180,8 +184,13 @@ if __name__ == "__main__":
     meta.update(old_info)
     meta2.update(old_info)
 
+    for i, s in enumerate(summary):
+        contest = s["contest"]
+        dfs = [pd.read_csv(f) for f in Path("summaries").glob(f"{contest}*.csv")]
+        n_votes = sum(df["votes"].sum() for df in dfs)
+        _summary[i]["n_responses"] = int(n_votes)
     out = env.get_template("index.html").render(
-        summary=summary, nycc_winners=nycc_winners, dates=meta2, samplers=samplers_html,
+        summary=summary, nycc_winners=nycc_winners, dates=meta2, samplers=samplers_html, meta=meta2,
     )
     with open(f"index.html", "w") as fh:
         fh.write(out)
