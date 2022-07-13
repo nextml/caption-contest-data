@@ -188,7 +188,8 @@ if __name__ == "__main__":
         contest = s["contest"]
         dfs = [pd.read_csv(f) for f in Path("summaries").glob(f"{contest}*.csv")]
         n_votes = sum(df["votes"].sum() for df in dfs)
-        _summary[i]["n_responses"] = int(n_votes)
+        s["n_responses"] = int(n_votes)
+
     out = env.get_template("index.html").render(
         summary=summary, nycc_winners=nycc_winners, dates=meta2, samplers=samplers_html, meta=meta2,
     )
