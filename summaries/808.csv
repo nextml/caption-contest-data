@@ -3,10 +3,10 @@ caption,mean,precision,votes,not_funny,somewhat_funny,funny
 "The U.S, Supreme Court repealed the law of gravity because it wasn't mentioned in the Constitution so we jut took off with it,",1.9173828125,0.011878429273855406,5120,2078,1387,1655
 "No matter how far we go, your freaking parents always show up.",1.916233506597361,0.011547988970921486,5002,1895,1631,1476
 "Trump sent us, we're looking for 11,780 votes.",1.896579585241045,0.013835489344351125,3713,1531,1035,1147
-We just empty it over Florida,1.8960176991150441,0.012416660040372911,4520,1835,1322,1364
+We just empty it over Florida,1.895819508958195,0.01241549526384247,4521,1835,1322,1364
 We thought we'd try a Flying Object they could Identify.,1.8855489171023152,0.011198519939708062,5356,2140,1689,1527
 We cut our trip to Earth short - great scenery but no sign of intelligent life.,1.8838181818181818,0.01109155950848373,5500,2217,1705,1578
-And don't bother with Roswell. It's such a tourist trap.,1.8816230057120347,0.011135998758764977,5077,1934,1810,1333
+And don't bother with Roswell. It's such a tourist trap.,1.8814493895234343,0.011135159122701849,5078,1935,1810,1333
 "'' Swallow your pride, dear, and just ask them for directions.""",1.873255375330064,0.010967628957735037,5302,2069,1836,1397
 We've Been Trying To Reach You About Your Car's Extended Warranty,1.8704703161141094,0.011393009330073839,5188,2126,1608,1454
 What we learned is you can't trust Google Maps.,1.8546430701928813,0.011236824607275635,5029,2015,1730,1284
@@ -14,10 +14,10 @@ What we learned is you can't trust Google Maps.,1.8546430701928813,0.01123682460
 We can comfortably abduct a family of four.,1.8520343003101625,0.010637887431167092,5481,2165,1962,1354
 Any chance you can be a little more specific than make a right at the light?,1.8413353338334584,0.014959054889654981,2666,1040,1009,617
 It was a constellation prize.,1.8406277630415562,0.011884510215437023,4524,1863,1519,1142
-"You may be 3,445,000 times faster, but we've got a toilet.",1.8329627570872706,0.012878813023634441,3598,1424,1351,823
+"You may be 3,445,000 times faster, but we've got a toilet.",1.8330091692136705,0.012875317736290784,3599,1424,1352,823
 "It's very blue; hard to miss. If you reach the one with Rings, you've gone too far.",1.8269954819277108,0.01046895131380669,5312,2085,2061,1166
 "Just looking for the nearest rest stop, someone’s got to go number 6",1.8177083333333333,0.012150237392037959,4416,1915,1391,1110
-"You may be faster, but we have a bathroom.",1.8164191419141915,0.015066833406350934,2424,930,1009,485
+"You may be faster, but we have a bathroom.",1.816082474226804,0.015064381491525641,2425,931,1009,485
 Couple watching TV in the back don't even know we abducted them.,1.8128968253968254,0.011166229002770048,5040,2143,1697,1200
 We rented it with unlimited mileage.,1.81222906684919,0.01157767978551296,4383,1776,1654,953
 That’s us before we had kids.,1.8119498033339576,0.010441555264015065,5339,2150,2043,1146
@@ -40,13 +40,13 @@ We even have satellite TV !,1.7485058570404017,0.011569230457306135,4183,1829,15
 "No sign of intelligent life, but really cheap RVs""",1.748385708136031,0.011302515779585026,4646,2110,1595,941
 We love camping out under the stars.,1.747897249374858,0.011325186822624143,4399,1935,1638,826
 "Yeah, we just couldn't fit the kids in the saucer anymore.",1.7467669880084646,0.011234118629356396,4253,1816,1698,739
-"It says right here, Maps to the Stars’ Homes.",1.7407087294727743,0.015718679929596982,2314,1039,836,439
+"It says right here, Maps to the Stars’ Homes.",1.740388768898488,0.015715146074227235,2315,1040,836,439
 Could we use your bathroom?,1.7383824843610367,0.011164439268478666,4476,1987,1673,816
 Don't judge. It has a bathroom.,1.737030411449016,0.010944014400297622,4472,1940,1768,764
 The worst part was the DMV,1.7328494497775697,0.011671130203729877,4271,1965,1482,824
-Do you have any Grey Poupon?,1.7320089195215893,0.011347322720130714,4933,2402,1450,1081
+Do you have any Grey Poupon?,1.732211635921346,0.011341046935062642,4933,2402,1450,1081
 It's roomy but only gets 5 light years per gallon.,1.7191926345609065,0.013450641306495998,2824,1229,1159,436
-"Once the kids moved out, Bob and I decided let’s just go for it.",1.704161979752531,0.013731102320938132,2667,1179,1097,391
+"Once the kids moved out, Bob and I decided let’s just go for it.",1.7045369328833895,0.013713634190923772,2667,1179,1097,391
 'Pizza's here! ',1.7012704174228674,0.014454124921749746,2755,1327,924,504
 They weren't kidding about all-terrain.,1.6712328767123288,0.01460454644392222,2555,1254,887,414
 look ! it's an original bubble top.,1.6535483870967742,0.018378368258998776,1550,767,553,230
@@ -523,7 +523,6 @@ We picked this model because of all the space.,1.3583815028901733,0.049115152989
 We decided to splurge.  We're off to a resort moon without the kids.,1.358288770053476,0.045178888615083033,187,134,39,14
 Can you help? Busted an axle going over a black hole.,1.3581081081081081,0.04794943475534187,148,103,37,8
 Nice AirBnB!,1.3580246913580247,0.048453804591639095,162,116,34,12
-"No, YOU'RE the UFO.",1.3578947368421053,0.0684425842595883,95,71,14,10
 „i told you we should have bought the 'we come in peace' bumper sticker“,1.3576642335766422,0.052561303917742615,137,98,29,10
 "OK kids, Dad and I will be back in a light month.
 Remember to feed the cat.",1.3575757575757577,0.05154774847999304,165,123,25,17
@@ -550,6 +549,7 @@ GO BACK WHERE YOU CAME FROM!!!,1.3546099290780143,0.05339037454948133,141,103,26
 "We thought we'd check out a place we've never been before--Roswell, New Mexico.",1.3544303797468353,0.051640779285642695,158,117,26,15
 "Actually,we were just looking for a little more space.",1.3542857142857143,0.04656837609749233,175,126,36,13
 This isn’t what I had in mind when I asked for an RV with a lot of space!,1.3542857142857143,0.049308614179721724,175,130,28,17
+"No, YOU'RE the UFO.",1.3541666666666667,0.06782841915041543,96,72,14,10
 They took us to their leader,1.3541666666666667,0.044895611260044446,192,139,38,15
 Have you seen the gas prices on Earth? You might want to reconsider.,1.353932584269663,0.04737180953313717,178,130,33,15
 We thought this might be less conspicuous.,1.353846153846154,0.049879447349820236,130,90,34,6
