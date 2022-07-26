@@ -1,19 +1,19 @@
 caption,mean,precision,votes,not_funny,somewhat_funny,funny
 Once the kids move out it'll get easier,1.8636096413874192,0.019506990568852963,1701,682,569,450
 "Not so tiny now,is it?",1.837837837837838,0.018835513101964234,1739,700,621,418
-'Let me do the talking when your mother wakes up.',1.8364688856729379,0.017804276750230587,2073,878,656,539
+'Let me do the talking when your mother wakes up.',1.8360655737704918,0.01780025980299622,2074,879,656,539
 We never should've offered home delivery.,1.827146814404432,0.01869509089113595,1805,752,613,440
-Yet I still have the feeling I have forgotten something.,1.8266237251744497,0.017944452675534964,1863,748,690,425
+Yet I still have the feeling I have forgotten something.,1.8261802575107295,0.017940305131253498,1864,749,690,425
 Let’s stop here and call it a halfway house.,1.8231500339443314,0.01489500607688914,2946,1269,929,748
 I can’t wait to see the look on the kids’ faces when they wake up.,1.8204715969989282,0.018482884591807535,1866,792,617,457
 I regret the marble countertops,1.8148301574150787,0.015832999670646893,2414,995,871,548
 She got the kids. I took the house.,1.8139321723189734,0.024421221515874447,1091,475,344,272
 You could have been more clear when asking me to help you move.,1.7960088691796008,0.016310394610681248,2255,953,809,493
-"There's no way we could carry a second home.""",1.7877862595419847,0.01787074489544755,1965,869,644,452
+"There's no way we could carry a second home.""",1.7873855544252288,0.01786614678976756,1966,870,644,452
 We should have read the fine print when we took this job for home delivery.,1.781505376344086,0.01645482715829931,2325,1041,751,533
 "When they said, “priced to move,” I had no idea.",1.778523489932886,0.018421617247053594,1788,784,616,388
 You'll be thanking me when we're not setting up tent poles in the dark.,1.774895785085688,0.01623876883623778,2159,912,821,426
-"Whatever you say, don't give them the idea that we are first time campers.",1.7723833543505674,0.019570804120390535,1586,703,541,342
+"Whatever you say, don't give them the idea that we are first time campers.",1.7718966603654693,0.01956452280560768,1587,704,541,342
 The bank can’t foreclose what they can’t find.,1.7695951765719207,0.01645766043948773,2322,1059,739,524
 My possessions stopped sparking joy about a mile back.,1.7619502868068833,0.017235430594661826,2092,958,674,460
 "It's not just the rate hike, it's the carrying cost.",1.760839160839161,0.01721123409211793,2145,999,660,486
@@ -47,11 +47,11 @@ Why can't we leave the dog at a kennel like everybody else?,1.6809248554913294,0
 Let's just hope they don't end remote work anytime soon.,1.6793774319066148,0.02068419352735595,1285,625,447,213
 "Next time, I'll pack.",1.671863926293409,0.020240684235634115,1411,715,444,252
 Our fear of using public restrooms is becoming a real burden.,1.6712898751733702,0.027657550356541483,721,356,246,119
-I always get the side with the refrigerator.,1.6631016042780749,0.020022750653551386,1309,638,474,197
 I'm not sure this will fix our WiFi problem.,1.662747979426892,0.020158978866046718,1361,683,454,224
+I always get the side with the refrigerator.,1.6625954198473283,0.02001386242698336,1310,639,474,197
 "Just remember: location, location, location.",1.6602112676056338,0.02239813499684567,1136,582,358,196
 I forgot the key.,1.6538139145012574,0.02225029310413304,1193,630,346,217
-We just need to get this onto Boardwalk and we’ll be set.,1.6445427728613569,0.028823322662662066,678,354,211,113
+We just need to get this onto Boardwalk and we’ll be set.,1.6435935198821796,0.02879649162209058,679,355,211,113
 The kids should be up in about an hour… they’ll be surprised.,1.6370731707317072,0.023364800246125462,1025,540,317,168
 All because you can't pitch a tent.,1.6316989737742302,0.02489254562177101,877,459,282,136
 Garage? I though YOU had the garage!,1.627497062279671,0.02642016759493252,851,470,228,153
@@ -414,6 +414,7 @@ I wasn't expecting home ownership to be such a burden.,1.3687943262411348,0.0536
 The bank will find out soon you know,1.368421052631579,0.05794546132244003,133,98,21,14
 Wanna trade sides?,1.368421052631579,0.05468737688262491,114,78,30,6
 Please tell me you brought the key.,1.3676470588235294,0.05302281287447043,136,96,30,10
+They did say this house would be a burden.,1.3673469387755102,0.052945689001883706,147,106,28,13
 "I think when they said sell high, they meant the market.",1.3671875,0.06062248224133018,128,96,17,15
 We may have misunderstood the concept of the mobile home.,1.3671875,0.05855785481875518,128,94,21,13
 Quadrupled value...Once we are west of the Rockies,1.3670886075949367,0.0548791893128545,158,119,20,19
@@ -435,7 +436,6 @@ I hope you put enough wood in the fireplace so the house will be nice and warm w
 Are you sure you didn't forget anything?”,1.3636363636363635,0.05302385368801997,143,103,28,12
 But what if we get there and it's zoned commercial?,1.3636363636363635,0.05616382392865596,132,96,24,12
 It's a relief not having to worry about leaving the stove on.,1.3630573248407643,0.05124042454417003,157,114,29,14
-They did say this house would be a burden.,1.3630136986301369,0.0531307395288412,146,106,27,13
 "And then he says, 'How big a mortgage can you carry?'",1.3623188405797102,0.0533863612121362,138,99,28,11
 Are you sure you read it right? It said BYOBnB?,1.3623188405797102,0.055332419150681204,138,101,24,13
 "When I told you we needed to pack up the house, I didn't mean it literally.",1.3622047244094488,0.05439017954437158,127,90,28,9
