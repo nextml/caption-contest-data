@@ -1,72 +1,72 @@
 caption,mean,precision,votes,not_funny,somewhat_funny,funny
-Once the kids move out it'll get easier,1.8636096413874192,0.019506990568852963,1701,682,569,450
-"Not so tiny now,is it?",1.837837837837838,0.018835513101964234,1739,700,621,418
-'Let me do the talking when your mother wakes up.',1.8360655737704918,0.01780025980299622,2074,879,656,539
-We never should've offered home delivery.,1.827146814404432,0.01869509089113595,1805,752,613,440
-Yet I still have the feeling I have forgotten something.,1.8261802575107295,0.017940305131253498,1864,749,690,425
-Let’s stop here and call it a halfway house.,1.8231500339443314,0.01489500607688914,2946,1269,929,748
-I can’t wait to see the look on the kids’ faces when they wake up.,1.8204715969989282,0.018482884591807535,1866,792,617,457
-I regret the marble countertops,1.8148301574150787,0.015832999670646893,2414,995,871,548
-She got the kids. I took the house.,1.8139321723189734,0.024421221515874447,1091,475,344,272
-You could have been more clear when asking me to help you move.,1.7960088691796008,0.016310394610681248,2255,953,809,493
-"There's no way we could carry a second home.""",1.7873855544252288,0.01786614678976756,1966,870,644,452
-We should have read the fine print when we took this job for home delivery.,1.781505376344086,0.01645482715829931,2325,1041,751,533
-"When they said, “priced to move,” I had no idea.",1.778523489932886,0.018421617247053594,1788,784,616,388
-You'll be thanking me when we're not setting up tent poles in the dark.,1.774895785085688,0.01623876883623778,2159,912,821,426
-"Whatever you say, don't give them the idea that we are first time campers.",1.7718966603654693,0.01956452280560768,1587,704,541,342
-The bank can’t foreclose what they can’t find.,1.7695951765719207,0.01645766043948773,2322,1059,739,524
-My possessions stopped sparking joy about a mile back.,1.7619502868068833,0.017235430594661826,2092,958,674,460
-"It's not just the rate hike, it's the carrying cost.",1.760839160839161,0.01721123409211793,2145,999,660,486
-"When the loan officer said we'd be carrying this burden for the next 30 years, this isn't what I envisioned.",1.7559785261102978,0.017162138154033408,2049,929,691,429
-"You did remember to bring the house key, right?",1.755656108597285,0.01816154010497417,1768,784,632,352
-It seemed easier than deciding what to pack and what not to pack.,1.7552742616033756,0.01886237283237094,1659,742,581,336
-We really need to find a house sitter next time.,1.754655870445344,0.01550091850633854,2470,1110,856,504
-"I think the saying was ""Don't leave home without it"".",1.7465495608531996,0.028152258422966987,797,378,243,176
-I told everyone I was working from home.,1.7435279951836242,0.01880209253639045,1661,755,577,329
-"Let's stop soon, I need to use the bathroom",1.7433849226160758,0.016994190861725933,2003,902,713,388
-"Would you please stop saying ""location, location, location.""",1.742063492063492,0.017470519328813074,2016,947,642,427
-They can’t foreclose if they can’t find the house.,1.741564417177914,0.021369476827810808,1304,600,441,263
-We definitely overpacked.,1.738987816307404,0.01646256107272002,2134,968,755,411
-"You really know who your friends are on moving day.""",1.7356194690265487,0.01752700398687857,1808,804,678,326
-I found I have less back pain if I sleep in my own bed.,1.7354285714285713,0.01843774603878984,1750,813,587,350
-I’ll be really mad if they do have bathrooms up there.,1.7314766158696795,0.017478759573809448,1903,877,660,366
-"You're right, the marble countertops would have been a mistake.",1.7185391028185788,0.014853741114624617,2519,1154,920,445
-Its gonna be great sleeping in my own bed to night,1.7147160068846816,0.015623971200443114,2324,1085,817,422
-I'm glad we sent the kids ahead with the furniture.,1.7100820067534974,0.01635384928163443,2073,962,750,361
-This would have been a lot easier if you’d have gotten rid of all those National Geographics in the attic.,1.7075134168157424,0.02273277671713069,1118,534,377,207
-Did you turn the stove off?,1.7025112685125563,0.019521906444042884,1553,759,497,297
+Once the kids move out it'll get easier,1.863689776733255,0.01949569067872838,1702,682,570,450
+"Not so tiny now,is it?",1.8385057471264368,0.018836530134017464,1740,700,621,419
+'Let me do the talking when your mother wakes up.',1.8356626506024096,0.01779624115556379,2075,880,656,539
+We never should've offered home delivery.,1.827796234772979,0.01869601882594576,1806,752,613,441
+Yet I still have the feeling I have forgotten something.,1.826809651474531,0.017941726021585492,1865,749,690,426
+Let’s stop here and call it a halfway house.,1.822870715982355,0.014892570532248264,2947,1270,929,748
+I can’t wait to see the look on the kids’ faces when they wake up.,1.821103374397429,0.018483782422039935,1867,792,617,458
+She got the kids. I took the house.,1.815018315018315,0.024423010989924072,1092,475,344,273
+I regret the marble countertops,1.8144927536231885,0.015830038350962628,2415,996,871,548
+You could have been more clear when asking me to help you move.,1.7965425531914894,0.016311895956421966,2256,953,809,494
+"There's no way we could carry a second home.""",1.7869852567361464,0.017861547665461504,1967,871,644,452
+We should have read the fine print when we took this job for home delivery.,1.7811693895098881,0.01645118266626793,2326,1042,751,533
+"When they said, “priced to move,” I had no idea.",1.7780883174958078,0.018416459388478426,1789,785,616,388
+You'll be thanking me when we're not setting up tent poles in the dark.,1.774537037037037,0.016235213242283063,2160,913,821,426
+"Whatever you say, don't give them the idea that we are first time campers.",1.7720403022670026,0.019552726327174752,1588,704,542,342
+The bank can’t foreclose what they can’t find.,1.7701248385708137,0.016459098857000094,2323,1059,739,525
+My possessions stopped sparking joy about a mile back.,1.7620640229335882,0.017227569275374062,2093,958,675,460
+"It's not just the rate hike, it's the carrying cost.",1.761416589002796,0.017212900075956824,2146,999,660,487
+"You did remember to bring the house key, right?",1.7563595251554551,0.018164895288705928,1769,784,632,353
+"When the loan officer said we'd be carrying this burden for the next 30 years, this isn't what I envisioned.",1.7560975609756098,0.017154177339906998,2050,929,692,429
+It seemed easier than deciding what to pack and what not to pack.,1.7554216867469878,0.018851582996220397,1660,742,582,336
+We really need to find a house sitter next time.,1.75475515985431,0.01549496221982962,2471,1110,857,504
+"I think the saying was ""Don't leave home without it"".",1.7456140350877194,0.02813251717826979,798,379,243,176
+I told everyone I was working from home.,1.7442839951865223,0.018805977937157506,1662,755,577,330
+"Let's stop soon, I need to use the bathroom",1.7440119760479043,0.016997278987538975,2004,902,713,389
+"Would you please stop saying ""location, location, location.""",1.7426871591472484,0.01747298943225939,2017,947,642,428
+They can’t foreclose if they can’t find the house.,1.7417624521072796,0.02135401376853083,1305,600,442,263
+We definitely overpacked.,1.7395784543325528,0.01646544537115723,2135,968,755,412
+"You really know who your friends are on moving day.""",1.736318407960199,0.017531250776796216,1809,804,678,327
+I found I have less back pain if I sleep in my own bed.,1.7361507709880069,0.01844135998897893,1751,813,587,351
+I’ll be really mad if they do have bathrooms up there.,1.7321428571428572,0.017482276823136307,1904,877,660,367
+"You're right, the marble countertops would have been a mistake.",1.7186507936507935,0.014848265686288883,2520,1154,921,445
+Its gonna be great sleeping in my own bed to night,1.7148387096774194,0.015617731789916,2325,1085,818,422
+I'm glad we sent the kids ahead with the furniture.,1.7107039537126325,0.016357790146508955,2074,962,750,362
+This would have been a lot easier if you’d have gotten rid of all those National Geographics in the attic.,1.708668453976765,0.022741802996764048,1119,534,377,208
+Did you turn the stove off?,1.702059202059202,0.019514576933153376,1554,760,497,297
+"When I agreed to a mobile home, this is not what I had in mind.",1.6994991652754592,0.017652791853783708,1797,854,629,314
 The only thing keeping up with the Kardashians are my glutes.,1.6988358993616222,0.017278899531427593,2663,1580,305,778
-"When I agreed to a mobile home, this is not what I had in mind.",1.6987750556792873,0.017647757687699807,1796,854,629,313
-"Wow, turtles make this look so easy!",1.6979591836734693,0.018142521005194964,1715,821,591,303
-"Look, I like to use OUR toilet.",1.6935391652372784,0.017919750517486756,1749,841,603,305
-So much for our mortgage broker saying the two of us couldn’t carry a house.,1.6880841121495327,0.018229595037389152,1712,837,572,303
-This is absolutely my last two-storey walkup.,1.6879823594266814,0.02526896064801407,907,448,294,165
+"Wow, turtles make this look so easy!",1.6987179487179487,0.018147814382530755,1716,821,591,304
+"Look, I like to use OUR toilet.",1.6942857142857144,0.017925060744929708,1750,841,603,306
+So much for our mortgage broker saying the two of us couldn’t carry a house.,1.6882661996497372,0.018219859922546596,1713,837,573,303
+This is absolutely my last two-storey walkup.,1.6872246696035242,0.025252485690740352,908,449,294,165
 I'm thinking of down-downsizing.,1.6830657690315898,0.020089048188748893,1931,1155,233,543
+Why can't we leave the dog at a kennel like everybody else?,1.6824480369515011,0.02572353935200327,866,429,283,154
 Did we forget anything?,1.6815189873417722,0.018460877055124135,1975,1079,446,450
-Why can't we leave the dog at a kennel like everybody else?,1.6809248554913294,0.025708106475204894,865,429,283,153
-Let's just hope they don't end remote work anytime soon.,1.6793774319066148,0.02068419352735595,1285,625,447,213
+Let's just hope they don't end remote work anytime soon.,1.6804043545878693,0.02069359943266517,1286,625,447,214
+Our fear of using public restrooms is becoming a real burden.,1.6731301939058172,0.027680460927143474,722,356,246,120
 "Next time, I'll pack.",1.671863926293409,0.020240684235634115,1411,715,444,252
-Our fear of using public restrooms is becoming a real burden.,1.6712898751733702,0.027657550356541483,721,356,246,119
-I'm not sure this will fix our WiFi problem.,1.662747979426892,0.020158978866046718,1361,683,454,224
+I'm not sure this will fix our WiFi problem.,1.6637298091042585,0.020168085477938004,1362,683,454,225
 I always get the side with the refrigerator.,1.6625954198473283,0.02001386242698336,1310,639,474,197
-"Just remember: location, location, location.",1.6602112676056338,0.02239813499684567,1136,582,358,196
+"Just remember: location, location, location.",1.6596306068601583,0.022385959033721963,1137,583,358,196
 I forgot the key.,1.6538139145012574,0.02225029310413304,1193,630,346,217
-We just need to get this onto Boardwalk and we’ll be set.,1.6435935198821796,0.02879649162209058,679,355,211,113
+We just need to get this onto Boardwalk and we’ll be set.,1.6441176470588235,0.028758889129292805,680,355,212,113
 The kids should be up in about an hour… they’ll be surprised.,1.6370731707317072,0.023364800246125462,1025,540,317,168
-All because you can't pitch a tent.,1.6316989737742302,0.02489254562177101,877,459,282,136
+All because you can't pitch a tent.,1.633257403189066,0.02491296955013459,878,459,282,137
 Garage? I though YOU had the garage!,1.627497062279671,0.02642016759493252,851,470,228,153
 The idea struck me when I heard your mother was afraid of heights.,1.6271929824561404,0.026129371623076856,912,517,218,177
 "Fresh air, plus all the comforts of home!",1.6182298546895642,0.026194140605165107,757,396,254,107
-If this relationship is going to work you're going to have to get over your fear of sleeping in a tent.,1.6174142480211082,0.02643728112532132,758,401,246,111
+If this relationship is going to work you're going to have to get over your fear of sleeping in a tent.,1.6179183135704875,0.02640723770174821,759,401,247,111
 "I think the saying is ""Don't leave home without it."" not the other way around.",1.6134347275031686,0.026514753658822818,789,430,234,125
 We've got to go back. I forgot the patio.,1.6131191432396252,0.028073542300871838,747,420,196,131
 When you said “let’s pick up and move” I thought you were speaking metaphorically.,1.611183355006502,0.027131445352286274,769,425,218,126
 We couldn't find a house sitter.,1.6086330935251798,0.027977832471774697,695,378,211,106
 This is easier than getting a cartoon published in The New Yorker,1.6022012578616351,0.029871085960418257,636,357,175,104
 This mobile home living is not what it's  cracked up to be.,1.5973813420621932,0.02906961564222515,611,330,197,84
+"Maybe we should have listened when they said,”You can’t take it with you.”",1.5967213114754097,0.028169902615086017,610,320,216,74
 "Can we stop, I need to use the bathroom.",1.5964653902798234,0.029602962672026722,679,394,165,120
 Did you remember to put the beer in the fridge?,1.5963302752293578,0.027519813495543305,654,347,224,83
-"Maybe we should have listened when they said,”You can’t take it with you.”",1.5960591133004927,0.02820839954057479,609,320,215,74
 Thanks for helping me move,1.5960365853658536,0.028782051302797554,656,364,193,99
 How much further away do you want the mother-in-law suite?,1.5918032786885246,0.03066637303544129,610,350,159,101
 I'm starting to think we should have kept the RV.,1.5878260869565217,0.03071213464887765,575,323,166,86
@@ -313,6 +313,7 @@ I forgot the toilet paper.,1.3970588235294117,0.05350402807378587,136,92,34,10
 It feels so good to get out of the house.,1.3958333333333333,0.056801182383153966,144,103,25,16
 This isn't the type of mobile home I had in mind.,1.3958333333333333,0.05593969273243484,144,102,27,15
 "Next time, let's leave home without it.",1.3956043956043955,0.04974480547434104,182,129,34,19
+Nothing like living on the edge.,1.3952095808383234,0.04949647904665218,167,115,38,14
 With gas prices who can afford to take the r.v.,1.393939393939394,0.05347977610372156,165,119,27,19
 "So you're sure this Mountain Guru knows the meaning of life, right?",1.393939393939394,0.052784245965030105,165,118,29,18
 It feels so nice to get out of the house.,1.3935483870967742,0.04886373261194385,155,104,41,10
@@ -321,7 +322,6 @@ Set it down. I need to go in and use the bathroom.,1.3935483870967742,0.04971369
 It was easier being homeless,1.3933333333333333,0.053425535513384165,150,105,31,14
 I told you carrying a big mortgage would be an uphill battle !,1.3925925925925926,0.055734004907893625,135,94,29,12
 What did BYOH stand for really?,1.3924050632911393,0.05145268802396948,158,110,34,14
-Nothing like living on the edge.,1.391566265060241,0.049660472905777124,166,115,37,14
 I'm not finding house arrest all that restrictive.,1.3915343915343916,0.05005525906990607,189,137,30,22
 This is not my idea of getting out of the house.,1.391025641025641,0.05110339018820283,156,108,35,13
 This gives new meaning to home delivery.,1.390728476821192,0.0505803056838393,151,103,37,11
@@ -1179,6 +1179,7 @@ I’m afraid I misunderstood your interest in a mobile home.,1.2771084337349397,
 "Don’t complain, life is an uphill battle.",1.2767857142857142,0.054124929116160334,112,88,17,7
 """Look, when your friends arrive in their big RVs, they'll be so bummed seeing how they've been upstaged.",1.2767857142857142,0.04946597284198399,112,85,23,4
 "Are you certain this is what Sisyphus had to do?""",1.2765957446808511,0.06126153250376902,94,75,12,7
+Being a nomad with all the comforts of home just never grows old.,1.2765957446808511,0.05740569802641553,94,73,16,5
 The instructions reminded us to bring along something to sleep in.,1.2765957446808511,0.06310115659887319,94,76,10,8
 "Once we reach the top, I’ll go back and get the garage.",1.2765957446808511,0.05327150239189492,94,71,20,3
 This gives a new meaning to a mobile home.,1.276190476190476,0.054964587492755165,105,82,17,6
@@ -1296,7 +1297,6 @@ I told you having a tiny home would come in handy.,1.2692307692307692,0.05154587
 This is certainly more rewarding than pushing a boulder up here.,1.2692307692307692,0.05675506881788139,78,59,17,2
 When we get to the top I’ll ask if they have any tiny driveways we can use.,1.2688172043010753,0.0510291122856655,93,70,21,2
 Grandpa said this is how he and grandma got their cabin up there.,1.2688172043010753,0.06142264040356775,93,75,11,7
-Being a nomad with all the comforts of home just never grows old.,1.2688172043010753,0.05749115212580819,93,73,15,5
 I’m just not getting this staycation thing.,1.2688172043010753,0.055420920978058744,93,72,17,4
 Lots of homeless people up here !,1.2688172043010753,0.059489382779193516,93,74,13,6
 "Really, being homeless is your biggest fear?",1.2688172043010753,0.05749115212580819,93,73,15,5
@@ -2809,6 +2809,7 @@ I thought you said we were going horseback riding!,1.2,0.046368696240474946,95,7
 "You know, it’s true. there really is no place like home.",1.2,0.05694947974514994,75,63,9,3
 "Our plan to live like turtles might not have been our best one, honey.",1.2,0.05022472023339227,75,61,13,1
 "Yes, dear. Next year, it's the beach.",1.2,0.05022472023339227,75,61,13,1
+Our banker was so darn cute when she threatened to foreclose on our house.,1.2,0.06198231933063268,60,50,8,2
 Maybe we should have rented a room.,1.2,0.05227733021739333,70,57,12,1
 Did you pack the key?,1.2,0.048391860388899456,80,65,14,1
 "No, I packed the sink too.",1.2,0.05155800469472483,80,66,12,2
@@ -2998,13 +2999,14 @@ Next time we're hiring some movers.,1.1940298507462686,0.05311979229866326,67,55
 The price of this house is going up!,1.1940298507462686,0.06104326664424421,67,57,7,3
 I’m not sure about this whole ‘holiday home’ thing.,1.1940298507462686,0.05311979229866326,67,55,11,1
 Is this a good first date?,1.1940298507462686,0.05721884626787498,67,56,9,2
-"As you know, I always like to sleep upstairs.",1.1940298507462686,0.05311979229866326,67,55,11,1
 I'm starting to resent whoever imposed these new rules for first-time home buyers.,1.1940298507462686,0.05721884626787498,67,56,9,2
 "Well, we didn't forget anything",1.1940298507462686,0.05311979229866326,67,55,11,1
+I still think a tent would have made more sense.,1.1940298507462686,0.05721884626787498,67,56,9,2
 "When I said we needed to stay close to home, this is not what I had in mind!",1.1940298507462686,0.05721884626787498,67,56,9,2
 It's appropriate we're moving at a snail's pace.,1.1940298507462686,0.05721884626787498,67,56,9,2
 I guess it's pretty much the opposite of a staycation.,1.1940298507462686,0.05721884626787498,67,56,9,2
 This is more of a giant backpack than a tiny house.,1.1940298507462686,0.05721884626787498,67,56,9,2
+"If we pull this off, we’ll have our house with a great view",1.1940298507462686,0.05721884626787498,67,56,9,2
 I hope this goes better than it did for Sisyphus…,1.1940298507462686,0.05721884626787498,67,56,9,2
 We really need to start packing light...,1.1940298507462686,0.05721884626787498,67,56,9,2
 I think we've might have overpacked...,1.1935483870967742,0.05129930441995539,93,79,10,4
@@ -3104,6 +3106,7 @@ We'll bring the garage up next trip.,1.1911764705882353,0.052410519678289844,68,
 "So, this is: HOSTEL ACCOMMODATIONS INCLUDED",1.1911764705882353,0.052410519678289844,68,56,11,1
 "Couldn’t we just buy another house, then move?",1.1911764705882353,0.060206525381366546,68,58,7,3
 This is the hard part about moving.,1.1911764705882353,0.052410519678289844,68,56,11,1
+"As you know, I always like to sleep upstairs.",1.1911764705882353,0.052410519678289844,68,56,11,1
 "Build a 'tiny' house, you said. We can take it anywhere, you said...",1.1911764705882353,0.06374799809618728,68,59,5,4
 Aren't you glad we won't have to walk home?,1.1911764705882353,0.056443282467648626,68,57,9,2
 I'm not sure this is what they meant when they said the housing market had reached dizzying heights.,1.1911764705882353,0.052410519678289844,68,56,11,1
@@ -3113,7 +3116,6 @@ I didn't know you meant you wanted a home on a 'mountain' range.,1.1910112359550
 I now regret saying it would be easier to just pack up the entire house.,1.1910112359550562,0.052701300672173365,89,76,9,4
 I have a new-found respect for turtles.,1.1904761904761905,0.05925438255602429,63,53,8,2
 Did you leave the stove on?,1.1904761904761905,0.054763574408528054,63,52,10,1
-Too bad you’re not dead. I could have done this with balloons.,1.1904761904761905,0.05925438255602429,63,53,8,2
 I hope this takes care of your Agoraphobia problem.,1.1904761904761905,0.054819870042874363,84,72,8,4
 I finally found one and it's not getting away this time.,1.1904761904761905,0.054763574408528054,63,52,10,1
 "No complaining, it’s only way we can afford to carry a mortgage.",1.1904761904761905,0.054763574408528054,63,52,10,1
@@ -3198,6 +3200,7 @@ Rental hike,1.188235294117647,0.051569532748121864,85,72,10,3
 Wait till you see the view.,1.188034188034188,0.04365355384480011,117,99,14,4
 We'll leave the couch at the next water break.,1.1879699248120301,0.03870537646987594,133,111,19,3
 Just be glad this isn't a real Castle.,1.1875,0.050609418996262354,80,67,11,2
+Too bad you’re not dead. I could have done this with balloons.,1.1875,0.058397074018894594,64,54,8,2
 "You said you always wanted a mountain home, and you hate camping out. Remember what we pack in; we pack out..",1.1875,0.058397074018894594,64,54,8,2
 "Technically, it’s still 412 Elm Street. This is just to punish the paperboy.",1.1875,0.058397074018894594,64,54,8,2
 I really thought we would have flipped this by now...,1.1875,0.053983205795288855,64,53,10,1
@@ -3767,7 +3770,6 @@ Thank goodness we brought our hikes-in-rent sticks!,1.169811320754717,0.06451701
 I really appreciate how you've kept the home fires burning.,1.1694915254237288,0.05996561635533429,59,51,6,2
 I'm willing to admit that your idea of a tent has some merit.,1.1694915254237288,0.05996561635533429,59,51,6,2
 "Best idea! ...Hard to find that proverbial ""home away from home!""",1.1694915254237288,0.054876421247483355,59,50,8,1
-Our banker was so darn cute when she threatened to foreclose on our house.,1.1694915254237288,0.054876421247483355,59,50,8,1
 Wish we hadn't left the kids at home.,1.1694915254237288,0.049264267709845745,59,49,10,0
 Are you sure you took out the kitchen sink?,1.1694915254237288,0.049264267709845745,59,49,10,0
 I've always wanted a mobile home.,1.1694915254237288,0.05996561635533429,59,51,6,2
@@ -3892,7 +3894,6 @@ Leave the packing to me next time.,1.1666666666666667,0.05233215213522993,72,62,
 They said the trail would be easier on houseback.,1.1666666666666667,0.05233215213522993,72,62,8,2
 Why are we such homebodies?,1.1666666666666667,0.04851854247829848,60,50,10,0
 "So then, the big shaggy bear says, . . .",1.1666666666666667,0.05402796234942498,60,51,8,1
-I still think a tent would have made more sense.,1.1666666666666667,0.05101913957479684,66,56,9,1
 "You think this is nice, just wait till you see the view from the second floor’.",1.1666666666666667,0.04638626689884595,102,89,9,4
 I just don't understand why house prices keep climbing higher.,1.1666666666666667,0.0594588390010563,66,58,5,3
 "Movers?  I called ""Two Men and a Trek""",1.1666666666666667,0.059025354442335316,60,52,6,2
@@ -3904,7 +3905,6 @@ New meaning to moving on.,1.1666666666666667,0.06338902990667021,54,47,5,2
 Did you remember to cover the basement?,1.1666666666666667,0.05101913957479684,66,56,9,1
 "For a guru, you'd think a yurt or teepee would do?",1.1666666666666667,0.05933908290969267,72,64,4,4
 Let's just make camp for the night here.,1.1666666666666667,0.059025354442335316,60,52,6,2
-"If we pull this off, we’ll have our house with a great view",1.1666666666666667,0.05101913957479684,66,56,9,1
 Google maps said to make a U-turn as soon as it's safe. #,1.1666666666666667,0.05594542388644594,72,63,6,3
 You told me to pack everything except the kitchen sink,1.1666666666666667,0.05402796234942498,60,51,8,1
 Sisyphus the Millennial,1.1666666666666667,0.0594588390010563,66,58,5,3
@@ -4178,6 +4178,7 @@ It would take a lifetime for sea water to raise up here,1.1587301587301588,0.046
 "Well, the housing market doesn’t climb all by itself…",1.1587301587301588,0.05163159310171234,63,54,8,1
 I'm glad we only packed the essentials.,1.1585365853658536,0.04742547425474257,82,71,9,2
 We will have to re-think our tiny house strategy,1.1585365853658536,0.044136849525480595,82,70,11,1
+"After this, no more Kate Bush in the playlist",1.1578947368421053,0.06022864581803467,57,50,5,2
 Looks like a house - it’s really a mortgage,1.1578947368421053,0.06522312621390028,57,51,3,3
 I think we forgot the sink?,1.1578947368421053,0.05478068419647718,57,49,7,1
 "Yeah, I know, but a tent wouldn't have that warm glow of the fireplace at the end of a grueling day.",1.1578947368421053,0.05478068419647718,57,49,7,1
@@ -4811,7 +4812,6 @@ Are you absolutely certain the invitation said BYOH and not BYOB?,1.140625,0.043
 ""Don't Leave Home Without It.""?",1.140625,0.04913531839612815,64,56,7,1
 These mortgage rates are going to be the death of me.,1.140625,0.04913531839612815,64,56,7,1
 Mort” means death and these mortgages are literally killing people,1.140625,0.043797805514170944,64,55,9,0
-I’m really getting tired of carrying around the boomers on my back.,1.140625,0.053947300765845876,64,57,5,2
 ": Ever since we bought our house, vacations haven't felt the same",1.140625,0.04913531839612815,64,56,7,1
 "They say home is not a place… It’s a person.
 
@@ -4893,6 +4893,7 @@ I told you moving is harder than it seems.,1.1384615384615384,0.0531549036964817
 This is really not what I expected when your parents said they would join us.,1.1384615384615384,0.043172969847391635,65,56,9,0
 "Now that the kids are gone, maybe we should downsize.",1.1384615384615384,0.04842183966159297,65,57,7,1
 "You know this doesn’t equal hiking in our own backyard, right?",1.1384615384615384,0.04842183966159297,65,57,7,1
+I’m really getting tired of carrying around the boomers on my back.,1.1384615384615384,0.053154903696481744,65,58,5,2
 It's time we downsized to a Winnebago.,1.1384615384615384,0.04842183966159297,65,57,7,1
 What? Turtles carry their homes on their backs.,1.1384615384615384,0.043172969847391635,65,56,9,0
 Modern day nomads,1.1382978723404256,0.0388612318344454,94,82,11,1
@@ -5108,6 +5109,7 @@ I figured since you said I walk as slow as a tortoise.,1.1323529411764706,0.0463
 "Where we are going, the supreme court won’t reach us!",1.1323529411764706,0.0414000577075105,68,59,9,0
 "(Thoughts of Boomers) When will these kids learn that the government won't help you. Look at us, we own two houses, which we used government subsidized low interest loans to purchase, are retired at 60 and did it all on our own...",1.1323529411764706,0.05091098018830443,68,61,5,2
 "Lighter than the senate, but still can’t get anywhere on its own.",1.1323529411764706,0.0463998528118308,68,60,7,1
+Now you know why I always dreamed of a bungalow,1.1320754716981132,0.04695159976668159,53,46,7,0
 You always said you wanted a room with a view.,1.1320754716981132,0.04695159976668159,53,46,7,0
 Is this how airbnb works?,1.1320754716981132,0.04695159976668159,53,46,7,0
 "Our mortgage shakes out to ~ $1 a minute, every moment with this house counts.",1.1320754716981132,0.05413078722488102,53,47,5,1
@@ -5306,7 +5308,6 @@ do you think the dog is alright in there?,1.1263157894736842,0.04296435998767705
 It will be worth it when we get to the home site.,1.1262135922330097,0.03823542562589994,103,92,9,2
 "I thought about using a million balloons, but someone already made that movie.",1.125,0.04459412925079223,56,49,7,0
 "When the bank said we would carry the mortgage with us everywhere we went, I didn’t think they meant it literally.",1.125,0.041666666666666664,64,56,8,0
-"After this, no more Kate Bush in the playlist",1.125,0.05136133772583239,56,50,5,1
 It's convenient and we don't have to pay for gas.,1.125,0.0472455591261534,64,57,6,1
 "You don't say we're turtles, do you? Well, we do carry our house on our backs.",1.125,0.0472455591261534,64,57,6,1
 We could have at least thrown out the kitchen sink.,1.125,0.05136133772583239,56,50,5,1
@@ -5601,7 +5602,6 @@ I’m sad we had to leave our acequia behind.,1.1159420289855073,0.0485783916791
 Perambulation, perambulation, perambulation.",1.1159420289855073,0.04857839167914194,69,63,4,2
 These tax hikes are getting out of hand,1.1159420289855073,0.03882454402978924,69,61,8,0
 "Me, packing for my first trip abroad in two years",1.1159420289855073,0.04857839167914194,69,63,4,2
-Now you know why I always dreamed of a bungalow,1.1153846153846154,0.044736922925984586,52,46,6,0
 We’ll need more help carrying the mortgage.,1.1153846153846154,0.044736922925984586,52,46,6,0
 I still think the cooking reality show would have been easier.,1.1153846153846154,0.05249323847751087,52,47,4,1
 Wasn't there a better way to make sure the iron was unplugged.,1.1153846153846154,0.044736922925984586,52,46,6,0
@@ -5731,7 +5731,6 @@ our solution to rising tides and mortgage rates,1.1111111111111112,0.05115717330
 You just had to forget the kitchen sink.,1.1111111111111112,0.050619272401046675,54,49,4,1
 I told you we'd be going at a snail's pace.,1.1111111111111112,0.037296949257630635,72,64,8,0
 I'm glad they didn't ask for a cathedral at the top of the hill.,1.1111111111111112,0.039912289339283286,63,56,7,0
-Take HoMe with you!,1.1111111111111112,0.045880536291546904,63,57,5,1
 Mortgage rates sure have taken a hike.,1.1111111111111112,0.043168260549211725,54,48,6,0
 "When you said the house needed work, I thought you meant repairs.",1.1111111111111112,0.039912289339283286,63,56,7,0
 "Well, it’s better than carrying today’s mortgage rates.",1.1111111111111112,0.039912289339283286,63,56,7,0
@@ -5774,6 +5773,7 @@ It's junk mail proof,1.109375,0.039322054350368486,64,57,7,0
 Did you bring the candelabrum?,1.109375,0.045191323330536354,64,58,5,1
 I won’t be happy until I’m sure it’s a gated community.,1.109375,0.045191323330536354,64,58,5,1
 I still can’t get the image of that couple crushed by student loans out if my head.”,1.109375,0.045191323330536354,64,58,5,1
+Take HoMe with you!,1.109375,0.045191323330536354,64,58,5,1
 "It’s like an Airbnb, but you carry it on your back to each location.",1.109375,0.039322054350368486,64,57,7,0
 Are you sure this is the best route to,1.109375,0.039322054350368486,64,57,7,0
 "I know, but this B&B is advertised as a'Home away from Home.""",1.109375,0.050381419694137494,64,59,3,2
@@ -5795,6 +5795,7 @@ Wait -- did you remember to unplug the iron?,1.1090909090909091,0.04973144899026
 Thank goodness for the tiny house trend.,1.1090909090909091,0.04973144899026735,55,50,4,1
 Did you bring your chain saw? I think it’s going to be a single track trail up ahead.,1.1090909090909091,0.04242424242424242,55,49,6,0
 At least we'll have our own bed and breakfast when we get there.,1.1090909090909091,0.056094720714807346,55,51,2,2
+"I mean, look at it this way, we won't have to stay at an AirBNB now.",1.1090909090909091,0.04242424242424242,55,49,6,0
 Just imagine the view from the top.,1.1090909090909091,0.056094720714807346,55,51,2,2
 ...and no more worrying about whether we locked the door.,1.1090909090909091,0.04242424242424242,55,49,6,0
 "When you told me we could share the load, and have all the comforts of home on this hike by doing so, I really should have pressed for details…",1.1090909090909091,0.04973144899026735,55,50,4,1
@@ -6182,7 +6183,6 @@ Did you bring the bear market spray?,1.09375,0.0429490169335173,64,59,4,1
 "Remember when those kids used to make fun of our noses in school? Jokes on them, they had no idea we'd be so good at cocaine.",1.0930232558139534,0.06498959358193226,43,41,0,2
 This way we won’t obsess over whether  you turned off the stove,1.0930232558139534,0.04481972612369448,43,39,4,0
 "FREE TINY HOME! Must be removed immediately! Demolition crew arriving Monday. ""This is almost as bad as you signing us up to deliver a million telephone books!""",1.0925925925925926,0.039815424239237576,54,49,5,0
-"I mean, look at it this way, we won't have to stay at an AirBNB now.",1.0925925925925926,0.039815424239237576,54,49,5,0
 Exercising. Our constitutional right to MOVE.,1.0925925925925926,0.039815424239237576,54,49,5,0
 "The higher we go, the lower it goes on Zillow.",1.0925925925925926,0.039815424239237576,54,49,5,0
 "If I would've known the weight of our mortgage would follow us on vacation, I would've suggested the Great Plains",1.0925925925925926,0.039815424239237576,54,49,5,0
