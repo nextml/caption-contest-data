@@ -1,15 +1,15 @@
 caption,mean,precision,votes,not_funny,somewhat_funny,funny
 I told the aquarium we''ll be working remotely from now on.,1.8455284552845528,0.013884205707704269,3444,1450,1076,918
 "Hey, nobody goes hunting for the Great Tan Whale.",1.8315677966101696,0.02587981480615216,944,390,321,232
-Of course I turned off echolocation. I'm on vacation!,1.8058375634517767,0.016221285232770985,2364,1009,805,550
+Of course I turned off echolocation. I'm on vacation!,1.8054968287526427,0.016218004642172813,2365,1010,805,550
 "If Greenpeace shows up, act distressed.",1.768068720379147,0.013039810931493286,3376,1451,1257,668
-Everything I drink turns to blubber.,1.766840731070496,0.013053371637841055,3830,1800,1123,906
+Everything I drink turns to blubber.,1.7666405638214566,0.013051498936920721,3831,1801,1123,906
 That had better be a paper straw.,1.7660738714090287,0.012649507121873042,3655,1596,1318,741
 I love those fake shark fins. They clear the beach every time.,1.7541106128550075,0.02069424796889738,1338,588,491,259
 "So when the humans come, just start flopping around like you're in trouble. It's hysterical.",1.7528263103802673,0.017582556578063794,1946,885,657,404
 "How come when they do this, it's a vacation, but when we do it, it's a tragedy?",1.7515605493133584,0.02741348180314583,801,365,270,166
-Remind me to thank the sharks for clearing the beaches.,1.7480851063829788,0.022517498223825913,1175,535,401,239
-What's got into you?  You're drinking like a fish.,1.7447528774542993,0.020145693311866456,1477,678,496,302
+Remind me to thank the sharks for clearing the beaches.,1.7474489795918366,0.022507333793591523,1176,536,401,239
+What's got into you?  You're drinking like a fish.,1.7442489851150202,0.020138363384892714,1478,679,496,302
 "We're not beached whales, we're beach whales, baby!",1.7430555555555556,0.025607881828044597,864,384,318,162
 Finally a beach where nobody is trying to drag us back into the ocean.,1.7370772176132738,0.019232467379664418,1567,714,551,302
 "Remember, when they carry us back to the water, pretend to be grateful.",1.7345724907063198,0.020802230001788435,1345,616,468,260
@@ -17,15 +17,15 @@ They say 'beached whale' like it's a bad thing.,1.7307514983863532,0.01652918339
 I'm thinking the Bucket o' Krill for starters.,1.7253433208489388,0.018951278180191242,1602,740,560,301
 We live so close to the beach; we really should use it more.,1.719626168224299,0.0219925617557698,1177,546,414,216
 We just need to be in the water before the next whale watch boat cruises by,1.718475073313783,0.017957349028941468,1705,776,633,296
+"Enjoy it while it lasts, pretty soon they'll be here and push us back in.",1.7092675635276533,0.020254717356919073,1338,617,491,229
 Yes I’ve heard the random noises humans sometimes make towards each other but there’s no actual scientific evidence and intelligent communication between them exists.,1.7092013888888888,0.023165875473726418,1152,572,343,237
-"Enjoy it while it lasts, pretty soon they'll be here and push us back in.",1.7083021690351534,0.020246835445368126,1337,617,491,228
-I can't believe we finally found a spot that isn't covered in beached humans.,1.7081413210445469,0.02122485804096879,1302,627,428,247
+I can't believe we finally found a spot that isn't covered in beached humans.,1.7075978511128165,0.02121552463454654,1303,628,428,247
 I love nude beaches.,1.7043765483071842,0.021608083154860753,1211,574,421,216
-Let's not migrate but say we did.,1.702819956616052,0.024133470527824354,922,425,346,151
+Let's not migrate but say we did.,1.7020585048754062,0.024119332158441968,923,426,346,151
 """Call me Fishmael.""                            ""You're drunk.""",1.700923076923077,0.01931616658511724,1625,808,495,322
 They keep saying beached whale like it’s a bad thing!,1.6948356807511737,0.029695074909491734,639,307,220,112
 There's a human show  at 4 where they are trained to feed us.,1.694519804666305,0.01768714651116402,1843,901,605,336
-I'll be ready for the humans to come push me back into the water in about two more cocktails.,1.6876106194690266,0.021951024383073874,1130,539,405,186
+I'll be ready for the humans to come push me back into the water in about two more cocktails.,1.687002652519894,0.021940032405208854,1131,540,405,186
 They were really onto something. We should’ve done this 385 million years ago.,1.6865384615384615,0.022842442287826958,1040,496,374,170
 Ditch the drink.  The whale watchers are in sight.,1.6744995648389904,0.0165541758176033,2298,1219,608,471
 And they say beached whales like its a bad thing....,1.6737451737451738,0.018629628579981426,1554,755,551,248
@@ -37,7 +37,7 @@ Great.  Now you could be charged with migrating under the influence.,1.664401463
 I am going to enjoy this climate change thing if it kills me.,1.6611721611721613,0.022453350366615565,1092,548,366,178
 Don't take any pictures - I called in beached,1.6604527296937417,0.019563093494216418,1502,773,466,263
 Nice having the beach to ourselves while the humans are on that whale watching adventure.,1.6586248492159228,0.01824757714233476,1658,837,550,271
-"You were right, Sally. A beach holiday, a little time away from all the swimming, swimming, swimming...",1.6525157232704402,0.0202111548985208,1272,628,458,186
+"You were right, Sally. A beach holiday, a little time away from all the swimming, swimming, swimming...",1.6520031421838177,0.020201775791731574,1273,629,458,186
 "If those 'Save the Whales' idiots don't spoil our vacation again, we can go to the casino later.",1.6515270164447924,0.021136052586164106,1277,664,394,219
 I slipped the cabana boy a fin.,1.646189735614308,0.021837130048974106,1286,702,337,247
 "If Darwin could see us now.""",1.646153846153846,0.019524131760991107,1430,732,472,226
@@ -425,7 +425,6 @@ Now I see why the Jacobsons are always raving about Nantucket!,1.424870466321243
 I live for beached season,1.4240837696335078,0.04772279612840961,191,128,45,18
 "Oh sure, but it's a dry heat.",1.423963133640553,0.04406085870741465,217,144,54,19
 I told you pretending to be sharks would totally scare them off the beach!,1.4234693877551021,0.0457085735946865,196,127,48,14
-The real reason whales beach,1.4233576642335766,0.055526122238843824,137,91,34,12
 Hurry and drink up before they try to push us back in!,1.4230769230769231,0.04789542104957955,208,144,40,24
 "Remember, if we see any humans, roll over and look distressed.",1.4221105527638191,0.046321110041386095,199,133,48,18
 Whalin’ away again in Margaritaville,1.4219653179190752,0.048570273913117655,173,114,45,14
@@ -436,6 +435,7 @@ You wanna split a tuna melt?,1.421383647798742,0.056700993035015954,159,113,25,2
 "Hopefully, they won't push us back in this time.",1.4212962962962963,0.042697087486938644,216,141,59,16
 I’d kill for some sushi right now.,1.4210526315789473,0.048455909868258554,190,129,42,19
 Hope none of those do gooders find us before cocktail hour is over!,1.4207920792079207,0.046880068602330065,202,137,45,20
+The real reason whales beach,1.4202898550724639,0.055207593381370226,138,92,34,12
 "Can you believe that guy? He wants us to call him ""Ishmael""!",1.4202127659574468,0.04823756712644095,188,127,43,18
 "I don't know about you but I'm having a whale of a time.""",1.42,0.046678629718124864,200,135,46,19
 Did you remember to tip the shark?,1.419811320754717,0.04623845804654779,212,145,45,22
@@ -689,7 +689,6 @@ I've never burned because someone always rescues me.,1.3768115942028984,0.054621
 It's 5 o'clock somewhere.,1.3767123287671232,0.05336163815809851,146,104,29,13
 "So while Ahab is trolling the oceans for me, I'm spending two weeks at the Beach.",1.3767123287671232,0.050636394945208656,146,101,35,10
 I used to think being beached was a bad thing!,1.3767123287671232,0.051560816560026604,146,102,33,11
-The best part? After this we get to go fishing.,1.3767123287671232,0.050636394945208656,146,101,35,10
 "This is nice, but it's not worth getting legs.",1.3766233766233766,0.05052808477117192,154,108,34,12
 "I knew if we just waited long enough, we'd have all this to ourselves.",1.376543209876543,0.04634930380546944,162,110,43,9
 That piña krill-ada any good?,1.3764044943820224,0.047062137178472754,178,125,39,14
@@ -712,6 +711,7 @@ This is a whale of a trip,1.3742331288343559,0.04929702721680856,163,115,35,13
 Who cares if we're lost?,1.3741935483870968,0.05108654944183442,155,110,32,13
 Hopefully we’re far enough away that they’ll stop pushing us back in.,1.3741496598639455,0.048470103008290424,147,100,39,8
 Bringing those weed gummies to the beach was genius!,1.3741496598639455,0.05563141708206532,147,108,23,16
+The best part? After this we get to go fishing.,1.3741496598639455,0.05035600069371465,147,102,35,10
 I love flipping out with you.,1.3741007194244603,0.049260384442693726,139,94,38,7
 Can’t beat this apocalypse.,1.3741007194244603,0.05133336443827354,139,96,34,9
 You're getting to drunk to swim!,1.3733333333333333,0.04964902919418898,150,104,36,10
@@ -849,7 +849,6 @@ Think of those poor bastards blubbering back at the office.,1.3582089552238805,0
 "Tiki bars serve a youthful porpoise""",1.3582089552238805,0.05339236456384609,134,94,28,10
 It's great to be beached!,1.3577235772357723,0.051149757129237514,123,87,29,7
 I thought you said sex on the beach,1.3577235772357723,0.05306804769696346,123,86,30,7
-Are you beached yet? I’m so beached!,1.3577235772357723,0.05430927828365971,123,87,28,8
 I’m having such a whale of a time darling.,1.3577235772357723,0.05049413474570667,123,84,34,5
 I love New York in the summer.,1.3576642335766422,0.049403077319798414,137,95,35,7
 "I’ve done this several times, but eventually someone will come by and push us back in the water.",1.3576642335766422,0.049403077319798414,137,95,35,7
@@ -881,6 +880,7 @@ Don't you just love happy hour?,1.3553719008264462,0.05611320726204283,121,87,25
 I don’t want to be mistaken for a Great White whale.,1.355191256830601,0.04311497823594397,183,128,45,10
 They never ask us if we want to be rescued.,1.355072463768116,0.044596673480026466,138,92,43,3
 "Ooh, they even have those rare endangered krill!",1.3550295857988166,0.04846845147073447,169,123,32,14
+Are you beached yet? I’m so beached!,1.3548387096774193,0.053946710973411326,124,88,28,8
 Haven't you finished MOBY DICK yet?,1.3548387096774193,0.05747728817135755,124,91,22,11
 Here’s to rising sea levels.,1.3548387096774193,0.047335307931265405,155,109,36,9
 pass me my copy of Moby Dick,1.3546099290780143,0.054330923212546484,141,104,24,13
@@ -998,7 +998,6 @@ This is great! Those whale-watching-cruise idiots will never look for us here!,1
 Look at us: two beached whales.,1.3435114503816794,0.050564624518149505,131,93,31,7
 Go ahead and have another Doris. The tide won't be back in for a few hours.,1.3432835820895523,0.049805454324132054,134,95,32,7
 And to think I was skeptical of going to Nova Scotia in November.,1.3431372549019607,0.05658895519765495,102,72,25,5
-"Ahh, remember when they would drag us back to the water to keep us from going to heaven?  This is heaven.",1.3430656934306568,0.05015856801694904,137,97,31,8
 "See honey, I told told you we could still work from home!",1.3430656934306568,0.04797079873839243,137,96,35,6
 "Here's another article: ""Crowds surround whale beached in Florida."" He should have picked a more desolate coastline.",1.3428571428571427,0.049427793184589175,140,100,32,8
 Didn't you just love the part about Jonah?,1.3428571428571427,0.06176371646767648,105,78,18,9
@@ -1030,6 +1029,7 @@ This time I speaking up if they drag us out again -,1.3407407407407408,0.0516857
 Keep an eye out for that Sperm Whale.,1.3407407407407408,0.05274443002978341,135,99,26,10
 They are saying Florida will be underwater in just 4 weeks. We can finally take that trip to Disney World!,1.3407407407407408,0.051685748322464815,135,98,28,9
 We won!!! The earth is our playground now and we don't need to pretend to like the cold anymore.,1.3405797101449275,0.0476867587033604,138,97,35,6
+"Ahh, remember when they would drag us back to the water to keep us from going to heaven?  This is heaven.",1.3405797101449275,0.049855792052945165,138,98,31,8
 "Yes, it has been much more pleasant without Dershowitz.",1.3405797101449275,0.05393279236618936,138,100,22,12
 Everyone is staring at us - next time we should come with bathing suits,1.3404255319148937,0.05404582396024974,141,106,22,13
 "Ooo, this Pineapple Ahab is delicious!",1.34,0.050792379072180496,150,111,27,12
@@ -1830,7 +1830,6 @@ And that’s why they call me a sperm whale.,1.2903225806451613,0.05634297969357
 Says here this is what happens when the artist forgets porpoises need dorsal fins.,1.2903225806451613,0.05422893388269622,93,69,21,3
 "I’m having a whale of a time, how about you?",1.2903225806451613,0.058380522877471835,93,71,17,5
 On this vacation let’s not go swimming.,1.2903225806451613,0.05634297969357341,93,70,19,4
-"I hope that drink's a ""Sex On The Beach"".",1.2903225806451613,0.058380522877471835,93,71,17,5
 "And later on, we can go people watching.",1.29,0.05373898759633259,100,74,21,4
 "Orcina, just enjoy Florida; it.will not be here long, just like our last vacation spot.",1.29,0.05737524894864677,100,77,17,6
 "See, being beached isn't all bad.",1.29,0.05373898759633259,100,75,21,4
@@ -1890,6 +1889,7 @@ Hey — some help here!,1.2872340425531914,0.05582586504349467,94,71,19,4
 There are some advantages to global warming,1.2872340425531914,0.046919130535782505,94,67,27,0
 Don't you just love Harpoon Holidays?,1.2872340425531914,0.053737757754202115,94,70,21,3
 "When you're beached, treat it like a vacation.",1.2872340425531914,0.053737757754202115,94,70,21,3
+"I hope that drink's a ""Sex On The Beach"".",1.2872340425531914,0.05783863593878793,94,72,17,5
 "Beachin' whales, on the other hand, do not require a rescue.",1.2872340425531914,0.053737757754202115,94,70,21,3
 The whale watchers should see us now.,1.2871287128712872,0.05510859425772571,101,77,19,5
 "Told you I had Amazon Prime!  
@@ -2507,7 +2507,6 @@ Aaaaaaauuuunnaaaooootthheeeeerrrrr  mmmaaaaaaaaiiiiiiiiiiii-taaaaaaaaaiiiiiiii  
 "If you can't make here Ariel, there's no where",1.2596153846153846,0.05111744649348446,104,81,19,4
 This isn’t sand….,1.2596153846153846,0.05111744649348446,104,81,19,4
 "Relax, there’s not a cameraman around.",1.2596153846153846,0.054648022203794944,104,83,15,6
-"Have my agent call Steven Spielberg ,Ishmael",1.2592592592592593,0.057675598157027524,81,63,15,3
 We gotta thank those sharks for scaring the bipeds away and leaving us the best vacation spots.,1.2592592592592593,0.054934803608116006,81,62,17,2
 "That arctic timeshare was a bad idea, you said. We’ll never get our money out, you said.",1.2592592592592593,0.04987067104129538,108,84,20,4
 The only thing that could make today better would be a coney dog!,1.2592592592592593,0.0602919281337026,81,64,13,4
@@ -2560,6 +2559,7 @@ Next time let's bring towels.  I'm covered in sand.,1.2564102564102564,0.0617102
 "There's not much we can thank the human race for -- but ok, gotta love the beach read and the summer cocktail!",1.2564102564102564,0.04976099197474031,78,58,20,0
 I knew it. Just got a crab in my blow hole.”,1.2564102564102564,0.061710271870341823,78,62,12,4
 Ahab will never recognize me with this tan!,1.2564102564102564,0.05895046497960103,78,61,14,3
+"Have my agent call Steven Spielberg ,Ishmael",1.2560975609756098,0.05705556442121219,82,64,15,3
 "You know, we used to be land critters. Now that the humans have come up with booze and porn, maybe we should be coming back.",1.2560975609756098,0.05435276726322922,82,63,17,2
 I never thought being a beached whale could be this good .,1.2560975609756098,0.051508340945117116,82,62,19,1
 There's beaching . . . and then there's BEACHING!,1.2560975609756098,0.05435276726322922,82,63,17,2
@@ -2943,7 +2943,6 @@ I don’t know why I have heard such bad things about being beached.,1.238805970
 "Ahhh, humpback hooky.",1.2386363636363635,0.0510964374493487,88,69,17,2
 Ahab will never find us looking like this.,1.2386363636363635,0.0510964374493487,88,69,17,2
 I'm learning how to be more humane.,1.2386363636363635,0.0510964374493487,88,68,17,2
-"Darling, do you think other mammalians realize that ‘chasing a white whale’ now includes bar service?",1.2386363636363635,0.0510964374493487,88,69,17,2
 "It says here ""In Oregon they blew up a beached whale"". I'll bet that was old uncle Fred taking a nap after eating a ton of fermented kelp.  He could sleep through anything.",1.2386363636363635,0.053591780525271915,88,70,15,3
 Ah... Five whole days away from the old salt water.,1.2386363636363635,0.053591780525271915,88,70,15,3
 "According to this, the sushi bar is only six blocks away.",1.2386363636363635,0.048472805779751334,88,68,19,1
@@ -3025,6 +3024,7 @@ We finally figured out how to make this beached whale thing work to our advantag
 We got 99 problems but a beach ain't one.,1.2359550561797752,0.04800002104110976,89,69,19,1
 Now if only we had some caviar.,1.2359550561797752,0.050590163419978754,89,70,17,2
 "And Moby was all ... 'Hey, don't get too close to the beach.'",1.2359550561797752,0.05540839164500726,89,72,13,4
+"Darling, do you think other mammalians realize that ‘chasing a white whale’ now includes bar service?",1.2359550561797752,0.050590163419978754,89,70,17,2
 Nothing like getting away from the daily grind with a day at the beach!,1.2359550561797752,0.053054003145599986,89,71,15,3
 Can’t believe we got this spot for brunch. Shall we order the lox or is that too on the nose?,1.2359550561797752,0.053054003145599986,89,71,15,3
 Who knew? I love global warming.,1.2358490566037736,0.0474921600234526,106,83,19,3
@@ -3585,7 +3585,6 @@ May they never reopen the Rockaways to humans!,1.2135922330097086,0.045027828265
 Beached and lovin' it!,1.2134831460674158,0.04651246198172614,89,71,17,1
 And to think you were always afraid you'd end up a beached whale!,1.2134831460674158,0.04651246198172614,89,71,17,1
 "Wow, there's an orcastra at the Baleen Bar!",1.2134831460674158,0.05171203292685246,89,73,13,3
-"Climate change has really outdone our summer this year, didn’t it?",1.2134831460674158,0.04651246198172614,89,71,17,1
 "After all, being beached doesn't look bad…",1.2134831460674158,0.04918100989726316,89,72,15,2
 The Secret Whale Riviera! Who knew?,1.2133333333333334,0.05787010410349153,75,62,10,3
 Does an orange tan make me look like Trump?,1.2133333333333334,0.054667985042331564,75,60,12,2
@@ -3644,6 +3643,7 @@ And I always thought being a whale on the beach was bad thing.  We didn't know w
 "Keep the pod scared of beaching, and we'll have this place all to ourselves!",1.211111111111111,0.05357260103480203,90,75,11,4
 I miss the mermaid pinups.,1.211111111111111,0.05357260103480203,90,75,11,4
 I have to loose a bit more blubber to fit into this suit,1.211111111111111,0.05118921460128826,90,74,13,3
+"Climate change has really outdone our summer this year, didn’t it?",1.211111111111111,0.046053880522949266,90,72,17,1
 I'm just working on my beached bod.,1.211111111111111,0.05118921460128826,90,74,13,3
 I'm so happy we're past the break.,1.2105263157894737,0.04707511531578505,76,60,16,0
 "Well, they may be trashing the oceans, but they sure do know how to have a good time.",1.2105263157894737,0.05066501430945142,76,61,14,1
@@ -4024,7 +4024,6 @@ They say 'Adapt or die'. I say 'Adapt dammit!',1.1917808219178083,0.046398176787
 I hope it's food.,1.1917808219178083,0.053979864920259725,73,61,10,2
 "You're right, it's heaven, and it's not on the map.",1.1917808219178083,0.04639817678744647,73,59,14,0
 Mimic humans and they’ll stay away!,1.1917808219178083,0.05033198101609266,73,60,12,1
-Being a beach whale is so much cooler than being a beached whale.,1.1917808219178083,0.04639817678744647,73,59,14,0
 How long do you think we have until we're dragged back in?,1.1917808219178083,0.04639817678744647,73,59,14,0
 "Finally,I’ve found my porpoise",1.1917808219178083,0.04639817678744647,73,59,14,0
 Quit relaxing and help me find the city.,1.1917808219178083,0.04639817678744647,73,59,14,0
@@ -4062,12 +4061,12 @@ Yup.  Life’s a beach.,1.1891891891891893,0.05667471724545394,74,63,8,3
 "If you can’t beat ‘em, right?",1.1891891891891893,0.05330844518372843,74,62,10,2
 Do you have a cigarette?,1.1891891891891893,0.04584019888717137,74,60,14,0
 Listen to this one: 'Marine Life Threatened by Global Warming'.,1.1891891891891893,0.04971475717491742,74,61,12,1
-"I hope no one tries to ""rescue"" us this time.",1.1891891891891893,0.05330844518372843,74,61,10,2
 Great idea!  Catch some rays.,1.1891891891891893,0.04971475717491742,74,61,12,1
 "After play on a sunny day is always great, isn't it !",1.1891891891891893,0.05330844518372843,74,62,10,2
 And it's just a quarter mile walk to a nude beach. Are you game?,1.1891891891891893,0.05330844518372843,74,61,10,2
 Look at them still waiting for the whale watching tour,1.1891891891891893,0.04584019888717137,74,60,14,0
 "Babe, once you finish humming Margarita in Paradise, we start working on Baby Beluga.""",1.1891891891891893,0.04584019888717137,74,60,14,0
+Being a beach whale is so much cooler than being a beached whale.,1.1891891891891893,0.04584019888717137,74,60,14,0
 I don't like that they won't guarantee that you're going to see any people if you go on one of those cruises.,1.1891891891891893,0.04971475717491742,74,61,12,1
 This menu is so beached-worthy!,1.1891891891891893,0.05330844518372843,74,62,10,2
 You are going to need a good stiff drink to deal with the nasty sunburn.,1.1891891891891893,0.04971475717491742,74,61,12,1
@@ -4110,6 +4109,7 @@ I could go for some krill with a phytoplankton salad right now.,1.18666666666666
 Who knew being 'beached' could be so much fun?,1.1866666666666668,0.04911223892281852,75,62,12,1
 "Finally, some time without everyone trying to study, catch or watch us!",1.1866666666666668,0.04911223892281852,75,62,12,1
 Moby Dick works hard and plays harder.,1.1866666666666668,0.05265332251978379,75,63,10,2
+"I hope no one tries to ""rescue"" us this time.",1.1866666666666668,0.05265332251978379,75,62,10,2
 This is perfect and we are never going back.,1.1866666666666668,0.05265332251978379,75,63,10,2
 "This is gonna make a whale of a story""",1.1866666666666668,0.0452951614596046,75,60,14,0
 Ahhh. Nuthin like beaching without fear of being dragged back in!,1.1866666666666668,0.04911223892281852,75,62,12,1
@@ -4226,7 +4226,6 @@ I think this area is going to change for the better in the next few years.,1.180
 Wish you were here!  Having a Whale of a Good Time!!,1.1805555555555556,0.04975050777451365,72,59,11,1
 "...and then, because they were so worried about saving us, they destroyed the planet instead. It is nice to have this all to ourselves though",1.1805555555555556,0.05353829779280629,72,61,9,2
 It’s almost time to go people watching,1.1805555555555556,0.04975050777451365,72,60,11,1
-I'm so glad we're finally getting to retire in New York!,1.1805555555555556,0.05353829779280629,72,61,9,2
 I was thinking we should go people watching but you never know if you will see anything.,1.1805555555555556,0.057075262919065665,72,61,7,3
 "No one will even notice we're gone, plenty of fish in the sea.",1.1805555555555556,0.04975050777451365,72,59,11,1
 Ahh Summer! The perfect time to play the Mammal Card!,1.180327868852459,0.05486295255961152,61,50,9,1
@@ -4258,6 +4257,7 @@ Can’t believe they still ask if we’ve dined with them before.,1.178217821782
 Where’s the bartender? I need another!,1.178082191780822,0.0491265634505708,73,61,11,1
 Sure beats straining krill.,1.178082191780822,0.045087711548245424,73,60,13,0
 I can use a ice cream cake right about now.,1.178082191780822,0.045087711548245424,73,60,13,0
+I'm so glad we're finally getting to retire in New York!,1.178082191780822,0.052857702752466776,73,62,9,2
 There’s nothing like a good swim-up bar.,1.178082191780822,0.045087711548245424,73,60,13,0
 I'm glad you got my Blowhole.,1.178082191780822,0.0491265634505708,73,61,11,1
 "How's the piña krill-ada, babe?",1.178082191780822,0.052857702752466776,73,62,9,2
