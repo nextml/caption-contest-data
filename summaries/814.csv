@@ -29,7 +29,7 @@ I assure you this is a secure line.,1.747846889952153,0.016398835624695504,2090,
 "Yeah, I’m still working remote.",1.7476923076923077,0.01865660492212077,1625,716,603,306
 You sound a little tinny.,1.7454289732770745,0.016058945095287262,2133,927,822,384
 "Creamed corn, 16 oz. Why do you ask?",1.7416555407209613,0.01984351638009095,1498,685,515,298
-We can talk. They can't trace it.,1.73416551086454,0.016218925470418442,2163,979,780,404
+We can talk. They can't trace it.,1.733826247689464,0.01621497841625106,2164,980,780,404
 "No, they can’t find me out here. This is a burner can",1.729832160259881,0.017864971204436992,1847,861,624,362
 It’s definitely on your end.,1.7289972899728998,0.01989360007766207,1476,685,506,285
 Guess what! I've just upgraded to fiber.,1.7247838616714697,0.02049772734559454,1388,648,474,266
@@ -313,6 +313,7 @@ I'll just text you instead.,1.4523809523809523,0.048683701030659075,210,141,43,2
 Haven't we already stretched this conversation too far?!,1.4523809523809523,0.05259824799509115,168,110,40,18
 I'm so glad I decided to keep the landline,1.4517766497461928,0.047954069956099896,197,128,49,20
 Your destination is coming up on the left.,1.4513888888888888,0.05732127481263142,144,95,33,16
+REP…RE…SEN...TA…TIVE.,1.45,0.058523280036830404,140,93,31,16
 When you said you had a land line you weren't kidding.,1.4486486486486487,0.047795761800885364,185,118,51,16
 It's uncanny how good the reception is.,1.4484536082474226,0.04902351211610083,194,128,45,21
 I switched to a plan that allows long distance calling for free.,1.4484536082474226,0.050101263858338206,194,130,41,23
@@ -350,7 +351,6 @@ Did you know your auto warranty is about to expire?,1.44,0.04841196745604154,200
 Marco . . .,1.4391891891891893,0.0584993053069566,148,102,27,19
 I’m sorry I can’t hear you. I have a kink in my wire.,1.4390243902439024,0.04426999612127662,164,98,60,6
 The plan includes unlimited yarn.,1.4388888888888889,0.04993098209147104,180,119,43,18
-REP…RE…SEN...TA…TIVE.,1.4388489208633093,0.057865904684877977,139,93,31,15
 I can’t believe the line is busy….,1.4387096774193548,0.05264982687951972,155,101,40,14
 I'd like to change my long distance plan please.,1.4385964912280702,0.05442423501210399,171,118,31,22
 My wifi's acting up so I'll keep my camera off for this meeting.,1.4385964912280702,0.05116639628340763,171,113,41,17
@@ -384,7 +384,6 @@ Hello. Your voice sounds a bit tinny.,1.4325842696629214,0.05029305701284141,178
 What I do to keep my land line.,1.4319526627218935,0.04946439515919631,169,110,45,14
 "Someone from ATT will be out to bury your cable Sep 15, 16, 17, 18...",1.431578947368421,0.06963773091875845,95,64,21,10
 I've been trying to reach you about your vehicle's extended warranty.,1.4315068493150684,0.057426738974346386,146,100,29,17
-Remote worker in Nebraska.,1.4315068493150684,0.057426738974346386,146,100,29,17
 This is the last time I buy a phone plan at the mall!,1.430622009569378,0.04631329516305078,209,140,48,21
 I'd like to make a collect call.,1.4304635761589404,0.05439608947023909,151,101,35,15
 So for now we just need you to pick up the slack.,1.4303797468354431,0.048659436462838226,158,100,48,10
@@ -394,6 +393,7 @@ What do you mean by long distance collect call ?,1.429530201342282,0.05408660913
 I have another call . . . .  Can you hold?,1.429530201342282,0.05491863080198219,149,100,34,15
 "During COVID, Herb took remote work a bit too seriously!",1.4294871794871795,0.05072850544268243,156,101,43,12
 "Yes, I'm in the office",1.4294478527607362,0.05072325882013806,163,107,42,14
+Remote worker in Nebraska.,1.4285714285714286,0.05711023204334191,147,101,29,17
 "Yes,but I have unlimited data.",1.4285714285714286,0.04572385355238447,189,122,53,14
 I think the static is coming from your end.,1.4285714285714286,0.04892006580123818,168,109,46,13
 I think I hear the ocean!,1.4276729559748427,0.050045055328591284,159,103,44,12
@@ -1247,6 +1247,7 @@ LOST ?? Follow the line home.,1.3217391304347825,0.05864972636152447,115,88,17,1
 Once I find another tin can we'll set up the conference call.,1.3214285714285714,0.061443513106299766,84,61,19,4
 Just give it to me straight.,1.3214285714285714,0.04781971874667621,112,78,32,2
 "...Funny thing is, I'm not missing my smart phone at all!",1.3214285714285714,0.06373513187786542,84,62,17,5
+Are you in the tunnel,1.3214285714285714,0.061443513106299766,84,61,19,4
 "Yes, I heard it through the grapevine.",1.3211009174311927,0.05956110563910925,109,83,17,9
 Collect call? Will I accept the charges? What are you talking about?,1.3211009174311927,0.05355321319699775,109,79,25,5
 "Hi Jimmy.  Yeah, I can hear you.  Now close the door and let’s see if it still works.",1.3211009174311927,0.056636878218508054,109,81,21,7
@@ -1284,6 +1285,7 @@ Please hang up and dial again.,1.3181818181818181,0.06372586630174333,88,66,16,6
 Can I call you right back,1.3177570093457944,0.054100311815326124,107,78,24,5
 "Okay,now what’s the surprise.",1.3177570093457944,0.057267051827607045,107,80,20,7
 "If this isn’t Watson, you got the wrong number.",1.3177570093457944,0.057267051827607045,107,80,20,7
+Yes…over the mountains AND through the woods!,1.3177570093457944,0.05073630112656223,107,76,28,3
 "That's right, it's a mobile AND a landline.",1.3176470588235294,0.06083399072408474,85,62,19,4
 "Yes, I’d like to upgrade to a thicker aluminum.",1.3176470588235294,0.06738776270118936,85,65,13,7
 What do you mean by 'I've lost the thread of our conversation'?,1.3176470588235294,0.06083399072408474,85,62,19,4
@@ -1555,7 +1557,6 @@ My iPhone beta even works way out here.,1.3020833333333333,0.053639046368495764,
 Yes! Pork and Beans to the rescue!,1.3020833333333333,0.05564571448850013,96,71,21,4
 Can't hear you! My landline got kinked!,1.3020833333333333,0.05945621945737674,96,73,17,6
 "MAGA hotline, how can we help",1.3020833333333333,0.05758249548734154,96,72,19,5
-Yes…over the mountains AND through the woods!,1.3018867924528301,0.0486471264802015,106,76,28,2
 "Dessert? I thought you said ""desert.""",1.3017241379310345,0.055058681501890985,116,89,19,8
 "It’s me, calling long distance!",1.3013698630136987,0.06668073911648506,73,55,14,4
 Hello. Is this the Over-the-Hill phone company,1.3013698630136987,0.06668073911648506,73,55,14,4
@@ -1563,7 +1564,6 @@ No I don’t need an extended warranty!! How’d you get this number?,1.30136986
 Data rates may apply...,1.3012048192771084,0.05872316540737306,83,61,19,3
 What? I don't think the line's secure. Hello?,1.3012048192771084,0.061174083693440365,83,62,17,4
 "Harold, your starting to fade. Can you walk about a mile closer?",1.3012048192771084,0.05872316540737306,83,61,19,3
-Are you in the tunnel,1.3012048192771084,0.05872316540737306,83,61,19,3
 When are they going to get hold music on these things?,1.3012048192771084,0.05616539677765436,83,60,21,2
 Oh yes... I'm working remotely today.,1.3010752688172043,0.052485992335432205,93,67,24,2
 Mr. Trump?  It's Reality again. Our connection continues to worsen.,1.3010752688172043,0.0626382458639926,93,72,14,7
@@ -1776,6 +1776,7 @@ Hamburger - 1/4 pound..,1.2894736842105263,0.05868676731114994,76,56,18,2
 "You’ll have to speak up, my string is loose.",1.2894736842105263,0.05095529609423011,114,86,23,5
 "If you know your party's extension, yell ""one"" into the can.",1.2894736842105263,0.06962503450169975,76,60,10,6
 "Yes, I understand that string charges may apply.",1.2894736842105263,0.052456625846270775,114,87,21,6
+Spills the beans.,1.2894736842105263,0.06438859404737743,76,58,14,4
 "It's not the tunnel, it's the twine",1.2894736842105263,0.06160368374062961,76,57,16,3
 I think I took a wrong turn at Albuquerque,1.2894736842105263,0.06705794685479435,76,59,12,5
 So the Supreme  Court has cooties. I knew it.,1.2894736842105263,0.05868676731114994,76,56,18,2
@@ -2256,7 +2257,6 @@ I can't quite hear you. I think the string needs to be taut--could you crawl a f
 "Why, yes, it is a landline.",1.2666666666666666,0.061022321520274245,75,58,14,3
 Gotta hang up now. My plan still has roaming charges.,1.2666666666666666,0.054799662435119106,75,56,18,1
 "Hey Siri, directions to home.",1.2666666666666666,0.07077722935985044,60,47,10,3
-Spills the beans.,1.2666666666666666,0.061022321520274245,75,58,14,3
 Kevin will be joining via audio,1.2666666666666666,0.05192907868894985,90,68,20,2
 "Yep, I can still hear the ocean",1.2666666666666666,0.054799662435119106,75,56,18,1
 I'm sorry but you have reached a tin can not in service,1.2659574468085106,0.05694810522200439,94,74,15,5
@@ -2908,6 +2908,7 @@ We have come a long way from those kindergarten days my best friend,1.2405063291
 How do I know you again?,1.240506329113924,0.0575807573202435,79,63,13,3
 Can you hold on? I’m getting another call.,1.240506329113924,0.0575807573202435,79,63,13,3
 was that 'purple mountain majesties'?,1.240506329113924,0.05468979492327308,79,62,15,2
+I know it's been very hard to unwind,1.240506329113924,0.05468979492327308,79,62,15,2
 Sounds scratchy. We still need to work the kinks out.,1.240506329113924,0.0575807573202435,79,63,13,3
 Left! I’ve said turn left!,1.240506329113924,0.0575807573202435,79,63,13,3
 can't hear you I'm raiding... the ex president  crib,1.240506329113924,0.0575807573202435,79,63,13,3
@@ -3130,6 +3131,7 @@ I'm about to lose signal.,1.2321428571428572,0.06737697508644645,56,45,9,2
 have we meet,1.2321428571428572,0.07203476536472007,56,46,7,3
 This motherfucker.,1.2318840579710144,0.06892465812731724,69,58,6,5
 I'm going to be a little late to the office,1.2318840579710144,0.05518676163669501,69,54,14,1
+"Yes operator. I understand.  Regardless, the long distance charges seem a bit excessive with regard to the quality of the service.",1.2318840579710144,0.06243471453411535,69,56,10,3
 "Yeah, my cell phone won't get a signal out here.",1.2318840579710144,0.06243471453411535,69,56,10,3
 The cheapest long distance call ever made.,1.2318840579710144,0.058922288817144,69,55,12,2
 I promised my wife I’d leave the cell at home.,1.2318840579710144,0.06243471453411535,69,56,10,3
@@ -3453,7 +3455,6 @@ You want me to bring home a gallon of milk?,1.2179487179487178,0.050463835570087
 This is about the only downside of lobbying - successfully - against universal broadband service!,1.2179487179487178,0.05667979681019971,78,64,11,3
 "Make it quick, these long distance calls are really starting to add up.",1.2179487179487178,0.0504638355700878,78,62,15,1
 Say again… how many times did he take the fifth?,1.2179487179487178,0.05667979681019971,78,64,11,3
-I know it's been very hard to unwind,1.2179487179487178,0.0504638355700878,78,62,15,1
 Did you put a stamp on your text message?,1.2179487179487178,0.0504638355700878,78,62,15,1
 THIS MESSAGE HAS TOO  MANY KINKS IN IT,1.2179487179487178,0.05366189554465247,78,63,13,2
 I don’t have any reception.,1.2173913043478262,0.05411287663276502,69,55,13,1
@@ -3720,7 +3721,6 @@ I can’t guarantee no one else is on this line.,1.2063492063492063,0.0605434094
 "I call it, the ‘canned-line.’",1.2058823529411764,0.05760368187604684,68,56,10,2
 What's that? Something about brown paper packages?,1.2058823529411764,0.05760368187604684,68,56,10,2
 That was a straight answer.,1.2058823529411764,0.04939859350354098,68,54,14,0
-"Yes operator. I understand.  Regardless, the long distance charges seem a bit excessive with regard to the quality of the service.",1.2058823529411764,0.05760368187604684,68,56,10,2
 Can you hear me Mr. Watson?,1.2058823529411764,0.053658201636864834,68,55,12,1
 Try the bin.,1.2058823529411764,0.04939859350354098,68,54,14,0
 "The long and the short of it, Mom, is I can't hear you",1.2058823529411764,0.04939859350354098,68,54,14,0
@@ -4698,6 +4698,7 @@ I guess I’ll be switching to Verizon Wireless…,1.144578313253012,0.038836025
 "Early Respondor: Hello, is there any crossing the hills app?",1.1444444444444444,0.04623424889153682,90,80,7,3
 "Sorry, my signal was crap on the plane.",1.1444444444444444,0.040475053925719685,90,78,11,1
 """We're on a secure line.""",1.1428571428571428,0.04419201606355329,77,67,9,1
+Can you hear me now? I just upgraded to Tesla's 6G Cordless Phone X.,1.1428571428571428,0.04299935704272291,91,80,9,2
 I'm afraid your ex-wife also wants the brief case.,1.1428571428571428,0.04678356086900139,70,61,8,1
 The Uber driver threw his can out the window after he left me off.,1.1428571428571428,0.05362551382353918,56,49,6,1
 "Actually, this is a lot better sound quality than my cell phone.",1.1428571428571428,0.04419201606355329,77,67,9,1
@@ -4816,7 +4817,6 @@ Did you know the warranty on your camel has or is about to expire?,1.12307692307
 ""Yes! Okay where is this?""
 ""Nowhere",1.1228070175438596,0.043859649122807036,57,50,7,0
 "Hello, is this the loooooooooooong distance operator?",1.1228070175438596,0.05049985383360874,57,51,5,1
-Can you hear me now? I just upgraded to Tesla's 6G Cordless Phone X.,1.1222222222222222,0.03814610776373575,90,80,9,1
 "I'm coming, Fatima. One last meeting.",1.1216216216216217,0.04282120038926688,74,66,7,1
 "You win. I should've upgraded to the latest model""",1.1216216216216217,0.04282120038926688,74,66,7,1
 Can you hear me now?” the last earthling asked into the tin can. The wind whooshed across the barren wasteland,1.121212121212121,0.04587990563775582,66,59,6,1
