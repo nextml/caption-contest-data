@@ -1,11 +1,11 @@
 caption,mean,precision,votes,not_funny,somewhat_funny,funny
 This place is known for serving local produce.,1.9077750206782464,0.016319199716982567,2418,900,841,677
-Appears to be a food group .,1.9023290758827949,0.022185524552814237,1331,507,447,377
+Appears to be a food group .,1.9031531531531531,0.022184173812568143,1332,507,447,378
 Elbows on the table.  Another reason I don't like broccoli.,1.8849402854646082,0.013946147732772697,3433,1366,1096,971
 "Well, you did tell the waiter to serve the vegetables first.""",1.8585174625801852,0.015201483041501004,2806,1136,931,739
 "Well, if I was going to spoil in a few days, I'd have steak too",1.8508064516129032,0.019043995490681764,1736,695,605,436
 How can they be here without dressing?!,1.8404307391091532,0.017962108651779926,2043,862,645,536
-After months of just fertilizer can you blame them?,1.8382288469969312,0.01662434795516754,2281,933,784,564
+After months of just fertilizer can you blame them?,1.8382997370727432,0.016617212579395434,2282,933,785,564
 This is the only place around here that serves vegetables.,1.8318863456985004,0.01586906413245328,2534,1057,846,631
 It could get really messy if we have to Heimlich the tomato.,1.8285101822079315,0.01886957056602021,1866,807,572,487
 "On the other hand, wouldn't it be weirder if they had ordered salad?",1.8278026905829596,0.016697627091871454,2230,918,778,534
@@ -25,15 +25,15 @@ Are they still staring?  I feel like I'm in the produce aisle.,1.787878787878787
 You see… even broccoli doesn’t like broccoli!,1.7850902737332557,0.019178313293803328,1717,766,554,397
 So this is farm to table.,1.763302752293578,0.018890882697513652,1635,716,590,329
 See?  They don't want kale at their table either.,1.7621993127147766,0.020645356327986995,1455,665,471,319
-It must be a special occasion.  Usually they just get water.,1.7557879014189695,0.021304189844023342,1339,610,446,283
+It must be a special occasion.  Usually they just get water.,1.7567164179104477,0.021308524869313783,1340,610,446,284
 "Sorry Tom, but this burger really needs ketchup.",1.753391859537111,0.022452003664545594,1253,588,386,279
 Apparently you are not what you eat,1.7485875706214689,0.020310042872901408,1416,636,500,280
 I can't keep track anymore. Are those plant-based meats or meat-based plants?,1.7477638640429338,0.02328117820886402,1118,515,370,233
 "If you think that’s bad, I saw them smoking outside earlier.",1.7476489028213167,0.02237844342866127,1276,609,380,287
 They're being fattened up for the salad bar.,1.747307968413496,0.02082650297155488,1393,641,463,289
 The farm to table movement is really taking off.,1.7431480031323414,0.021903517600585728,1277,597,411,269
+Would it kill them to eat a salad?,1.7418844022169437,0.02200575713050239,1263,591,407,265
 I was wondering what the opposite of grass-fed beef was.,1.7412314886983633,0.022055239056150644,1283,609,397,277
-Would it kill them to eat a salad?,1.7408874801901744,0.022000590074140354,1262,591,407,264
 They did say they served vegetables.,1.7402707275803722,0.02212382938915304,1182,535,419,228
 "In their defense, the alternative is cannibalism.",1.737759336099585,0.022479378838203733,1205,566,389,250
 Who serves tomatoes with asparagus?,1.7375827814569536,0.022403361047706648,1208,566,393,249
@@ -41,7 +41,7 @@ Who serves tomatoes with asparagus?,1.7375827814569536,0.022403361047706648,1208
 This farm to table thing has gotten a bit ridiculous.”,1.7304104477611941,0.02374049406249592,1072,507,347,218
 "I'm sure they're washed, dear. This is a very nice restaurant.",1.7289628180039138,0.023164648715102393,1022,456,387,179
 I really hope I don’t have to perform the Heimlich maneuver on the tomato.,1.7236438075742067,0.024734606308692578,977,464,319,194
-So maybe you aren't what you eat.,1.721264367816092,0.028968501563771773,696,327,236,133
+So maybe you aren't what you eat.,1.7230989956958394,0.02898503031293613,697,327,236,134
 I didn't know they served vegetables.,1.7188328912466844,0.02878372965317615,754,371,224,159
 Well now I feel uncomfortable ordering the vegetarian entree.,1.7172489082969433,0.024998328797290467,916,428,319,169
 When you invited me to dinner at a vegetarian restaurant I envisioned something different.,1.715922107674685,0.025973199147806124,873,416,289,168
@@ -135,6 +135,7 @@ The ad in the paper said they served vegetables.,1.583969465648855,0.04420973616
 Even THEY don’t want to eat them.,1.5833333333333333,0.04758939505522878,252,146,65,41
 Should we inform them it's all grass fed?,1.5833333333333333,0.04624145659032614,252,142,73,37
 "Apparently, not all vegetables are healthy.",1.5816733067729083,0.04673834894740261,251,143,70,38
+I guess they're not beyond meat.,1.5815899581589958,0.04746649008238154,239,135,69,35
 "Don't look now, but those vegetarians are eyeing us hungrily.",1.5813953488372092,0.04475148092869569,258,143,80,35
 The beefsteak tomato makes sense but  what about the other two?,1.5811320754716982,0.04319065336701734,265,144,88,33
 They’re gonna have a lot of greenhouse gas later.”,1.5807692307692307,0.04677033571452014,260,151,67,42
@@ -146,7 +147,6 @@ Farm-to-table is getting weird.,1.5766129032258065,0.04755761866923261,248,144,6
 Did you expect them to order a salad?,1.576470588235294,0.04719372358284406,255,149,65,41
 I guess they're beefing up the vegan menu,1.5761316872427984,0.04579772504158473,243,135,76,32
 How do they decide who to eat as a side?,1.576,0.04446125518753834,250,137,82,31
-I guess they're not beyond meat.,1.5756302521008403,0.04728914339511861,238,135,69,34
 I am so tired of being profiled.  There is a big difference between being a vegetable and being vegetarian.,1.5743801652892562,0.045201323526920384,242,133,79,30
 I’m having what they are. Are they having what I am?,1.5720338983050848,0.047241891545359516,236,134,69,33
 Now I feel bad about ordering a salad,1.5714285714285714,0.047241112694528464,231,130,70,31
