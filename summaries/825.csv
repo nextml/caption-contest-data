@@ -21,7 +21,7 @@ I told you the work was seasonal when you started.,1.7752659574468086,0.01602894
 "That’s right, Jack, we’re all getting canned.",1.7612111920275968,0.015162126200475672,2609,1168,896,545
 I’m afraid we’re going to have to make a few more cuts.,1.7580645161290323,0.015640270914364856,2294,988,873,433
 Let's turn those frowns into smiles. Who has a knife?,1.7576711250983477,0.015171386656368411,2542,1126,906,510
-And then a candle went off in my head…,1.7464088397790056,0.018450208204939166,1810,845,579,386
+And then a candle went off in my head…,1.7471010491441192,0.018453005187824605,1811,845,579,387
 The shareholders are complaining about a lack of diversity.,1.7463556851311954,0.014641130880875734,2744,1243,954,547
 I know putting on a good face will be hard for many of you.,1.742803738317757,0.014515135283646612,2675,1186,991,498
 Heads up. I'm afraid we are going to have to make some additional cuts.,1.7419158023184869,0.018809471955018767,1639,741,580,318
@@ -68,13 +68,13 @@ I’m announcing that I’m transitioning from Jack to Jacqueline,1.657923497267
 I'd like to know which one of you forgot the pie charts?,1.6571428571428573,0.02513495076140337,875,443,289,143
 I expect that by the fourth quarter all our faces will be lighting up.,1.6560283687943262,0.02500309142885237,846,419,299,128
 "So, I guess brainstorming is out….",1.6555423122765196,0.026059239968025286,839,433,262,144
-"Due to the pending acquisition, several of you will have to be canned.",1.6514215080346106,0.02680592134420995,809,425,241,143
+"Due to the pending acquisition, several of you will have to be canned.",1.6530864197530863,0.026824524866111414,810,425,241,144
 All of you are going to be canned.,1.6500607533414338,0.02633608849410327,823,429,253,141
 You will all be staying for the compost meeting.,1.6479591836734695,0.02697960098478638,784,410,240,134
 Wait… is there anybody here NOT named Jack?,1.6466069142125481,0.02633430021992084,781,398,261,122
 "Alright fellas, we’re going to have to make cuts somewhere.",1.6451149425287357,0.028224544070032602,696,360,223,113
+Our new health plan includes dental.,1.644955300127714,0.027328461991669807,783,417,227,139
 None of you has any guts.,1.643646408839779,0.028125070049189505,724,382,218,124
-Our new health plan includes dental.,1.643222506393862,0.02730837062960931,782,417,227,138
 "Come on, we’ve all faced cuts before.",1.6425992779783394,0.025960783003538164,831,434,260,137
 We're done here.  Now let's go get lit.,1.6419919246298789,0.028017678011775408,743,397,215,131
 "First order: Gourdon, have you prepared the pie chart?",1.6406869220607663,0.027987201246868286,757,409,211,137
@@ -82,7 +82,7 @@ We're done here.  Now let's go get lit.,1.6419919246298789,0.028017678011775408,
 Call me Jack please. Mr. O’Lantern was my father.,1.6379310344827587,0.02849481495329992,696,368,212,116
 My next bit of news should make your faces all light up.,1.6369863013698631,0.02730620756691863,730,379,237,114
 We’re facing some further cuts.,1.633846153846154,0.028341848283888173,650,332,224,94
-"No, you all can't take Halloween off.",1.6314606741573034,0.0358235397103253,445,239,131,75
+"No, you all can't take Halloween off.",1.6322869955156951,0.035752677931369575,446,239,132,75
 "Unfortunately, we're going to have to make more cuts.",1.6280120481927711,0.029034595278418326,664,355,201,108
 I heard your concerns and I want you to know you can all rest easy now. Peter-Peter has been fired.,1.6262798634812288,0.0317307637814424,586,323,159,104
 We need to rebrand. Focus groups think Jack O’Lantern sounds too Irish.,1.6262626262626263,0.028743435713833216,693,376,200,117
@@ -146,9 +146,9 @@ Instead of layoffs.. think of it as a changing of the gourd!,1.5660377358490567,
 There’s pie in the break room,1.5636363636363637,0.0362891553246355,385,218,117,50
 I may be smiling on the outside but - just like you - I feel empty on the inside,1.5623188405797102,0.03947222435904126,345,201,94,50
 I want you to start calling me Jacqueline.,1.5617283950617284,0.04098198280931097,324,190,86,48
+Our projections—let’s just say November doesn’t look good for us.,1.56,0.038990100284917444,325,183,102,40
 It's nice to be part of a board that isn't all-white.,1.56,0.03923291057969833,325,184,100,41
 You all knew November would come eventually.,1.5595238095238095,0.03963335022848015,336,195,94,47
-Our projections—let’s just say November doesn’t look good for us.,1.5555555555555556,0.03885570356655739,324,183,102,39
 I’m afraid we have to make more cuts.,1.5549132947976878,0.03677734452453007,346,192,116,38
 "Before we begin, a moment of silence for everyone we’ve lost to pumpkin spice lattes.",1.5548780487804879,0.04085361678960405,328,195,84,49
 "Not you, Jack, the other Jack.",1.5545454545454545,0.03951420275056112,330,191,95,44
@@ -266,6 +266,7 @@ We will no longer be using pie charts.,1.483568075117371,0.049174352398432965,21
 We're transferring some of you to the pie division.,1.4834123222748816,0.04671370017431367,211,131,58,22
 "I'm worried that many of you are suffering from burnout.""",1.4832535885167464,0.04895658326977224,209,134,49,26
 "Okay, It's agreed. Peter Peter won't be allowed on the Board.",1.4829268292682927,0.05156337399356415,205,136,39,30
+Unfortunately our facial recognition system wasn’t able to detect the culprit,1.4829268292682927,0.05015286148012538,205,133,45,27
 "Now that the numbers are in, Jason, could you show us your pie chart?",1.4823008849557522,0.04488140245063155,226,140,63,23
 "Sorry, but it looks like we're going to have to make further cuts",1.4820512820512821,0.050029644790288486,195,124,48,23
 The new raises should put a smile on all your faces!!!,1.481818181818182,0.04391755945380422,220,133,68,19
@@ -285,7 +286,6 @@ I’m going to need you to carve out some time this weekend.,1.4780487804878049,
 The way things are going we'll all be gone by the end of the month,1.4766839378238341,0.052502435824375235,193,128,38,27
 Will the stemless member please leave the meeting?,1.4764150943396226,0.04701642771795453,212,134,55,23
 I'm afraid many of us won't be here next month.,1.4759825327510918,0.04312851309615949,229,140,69,20
-Unfortunately our facial recognition system wasn’t able to detect the culprit,1.4754901960784315,0.04984217605375588,204,133,45,26
 Peter Peter will be conducting your year-end reviews.,1.4752475247524752,0.049223375375021174,202,130,48,24
 "The next one who says 'you don't know Jack"" will be fired.""",1.4741784037558685,0.04915532002962125,213,140,45,28
 There have been absurd charges that this boardroom lacks diversity.,1.4741379310344827,0.04649308254597601,232,151,52,29
