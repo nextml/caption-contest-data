@@ -1,18 +1,18 @@
 caption,mean,precision,votes,not_funny,somewhat_funny,funny
 "Just remember, you can be empty headed and orange and still succeed in America.",1.9694238815577727,0.015565380773157418,3107,1218,766,1123
 Thanks for carving out a little face time.”,1.8489583333333333,0.013163440972638493,3840,1611,1198,1031
-First the good news. Nobody's getting canned.”,1.8331363743795792,0.012369166430751997,4231,1781,1375,1075
+First the good news. Nobody's getting canned.”,1.8336876919442475,0.012369464826498871,4233,1781,1375,1077
 "So, where do you see yourselves, three days from now?",1.830188679245283,0.01266139952786801,3975,1661,1328,986
 "As part of our diversity initiative, Mr. Potato Head will be joining the board.",1.8285302593659942,0.01788428461780524,2082,902,635,545
 Great news. We now have a dental plan!,1.828080229226361,0.015213104925584807,2792,1183,906,703
-There’s no sugarcoating it. Our prospects after November are rotten.,1.8211477987421383,0.015486784870801365,2544,1044,911,589
+There’s no sugarcoating it. Our prospects after November are rotten.,1.8208251473477406,0.015484060507118839,2545,1045,911,589
 Anyone care to illuminate me?,1.8193916349809887,0.014832746180153612,2630,1041,1023,566
 Let’s get through the office party tonight without anyone getting smashed.,1.8146718146718146,0.012628842855303838,3885,1630,1345,910
 I just love to see your faces light up.,1.813576843556168,0.01416062148665091,2902,1165,1113,624
 Anyone planning on getting lit tonight?,1.8081494057724958,0.015926036396888686,2356,973,862,521
 I'm sorry to say that some of you are going to be canned.,1.7952513105149552,0.013688576890186184,3243,1385,1137,721
 "Gentlemen, you'll be pleased to know today's pie is pecan.",1.792892625143294,0.015228952394010389,2617,1121,917,579
-"At the end of this month, you're all getting canned.",1.7905897945659377,0.014221866582429124,3018,1303,1044,671
+"At the end of this month, you're all getting canned.",1.790990394170255,0.014222797782329566,3019,1303,1044,672
 "I apologize for making you all a bit uneasy. Perhaps ""smashing success"" was a poor choice of words.",1.7837218188765762,0.015151248472860292,2617,1130,923,564
 We're ending the work-from-the-porch policy.,1.7772479564032697,0.014381718430211602,2936,1291,1008,637
 "Listen, the bottom line is, it takes guts, and you guys just dont have it in you.",1.776834959694527,0.01603947678366287,2357,1036,811,510
@@ -20,14 +20,14 @@ I told you the work was seasonal when you started.,1.7752659574468086,0.01602894
 "Gentlemen, I brought you here because you’re the best in your field.",1.7674074074074073,0.021050127924455913,1350,597,470,283
 "That’s right, Jack, we’re all getting canned.",1.7612111920275968,0.015162126200475672,2609,1168,896,545
 I’m afraid we’re going to have to make a few more cuts.,1.7580645161290323,0.015640270914364856,2294,988,873,433
-Let's turn those frowns into smiles. Who has a knife?,1.7576711250983477,0.015171386656368411,2542,1126,906,510
+Let's turn those frowns into smiles. Who has a knife?,1.7573731812819504,0.015168346001294714,2543,1127,906,510
 And then a candle went off in my head…,1.7471010491441192,0.018453005187824605,1811,845,579,387
 The shareholders are complaining about a lack of diversity.,1.7463556851311954,0.014641130880875734,2744,1243,954,547
 I know putting on a good face will be hard for many of you.,1.742803738317757,0.014515135283646612,2675,1186,991,498
-Heads up. I'm afraid we are going to have to make some additional cuts.,1.7419158023184869,0.018809471955018767,1639,741,580,318
 "Before anyone asks: yes, I had some work done, and yes, it makes me happy.",1.7419068736141907,0.01645226945478909,2255,1054,729,472
+Heads up. I'm afraid we are going to have to make some additional cuts.,1.7414634146341463,0.018803441999275916,1640,742,580,318
 "After the meeting, let's all go out and get smashed.",1.7402985074626867,0.017653366547604632,2010,958,616,436
-Let’s welcome our newest board member — also named Jack.,1.7347242921013413,0.02099905462130754,1342,622,454,266
+Let’s welcome our newest board member — also named Jack.,1.7341772151898733,0.020990543314067092,1343,623,454,266
 "The good news is we’re having a Halloween office party. 
 The bad news is we’re gonna need pies.",1.7336722721939772,0.015516924151882336,2557,1218,802,537
 "Yes, I had some work done.",1.7313489073097212,0.014967834094292348,2654,1241,885,528
@@ -36,7 +36,7 @@ I’ll need that pie chart by the end of the month.,1.7268459240290226,0.0158076
 "I’m sorry, but you’re all getting canned.",1.726790450928382,0.02317792196027543,1131,540,360,231
 It brings me no joy to say this but very few of you will make it through November.,1.7251755265797393,0.01722715787058897,1994,939,664,391
 I know it's Monday but I just can't get this smile off my face.,1.7214823393167342,0.01821540483857293,1727,802,604,321
-Enough with the jokes about pie charts.,1.7196309584828293,0.017170401195206676,1951,911,676,364
+Enough with the jokes about pie charts.,1.7202868852459017,0.01717413301182045,1952,911,676,365
 From the looks on your faces I think we need to carve out a new strategy,1.7184373511195807,0.01642889135688068,2099,973,744,382
 Heads are going to roll.,1.717201166180758,0.01644905143615949,2058,946,748,364
 What can I say? I was cut out for this job!,1.7138047138047139,0.022099347174897803,1188,563,402,223
@@ -44,7 +44,7 @@ What can I say? I was cut out for this job!,1.7138047138047139,0.022099347174897
 I’m here to lite a fire inside all of you,1.706534422403734,0.01773404246597889,1714,787,643,284
 "Empty-headed, yes, but with an inner light.",1.7030191004313,0.018580725392338914,1623,767,571,285
 "Gentlemen, look around.  This time next week, half of you will be gone.",1.7017208413001912,0.018981550480576627,1569,747,543,279
-"Face it, not everyone is cut out for this type of work.",1.6986778009742518,0.019348681094821428,1437,668,534,235
+"Face it, not everyone is cut out for this type of work.",1.69909659485754,0.019349039525284932,1439,669,534,236
 Anyone have thoughts on how we remain relevant the other eleven months of the year,1.6979236436704621,0.019195291809314275,1493,704,536,253
 "Well, yes, Jack, I do anticipate layoffs come November.",1.6978465679676986,0.019079860792777344,1486,694,547,245
 "All in favor of switching to LED lights, raise your hand.",1.6952908587257618,0.019470494690139135,1444,682,520,242
@@ -62,7 +62,7 @@ We'll be looking at a series of pie charts.,1.6666666666666667,0.025566263039555
 Thank you all for carving out some time to meet,1.6641221374045803,0.024362496480372677,917,455,315,147
 Let's be clear. I can replace all of you as easy as pie.,1.6641137855579868,0.024030471132545344,914,446,329,139
 "Starting November first, heads are going to roll.",1.6621196222455403,0.02491537164003341,953,497,281,175
-You're going to be restructured. We've already canned your boss.,1.6594778660612939,0.025136182584638202,881,446,289,146
+You're going to be restructured. We've already canned your boss.,1.6598639455782314,0.025110635525719044,882,446,290,146
 "The future is ours -- but only for about two weeks.""",1.6594036697247707,0.024173932972628834,872,421,327,124
 I’m announcing that I’m transitioning from Jack to Jacqueline,1.6579234972677597,0.0255964016552296,915,484,260,171
 I'd like to know which one of you forgot the pie charts?,1.6571428571428573,0.02513495076140337,875,443,289,143
@@ -531,6 +531,7 @@ You asked for a picture of future employment prospects in the company.  I've ask
 Are we vegetables or just decorations?,1.3973509933774835,0.053222404118038455,151,105,32,14
 "Clearly, the charges of nepotism are groundless.",1.3971631205673758,0.057716977623479285,141,101,24,16
 Don't be glum...there's still a future for us in pies starting in late November,1.3970588235294117,0.054512507573896335,136,93,32,11
+Welcome to the October witness protection program meeting.,1.3968253968253967,0.059712927083436104,126,89,24,13
 "Agreed, we cancel the dental plan?",1.396694214876033,0.05924146187272493,121,84,26,11
 "Yes, it's a niche market, but I think we can carve out a role for ourselves.",1.396103896103896,0.049114760202082865,154,103,41,10
 Seize the moment gentlemen. This is our time to shine.,1.39568345323741,0.05268191052720168,139,94,35,10
@@ -549,7 +550,6 @@ I agree. Fuck squirrels.,1.3928571428571428,0.05616781178140432,140,99,27,14
 Pie season is around the corner so today we’re bidding farewell to Stan and Fred.,1.3926701570680629,0.04911723852034891,191,137,33,21
 We’ll still be searching for heads in the interim.,1.3925233644859814,0.06193979669001238,107,74,24,9
 "Think of it this way, it could be worse, we could be turkeys”",1.3923076923076922,0.055142417493747244,130,89,31,10
-Welcome to the October witness protection program meeting.,1.392,0.05999569877055974,125,89,23,13
 Did I ever tell you about the time I met Charles Schulz?,1.3918918918918919,0.053927504003972476,148,104,30,14
 Fine. It'll be apple pie.,1.3902439024390243,0.057299559768889785,123,85,28,10
 No. The other Jack.,1.3893805309734513,0.05819887804409692,113,77,28,8
