@@ -135,9 +135,9 @@ It's the latest in stroboscopic surgery.,1.4609571788413098,0.03352027916856466,
 "This procedure might look rather unusual, but that's the way, uh-huh uh-huh, I like it...",1.4594017094017093,0.03259691616710773,468,311,99,58
 His fever has progressed to the Saturday night variant.,1.4591836734693877,0.0347745322118755,392,256,92,44
 When all else fails we throw on Stayin' Alive as the last resort.,1.458612975391499,0.03190877091715879,447,288,113,46
+I thought we all agreed on Metal Mondays,1.45822102425876,0.03393762526969074,371,234,104,33
 He doesn’t have much time. Let’s hustle.,1.4572192513368984,0.03499237593241268,374,242,93,39
 It’s part of our new marketing theme: “Stayin’ Alive.”,1.4569536423841059,0.03677566942898743,302,188,90,24
-I thought we all agreed on Metal Mondays,1.4567567567567568,0.033997784093747214,370,234,103,33
 I still don't understand how he swallowed it.,1.455958549222798,0.035354272776733524,386,255,86,45
 You are the lancing queen…,1.4557640750670242,0.03586886906235832,373,246,84,43
 His insurance determined our surgical lights were medically unnecessary. This was half price on Amazon.,1.455607476635514,0.03292822991426327,428,279,103,46
@@ -203,6 +203,7 @@ Tomorrow the room is booked for a bar mitzvah,1.4246153846153846,0.0366450437308
 It's New Years Eve folks. Let's finish up before the ball drops.,1.4230769230769231,0.039906603684581224,286,195,61,30
 ‘Disco’s not the only thing that’s dead in this room.’,1.4230769230769231,0.0388103565667068,312,215,62,35
 "If Oz can be a politician, I can be a dancer.",1.4228395061728396,0.03697447543947573,324,222,70,32
+"It's disco theme day and our operating song for this morning is ""Stayin Alive"".",1.4219269102990033,0.03843783469609501,301,204,67,30
 It was either this or a lava lamp.,1.4217252396166133,0.0373636989870219,313,211,72,30
 Is the anesthesia kicking in for you as well?,1.4212218649517685,0.036976815496443806,311,208,75,28
 "You’re right, it is kind of distracting.",1.4210526315789473,0.03700057731234285,304,202,76,26
@@ -215,7 +216,6 @@ I've never seen this bad a case of Saturday night fever.,1.4176829268292683,0.03
 I've heard about a light at the end of the tunnel but this is ridiculous.,1.4174757281553398,0.037121226382146696,309,208,73,28
 "Alexa, play “Stayin’ Alive” by The Bee Gees.",1.4172185430463575,0.04027234292343697,302,213,52,37
 Trust me - it's the only known treatment for disco fever.,1.4169096209912537,0.036159879772660025,343,235,73,35
-"It's disco theme day and our operating song for this morning is ""Stayin Alive"".",1.4166666666666667,0.03820333246810446,300,204,67,29
 "In my operating room, everybody is stayin' alive.",1.416403785488959,0.03752233163751377,317,217,68,32
 It'll increase his chances of stayin' alive.,1.4163934426229507,0.03831520208502465,305,209,65,31
 "I get it, stayin' alive, stayin' alive.""",1.4161290322580644,0.03730667253208355,310,210,71,29
@@ -364,6 +364,7 @@ Another patient in his seventies.,1.3688524590163935,0.0391338625318623,244,171,
 It all began when he came down with a Saturday night fever.,1.3688212927756653,0.03717452717456134,263,183,63,17
 "If it works, it's medicine.",1.368421052631579,0.04087501567246146,209,144,53,12
 "But this time, play 'Stayin' Alive' over the speakers instead of 'Another One Bites the Dust.'",1.3682008368200838,0.04468878399943475,239,180,30,29
+"I find playing disco hit ""I Will Survive"" puts my patience at ease.",1.367965367965368,0.040167854034074135,231,162,53,16
 Not the kind of beat we were hoping for.,1.3679245283018868,0.04315372215532722,212,151,44,17
 "OK, on three: stayin' alive, stayin' alive...",1.3677685950413223,0.037557859765600735,242,166,63,13
 "Experimental, yes, but promising. Patients are stayin' alive.",1.3674418604651162,0.041166455913060916,215,150,51,14
@@ -388,7 +389,6 @@ This is our last chance to cure his disco fever.,1.3615023474178405,0.0423959960
 Dancing Spleen”,1.3613861386138615,0.042291282561425274,202,142,47,13
 "Yeah, they misunderstood when I asked which operating room was best equipped for disc surgery.",1.3611111111111112,0.04146159699367084,216,156,45,15
 I hear his heart beat....and I feel like dancing.,1.3609756097560977,0.04186237296949642,205,144,48,13
-"I find playing disco hit ""I Will Survive"" puts my patience at ease.",1.3608695652173912,0.039708407957994324,230,162,53,15
 The patient was diagnosed with dance fever.,1.3605150214592274,0.042079637731324906,233,170,42,21
 "This time the CPR crew went overboard with their ""Staying Alive"" routine...",1.3604060913705585,0.044775522245208366,197,142,39,16
 "I read his chart, he was diagnosed with Saturday night fever.",1.360323886639676,0.041158300448564514,247,181,43,23
@@ -704,6 +704,7 @@ Do NOT go into the light!,1.3006134969325154,0.04449125800158342,163,123,31,9
 I thought it went with the whole 'Stayin' Alive' theme.,1.3006134969325154,0.04697545236269953,163,126,25,12
 This should help us hustle through our cases today.,1.3006134969325154,0.04449125800158342,163,123,31,9
 "It’s a miracle he’s stayin’ alive, it’s a clear case of Saturday night fever.",1.300578034682081,0.04274567314723109,173,130,34,9
+This was state-of-the-art when I was in med school in the '70s.,1.3,0.048002609921587766,150,115,25,10
 He said disco music always got his heart pumping.,1.3,0.04161542472952781,180,135,36,9
 It’s opening night.,1.3,0.048301042952061994,140,106,26,8
 Make sure his heart rate has synchronized to the disco beat.,1.3,0.05139373034732311,140,109,20,11
@@ -785,7 +786,6 @@ You brought Disco back from the dead!,1.289655172413793,0.0468523005107789,145,1
 Mr. Liberace insisted on this before signing the consent form.,1.2890625,0.051013767718148216,128,99,21,8
 "It makes the bacteria look so much prettier, doesn't it?",1.288888888888889,0.05028021717875754,135,105,21,9
 "Who knows if it’s medically necessary, but I get a huge kickback every time we use it.",1.288888888888889,0.049168505367048546,135,104,23,8
-This was state-of-the-art when I was in med school in the '70s.,1.2885906040268456,0.04694098051275169,149,115,25,9
 I guess that's it for Stayin' Alive,1.2885906040268456,0.04596477923292277,149,114,27,8
 "While it seems counterintuitive, there's no other way to treat Saturday night fever.",1.2885906040268456,0.04883487580237041,149,117,21,11
 And now we'll make a dozen small incisions with our disco laser.,1.2883435582822085,0.04582379535994089,163,127,25,11
@@ -813,6 +813,7 @@ Quick. Get me Taylor Swift's Mirrorball. Stat.,1.2857142857142858,0.047218640111
 "Oh, good. He will survive.",1.2857142857142858,0.04922282969318585,147,116,20,11
 "He will survive, hey hey",1.284848484848485,0.044511025404519275,165,128,27,10
 "I want that ball removed immediately -- no, I didn't mean you, Mr. Filby.""",1.2847222222222223,0.0469165744868658,144,111,25,8
+Sponge…scalpel…roller skates…,1.2847222222222223,0.04794048454810113,144,112,23,9
 The first symptom was a Saturday night fever.,1.2846715328467153,0.04853909676452005,137,106,23,8
 "From what I've read, it was quite cutting-edge back in the seventies.",1.2846153846153847,0.05149478832041189,130,102,19,9
 "No, no, no not 'Last Dance', play 'Stayin' Alive', or 'I will survive'.",1.2846153846153847,0.04663336666654655,130,98,27,5
@@ -860,7 +861,6 @@ Oh no, not I, I will survive",1.28,0.05028948456749697,125,97,21,7
 Stayin’ alive!
 Stayin’ alive!",1.2797202797202798,0.04902837527748082,143,113,20,10
 We may be able to cure his Saturday Night Fever,1.2797202797202798,0.04801342027089882,143,112,22,9
-Sponge…scalpel…roller skates…,1.2797202797202798,0.04801342027089882,143,112,22,9
 You said to bring a more positive bedside manner.,1.2797202797202798,0.04697654169764333,143,111,24,8
 "How deep is your glove, how deep is your glove...",1.2796610169491525,0.055005291542612654,118,94,15,9
 He's running a bad Saturday night fever.,1.2794117647058822,0.04971725772556602,136,107,20,9
@@ -1070,6 +1070,7 @@ The patient's come down with a Saturday Night fever.,1.2619047619047619,0.048045
 I guess we really dropped the ball on this one,1.2619047619047619,0.050619741965403094,126,101,17,8
 The new operating light should keep him Stayin' Alive.,1.2619047619047619,0.050619741965403094,126,101,17,8
 Decades of school and we can't turn this thing off.,1.2615384615384615,0.04703979735018118,130,102,22,6
+"If we didn't spend the money, they would have reduced next years budget.",1.2612612612612613,0.052319987727057954,111,88,17,6
 "Stayin Alive, Stayinq  Alive . . . ?",1.2611940298507462,0.04608948042903473,134,105,23,6
 Disco Doc is on the clock.,1.2608695652173914,0.04400401468716787,138,107,26,5
 "They thought it'd be helpful if we played ""Stayin' Alive.""",1.2608695652173914,0.046345726385314936,138,109,22,7
@@ -1173,6 +1174,7 @@ It came free with the Ketamine.,1.2542372881355932,0.05272034831506563,118,96,14
 I just wish they’d stop playing ‘Staying Alive.’,1.2540983606557377,0.045916394941889406,122,95,23,4
 No. We’re doing a Friday night appendectomy not a Saturday night fever.,1.2540983606557377,0.05014742580742545,122,98,17,7
 The newest medical fad: Disco Surgery.,1.253968253968254,0.04903708727530064,126,101,18,7
+Is this what is called Saturday night fever?,1.253968253968254,0.047724750407533045,126,100,20,6
 The decorator had a herniated disco,1.253968253968254,0.04903708727530064,126,101,18,7
 Who says a colostomy can't have a little razzle-dazzle?,1.253968253968254,0.047724750407533045,126,100,20,6
 "Never going to give you up, never gonna let you down",1.253968253968254,0.04903708727530064,126,101,18,7
@@ -1278,6 +1280,7 @@ New procedure guidelines ask for more hustle.,1.2476190476190476,0.0483821637528
 another one bites the dust,1.2476190476190476,0.05203012719286361,105,84,16,5
 "Well Doc, we thought it would be better than a poster of puppy dogs taped to the ceiling.",1.2475247524752475,0.04956432083478743,101,79,19,3
 I said we needed ‘sterile gauze’ in the ORs but through my mask they said they heard ‘mirror balls.,1.2475247524752475,0.04956432083478743,101,79,19,3
+As long as I don't have to wear platform shoes I'm okay with it.,1.2474226804123711,0.054895495520948266,97,78,14,5
 Should I ventilate or celebrate?,1.2474226804123711,0.054895495520948266,97,78,14,5
 "I just want him to be able to say, ‘Last night a DJ saved my life.",1.2474226804123711,0.05290310762316375,97,77,16,4
 Let’s focus here.,1.2473118279569892,0.052197869432388244,93,73,17,3
@@ -1303,7 +1306,6 @@ We’ll need to break at 11 to let the conga line come through.,1.24545454545454
 It was on his bucket list.,1.2454545454545454,0.046899469502261974,110,86,21,3
 If the patient dies we like to give them a good send-off.,1.2454545454545454,0.046899469502261974,110,86,21,3
 Does this mean healthcare prices are going back to the 70s?,1.2454545454545454,0.045086079539041465,110,85,23,2
-"If we didn't spend the money, they would have reduced next years budget.",1.2454545454545454,0.050330622710028694,110,88,17,5
 "Time of death… 12 am, January 1st.",1.2454545454545454,0.050330622710028694,110,88,17,5
 Let’s all op-er-ate and have a good time,1.2454545454545454,0.05657202725685694,110,92,9,9
 "Before we get started, he wanted us to sing a few lines from Stayin' Alive.",1.2452830188679245,0.051589855237935654,106,85,16,5
@@ -1316,6 +1318,7 @@ I'm not sure HR fully understands the cause of physician burnout.,1.245283018867
 "Well, I didn't say a thing when you played ABBA!",1.2450980392156863,0.05474260646419279,102,83,13,6
 "We're all seeing this, right? Doc, check the laughing gas.",1.2450980392156863,0.0471190483714801,102,79,21,2
 Mama Mia! Here we go again!,1.2448979591836735,0.0503746211842464,98,77,18,3
+You said we needed to improve our work-life balance...,1.2448979591836735,0.0543910776773722,98,79,14,5
 "The disco ball is a nice touch but I don't think the patient will appreciate us playing ""Last Dance!""",1.2448979591836735,0.044856428975724165,147,119,20,8
 So which of the Alman brothers is this?,1.2448979591836735,0.05629194228866812,98,80,12,6
 This patient has strange spots on his intestines,1.2448979591836735,0.0543910776773722,98,79,14,5
@@ -1375,7 +1378,6 @@ I’ve never seen a case of disco fever so severe!,1.2403846153846154,0.05019601
 It's the only way his insurance will cover it.,1.2403100775193798,0.04507636957214343,129,103,21,5
 It helps the patients to ah ah ah ah stay alive,1.24,0.0500322476653969,125,103,14,8
 Where’s my thumb?,1.24,0.053409037180286764,100,81,14,5
-Is this what is called Saturday night fever?,1.24,0.046001402503163584,125,100,20,5
 "When the patient's core temperature drops too low, this disco ball induces boogie fever, and voilà!",1.24,0.053409037180286764,100,81,14,5
 I haven't seen this in the O.R. since my residency in the 70's.,1.24,0.04738313297284785,125,101,18,6
 "Umm, the lightshow is killer but I need the laser back for the surgery.",1.24,0.04948216697442473,100,79,18,3
@@ -1383,7 +1385,6 @@ There we go: now removing the funky feeling from the patient.,1.24,0.05340903718
 It's the best way to treat a herniated disco.,1.2396694214876034,0.04698161147287435,121,97,19,5
 "Don't cue up ""Stayin' Alive"" just yet.",1.2396694214876034,0.04549209568437316,121,96,21,4
 Saturday night fevers are getting ridiculous around here.,1.2395833333333333,0.05075048972770942,96,76,17,3
-As long as I don't have to wear platform shoes I'm okay with it.,1.2395833333333333,0.05490180961343998,96,78,13,5
 "My surgery suffers a little, but it helps my mood a lot.",1.2395833333333333,0.05490180961343998,96,78,13,5
 I thought it might help to liven up the place.,1.2395833333333333,0.05490180961343998,96,78,13,5
 It’s part of the hospital bill.,1.2395833333333333,0.05490180961343998,96,78,13,5
@@ -1609,10 +1610,10 @@ The strobe light was too distracting.,1.2272727272727273,0.051107975625064896,11
 Amazing what it does for the general mood.,1.2272727272727273,0.04773273331484981,110,89,17,4
 "What's more, if he wakes up, he'll think he's in heaven!",1.2272727272727273,0.05040917406074098,88,70,16,2
 "We just thought, since the pandemic is over...",1.2272727272727273,0.055349352924794884,88,72,12,4
+If this works we are all dancing by midnight.,1.2272727272727273,0.04595223779440721,110,88,19,3
 "Happy New Year, guys. Maybe this year they’ll listen to us.",1.2272727272727273,0.051107975625064896,110,91,13,6
 "Since he asked us to play ""Stayin' Alive,"" I thought we could go full disco.",1.2268041237113403,0.04750012352845044,97,77,18,2
 Health insurance agents make the best bouncers.,1.2268041237113403,0.05182484925036311,97,79,14,4
-You said we needed to improve our work-life balance...,1.2268041237113403,0.05182484925036311,97,79,14,4
 "ok now everyone ""Ah, Ah, Ah, Ah,...""",1.2268041237113403,0.0497095400051183,97,78,16,3
 "I guess the new doctor is a DDS, an MD, a DO and a DJ.",1.2268041237113403,0.0497095400051183,97,78,16,3
 It does have a certain je ne sais quoi,1.2268041237113403,0.053857140957585814,97,80,12,5
@@ -1893,7 +1894,6 @@ He will never know if we don't tell him!,1.211111111111111,0.046053880522949266,
 He likes “Stayin Alive.”,1.2110091743119267,0.04529023423348228,109,89,17,3
 She has a severe case of Boogie Fever.,1.2110091743119267,0.048897797982513584,109,91,13,5
 "This man is suffering from Night Fever,Night Fever.",1.2110091743119267,0.05225690364108582,109,93,9,7
-If this works we are all dancing by midnight.,1.2110091743119267,0.04337407810681607,109,88,19,2
 We should probably stop playing Stayin' Alive now.,1.2105263157894737,0.04463297341944604,95,76,18,1
 Maintenance thought I said we had a case of ‘disco’ fever in the OR.,1.2105263157894737,0.04740377159065991,114,95,14,5
 They've spotted the problem!,1.2105263157894737,0.05401685725733563,76,62,12,2
@@ -2001,6 +2001,7 @@ The day that disco died.,1.205128205128205,0.058732800981056356,78,66,8,4
 These come standard in the Travolta wing.,1.205128205128205,0.044666068754430036,117,97,16,4
 Whaddya guys say we turn on Dark Side of the Moon and see just how strong this nitrous gets?,1.205128205128205,0.058732800981056356,78,66,8,4
 "I tried to decline John but they said this extra came with the gas machine. Oh well, at least our CPR will be in sync in case we need it.",1.205128205128205,0.044666068754430036,117,97,16,4
+Last night the DJ saved my life… I dedicate this to him,1.205128205128205,0.052759276388894,78,64,12,2
 Wait for the heart beat to drop”,1.205128205128205,0.04950293841863709,78,63,14,1
 Because Medicare disallowed the cost of our chandelier.,1.2048192771084338,0.05073377572184534,83,68,13,2
 "I think DJ, the electrician, wants the Hospital Christmas DJ gig.",1.2048192771084338,0.05355160463762831,83,69,11,3
@@ -2097,6 +2098,7 @@ Lumbar Disco Fusion Surgery",1.2016806722689075,0.04397923907920874,119,99,16,4
 Surgery is a lot more fun since we got our own You Tube channel.,1.2016806722689075,0.045569763256829106,119,100,14,5
 We must find the source of this man’s Saturday night fever.,1.2,0.04714045207910317,100,83,14,3
 "12:05 a.m. Disco is officially dead, now about this patient.",1.2,0.04872391770757887,95,79,13,3
+Disco fever really is deadly,1.2,0.04569367667316878,105,87,15,3
 "I guess this was the next logical step after we allowed music in the operating room.""",1.2,0.04244409559694417,110,90,18,2
 "Its from the IKEA, O.R. line. It's called a Scrubfliten.""",1.2,0.05312201509959767,95,81,9,5
 I'm just hoping it's a leak in the anesthesia hose...,1.2,0.05046599329648382,90,75,12,3
@@ -2286,6 +2288,7 @@ It’s what you do when you operate on Travolta.,1.1935483870967742,0.0465200005
 Glad to see the patient's heart beating strongly to the rhythm.,1.1935483870967742,0.05129930441995539,93,79,10,4
 "now, to get into that disco-lated shoulder",1.1935483870967742,0.05129930441995539,93,79,10,4
 This swilling light has magical healing powers.,1.1935483870967742,0.043935820942387,93,76,16,1
+Looks like we found the prize inside,1.1935483870967742,0.043935820942387,93,76,16,1
 . “We will have him up and dancing in no time.”,1.1935483870967742,0.043935820942387,93,76,16,1
 Microphone.,1.1931818181818181,0.05074665738242957,88,74,11,3
 I hope he's stayin' alive!,1.1931818181818181,0.05074665738242957,88,74,11,3
@@ -2533,7 +2536,6 @@ This gives new meaning to “big ball energy”,1.1851851851851851,0.05302896690
 There's no room for error here. Saturday Night Fever can be fatal.,1.184782608695652,0.04618599010841946,92,77,13,2
 Who changed the CD?,1.184782608695652,0.0487035648134137,92,78,11,3
 Seeing stars?,1.184782608695652,0.0487035648134137,92,78,11,3
-Looks like we found the prize inside,1.184782608695652,0.04352302998477531,92,76,15,1
 Nothing makes the heart beat faster than disco!,1.1844660194174756,0.04080750877967154,103,85,17,1
 I’ve never operated on a disco dancer before.,1.1844660194174756,0.04307691007839968,103,86,15,2
 A new kind of hip replacement?,1.1844660194174756,0.04926177432047305,103,89,9,5
@@ -2600,7 +2602,6 @@ That’s from my last hydrocele operation.,1.1827956989247312,0.0457298523071995
 da da da da stayin’ alive stayin’ alive,1.1827956989247312,0.045729852307199545,93,78,13,2
 I thought they only dropped the disco ball down during open heart surgery.,1.1827956989247312,0.048217978832950585,93,79,11,3
 Apparently it’s cost-cutting meets retro chic.,1.1827956989247312,0.045729852307199545,93,78,13,2
-Disco fever really is deadly,1.1826923076923077,0.04269755533620633,104,87,15,2
 "Oh, shit, that's probably where all those staph infections are coming from. We were doing all these TikToks early on in the pandemic....fuck. Not a word about this, OK? Not a fucking word. And let's check this guy's duodenum for glitter.",1.1826923076923077,0.05069425234908626,104,91,7,6
 And this device ensures the patient is stayin' alive...,1.182608695652174,0.047166240715763925,115,100,9,6
 This was a great idea.,1.1818181818181819,0.04993583800023193,88,75,10,3
@@ -2633,7 +2634,6 @@ He requested the song ‘Stayin’ Alive’.,1.1818181818181819,0.05461376447146
 Just as I suspected. This patient has boogie fever.,1.1818181818181819,0.0443973183545807,88,73,14,1
 It’s that darned Son of Sam!,1.1818181818181819,0.0479493093842668,77,64,12,1
 "We'll need to come up with a medical code for this""",1.1818181818181819,0.0546137644714646,77,66,8,3
-Last night the DJ saved my life… I dedicate this to him,1.1818181818181819,0.0479493093842668,77,64,12,1
 "Don’t worry he’ll wake up, he got disco-nnected",1.1818181818181819,0.041522350851192366,99,82,16,1
 This is a textbook case of the Boogie Fever.,1.1818181818181819,0.0443973183545807,88,73,14,1
 Shame he is gone. But the lights are superb!,1.1818181818181819,0.0546137644714646,77,66,8,3
@@ -2673,6 +2673,7 @@ here I go again",1.1797752808988764,0.05193349874927952,89,77,8,4
 Because no surgery should be routine!,1.1797752808988764,0.04394315017840537,89,74,14,1
 "Thanks to this old technology, he's stayin' alive.",1.1797752808988764,0.04675856138200858,89,75,12,2
 "It’s disc, not disco, intervention",1.1797752808988764,0.04675856138200858,89,75,12,2
+He got a fever Saturday,1.1794871794871795,0.05395941341632321,78,67,8,3
 And I thought he was dead.,1.1794871794871795,0.04738794815386097,78,65,12,1
 I think we're supposed to panic.,1.1794871794871795,0.04738794815386097,78,65,12,1
 So this is how to treat Saturday Night Fever?,1.1794871794871795,0.05078009416329737,78,66,10,2
@@ -2850,6 +2851,7 @@ The disco ball is one thing; we probably crossed a line with the ecstasy tabs.,1
 We needed something to lighten the mood.,1.1733333333333333,0.05154664932909857,75,64,9,2
 Classic case of Dance Fever.,1.1733333333333333,0.05154664932909857,75,64,9,2
 This patient suffered injuries due to a Disco Inferno.,1.1733333333333333,0.04792386354100322,75,63,11,1
+I think we connect the blue dots.,1.1733333333333333,0.04792386354100322,75,63,11,1
 It's a workaround for John Travolta. He's allergic to conventional anesthetics.,1.1733333333333333,0.05154664932909857,75,64,9,2
 This working from home is definitely getting old.,1.1733333333333333,0.05493102417957832,75,65,7,3
 "I've set the playlist so that ""Staying Alive"" repeats itself.",1.1733333333333333,0.04792386354100322,75,63,11,1
@@ -3005,6 +3007,7 @@ ZOUNDS! What have we here?,1.1688311688311688,0.05029848501568076,77,66,9,2
 It’s Disco Fever again and he’s got it bad.,1.1688311688311688,0.04677792316055112,77,65,11,1
 "And now, we begin the disco repairs.",1.1688311688311688,0.04677792316055112,77,65,11,1
 Just remember once we start discos here and discos there.,1.1688311688311688,0.05029848501568076,77,66,9,2
+Stayin’ alive is the theme of this procedure.,1.1688311688311688,0.04296988009706553,77,67,9,1
 Wait till we close before the confetti drop.,1.1688311688311688,0.05029848501568076,77,66,9,2
 Please Please Please Stay Alive! Stay Alive!,1.1688311688311688,0.04677792316055112,77,65,11,1
 I told you we'd get better lighting.,1.1688311688311688,0.04296988009706553,77,64,13,0
@@ -3133,6 +3136,7 @@ out before the dance class arrives.",1.164835164835165,0.04756266033151478,91,79
 We find it helps with cases of arrhythmia.,1.164835164835165,0.0449222262762077,91,78,11,2
 "Frankly, Dr. Disco, it’s a bit distracting.",1.164835164835165,0.0449222262762077,91,78,11,2
 "I guess Bejeweled is your favorite on the new album, Tom?  #taylorswift",1.164835164835165,0.0449222262762077,91,78,11,2
+"Ever since the pandemic, I have decided that every day is a gift and we should celebrate.",1.164835164835165,0.05244623100101225,91,81,5,5
 "I promised him we would dance to ""Stayin' Alive"" during surgery.",1.1647058823529413,0.040470132236373114,85,71,14,0
 Open Heart: The Musical,1.1647058823529413,0.04379433351527859,85,72,12,1
 Apparently his favorite DJ was out-of-network.,1.1647058823529413,0.046883426633143835,85,73,10,2
@@ -3244,7 +3248,6 @@ Thought this would lighten the mood,1.162162162162162,0.05100626464063543,74,64,
 It's for morale. All Do Not Resuscitates get a disco ball.,1.162162162162162,0.04723775805057815,74,63,10,1
 "Round and round it goes, when he stops breathing nobody knows.",1.162162162162162,0.05451488126682578,74,65,6,3
 I'd like to add this to my Story......,1.162162162162162,0.05100626464063543,74,64,8,2
-I think we connect the blue dots.,1.162162162162162,0.04723775805057815,74,63,10,1
 Hey-ho! Herniated disc-oh!,1.162162162162162,0.05100626464063543,74,64,8,2
 "Hey, turn up his heart monitor, would you?",1.162162162162162,0.04723775805057815,74,63,10,1
 "Laugh if you like, but I believe we're on the verge of curing Saturday Night Fever.",1.162162162162162,0.04314130895904046,74,62,12,0
@@ -3267,6 +3270,7 @@ Does this reflect poorly on us . . . ?,1.161764705882353,0.05386833246131616,68,
 "It keeps playing the Bee Gee's ""Staying Alive....""",1.1616161616161615,0.046980723221066986,99,87,8,4
 Should have stopped at triple Hustle.,1.1616161616161615,0.0423662864528231,99,85,12,2
 "Sorry Doctor, it was on sale.",1.1612903225806452,0.04660097538803965,93,81,9,3
+"The patient insisted on the disco ball and Donna Summer singing ""I Will Survive,"" while we operate.",1.1612903225806452,0.0490449283597526,93,82,7,4
 It’s been decades since I’ve seen such an acute case of night fever.,1.1612903225806452,0.052406641260186286,62,53,8,1
 We have been treating a lot of saturday night fever this year.,1.1612903225806452,0.03834564688497139,93,78,15,0
 Is he Stayin’ Alive? Stayin’ Alive?,1.1612903225806452,0.051372746554081104,93,83,5,5
@@ -3370,6 +3374,7 @@ Boogie over and get the scalpel then hustle back so we can jam it in the patient
 I love doing Disco surgery.,1.1585365853658536,0.04742547425474257,82,71,9,2
 That's what you get for insisting on disco in the OR.,1.1585365853658536,0.04058259927336571,82,69,13,0
 "It was in his ex-wife’s advance directive — if he died during the operation, she wanted everyone to do a happy dance.",1.1585365853658536,0.04742547425474257,82,71,9,2
+This is not what I meant when I said turn on the lights.,1.1585365853658536,0.04058259927336571,82,69,13,0
 Let’s focus on him STAYIN’ ALIVE!,1.1585365853658536,0.044136849525480595,82,70,11,1
 "As I suspected, he has Disco Fever.",1.1585365853658536,0.044136849525480595,82,70,11,1
 "Next, our patient performing “I Will Survive”.",1.1585365853658536,0.04742547425474257,82,71,9,2
@@ -3451,11 +3456,11 @@ These support animal requests need to stop.,1.1566265060240963,0.046889519178274
 "I don't think that I can take it,cause it took so long to make it,and I'll never have the recipe again ....oh no",1.15625,0.045745315919462494,64,54,10,0
 Is the playlist still covered by insurance?,1.15625,0.049842130157091914,96,86,5,5
 It's the only way I could be sure he'd be stayin' alive.,1.15625,0.04273573682241112,96,83,11,2
+The operating theater felt a little stale.,1.15625,0.04008796522823715,96,82,13,1
 Why the surgeon is always late to your operation.,1.155844155844156,0.04552772158797496,77,66,10,1
 """After this one,the drinks are on me.",1.155844155844156,0.04913793781438531,77,67,8,2
 Cause there ain't no party like a bowel resection party...,1.155844155844156,0.04913793781438531,77,67,8,2
 Operating by disco ball is the old new normal.,1.155844155844156,0.04913793781438531,77,67,8,2
-He got a fever Saturday,1.155844155844156,0.04913793781438531,77,67,8,2
 Saturday Knife Fever,1.155844155844156,0.04552772158797496,77,66,10,1
 "I knew the surgeon always operates to the Bee Gees Stayin' Alive 
 but I didn't know he uses the mirror ball too..",1.155844155844156,0.0525004803055042,77,68,6,3
@@ -3565,6 +3570,7 @@ Whoa! Stop! Hold everything! The stars are out of alignment!,1.1529411764705881,
 I call it laser shotgun surgery,1.1529411764705881,0.03927166872453089,85,72,13,0
 "As it turns,it plays “Stayin’ Alive”",1.1529411764705881,0.048811884811622255,85,75,7,3
 The reality show producers are trying to add some pizzazz to this gal bladder episode.,1.1529411764705881,0.042689296190347586,85,73,11,1
+it’s confirmed: disco balls are responsible for the spread of Saturday Night Fever.,1.1529411764705881,0.048811884811622255,85,75,7,3
 Are we sure there isn’t a nitrous oxide leak in here?,1.1529411764705881,0.042689296190347586,85,73,11,1
 Tympanic at the disco,1.1529411764705881,0.05160147423941497,85,76,5,4
 "This is a vasectomy, I said ‘Cue the BALLS’",1.1529411764705881,0.048811884811622255,85,75,7,3
@@ -3583,7 +3589,6 @@ I think the pills are working.,1.1527777777777777,0.05104434470208267,72,63,7,2
 "The theatre was booked, so I prepped the discotheque",1.1527777777777777,0.05104434470208267,72,63,7,2
 It reminds me to keep the patients Stayin' Alive.,1.1527777777777777,0.05104434470208267,72,63,7,2
 I said,1.1521739130434783,0.04871689182551522,92,82,6,4
-"The patient insisted on the disco ball and Donna Summer singing ""I Will Survive,"" while we operate.",1.1521739130434783,0.04871689182551522,92,82,6,4
 Step back and let the giant laser do its magic.”,1.1521739130434783,0.046200043353871234,92,81,8,3
 Neuro must have had another one of their themed surgeries,1.1521739130434783,0.040702099693023734,92,79,12,1
 "Alexa, play Body by Loud Luxury",1.1521739130434783,0.046200043353871234,92,81,8,3
@@ -3675,6 +3680,7 @@ I find it helps the patient subconsciously.,1.15,0.04017367360141355,80,68,12,0
 Its to absorb Saturday Night Fever,1.15,0.04017367360141355,80,68,12,0
 How many times do we have hear Stayin Alive?,1.15,0.047400795805956415,80,70,8,2
 His insurance covers the “Full Service” CPAP experience!,1.15,0.047400795805956415,80,70,8,2
+Groove is in his heart.,1.15,0.04393608706786989,80,69,10,1
 The new administrator used to be an owner of Studio 54.,1.15,0.05366327268666195,80,72,4,4
 "I wish they wouldn't pipe in ""Last Dance"" every time we put the lights on rotate.",1.15,0.04393608706786989,80,69,10,1
 "We got tired of hearing, ""There was this long dark tunnel...""",1.15,0.047400795805956415,80,70,8,2
@@ -3771,7 +3777,6 @@ This patient clearly has a night fever,1.1481481481481481,0.046848557928420444,8
 Disco music yes; disco ball no.,1.1481481481481481,0.046848557928420444,81,71,8,2
 I thought you said that with ABBA's charitable contribution our new operating rooms would take us from disco to rock 'n roll?,1.1481481481481481,0.046848557928420444,81,71,8,2
 "Stayin' Alive?""  Really",1.1481481481481481,0.043429775553920656,81,70,10,1
-This is not what I meant when I said turn on the lights.,1.1481481481481481,0.03971779738801338,81,69,12,0
 I told them to play Stayin’ Alive not Heart of Glass.,1.1481481481481481,0.043429775553920656,81,70,10,1
 St. Peter at the Gates is modernizing hi greetings…,1.1481481481481481,0.043429775553920656,81,70,10,1
 "Singing ""staying alive"" isn't going to help us here, Doc.",1.1481481481481481,0.0500342818003937,81,72,6,3
@@ -3804,7 +3809,6 @@ Who's playing 'Another One Bites The Dust' ?,1.1473684210526316,0.04481746243373
 OK! Get ready to knock him out.,1.1473684210526316,0.04224500885626314,95,83,10,2
 "Blame it on the boogie, I guess?",1.1473684210526316,0.04224500885626314,95,83,10,2
 Nobody told me this would be the grand opening.,1.1473684210526316,0.03950539972626867,95,82,12,1
-The operating theater felt a little stale.,1.1473684210526316,0.03950539972626867,95,82,12,1
 Looks like this one will be Stayin' Alive.,1.1470588235294117,0.04807399313332188,68,59,8,1
 "Like Carl Sagan said : ""We are all just Stadust"" !",1.1470588235294117,0.04807399313332188,68,59,8,1
 lets play tailor swift while we operate and also pull up their horoscope for the day.,1.1470588235294117,0.04807399313332188,68,59,8,1
@@ -3905,6 +3909,7 @@ It's another Dr Speckyl's inspiration. He seems to be having some rather odd moo
 "Life goin nowhere, somebody help him to stay alive, ah, ha,ha,ha.",1.144736842105263,0.04473684210526319,76,66,9,1
 "I don’t mind it, but can’t we listen to something besides ‘Stayin’ Alive’?",1.144736842105263,0.040626442725997976,76,65,11,0
 "I said, revive Mr. Cisco!",1.144736842105263,0.04850012612904946,76,67,7,2
+"I get playing the song “Stayin Alive,” but do we really need the disco ball?",1.144736842105263,0.05199172460609632,76,68,5,3
 "Yes, I did order a new light for the theater.",1.144736842105263,0.04473684210526319,76,66,9,1
 "It's called twilight sedation.""",1.144736842105263,0.04473684210526319,76,66,9,1
 It's dead in here.,1.144736842105263,0.04473684210526319,76,66,9,1
@@ -3914,7 +3919,6 @@ I Thought it would raise his spirits,1.144736842105263,0.040626442725997976,76,6
 "Oh, no. Next comes the disco music.""",1.144736842105263,0.04850012612904946,76,67,7,2
 Cripes! Who forgot to plug the other one in?,1.144736842105263,0.05199172460609632,76,68,5,3
 "We've had another request for :""Stayin' Alive.""",1.144736842105263,0.04473684210526319,76,66,9,1
-Stayin’ alive is the theme of this procedure.,1.144736842105263,0.036050390505323764,76,67,9,0
 The disco globe and the music is psychiatry’s suggestion for relaxing baby boomers.,1.144736842105263,0.040626442725997976,76,65,11,0
 "Umm, this new op lamp, umm…not being a negative Nancy here, I mean hey, it’s very pretty and all stayin’ alive and all that…all good, i get it…but, but…
 
@@ -3929,6 +3933,7 @@ This is corporates’ answer to the recent layoffs and budget cuts,1.14457831325
 It should help with getting a younger crowd.,1.144578313253012,0.04245109239481769,83,72,10,1
 Let's celebrate the Repub victory even though the patient died!,1.144578313253012,0.04578158588104717,83,73,8,2
 Right now I’m in the mood for ‘Stayin’Alive’ followed by ‘I Will Survive’.,1.144578313253012,0.04245109239481769,83,72,10,1
+These new pacemakers are getting a little off task.,1.144578313253012,0.03883602561080367,83,71,12,0
 "Now, where were we?",1.144578313253012,0.048885703084378854,83,74,6,3
 It's my100th kidney transplant.,1.144578313253012,0.04578158588104717,83,73,8,2
 It's recommended for severe cases of Saturday Night Fever,1.144578313253012,0.048885703084378854,83,74,6,3
@@ -3944,7 +3949,6 @@ He wanted the results to be ‘fabulous’.,1.144578313253012,0.0457815858810471
 "Sure, the pay’s better; but if I’m being honest, this is the real reason I went into private practice.",1.1444444444444444,0.04623424889153682,90,80,7,3
 Our anesthesiologist got a bulk rate.,1.1444444444444444,0.04345017698959632,90,79,9,2
 Good news is we’ve found and removed the blockage. Bad news is you may no longer be the soul of the party,1.1444444444444444,0.04623424889153682,90,80,7,3
-"Ever since the pandemic, I have decided that every day is a gift and we should celebrate.",1.1444444444444444,0.048859939221226036,90,81,5,4
 We started using the sweet-sweet rhythms of Donna Summer to put patients asleep when medical circumstances prevent anesthesia.,1.1443298969072164,0.041424616670931946,97,85,10,2
 "Ugh, when are we ever going to get that tanning light?",1.1443298969072164,0.0387456092226106,97,84,12,1
 Well he's stayin' alive.,1.1428571428571428,0.0421262731871135,70,60,10,0
@@ -4115,7 +4119,6 @@ Thought there was something odd about the new electrician?,1.1395348837209303,0.
 "I know we are trying to make the hospital a happier place, but isn’t this going a little too far!",1.139240506329114,0.046751593846233896,79,70,7,2
 Nostalgia or Gestalt? The Chief Surgeon won't say!,1.139240506329114,0.043140950178920556,79,69,9,1
 It appears as if he's suffering from a severe case of Saturday Night Fever.,1.139240506329114,0.043140950178920556,79,69,9,1
-Groove is in his heart.,1.139240506329114,0.043140950178920556,79,69,9,1
 "OK, now queue up ""Stayin Alive.""",1.139240506329114,0.043140950178920556,79,69,9,1
 It's the last dance. Should we wake him up to tell him?,1.139240506329114,0.039199128019855194,79,68,11,0
 "You are right doc, this AKG beat DOES sound better on molly.",1.139240506329114,0.043140950178920556,79,69,9,1
@@ -4342,7 +4345,6 @@ It adds a little life to the OR.,1.1341463414634145,0.041654271406339864,82,72,9
 "And you see, this should get the patient to follow what the song says and keep Stayin’ Alive.",1.1341463414634145,0.041654271406339864,82,72,9,1
 "Hey, some surgeons like Vivaldi in the OR. I prefer Donna Summer.",1.1341463414634145,0.041654271406339864,82,72,9,1
 This reminds me of the night I did coke with a supermodel at Studio 54.,1.1341463414634145,0.041654271406339864,82,72,9,1
-These new pacemakers are getting a little off task.,1.1341463414634145,0.037867719817024754,82,71,11,0
 Don't you love operating in Funkytown?,1.1341463414634145,0.041654271406339864,82,72,9,1
 "'Stayin Alive' is a great motivator, I find.",1.1341463414634145,0.041654271406339864,82,72,9,1
 Hospital administration opened a study measuring ADHD among the surgical staff to provide early intervention for those easily distracted by shiny things.,1.1341463414634145,0.045124189174381366,82,73,7,2
@@ -4379,6 +4381,7 @@ Perhaps he has Saturday Night Fever.,1.1333333333333333,0.039516598557587955,75,
 He died late Saturday night from a fever....,1.1333333333333333,0.043839729948095284,75,66,8,1
 "Now we are seeing stars in our eyes, just like guy did.",1.1333333333333333,0.039516598557587955,75,65,10,0
 "I've never been a natural, all I do is try, try, try",1.1333333333333333,0.039516598557587955,75,65,10,0
+"Maybe this disco ball , along with the tune of ""Macho Man"", will -get this patient to ""man up"" and stop flat-lining.",1.1333333333333333,0.043839729948095284,75,66,8,1
 Where’s the anesthesiologist?,1.1333333333333333,0.039516598557587955,75,65,10,0
 "Yes, it definitely adds a 70’s flavor to the operating room, but…",1.1333333333333333,0.047773238138965245,75,67,6,2
 Hornets,1.1333333333333333,0.043839729948095284,75,66,8,1
@@ -4461,7 +4464,6 @@ We do this for all of Barry Gibb’s procedures…,1.130952380952381,0.037028783
 It's country all day long.,1.130952380952381,0.04410050166290234,84,75,7,2
 "What do you guys think, does dis-co in here?",1.130952380952381,0.04724104126249248,84,76,5,3
 It’s funny. He always said disco was the dead one.,1.130952380952381,0.04410050166290234,84,75,7,2
-it’s confirmed: disco balls are responsible for the spread of Saturday Night Fever.,1.130952380952381,0.04410050166290234,84,75,7,2
 "House Music, M.D., coming soon to Fox.",1.130952380952381,0.037028783150812844,84,73,11,0
 "You know, ‘Ah, ha, ha, ha, stayin' alive!’",1.1304347826086956,0.04084071463598804,69,60,9,0
 "I’m being is back the 80s, which is why this surgery won’t be successful",1.1304347826086956,0.035304258388745714,92,80,12,0
@@ -4697,6 +4699,7 @@ We agreed to the TV coverage but this is going too far.,1.125,0.0412425674163067
 "Staying Alive"" or ""Another One Bites the Dust""?",1.125,0.041242567416306754,80,71,8,1
 I think we should remove his prostate like no one’s watching,1.125,0.04491553253932474,80,72,6,2
 "The operation was a success, but the patient still lives in a boogie wonderland.",1.125,0.0472455591261534,64,57,6,1
+We need to hurry this up. Happy Hour starts in one hour.,1.125,0.0472455591261534,64,57,6,1
 Maybe wait until they're out cold to to put on 'Last Dance',1.125,0.043951442120546434,72,64,7,1
 whoa - wanna danc - wait - never mind..,1.125,0.043951442120546434,72,64,7,1
 "It's a disk operation, not a disco operation",1.125,0.03896686961894279,88,78,9,1
@@ -4799,7 +4802,6 @@ I find I make more precise incisions when stars and planets float through the su
 Last time I ask for more difficult cases.,1.1216216216216217,0.050735802907502126,74,68,3,3
 "I said prepare the room for disc surgery, no O.",1.1216216216216217,0.04282120038926688,74,66,7,1
 Themed surgeries aren’t having the effect on team morale we hoped.”,1.1216216216216217,0.04282120038926688,74,66,7,1
-"Maybe this disco ball , along with the tune of ""Macho Man"", will -get this patient to ""man up"" and stop flat-lining.",1.1216216216216217,0.04282120038926688,74,66,7,1
 "Our patient is a disc jockey at a discotheque. ""
 By Thomas Sievers",1.1216216216216217,0.03825469848047654,74,65,9,0
 "This is how we make Discoöperations cool again, y'all",1.1216216216216217,0.04282120038926688,74,66,7,1
@@ -4820,6 +4822,7 @@ It’s not the disco ball that bothers so much as the platform shoes.,1.12121212
 "This is great, but would ya turn off ""Staying Alive?""",1.121212121212121,0.04048166591345904,66,58,8,0
 Disco is more fun than karaoke in surgery.,1.121212121212121,0.04587990563775582,66,59,6,1
 That gas is GOOD!,1.121212121212121,0.04048166591345904,66,58,8,0
+Should we perform this surgery before midnight? It'll be New Years.,1.121212121212121,0.04129606932540894,99,90,6,3
 Let's change the myth about the operating room light,1.121212121212121,0.04587990563775582,66,59,6,1
 "Wow, maybe the room really was spinning for the last patient.",1.121212121212121,0.04587990563775582,66,59,6,1
 It’s the 70’s all over again.,1.121212121212121,0.04587990563775582,66,59,6,1
@@ -4838,6 +4841,7 @@ A disco ball in an operating theatre! Are you sucking my cock?!?,1.1204819277108
 It’s my tribute to Donna Summer,1.1204819277108433,0.043358798568408845,83,75,6,2
 This does not change the prognosis; he will not dance out of here!,1.1204819277108433,0.03594813893312355,83,73,10,0
 "It was the patient's request, we've also been playing the Bee Gees on a loop for the last three hours.",1.1204819277108433,0.043358798568408845,83,75,6,2
+Now which,1.1204819277108433,0.0398262106284982,83,74,8,1
 "Laser surgery, reminds me of a Blue Oyster Cult concert in the‘ 70’s!",1.1204819277108433,0.0398262106284982,83,74,8,1
 At least we've got a dance beat.,1.1204819277108433,0.0398262106284982,83,74,8,1
 This is our last chance to prevent the Death of Disco!,1.1204819277108433,0.0398262106284982,83,74,8,1
@@ -4846,7 +4850,6 @@ Do you think it’s in poor taste we do this every time we save a life?,1.120481
 Did you drop the beat?” “No that was the scalpel,1.1204819277108433,0.043358798568408845,83,75,6,2
 "'I can never remember, does it go to the left or right of the duodenum.'",1.1204819277108433,0.03594813893312355,83,73,10,0
 I told you this club would knock you out.,1.12,0.0463437994530848,75,68,5,2
-"I get playing the song “Stayin Alive,” but do we really need the disco ball?",1.12,0.0463437994530848,75,68,5,2
 "The procedure is actually quite simple; we're hoping George here will be ah, ha, ha, ha, stayin' alive, stayin' alive.",1.12,0.042277504507567405,75,67,7,1
 "OK Stayin' Alive on the sound system is sort of comical, but this?",1.12,0.05008101544605604,75,69,3,3
 "Validated or not, as therapy, even Medicare covers it.",1.12,0.042277504507567405,75,67,7,1
@@ -4920,6 +4923,7 @@ We really dropped the ball on this one,1.118421052631579,0.04174738257645891,76,
 "It's a little early for the Bee Gees, isn't it?",1.118421052631579,0.0373090707335732,76,67,9,0
 "Get down and bypass-- doo-WEET, doo-WEET!",1.118421052631579,0.04174738257645891,76,68,7,1
 "I've found it really helps to liven up these life threatening procedures.  Well, at least for us anyway.""",1.118421052631579,0.04174738257645891,76,68,7,1
+"That's his last hope for ""Stayin' Alive!""",1.118421052631579,0.04575719773945604,76,69,5,2
 Epstein didn’t kill himself lol.”,1.118421052631579,0.04575719773945604,76,69,5,2
 "If he's not under after this spin, we'll just have to boogie with traditional anesthesia.",1.118421052631579,0.04575719773945604,76,69,5,2
 "It's time to put the ""fun"" back in ""invasive fungal infection!""",1.118421052631579,0.0373090707335732,76,67,9,0
@@ -5149,7 +5153,6 @@ I requested a wrecking ball to apply pressure on the incision.,1.112359550561797
 "Disco died, just like our patient.",1.1123595505617978,0.04054720904307208,89,81,6,2
 As if the disco music wasn't enough.,1.1123595505617978,0.037265447082644926,89,80,8,1
 We can't let disco die,1.1123595505617978,0.04054720904307208,89,81,6,2
-Should we perform this surgery before midnight? It'll be New Years.,1.1122448979591837,0.04072417537750365,98,90,5,3
 "To be, or not to be, can you answer that question?",1.1111111111111112,0.03513641844631533,81,72,9,0
 Man plans and the disco gods laugh.,1.1111111111111112,0.03331251951092717,90,80,10,0
 This is our new “Stayin’ Alive” technology.,1.1111111111111112,0.042217280000676725,72,65,6,1
@@ -5209,7 +5212,6 @@ Disco's not dead and neither is our patient.,1.1097560975609757,0.03882533545228
 "Doctor, is there not other ways to avoid burnout that you could try?",1.1097560975609757,0.038825335452288307,82,74,7,1
 Gotta tell you- this is not what they meant about hi tech surgery…,1.1097560975609757,0.03473172254194113,82,73,9,0
 "Guess we hit the sweet spot,Doc.",1.1097560975609757,0.04252670684681625,82,75,5,2
-Now which,1.1097560975609757,0.038825335452288307,82,74,7,1
 "Well, you can tell by the way I use my knife I’m a patient’s Doc, no time to talk” 🎤🎼",1.1097560975609757,0.03473172254194113,82,73,9,0
 They ARE hiding this shit in disco balls…,1.1097560975609757,0.038825335452288307,82,74,7,1
 And this instrument will help us identify any organ with a boogie deficiency.,1.1097560975609757,0.04252670684681625,82,75,5,2
@@ -5305,6 +5307,7 @@ The rhythm continues to be off,1.1081081081081081,0.04112256523107289,74,67,6,1
 "We’re gonna hit the body with such tremendous light, so powerful, like you’ve never seen before.”",1.1081081081081081,0.045401526605714705,74,68,4,2
 "I don't mind it, but we should probably take ""Last Dance"" off the playlist.",1.1081081081081081,0.04112256523107289,74,67,6,1
 "I said to prep the OR for a discectomy, not a disco dance!",1.1081081081081081,0.04112256523107289,74,67,6,1
+"Oh No, now I have caught Disco Fever!",1.1081081081081081,0.04112256523107289,74,67,6,1
 "Doctor, he’s stayin’ alive.",1.1081081081081081,0.03634325417788381,74,66,8,0
 "He asked for ""sparkle"", so I gave him sparkle!",1.1081081081081081,0.04112256523107289,74,67,6,1
 He requested it for his happy birthday.,1.1081081081081081,0.03634325417788381,74,66,8,0
@@ -5477,6 +5480,7 @@ Shall we dance?,1.1029411764705883,0.0426292687910726,68,62,5,1
 This is a huge challenge for we lipreaders...,1.1029411764705883,0.047499853899100365,68,63,3,2
 It’s the Operate Operate Revolution.,1.1029411764705883,0.0426292687910726,68,62,5,1
 "he wanted to be sure the BTS reel for his vasectomy was ""instagrammable""",1.1029411764705883,0.03712509925760675,68,61,7,0
+Now we can cut up a rug and a body!,1.1025641025641026,0.03909457946788477,78,71,6,1
 I like a more casual work environment,1.1025641025641026,0.034574351921191876,78,70,8,0
 Next Tik tok trend: rave surgery.,1.1025641025641026,0.04314378839150649,78,72,4,2
 Go towards the light!,1.1025641025641026,0.034574351921191876,78,70,8,0
@@ -5484,6 +5488,7 @@ Go towards the light!,1.1025641025641026,0.034574351921191876,78,70,8,0
 HR is using ER lighting to boost retention.,1.1025641025641026,0.03909457946788477,78,71,6,1
 Party on under the knife.,1.1025641025641026,0.03909457946788477,78,71,6,1
 "Sorry, breaks are union-mandated. Nurse, pass the quaaludes, stat!",1.1025641025641026,0.03909457946788477,78,71,6,1
+"Plucked from the fridge, washed, weighed and dried, but frankly, too much coffee man.  This is what makes Prêt so special.",1.1025641025641026,0.034574351921191876,78,70,8,0
 This is not what I meant when I needed more light in the room.,1.1025641025641026,0.03909457946788477,78,71,6,1
 I’m not sure patient Travolta appreciates your effort”,1.1025641025641026,0.034574351921191876,78,70,8,0
 "When I told the boss we want better working conditions 
@@ -5665,6 +5670,7 @@ Seemed natural after using Staying Alive for CPR.,1.0963855421686748,0.036823864
 Surgery is still not a festive party-time to me.,1.095890410958904,0.03980729628804269,73,67,5,1
 "Piping in ""Staying alive"" clenches the whole mood perfectly..",1.095890410958904,0.03980729628804269,73,67,5,1
 "I told them to get a halogen bulb, not a disco ball!",1.095890410958904,0.03980729628804269,73,67,5,1
+This seems to help keepin' alive.,1.095890410958904,0.04432988091083928,73,68,3,2
 "And now we sing ""Staying Alive"" and hope for the best.",1.095890410958904,0.034700192131439885,73,66,7,0
 There are people in a nightclub somewhere squinting angrily at a very bright light.,1.095890410958904,0.034700192131439885,73,66,7,0
 The sound of a flatline gets old after a while.,1.095890410958904,0.034700192131439885,73,66,7,0
@@ -5674,7 +5680,6 @@ Disco Disco Doc,1.095890410958904,0.03980729628804269,73,67,5,1
 Finally our break.,1.095890410958904,0.034700192131439885,73,66,7,0
 "According to our agents down on Earth, this is the only treatment for disco fever.",1.095890410958904,0.03980729628804269,73,67,5,1
 "Staying Alive” and “I Will Survive” Ah, There was hope in the 1970s",1.095890410958904,0.034700192131439885,73,66,7,0
-"Oh No, now I have caught Disco Fever!",1.095890410958904,0.03980729628804269,73,67,5,1
 This really escalated from the fever he was admitted with--it was just Saturday evening.,1.095890410958904,0.034700192131439885,73,66,7,0
 "He's not even under anesthesia, he's just taking a disco nap.",1.095890410958904,0.04432988091083928,73,68,3,2
 ??SOMEWHERE OVER THE RAINBOW!!!??,1.095890410958904,0.03980729628804269,73,67,5,1
@@ -5694,7 +5699,6 @@ Stop hyperventilating!!!,1.0952380952380953,0.036400934097480735,84,77,6,1
 The fact that it plays 'I Will Survive' is a nice touch.,1.0952380952380953,0.036400934097480735,84,77,6,1
 We got a great deal on a new surgical mirror!,1.0952380952380953,0.036400934097480735,84,77,6,1
 How can I do triage in a disco!,1.0952380952380953,0.043610044751392865,63,58,4,1
-We need to hurry this up. Happy Hour starts in one hour.,1.0952380952380953,0.03728006482184818,63,57,6,0
 "We probably should have told him he  was was our 10,000th transplant before we put him under.",1.0952380952380953,0.043610044751392865,63,58,4,1
 Wow! he is already having Christmas in hell!,1.0947368421052632,0.03370939707864364,95,87,7,1
 It helps the patient stay alive.,1.0945945945945945,0.034252578598678016,74,67,7,0
@@ -5743,7 +5747,6 @@ It's because the usual surgical lights make me feel like I'm dying.,1.0933333333
 "All together now! 
 'Ah, ha, ha, ha, stayin' alive, stayin' alive
 Ah, ha, ha, ha, stayin' ali-i-i-ive.",1.0933333333333333,0.033816320668333295,75,68,7,0
-"That's his last hope for ""Stayin' Alive!""",1.0933333333333333,0.0387801998950999,75,69,5,1
 "All this surgery seems complicated, but we really just rely on our Weegee Board.",1.0933333333333333,0.0387801998950999,75,69,5,1
 "Staying Alive by the Bee Gees is a good song choice, but is the disco ball really necessary?",1.0933333333333333,0.0387801998950999,75,69,5,1
 "That's fine for the patient, but how are we supposed to breathe?",1.0933333333333333,0.033816320668333295,75,68,7,0
@@ -5813,7 +5816,6 @@ Strobes for strokes,1.0909090909090908,0.04168520460680062,66,61,4,1
 "I said we needed a ""medical discovery soon"" not a ""medical disco very soon""",1.0909090909090908,0.03297619318681874,77,70,7,0
 "Unless his descending colon has disco fever, this respecting the patient's wishes is going a little too far.",1.0909090909090908,0.04208273180784327,77,72,3,2
 Must be something he ate.,1.0909090909090908,0.0356574791160335,66,60,6,0
-"Plucked from the fridge, washed, weighed and dried, but frankly, too much coffee man.  This is what makes Prêt so special.",1.0909090909090908,0.03297619318681874,77,70,7,0
 "After COVID-19 hit, we had to convert a lot of buildings into makeshift hospitals. This one was—you guessed it: The original set of Saturday Night Fever.",1.0909090909090908,0.03780466660020462,77,71,5,1
 "? Ah, ha, ha, ha, stayin' alive, stayin' alive ?",1.0909090909090908,0.0356574791160335,66,60,6,0
 Remove all face coverings:  Junior Mints!,1.0909090909090908,0.0356574791160335,66,60,6,0
@@ -6081,7 +6083,6 @@ I will it would let us know where dis goes!,1.078125,0.033811213593755246,64,59,
 It was the only way we could get Deney Terrio to have the procedure,1.078125,0.033811213593755246,64,59,5,0
 Those Daft Punk guys are everywhere these days!,1.078125,0.033811213593755246,64,59,5,0
 "I Will Survive""?  Gloria Gaynor, 1978",1.077922077922078,0.030747320742153073,77,71,6,0
-Now we can cut up a rug and a body!,1.077922077922078,0.030747320742153073,77,71,6,0
 These are definitely an alpha variant.,1.077922077922078,0.030747320742153073,77,71,6,0
 "It plays the Exorcist theme, while we suck the demon out of her through her mouth with the demon denebulizer.",1.077922077922078,0.030747320742153073,77,71,6,0
 Makes me want to cut a rug and cut out the ruptured appendix.,1.077922077922078,0.035877029315135235,77,72,4,1
@@ -6198,7 +6199,6 @@ Watch for lady bugs up your nose!,1.0704225352112675,0.03058085342770758,71,66,5
 This one is going to stay alive.,1.0704225352112675,0.03058085342770758,71,66,5,0
 The patient requested it. Something to do with Saturday Night Fever and Staying Alive,1.0701754385964912,0.04232918735352016,57,54,2,1
 I'm about to get freaky fresh and get down on that thing like my ass is on fire on this guy's appendix,1.0701754385964912,0.04232918735352016,57,54,2,1
-This seems to help keepin' alive.,1.0694444444444444,0.0360749789138421,72,68,3,1
 I heard our new CEO was a real Player back in the day!,1.0694444444444444,0.0360749789138421,72,68,3,1
 Linda- I thought is was flamenco friday!@$? I totally wore the wrong shoes.,1.0694444444444444,0.030168987336416972,72,67,5,0
 Operation 2: Electric Boogaloo,1.0694444444444444,0.030168987336416972,72,67,5,0
@@ -6268,6 +6268,7 @@ we'll all be famous!",1.064102564102564,0.033348699037898666,78,74,3,1
 Are you SURE you want to do this?,1.064102564102564,0.033348699037898666,78,74,3,1
 It's a signal to keep the patient 'Stayin' Alive.',1.0634920634920635,0.03096845985670751,63,59,4,0
 "It's supposed to bring light into the body, and then you're stayin' alive, ah ha, ha, ha, stayin' alive, ah ha, ha, ha, stayin' aliiiihihihiiiive!",1.0634920634920635,0.03835463825919612,63,60,2,1
+All the better to keep him stayin' alive.,1.0634920634920635,0.03835463825919612,63,60,2,1
 "Doctor, I don’t think this will wake him up from a coma.",1.0634920634920635,0.03096845985670751,63,59,4,0
 Pumping in “Staying Alive” and hanging the disco ball really peps up the surgical unit.,1.0632911392405062,0.02756934634934368,79,74,5,0
 """Boogie Woogie OR Land"".",1.0632911392405062,0.02756934634934368,79,74,5,0
@@ -6475,7 +6476,6 @@ Edgar Zapata, Orlando, FL",1.0327868852459017,0.03278688524590161,61,60,0,1
 "Ah,Ah,Ah,Ah  Staying Alive",1.0327868852459017,0.022989818544221417,61,59,2,0
 "? Ah, ha, ha, ha, stayin' alive, stayin' alive!
 Ah, ha, ha, ha, stayin' alive!?",1.032258064516129,0.02262215720381539,62,60,2,0
-All the better to keep him stayin' alive.,1.032258064516129,0.02262215720381539,62,60,2,0
 The light is on. Now use the scalpel to the disco beat.,1.0317460317460319,0.02226606749120207,63,61,2,0
 "We'll patch this guy better than the guy who put this ball together.
 Karla Chirinos
