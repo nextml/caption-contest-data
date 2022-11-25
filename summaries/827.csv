@@ -6,14 +6,14 @@ You won't believe how long I had to wait for this train.,1.7946745562130177,0.01
 "I peg you as more of a gatherer, am I right?",1.7867370007535794,0.015155675161913155,2654,1152,916,586
 "Wait -- ""B.C."" means ""business casual""?",1.7809025506867233,0.014776678381247854,3058,1429,870,759
 You have no idea how long I had to wait for this train.,1.7805413313825895,0.021287136963932717,1367,606,455,306
-I'm an anesthesiologist.,1.7796857873584215,0.015735373269116865,2737,1295,750,692
+I'm an anesthesiologist.,1.7801314828341854,0.015735938262211185,2738,1295,750,693
 "A headhunter? Me, too.",1.775961780236359,0.012845997799209063,3977,1850,1168,959
 "No big plans. Meeting friends, going clubbing.",1.7753108348134992,0.016525108178977777,2252,1002,754,496
-I'm actually the new Chief Technology Officer at Twitter.,1.772108843537415,0.016203751062695185,2646,1289,671,686
+I'm actually the new Chief Technology Officer at Twitter.,1.7725727238383076,0.016204269474128324,2647,1289,671,687
 "Natural  History Museum? No, I'm the new Senator from Ohio.",1.7665809768637533,0.018712879147954255,1945,942,515,488
 So you take everything they’ve got but don’t get to hit them?,1.7483870967741935,0.01852213562745891,1860,886,556,418
-I’m the patent holder of ‘the wheel.’ What do you do?,1.7464574898785425,0.01741783945128699,1976,906,665,405
-Where do you kill your clothes?,1.743502824858757,0.01865404796731691,1770,830,564,376
+I’m the patent holder of ‘the wheel.’ What do you do?,1.7470915528578654,0.017420569922062576,1977,906,665,406
+Where do you kill your clothes?,1.7442123094297006,0.018657006875102817,1771,830,564,377
 "Seriously, I haven’t been mugged once since the wardrobe change.",1.7399286078531362,0.01742754606187809,1961,905,661,395
 This usually gets me the whole bench for myself.,1.7314399601395116,0.01685856392923249,2007,914,718,375
 No. I have come from the future...,1.7302593659942362,0.01880389528871467,1735,829,545,361
@@ -25,7 +25,7 @@ I'm out clubbing.,1.7163947163947164,0.01534244078987845,2574,1248,808,518
 I still say rock beats paper.,1.7148777455449649,0.015967084468991376,2413,1184,733,496
 Those drawings on the wall at the last station? Those were mine.,1.7096390321301072,0.015250024844727744,2521,1211,831,479
 "Had I invested in the wheel, I’d really be going places.”",1.7087827426810478,0.014980691315449516,2596,1244,864,488
-"It’s okay, I have an open carry permit.",1.704460966542751,0.014704602360160392,2690,1297,891,502
+"It’s okay, I have an open carry permit.",1.7049424005945746,0.014707018961362181,2691,1297,891,503
 Paleo isn't just a diet; it's a lifestyle.,1.702970297029703,0.019412085977433442,1515,724,517,274
 I prefer the term “cave person”.,1.7025547445255473,0.014177941499038059,2740,1283,989,468
 I think I turned my clocks back too far.,1.6979472140762464,0.012261114802530589,4092,2063,1202,827
@@ -43,8 +43,8 @@ I found a dyslexic Genie. I actually wanted to be in a man-cave.,1.6401985111662
 "Oh, dear sir, you misunderstand. I do not come to you from your past, but from your future.",1.6365180467091296,0.016288717912481054,2355,1319,573,463
 "I know what you mean. My wife complains about me carrying my work home, too.",1.6328173374613002,0.018007660952264058,1615,828,552,235
 I'm still paying off my student loans.,1.6310068649885583,0.018159230666817856,1748,945,503,300
+I'm applying for a job at the Museum of Natural History.,1.630005977286312,0.017877066849345768,1673,871,550,252
 The DNA test kit put me in the top 1% for Neanderthal.,1.62969808995687,0.018037068511109765,1623,840,544,239
-I'm applying for a job at the Museum of Natural History.,1.6291866028708133,0.01786896342915814,1672,871,550,251
 "After that, hunting & gathering just seemed like the next, strategic career move for me.",1.6273864384463463,0.018310629170454187,1519,775,535,209
 "At my office, we take Casual Friday to a new level.",1.6257783312577834,0.018160293963638274,1606,838,531,237
 Do you shave all over?,1.6257309941520468,0.028225541053379977,684,362,216,106
@@ -63,7 +63,7 @@ Looks like we're both headed to the Capitol.,1.5859375,0.020709007009373698,1408
 You should see casual Fridays.,1.5851528384279476,0.020118075894563825,1374,785,374,215
 "Historically, this train never runs on time.",1.583150183150183,0.020360215960993855,1365,789,356,220
 I'm running in the Republican Primary for the Senate.,1.58095952023988,0.021666406244107223,1334,814,265,255
-"So, you invented a new app? I invented fire!",1.5765306122448979,0.037514379659680804,392,226,106,61
+"So, you invented a new app? I invented fire!",1.5801526717557253,0.03759369652387238,393,226,106,61
 "Wait, you’re a headhunter?",1.5729684908789385,0.021680446266388546,1206,709,303,194
 "Yes, I’m paleo.",1.5727762803234502,0.025070154516468563,742,399,261,82
 "Hey, where's a good place to go clubbing?",1.5708298407376362,0.02125194764503946,1193,687,331,175
@@ -168,6 +168,7 @@ I'm running for U.S. congressman. What are you dressed for?,1.467741935483871,0.
 Wanna go clubbing later?,1.4677002583979328,0.035696285910775026,387,253,87,47
 "Flintstones On Broadway"" auditions this afternoon",1.4670184696569921,0.03567572175037355,379,246,89,44
 I guess i knew work from cave would end sometime,1.466512702078522,0.03348729792147806,433,282,100,51
+"If Trump wins in 2024, I 'll be appointed to the Supreme Court",1.4661016949152543,0.047041735457490755,236,158,46,32
 "I bought my cave for $20,000. You'll never believe how much I sold it for last week.",1.465940054495913,0.035504712996538415,367,235,93,39
 Got a lighter I can borrow?,1.4652777777777777,0.040211641538212044,288,185,72,31
 "I, too, eat what I kill.",1.4647519582245432,0.033812972342822135,383,241,106,36
@@ -184,7 +185,6 @@ We knew it was coming to all of this; we saw the writing on the walls.,1.4605678
 "Yeah, it's regression therapy to resolve modern existential dread.",1.4602739726027398,0.03541903865129506,365,235,92,38
 I’m back to hunting in person two days a week.,1.4598930481283423,0.03660265342962501,374,249,78,47
 There are some side effects of the paleo diet.,1.4596774193548387,0.03655243685473169,372,247,79,46
-"If Trump wins in 2024, I 'll be appointed to the Supreme Court",1.4595744680851064,0.04678536020946331,235,158,46,31
 I lost my shirt in woolly rhino futures.,1.4592833876221498,0.03999119603902647,307,203,67,37
 "Thing is, I'm between a rock and a hard place.",1.456989247311828,0.03429388282717116,372,237,100,35
 "Actually, I'm from the future.",1.4563106796116505,0.039255591880287564,309,203,71,35
@@ -1595,7 +1595,6 @@ This crime wave has sent us back eons.,1.2454545454545454,0.050330622710028694,1
 "It's not just a diet, pal.",1.2454545454545454,0.053542347027048694,110,90,13,7
 Are you happy?,1.2454545454545454,0.04864530718359612,110,87,19,4
 This is my Power Suit!,1.2454545454545454,0.045086079539041465,110,85,23,2
-"Sorry, I'm from out of town.",1.2454545454545454,0.04864530718359612,110,87,19,4
 Ive been told women prefer a more masculine looking man.,1.2454545454545454,0.050330622710028694,110,88,17,5
 I was promoted after I discovered how to light a fire under my team.,1.2454545454545454,0.050330622710028694,110,88,17,5
 "If you smartest person in room, you in wrong room.",1.2454545454545454,0.050330622710028694,110,88,17,5
@@ -1635,6 +1634,7 @@ I also miss remote work.,1.2436974789915967,0.04616990623084198,119,94,21,4
 "And then Gork says, “Yeah, but the derivative markets are softer than they’ve ever been!”  What do you think?",1.2434782608695651,0.04718030130356049,115,91,20,4
 I'll club the rats and you'll sneak them out in your briefcase.,1.2432432432432432,0.04825576177861834,111,88,19,4
 "No offense, but you remind me of a brontosaurus egg.",1.2432432432432432,0.04825576177861834,111,88,19,4
+"Sorry, I'm from out of town.",1.2432432432432432,0.04825576177861834,111,88,19,4
 "Sorry pal, but 'guy wearing a suit' isn't a real Halloween costume.",1.2429906542056075,0.04940328376093482,107,85,18,4
 Have you seen my MAGA hat?,1.2427184466019416,0.054260722862752006,103,84,13,6
 Spare a few shells?,1.2427184466019416,0.054260722862752006,103,84,13,6
