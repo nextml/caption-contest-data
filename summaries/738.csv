@@ -1,7 +1,7 @@
 caption,mean,precision,votes,not_funny,somewhat_funny,funny
 Just to mess with him put them back on the tree.,2.172655983634504,0.006326368427584553,14665,3256,5621,5788
 "Wait, did they say 'take the man and leave' or 'take the man and leaves?'",2.0634424913000804,0.0074625882133212956,11207,3164,4168,3875
-"This is your first abduction, isn’t it?",2.028721876495931,0.007085111062476347,12534,3768,4638,4128
+"This is your first abduction, isn’t it?",2.0287993617869966,0.007084969538143519,12535,3768,4638,4129
 "Must be valuable, they spend hours collecting them!",2.0076876565604214,0.007209818025601771,11577,3439,4610,3528
 "Trust me—I know their language. If he’s ‘raking it in,’ it’s money.",1.9210857973824527,0.007923779369784617,10315,3779,3571,2965
 "No, the OTHER pile of useless organic matter.",1.919774131685489,0.008478778097581966,9386,3573,2993,2820
@@ -72,7 +72,7 @@ Don’t tell him we’re also sending back all of his missing socks.,1.576379974
 "I'm telling you, we do a couple nice deeds like this, and they never see the invasion coming.",1.572695035460993,0.021026487101124567,1128,625,360,143
 We cost more but we're quieter than a leaf blower.,1.5682102628285357,0.025235132244383823,799,450,244,105
 A friendly gesture can make first contact go a lot better.,1.5668849391955098,0.02068442528636636,1069,576,380,113
-"Remind me,were we supposed to take the human and leave,or take the human and leaves?",1.5652600588812562,0.022739846837699338,1019,586,290,143
+"Remind me,were we supposed to take the human and leave,or take the human and leaves?",1.565686274509804,0.02272153980591725,1020,586,291,143
 I would take the earthling home but honestly who wants to hear any more about 2020?,1.5622448979591836,0.023881954984651097,980,582,245,153
 Student driver.  Please be patient.,1.5618945102260495,0.022762595871961583,929,516,304,109
 We went from building the pyramids to this?,1.5618556701030928,0.02308232157982714,970,558,280,132
@@ -178,8 +178,8 @@ It's OK - he won't see the force for the trees.,1.483739837398374,0.043764108033
 After everything they’ve been through this year?  It’s the least we can do!,1.4827586206896552,0.033401119405762236,435,276,108,51
 "Do you do gutters, too?",1.4825174825174825,0.033423527935790044,429,271,109,49
 "If you miss one more time, I'm taking over.",1.4815724815724816,0.033874465541411936,407,255,108,44
+Nothing surprises them anymore.,1.4805825242718447,0.03286030740452607,412,254,118,40
 We need to find out why earthlings turn color before they die!,1.4801864801864801,0.033092960384023484,429,270,112,47
-Nothing surprises them anymore.,1.4793187347931873,0.03291598644946347,411,254,117,40
 Illegal aliens taking my job,1.4793187347931873,0.035012668362370145,411,266,93,52
 Can you believe they throw these things away?,1.4787735849056605,0.03235974156318708,424,262,121,41
 I told the kids I'd bring home some souvenirs,1.4786729857819905,0.03123288506995417,422,254,134,34
@@ -342,6 +342,7 @@ I like to mess with their minds before I abduct 'em.,1.4280575539568345,0.039485
 "„Sorry, can you take a step forward? It’s my first day“ -",1.4279661016949152,0.041987974110056975,236,155,61,20
 It's sweet revenge for the theft of our rocks.,1.4270833333333333,0.04980852480647589,192,132,38,22
 "That’s funny, they don’t seem to be as surprised this year",1.427007299270073,0.03955585921251336,274,182,67,25
+You wanna take my mother-in-law while your at it,1.4269662921348314,0.040989328728941794,267,180,60,27
 We flew 4 million light years and you do this?,1.4254545454545455,0.03772245554107021,275,178,77,20
 They must be valuable. Look how much time he spends arranging them.,1.4254545454545455,0.03807264703581098,275,179,75,21
 Now you're just messing with him.,1.4254545454545455,0.04076602573757798,275,187,59,29
@@ -356,7 +357,6 @@ And we still have three more yards to do after this one.,1.424908424908425,0.039
 "If this doesn’t convince then we come in peace, I don’t know what will...",1.424908424908425,0.03964509086609671,273,182,66,25
 "The instructions were to rape the planet, not rake it, you idiot!",1.4248927038626609,0.0448913851909564,233,160,47,26
 The leaf vac I got on Amazon is out of this world!,1.4248120300751879,0.040037618961027546,266,177,65,24
-You wanna take my mother-in-law while your at it,1.4248120300751879,0.041086851772642395,266,180,59,27
 "You nailed the parallel parking, but you're gonna need to work on your tractor beam if you want your full license.",1.4242424242424243,0.04260133509213818,231,153,58,20
 Turns out they make piles of dead tree parts to avoid spending time with their families.,1.4238683127572016,0.041920523240797425,243,162,59,22
 "It's weird, but not monolith weird.",1.4237918215613383,0.0424136756824633,269,187,50,32
