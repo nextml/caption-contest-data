@@ -1,5 +1,4 @@
 import csv
-import datetime
 import json
 import logging
 import os
@@ -7,13 +6,14 @@ import shutil
 import sys
 from pathlib import Path
 from warnings import warn
+from datetime import datetime, timedelta
 
 import pandas as pd
 import requests
 
 CCD_IP = os.environ["CCD_IP"]
 CCD_MACHINE = os.environ["CCD_MACHINE"]
-today = datetime.datetime.now().isoformat()[:10]
+today = datetime.now().isoformat()[:10]
 
 
 def main(exp_uid, name):
@@ -122,12 +122,15 @@ def get_latest_contest():
     most_recent = max(contests)
     return most_recent
 
-
 if __name__ == "__main__":
     image_download()
-    all_contests = requests.get(f"{CCD_MACHINE}/contest_log.json").json()
+    all_c = requests.get(f"{CCD_MACHINE}/contest_log.json").json()
+    finished = [
+        c for c in all_c["contests"]
+        if datetime.now() - timedelta(days=4 * 7) >= datetime.fromisoformat(c["launched"])
+    ]
     try:
-        futures = map(get_and_write, all_contests["contests"][::-1])
+        futures = map(get_and_write, finished[::-1])
         results = list(futures)
         #  assert sum(results) in {0, 1}, "Only download 0 or 1 dashboards"
     except KeyboardInterrupt:
