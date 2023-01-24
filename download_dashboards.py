@@ -125,10 +125,12 @@ def get_latest_contest():
 if __name__ == "__main__":
     image_download()
     all_c = requests.get(f"{CCD_MACHINE}/contest_log.json").json()
+
     finished = [
         c for c in all_c["contests"]
-        if datetime.now() - timedelta(days=4 * 7) >= datetime.fromisoformat(c["launched"])
+        if datetime.now() >= timedelta(days=1 * 7) + datetime.fromisoformat(c["launched"])
     ]
+    breakpoint()
     try:
         futures = map(get_and_write, finished[::-1])
         results = list(futures)
