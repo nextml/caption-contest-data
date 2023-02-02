@@ -4,7 +4,6 @@ name: Pull data from S3, write HTML and push
   #   schedule:
   #     - cron: '0 17 * * 1,2'  # run mon,tues. this is in GMT (so noon EST)
 
-
 on: push
 
 jobs:
