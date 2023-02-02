@@ -98,7 +98,11 @@ if __name__ == "__main__":
     for contest, v in meta.items():
         summaries = Path()
         dfs = [pd.read_csv(f) for f in Path("summaries").glob(f"{contest}*.csv")]
-        meta[contest]["n_captions"] = int(max({len(df) for df in dfs}))
+        try:
+            meta[contest]["n_captions"] = int(max({len(df) for df in dfs}))
+        except:
+            lens = [len(df) for df in dfs]
+            raise ValueError("{contest}, {lens}")
         meta[contest]["n_responses"] = int(sum(df["votes"].sum() for df in dfs))
 
         #  "votingEndDate": "2019-07-21T22:44:00.000Z",
