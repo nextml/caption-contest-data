@@ -130,7 +130,6 @@ if __name__ == "__main__":
         c for c in all_c["contests"]
         if datetime.now() >= timedelta(days=1 * 7) + datetime.fromisoformat(c["launched"])
     ]
-    breakpoint()
     try:
         futures = map(get_and_write, finished[::-1])
         results = list(futures)
