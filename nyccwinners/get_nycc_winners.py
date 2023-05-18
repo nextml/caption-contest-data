@@ -54,8 +54,8 @@ def get_winners(id):
             return request.json()
         else:
             raise Exception(
-                "Query failed to run by returning code of {}. {}".format(
-                    request.status_code, query
+                    "Query failed to run by returning code of {}. {}\n\nResponse text:\n{}".format(
+                    request.status_code,  query, requests.text
                 )
             )
 
