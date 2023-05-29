@@ -8,6 +8,7 @@ Original file is located at
 """
 
 import json
+import logging
 
 import requests
 
@@ -53,6 +54,7 @@ def get_winners(id):
         if request.status_code == 200:
             return request.json()
         else:
+            return {}
             raise Exception(
                     "Query failed to run by returning code of {}. {}\n\nResponse text:\n{}".format(
                     request.status_code,  query, requests.text
