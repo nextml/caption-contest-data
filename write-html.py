@@ -95,6 +95,7 @@ if __name__ == "__main__":
             for k, v in mwell.items()
             if "Contest #" in k
         }
+
     for contest, v in meta.items():
         summaries = Path()
         dfs = [pd.read_csv(f) for f in Path("summaries").glob(f"{contest}*.csv")]
