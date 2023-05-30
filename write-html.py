@@ -75,19 +75,21 @@ if __name__ == "__main__":
     }
         # fmt: on
 
-
-    with open("nyccwinners/nyc_winners.json", "r") as f:
-        raw = json.load(f)
-        rare = [r["data"]["cartoon"] for r in raw]
-        mrare = {r["title"]: r["contestFinalists"] for r in rare}
+    with open("nyccwinners/nyc_winners2.json", "r") as f:
+        mrare = json.load(f)
         chosen = {
-            int(k.strip("Contest #")): _fmt_captions(v)
+            int(k.strip("Contest #")): _fmt_captions(v["cartoon"]["contestFinalists"])
             for k, v in mrare.items()
             if "Contest #" in k
         }
 
         mwell = {
-            r["title"]: {k: r[k] for k in r.keys() if "date" in k.lower()} for r in rare
+            title: {
+                k: r["cartoon"][k]
+                for k in r["cartoon"].keys()
+                if "date" in k.lower()
+            }
+            for title, r in mrare.items()
         }
 
         meta = {
@@ -96,14 +98,29 @@ if __name__ == "__main__":
             if "Contest #" in k
         }
 
-    for contest, v in meta.items():
-        summaries = Path()
-        dfs = [pd.read_csv(f) for f in Path("summaries").glob(f"{contest}*.csv")]
+
+
+    def _get_contest(fname: str) -> int:
+        rare = fname.replace(".csv", "")
+        mrares = rare.split("_")
+        return int(mrares[0])
+
+    summaries_dir = Path("summaries")
+    contests = {_get_contest(f.name) for f in summaries_dir.glob("*.csv")}
+
+    for contest in contests:
+        if contest < min(meta.keys()):
+            continue
+        print(contest)
+        dfs = [pd.read_csv(f) for f in summaries_dir.glob(f"{contest}*.csv")]
+        if contest not in meta:
+            print(f"contest={contest} meta doesn't exist, creating blank entry")
+            meta[contest] = {}
         try:
-            meta[contest]["n_captions"] = int(max({len(df) for df in dfs}))
+            n_captions = [len(df) for df in dfs]
+            meta[contest]["n_captions"] = max(n_captions)
         except:
-            lens = [len(df) for df in dfs]
-            raise ValueError("{contest}, {lens}")
+            raise ValueError(f"{contest}, {n_captions}")
         meta[contest]["n_responses"] = int(sum(df["votes"].sum() for df in dfs))
 
         #  "votingEndDate": "2019-07-21T22:44:00.000Z",
@@ -113,14 +130,6 @@ if __name__ == "__main__":
         #  "announceFinalistsIssueDate": "July 22, 2019",
 
     nycc_winners.update(chosen)
-
-    def _get_contest(fname: str) -> int:
-        rare = fname.replace(".csv", "")
-        mrares = rare.split("_")
-        return int(mrares[0])
-
-    summaries_dir = Path("summaries")
-    contests = {_get_contest(f.name) for f in summaries_dir.glob("*.csv")}
 
     # contest, cartoon, winner
     _summary = [
@@ -144,18 +153,20 @@ if __name__ == "__main__":
         for k, v in meta.items()
         if (
             (_get_end_date(v) and _get_end_date(v) <= datetime.now())
-            or k <= 620
+            or k <= 620 or (831 <= k <= 870)
         )
     }
 
-    summary = [
-        v
-        for v in summary
-        if v["contest"] < 620 or (
-            v["contest"] in meta2
-            and _get_end_date(meta2[v["contest"]]) <= datetime.now()
-        )
-    ]
+    # summary = [
+    #     v
+    #     for v in summary
+    #     if v["contest"] < 620 or (
+    #         v["contest"] in meta2
+    #         and _get_end_date(meta2[v["contest"]])
+    #         and _get_end_date(meta2[v["contest"]]) <= datetime.now()
+    #     )
+    # ]
+    summary = [s for s in summary if s["contest"] < max(contests) - 2]
 
     def _get_sampler(x: str) -> str:
         y = x.replace(".csv", "").replace("summary", "")
@@ -164,6 +175,7 @@ if __name__ == "__main__":
         if y == "":
             return "lil-KLUCB"
         return y.replace("_", "")
+
     def _get_contest(x: str) -> int:
         assert x[:3].isdigit()
         return int(x[:3])
@@ -176,7 +188,6 @@ if __name__ == "__main__":
         for contest, fnames in contest_fnames.items()
     }
     samplers_html = {c: ", ".join(s) for c, s in contest_samplers.items()}
-
 
     with open(Path("io") / "info-510-thru-659.yaml", "r") as f:
         old_info = yaml.safe_load(f)
@@ -198,7 +209,7 @@ if __name__ == "__main__":
     out = env.get_template("index.html").render(
         summary=summary, nycc_winners=nycc_winners, dates=meta2, samplers=samplers_html, meta=meta2,
     )
-    with open(f"index.html", "w") as fh:
+    with open("index.html", "w") as fh:
         fh.write(out)
 
     for contest in list(contests)[::-1]:
