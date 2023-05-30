@@ -8,6 +8,8 @@ Original file is located at
 """
 
 import json
+import logging
+from pathlib import Path
 
 import requests
 
@@ -30,13 +32,15 @@ def make_contest_id_list():
         no = d["contest_number"]
         if no > 749:
             expids[no] = d["exp_uid"]
-    for k in expids:
-        print(expids[k])
+    keys = list(expids.keys())
+    for k in reversed(sorted(keys)):
+        print(k, expids[k])
         d = requests.get(
             "https://s3-us-west-2.amazonaws.com/mlnow-newyorker/%s/nyr_json.json"
             % expids[k]
         ).json()["data"]["primary"]["cartoon"]["cartoonId"]
         ids[k] = d
+
     with open("NYCCcartoonIds.json", "w") as f:
         json.dump(ids, f)
     print(ids)
@@ -50,14 +54,16 @@ def get_winners(id):
         request = requests.post(
             "https://graphql.newyorker.com/graphql", json={"query": query}
         )
+        msg = "Query failed to run by returning code of {}. {}\n\nResponse text:\n{}".format(
+                    request.status_code,  query, request.text
+                )
         if request.status_code == 200:
             return request.json()
+        elif request.status_code == 403:
+            logging.warning(f"Not authorized!\n\n{msg}")
+            return {}
         else:
-            raise Exception(
-                "Query failed to run by returning code of {}. {}".format(
-                    request.status_code, query
-                )
-            )
+            raise Exception(msg)
 
     # The GraphQL query (with a few aditional bits included) itself defined as a multi-line string.
     query = (
@@ -88,9 +94,16 @@ def get_winners(id):
 
 if __name__ == "__main__":
     ids_dict = make_contest_id_list()
-    winners = []
-    for cartoonId in ids_dict.values():
-        winners.append(get_winners(cartoonId))
 
-    with open("nyc_winners.json", "w") as f:
-        json.dump(winners, f)
+    winners = {}
+    for cartoonId in ids_dict.values():
+        contest = get_winners(cartoonId)
+        data = contest.get("data", {}).get("cartoon", {})
+        if "contestFinalists" in data:
+            winners[data["title"]] = data
+
+    with open("nyc_winners2.json", "r") as f:
+        existing = json.load(f)
+    with open("nyc_winners2.json", "w") as f:
+        existing.update(winners)
+        json.dump(existing, f)
