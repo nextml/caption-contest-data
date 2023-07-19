@@ -1,6 +1,6 @@
 caption,mean,precision,votes,not_funny,somewhat_funny,funny
 You don’t have to say ‘excuse me’ every single time.,1.741097612065354,0.009537524987956349,7161,3499,2017,1645
-Move to Arizona he says. What could go wrong he says.,1.7348936170212765,0.011638733722020792,4700,2284,1378,1038
+Move to Arizona he says. What could go wrong he says.,1.7351627313337588,0.01163936917627747,4701,2284,1378,1039
 My ear keeps popping.,1.7197368421052632,0.011001896838450154,5320,2667,1477,1176
 "If you say ""at least it's a dry heat"" one more time....I swear to God....",1.7106796116504854,0.012389968555107635,4120,2071,1170,879
 Don't you hate that feeling when your ears keep popping?,1.7073933437569802,0.011914574210787404,4477,2269,1249,959
@@ -31,7 +31,7 @@ And this is how we know that butter is no substitute for sunscreen.,1.6422073984
 Can you not retain a single kernel of self-control?,1.640958832725378,0.012418903454330077,3838,2072,1072,694
 Global warming? Might be a kernel of truth in that.,1.6398467432950192,0.01242908784962204,3654,1926,1118,610
 I think moving to Texas was a big mistake,1.6382696390658174,0.01223263633644288,3768,1990,1151,627
-Hotter than a microwave out here today,1.636590909090909,0.011477809438661987,4400,2365,1269,766
+Hotter than a microwave out here today,1.636900704385367,0.011479382142483547,4401,2365,1269,767
 Maybe global warming has a kernel of truth.,1.636482939632546,0.015647321995836468,2286,1206,705,375
 I’m beginning to think there’s at least a kernel of truth in all this talk about global warming. You?,1.6354243542435425,0.014397581202082028,2710,1435,828,447
 I’m going to be naked by the time this bus arrives!,1.6331242873432155,0.012521299643589109,3508,1844,1107,557
@@ -194,6 +194,7 @@ This is the way the world ends. Not with a bang but a pop.,1.448616600790514,0.0
 "Still a climate change denier,Ted?",1.4485436893203882,0.030570514163870393,515,344,111,60
 My ears won’t stop popping.”,1.448512585812357,0.03320628661202891,437,292,94,51
 "Well, you may be surprised to hear this. I've decided to reconsider my position on global warming.",1.4476987447698744,0.030362353867679555,478,310,122,46
+She said to pop over,1.447098976109215,0.040801445863980046,293,197,61,35
 I think we have more immediate problems than rising sea levels.,1.4469387755102041,0.03159045288806927,490,330,101,59
 Do you want to pop into my place ?,1.4457831325301205,0.02988400377866597,498,325,124,49
 "Remember, never admit or imply that we're  genetically modified.",1.4451612903225806,0.030963068180248444,465,304,115,46
@@ -203,7 +204,6 @@ It’s like a microwave oven out here.,1.4428857715430863,0.030364678228990683,4
 "Eliot was wrong; it does end with a bang, and another, and another....",1.4425837320574162,0.032939338146500546,418,276,99,43
 "Dude, I #@$%in' hate Summer.",1.4424379232505644,0.033003824919025176,443,299,92,52
 "If you say 'but at least it's a dry heat,' one more time I'm leaving you",1.4418052256532066,0.034774649653203094,421,290,76,55
-She said to pop over,1.4417808219178083,0.04059214792250946,292,197,61,34
 I told you putting on oil was a bad idea.,1.4416666666666667,0.030534460570003367,480,316,116,48
 "Cornelius, would you cool off for just 2 seconds so we can talk",1.4409937888198758,0.029967259823784575,483,315,123,45
 How would you define pop culture?,1.4405458089668617,0.031488892392008326,513,354,92,67
