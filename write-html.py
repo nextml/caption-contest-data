@@ -166,7 +166,7 @@ if __name__ == "__main__":
     #         and _get_end_date(meta2[v["contest"]]) <= datetime.now()
     #     )
     # ]
-    summary = [s for s in summary if s["contest"] < max(contests) - 2]
+    # summary = [s for s in summary if s["contest"] < max(contests) - 2]
 
     def _get_sampler(x: str) -> str:
         y = x.replace(".csv", "").replace("summary", "")

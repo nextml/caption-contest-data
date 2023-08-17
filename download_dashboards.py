@@ -52,7 +52,9 @@ def main(exp_uid, name):
 
 
 def image_download():
-    all_contests = requests.get(f"{CCD_MACHINE}/contest_log.json").json()
+    url = f"{CCD_MACHINE}/contest_log.json"
+    print(url)
+    all_contests = requests.get(url).json()
     with open(f"all-contests-{today}.json", "w") as f:
         json.dump(all_contests, f)
     for c in all_contests["contests"]:

@@ -9,7 +9,6 @@ Original file is located at
 
 import json
 import logging
-from pathlib import Path
 
 import requests
 
