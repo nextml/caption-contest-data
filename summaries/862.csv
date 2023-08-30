@@ -1,10 +1,10 @@
 caption,mean,precision,votes,not_funny,somewhat_funny,funny
 "If you watch “Gone With the Wind” with red glasses, the South wins.",1.7081581160639192,0.0173496443619091,2378,1299,474,605
-I'm glad we got the progressive lenses.,1.6722306525037935,0.012106829376352731,4613,2563,999,1051
+I'm glad we got the progressive lenses.,1.6723016905071522,0.012104413613000494,4614,2563,1000,1051
 He’s still orange.,1.6699290433080498,0.012728905782463565,4087,2250,936,901
 They're progressive lenses.,1.6480996068152032,0.014057319092895334,3052,1646,834,572
 Funny.  He still looks orange.,1.6450167973124301,0.013462698375547635,3572,2015,810,747
-This explains the mixed reviews.,1.6264023934181002,0.0142419766970812,2674,1411,851,412
+This explains the mixed reviews.,1.6265420560747663,0.014237336632378712,2675,1411,852,412
 Do these glasses make me look liberal?,1.622297583721916,0.01624786292878707,2359,1348,554,457
 I can see why the reviews were mixed.,1.6196977084349098,0.016374662650136877,2051,1102,627,322
 This is depressing. Let's try the rose-colored glasses.,1.6180645161290323,0.019273700688881883,1550,855,432,263
@@ -69,7 +69,7 @@ Half these people aren't seeing what we're seeing,1.4834834834834836,0.026724785
 "Is it just me, or is the screen tilting to the right?",1.481818181818182,0.026384582181686007,660,411,180,69
 "I feel a little like Austin,Texas.",1.48159509202454,0.029872992876697313,652,446,98,108
 "I'd wear green glasses, but I'd be throwing away my vote.",1.4807692307692308,0.02921337507739632,624,412,124,88
-I 'm guessing some people will be disappointed  with the ending.,1.4797406807131281,0.026751548506281544,617,380,178,59
+I 'm guessing some people will be disappointed  with the ending.,1.4805825242718447,0.026721490297146565,618,380,179,59
 Too bad the characters are only one dimensional.,1.4796238244514106,0.028375916101022993,638,416,138,84
 I expect that the review's will be mixed.,1.4775641025641026,0.026822482221576682,624,388,174,62
 I just feel that my view is in the minority here.,1.4773790951638066,0.025934277912938515,641,393,190,58
@@ -301,6 +301,7 @@ It depends on how you look at it.,1.3507109004739337,0.04355231547651148,211,155
 Remember in the old days when all the news in papers and TV had the same facts?,1.35,0.04056758118517889,200,140,50,10
 I don't think they're seeing the same movie we are.,1.3497942386831276,0.03896151548656963,243,175,51,17
 I don't get why they're rooting for the monster.,1.3497536945812807,0.04636929887735036,203,153,29,21
+I dunno. I read the reviews and sometimes I'm like...did we even watch the same movie?,1.3495145631067962,0.04095559687485433,206,146,48,12
 Imagine if Honest Abe was rockin’ these bad boys”,1.3491379310344827,0.04746126624986194,232,185,13,34
 "Either way, the movie sucks.",1.349056603773585,0.04389028620869382,212,157,36,19
 I feel like I’m missing the bigger picture.,1.348936170212766,0.04031771305347109,235,171,46,18
@@ -316,7 +317,6 @@ Most of these people don’t even realize how bad this movie really is.,1.347417
 Why are we the only ones with black hair in this theater?,1.3472222222222223,0.043767043765960294,216,161,35,20
 I thought indictment #4 would surely have converted more of them,1.3470319634703196,0.04658897585207245,219,170,22,27
 We should have gotten the bipartisan glasses.,1.3464912280701755,0.03922386188713726,228,163,51,14
-I dunno. I read the reviews and sometimes I'm like...did we even watch the same movie?,1.3463414634146342,0.04103216247271175,205,146,47,12
 These glasses are awesome. You only see what you want to see.,1.3461538461538463,0.04217099612389136,234,175,37,22
 It feels like we all aren’t watching the same movie.,1.3461538461538463,0.040630060522055554,208,148,48,12
 I find the characters one-dimensional so far.,1.3457943925233644,0.03874065536564403,214,150,54,10
