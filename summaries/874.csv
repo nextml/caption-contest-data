@@ -58,7 +58,7 @@ Our orders are to engage in the fall of your civilization.,1.5082146768893756,0.
 We have come to your planet to rake and pillage.,1.5062429057888762,0.024469810444278692,881,557,202,122
 "It was five dollars for EACH of us, right?",1.5048076923076923,0.02429168669925358,832,512,220,100
 We have been watching your planet for a long time and we came to the conclusion that you definitely needed help.,1.5018867924528303,0.0250705062144474,795,495,201,99
-"We were going 6,000 in a 30.",1.5,0.02541619795146083,814,519,183,112
+"We were going 6,000 in a 30.",1.4993865030674847,0.025392405599861802,815,520,183,112
 We figured this was more productive than crop circles.,1.4987893462469735,0.023876894305135062,826,505,230,91
 We come in Greenpeace,1.4987146529562982,0.025022569064332503,778,482,204,92
 We lost the keys.,1.4953271028037383,0.02656043881812761,749,482,163,104
@@ -163,11 +163,11 @@ I know what you're thinking and that's racist,1.4104683195592287,0.0350942231126
 We were told this is what aliens do.,1.4099722991689752,0.03389690929198453,361,244,86,31
 "We also do gutters, roofs, and colonoscopies.",1.4096045197740112,0.03460090624198778,354,241,81,32
 "Yes, but we all have green cards.",1.4084084084084083,0.034873832083561096,333,224,82,27
+It’s community service for abducting without a license.,1.4080459770114941,0.03501553807560349,348,238,78,32
 They took us to your leader.  He told us to clean the forest floor.,1.408,0.035078318282768875,375,263,71,41
 We're working toward our green cards.,1.4077922077922078,0.03380783318297737,385,266,81,38
 We're killing time since we can't find any sign of intelligent life.,1.4064327485380117,0.03592414535358981,342,237,71,34
 "We couldn't find any crops for circles, so we're going leaf piles",1.4063400576368876,0.034836619775795295,347,237,79,31
-It’s community service for abducting without a license.,1.4063400576368876,0.03507489326292618,347,238,77,32
 The job is o.k.  The commute not so much!,1.4060773480662982,0.03556618225977819,362,254,69,39
 "Who did you think was cleaning up Central Park, the city?",1.4056338028169013,0.03563570089278736,355,248,70,37
 "If he does it again, he's toast.",1.4050632911392404,0.036711285627267866,316,217,70,29
@@ -177,7 +177,6 @@ The judge gave us the choice of this or cleaning out a black hole.,1.40476190476
 "Apprently, we’re “illegal aliens.” It’s the only work we’ve been able to get.",1.404494382022472,0.03510579144139058,356,247,74,35
 "The pay is OK, but the commute sucks!",1.4041994750656168,0.034841547353969375,381,269,70,42
 "Please curb your dog, sir.  We've had enough close encounters of the turd kind.",1.4040114613180517,0.036525927747799315,349,247,63,39
-"Just tidying things up. We're moving in tomorrow.""",1.4034090909090908,0.036290263242194205,352,249,64,39
 What?  You never saw an illegal alien doing yard work?,1.4032786885245903,0.038213548008762324,305,213,61,31
 The guy who hired us said he didn't care if we were illegal aliens,1.4032697547683923,0.034547367726547075,367,255,76,36
 I thought this is what you meant when you told us to leave.,1.4031413612565444,0.032307839623276165,382,258,94,30
@@ -186,6 +185,7 @@ We do odd jobs.,1.4031007751937985,0.033646784954177375,387,269,80,38
 We’ve seen people take these in the bagful. They must be valuable.,1.403076923076923,0.03622721939691119,325,224,71,30
 We are doing community service in underserved galaxies,1.4028571428571428,0.035065828143280346,350,242,75,33
 "Yes, I can confirm that ET made it home.",1.4025974025974026,0.037374084906205696,308,213,66,29
+"Just tidying things up. We're moving in tomorrow.""",1.4022662889518414,0.03620535238436971,353,250,64,39
 Turns out there are consequences to going faster than the speed of light.,1.401840490797546,0.03587494609730956,326,224,73,29
 You from around here?,1.401639344262295,0.033504204950026095,366,250,85,31
 "Don’t worry, we’ll put them all back.",1.4005681818181819,0.0360445436850685,352,249,65,38
@@ -227,7 +227,6 @@ Take me to a different leader.,1.3851590106007068,0.03829199092154548,283,199,59
 I was a neurosurgeon in my planet,1.3851590106007068,0.0386178370848074,283,200,57,26
 "We come from a planet far, far away, that is meticulously landscaped.",1.3850931677018634,0.03603912046693417,322,227,66,29
 We're cleaning the place up for the new tenants...,1.384858044164038,0.0356130836119815,317,221,70,26
-I can assure you. None of us are undocumented aliens.....,1.3843648208469055,0.03462788483776842,307,209,78,20
 You're the one that voted to ban leaf blowers.,1.3843648208469055,0.037858651057886,307,220,56,31
 "Community service, don't ask.",1.3839009287925697,0.036740800197428605,323,231,60,32
 No we're not trying to be helpful. We're looking for the keys we dropped,1.3838028169014085,0.03785374024711552,284,199,61,24
@@ -239,6 +238,7 @@ The fall of man is upon us.,1.3832752613240418,0.03915479088636509,287,206,52,29
 Our deluxe package includes crop circles.,1.3832752613240418,0.03852746933430938,287,204,56,27
 "We use them for nuclear fuel, medicines and snack foods — what about you ?",1.3832116788321167,0.04018000022255998,274,197,49,28
 Earth is our Adopt-a-Planet assignment.,1.3831417624521072,0.04020391285464503,261,185,52,24
+I can assure you. None of us are undocumented aliens.....,1.3831168831168832,0.034537826445260315,308,210,78,20
 "No, E.T. stands for “extremely tidy.”",1.3828382838283828,0.037047086293000055,303,214,62,27
 Which of you is the leader?,1.3821656050955413,0.03496286805593734,314,217,74,23
 We do snow removal too.,1.3818770226537216,0.03680753450561351,309,219,62,28
@@ -343,13 +343,13 @@ We need gas money.,1.3592592592592592,0.037502921424934575,270,193,57,20
 It's part of our adopt-a-planet volunteer work.,1.3592592592592592,0.037502921424934575,270,193,57,20
 Take us to Four Seasons Landscaping.,1.3592592592592592,0.03964454689449315,270,199,45,26
 We’re out of toilet paper.,1.3591836734693878,0.03845281370039103,245,173,56,16
-I would use the term ‘unidentified’ rather than ‘undocumented’.,1.3590909090909091,0.0403985484713641,220,155,51,14
 They’re outsourcing everything now.,1.358649789029536,0.04196821468246119,237,174,41,22
 It's a mission trip to undeveloped worlds.,1.3584905660377358,0.039822253057440485,265,195,45,25
 Our tractor beam broke.,1.3584229390681004,0.039030716685922645,279,206,46,27
 None of your people want these jobs anymore.,1.3579766536964981,0.038012497436925925,257,183,56,18
 Just doing a little house cleaning before we move in...,1.3577235772357723,0.040018314457343614,246,178,48,20
 We're leaving Earth better than we found it.,1.3577235772357723,0.038324006455080786,246,174,56,16
+I would use the term ‘unidentified’ rather than ‘undocumented’.,1.3574660633484164,0.04024814560842793,221,156,51,14
 It's just our way of saying thanks for your participation in our probing experiments.,1.3574468085106384,0.041339296176264376,235,171,44,20
 What did you think happened to all the leaves?,1.3574144486692015,0.03929601418697216,263,192,48,23
 You didnt happen to see a small gold key?,1.3571428571428572,0.04231181994519048,224,163,42,19
@@ -407,6 +407,7 @@ Maybe next time specify human aliens?,1.3419689119170986,0.04390472019319388,193
 This isn't what you meant when you told us to leave?,1.3418803418803418,0.04339030307362678,234,179,30,25
 This is the only thing AI can't do on our planet also.,1.3416666666666666,0.039607412114081746,240,176,46,18
 Your clothing is making everyone really uncomfortable.,1.3414634146341464,0.0437640627055543,205,152,36,17
+"Yes, we were told all the menial jobs were done by aliens.",1.341121495327103,0.042439469483891816,214,158,39,17
 "We are raking the forest floor because that is what your supreme leader, Orange Face Fatso, said would prevent forest fires.",1.3410852713178294,0.03998018091863865,258,194,40,24
 We were told to just turn over the new ones.,1.3397129186602872,0.04150297390998862,209,152,43,14
 We come in peace. We can hear your leaf blowers across the universe.,1.3396226415094339,0.04216996185658459,212,156,40,16
@@ -420,7 +421,6 @@ Can I marry you for a green card?,1.3383084577114428,0.04202434288499901,201,146
 "Well, YOU weren't gonna do it.",1.338235294117647,0.03795639388826245,204,142,55,7
 "Well, where did you think they all went?",1.338235294117647,0.04494696873753768,204,154,31,19
 Don't be alarmed. We're just gathering samples.,1.3381642512077294,0.039439492054270595,207,147,50,10
-"Yes, we were told all the menial jobs were done by aliens.",1.3380281690140845,0.0425257712714219,213,158,38,17
 You're next.,1.3376068376068375,0.03979171124394415,234,172,45,17
 We are cleaning up before the others arrive.,1.337448559670782,0.04047326101398734,243,182,40,21
 It was this or no more abductions till graduation.,1.3373015873015872,0.03902493764134237,252,187,45,20
@@ -448,7 +448,6 @@ It's more fun than Area 51.,1.3333333333333333,0.04004864030096787,246,185,40,21
 This motherfucker.,1.3319502074688796,0.04467571478716696,241,192,18,31
 Excuse me. We work for Four Seasons Total Landscaping. Have you seen Mr. Giuliani?,1.3318181818181818,0.042925711438682956,220,167,33,20
 Our leader told us to leave no leaf unturned,1.3317757009345794,0.04174780618814163,214,159,39,16
-We got pulled for speeding and thejudge sentenced us to community service.,1.3317757009345794,0.04121895622821682,214,158,41,15
 "You're right, we're not as technologically advanced as you thought.",1.3317307692307692,0.04148807235563094,208,153,41,14
 We've been advised to win you over with meaningless gestures.,1.3317073170731708,0.040749759027616454,205,149,44,12
 "Excuse me, could you take me to your weeder?",1.3316582914572865,0.04395044783590812,199,149,34,16
@@ -457,6 +456,7 @@ We've been advised to win you over with meaningless gestures.,1.3317073170731708
 We're trying to earn some money for rocket fuel.,1.3314917127071824,0.04435974415043154,181,133,36,12
 "Since building pyramids is no longer in vogue, landscaping seems to be one of the few things 'illegal aliens' are good for.",1.3305439330543933,0.03817296185132398,239,175,49,15
 "And then our green cards came in the mail, so I guess we're just legal aliens now.",1.3303571428571428,0.04040592483513699,224,166,42,16
+We got pulled for speeding and thejudge sentenced us to community service.,1.330232558139535,0.041055803112137926,215,159,41,15
 Detention. Our physics teacher is such a buzzkill.,1.330232558139535,0.04312138928298457,215,163,33,19
 We are searching for intelligent lifeforms.,1.330188679245283,0.04145879867086469,212,157,40,15
 There was an ad that said move to Earth and  you can rake it in.,1.3301435406698565,0.042957280269805206,209,157,35,17
@@ -547,6 +547,7 @@ Let's see YOUR documents.,1.3175355450236967,0.03909525153932212,211,155,45,11
 Why are you always dragging that silly human around?,1.3175355450236967,0.04188223230751359,211,160,35,16
 Our mothership wanted us to do community service.,1.3174603174603174,0.04713817767425399,189,148,22,19
 Take me to your composting bin.,1.3174603174603174,0.045928566424283813,189,146,26,17
+"Sorry, you're still responsible for picking up for your dog.",1.3174603174603174,0.04209167936553244,189,140,38,11
 "Greeting’s, we’re on a leaf keeping mission.",1.316831683168317,0.03898961965442472,202,147,46,9
 Sill waiting on our green cards.,1.3165829145728642,0.04000383096151062,199,146,43,10
 Some of us do anal probes.  We're just anal.,1.3157894736842106,0.044481802880448215,190,145,30,15
@@ -573,7 +574,6 @@ Stardate rule 46254.7 prohibits the use of leave blowers.,1.3142857142857143,0.0
 "We think your dog is falling apart.
 We found part of him in the leaves.",1.3141361256544504,0.047288515573795833,191,151,20,20
 We're trying to make some fuel money.,1.3140096618357489,0.041823434362228185,207,157,35,15
-"Sorry, you're still responsible for picking up for your dog.",1.3138297872340425,0.04215846908873713,188,140,37,11
 It's our community service for buzzing aircraft carriers.,1.3136094674556213,0.045344979520150534,169,127,31,11
 Can I eat your dog?,1.3132530120481927,0.04972022616469425,166,130,20,16
 "Next month, we're at Mar-a-lago for the winter.",1.3130841121495327,0.041372869994643104,214,163,35,16
@@ -949,7 +949,6 @@ We also offer roof repairs.,1.2733333333333334,0.04526498334667862,150,117,25,8
 "Sure, the tractor beam is fine, but it's nice to work with your hands.",1.2732919254658386,0.044045763926358304,161,126,26,9
 Have you seen a pair of UFO keys?,1.2727272727272727,0.047783345654281016,143,113,21,9
 "Without immigrant labor, you wouldn't even have crop circles.",1.2727272727272727,0.04065578140908709,165,126,33,6
-It's the only work we can get without green cards.,1.2727272727272727,0.04674136354105388,143,112,23,8
 Hard work is not alien to us.,1.2727272727272727,0.04346580146458082,143,109,29,5
 The work isn't too bad but the commute is awful,1.2727272727272727,0.04414217803884439,165,130,25,10
 We need gas money to get home.,1.2727272727272727,0.04820501015253788,132,103,22,7
@@ -985,6 +984,7 @@ Seriously? I give you only one question and you ask how we go tinkle?,1.27096774
 Who the hell's in charge here?!,1.270967741935484,0.04513135640908927,155,122,24,9
 A. I ? Of course.. took over. We work for them now . Same thing will happen to you guys.,1.270967741935484,0.04513135640908927,155,122,24,9
 "Yes, we used to abduct humans. But leaves work better for composting.",1.2708333333333333,0.04748813903358763,144,114,21,9
+It's the only work we can get without green cards.,1.2708333333333333,0.04645425978043619,144,113,23,8
 "Strictly rakes, sir.  We consider leaf-blowers to be alien technology.",1.2708333333333333,0.04431419701966919,144,111,27,6
 It’s part of our new PR campaign.,1.2708333333333333,0.045396840800028745,144,112,25,7
 In Roswell we weren't asked to do this type of  work!,1.2708333333333333,0.048499983979362775,144,115,19,10
@@ -1006,7 +1006,6 @@ Does walking a dog pay better than raking leaves? Our space ship broke down.,1.2
 We hear it prevents forest fires.,1.2695035460992907,0.04487902530437653,141,109,26,6
 We're gathering our people,1.2694610778443114,0.04529451017438321,167,134,21,12
 We can't believe you just let hard drugs lie around on the ground like this.,1.2694610778443114,0.043672679310432325,167,132,25,10
-"Our entire civilization is fueled by leaves, but we're running low.",1.2692307692307692,0.042019092361975444,156,120,30,6
 We’re doing the work your citizens do not want.,1.2692307692307692,0.04842101841654892,156,127,16,13
 "We prefer ""unidentified anomalous phenomena.""",1.2692307692307692,0.04733627470153463,130,101,23,6
 "We may be alien workers, but we DO have a temporary work visa.",1.2692307692307692,0.04733627470153463,130,101,23,6
@@ -1028,9 +1027,11 @@ Pasábamos por aquí.,1.2679738562091503,0.04729211561296106,153,123,19,11
 Just wanted to thank you for picking up your dog’s poop last week.,1.2678571428571428,0.04505265294445487,168,135,21,12
 We’ll also walk dogs.,1.267605633802817,0.04678825964288686,142,112,22,8
 "We're trying to be culturally appropriate using these rakes, but I hope you're aware our own methods would compost every leaf in your world in five seconds.",1.267515923566879,0.045526808757270304,157,125,22,10
+"Our entire civilization is fueled by leaves, but we're running low.",1.267515923566879,0.041785799577232406,157,121,30,6
 Once we fill up with leaves we'll be out of here.,1.267515923566879,0.04079698186116871,157,120,32,5
 Hola señor.,1.267515923566879,0.042751752755141426,157,122,28,7
 Which of you is top dog in your pecking order?,1.2671232876712328,0.044849083934353454,146,114,25,7
+"We came, we saw, we're leaving.",1.2671232876712328,0.045890234702387844,146,115,23,8
 "Yeah, the local prison shut down so they sent us in.",1.2671232876712328,0.04269067470972507,146,112,29,5
 And we snowplow in the winter.,1.2670807453416149,0.041100698161654264,161,124,31,6
 Have you tried the lasagna at Antonella’s on 5th St….it’s out of this world.,1.2670807453416149,0.041100698161654264,161,124,31,6
@@ -1108,7 +1109,6 @@ Ummm... here. Raised in Nevada but moved like 3 years ago. Where are you from?,1
 So you're telling me you don't recognize Larry the Lawn King as your leader?,1.2624113475177305,0.04894571364881599,141,114,17,10
 The seasonal worker visa was the only gig we could get!,1.2620689655172415,0.043791444141491345,145,113,26,6
 "Hey, Can You Act A Little Surprised?",1.2620689655172415,0.04487177309412214,145,114,24,7
-"We came, we saw, we're leaving.",1.2620689655172415,0.045926696606912745,145,115,22,8
 "You're damn right, we're unionized!",1.2620689655172415,0.04796699221808121,145,117,18,10
 Your yard has some invasive species.,1.2620689655172415,0.04695792693290918,145,116,20,9
 We leaf in peace.,1.2620689655172415,0.045926696606912745,145,115,22,8
@@ -1160,6 +1160,7 @@ Is jumping in a pile of leaves worth it?,1.2586206896551724,0.04761270800211027,
 Take me to your gardener.,1.2586206896551724,0.05212240473863416,116,93,16,7
 The truth is that you are not willing to do this job yourselves.,1.2586206896551724,0.04916192633304226,116,91,20,5
 Intergalactic community service,1.2586206896551724,0.04761270800211027,116,90,22,4
+Crop circles are so 1990s.,1.2586206896551724,0.050663794155755185,116,92,18,6
 This is the fall of your civilization.,1.2585034013605443,0.041056356319077045,147,113,30,4
 Just tidying the place up before the rest get here.,1.2583333333333333,0.050896491507821925,120,96,17,7
 "It's just a side gig. We took a gap year to do a bit of travelling, see the universe...",1.2583333333333333,0.04806600464972997,120,94,21,5
@@ -1245,7 +1246,6 @@ We stopped using light sabers because the insurance costs are too high.,1.253246
 Take us to your pumpkin spice mines.,1.2522522522522523,0.0519378266071364,111,89,16,6
 Our service includes free anal probes for you and your prisoner.,1.2522522522522523,0.05033624607450184,111,88,18,5
 "Yeah, this racist New Yorker editor asked for a cartoon of aliens doing landscaping.",1.2521739130434784,0.05069084632329303,115,92,17,6
-Crop circles are so 1990s.,1.2521739130434784,0.05069084632329303,115,92,17,6
 "Not only do we eat autumn leaves, we still play Roger Williams’ version.”",1.2521739130434784,0.05217391304347825,115,93,15,7
 All done here. Take me to YOUR leafer.,1.2520325203252032,0.04842377012779183,123,98,19,6
 I hate making crop circles this time of year.,1.2519685039370079,0.043253082415981345,127,98,26,3
@@ -1759,7 +1759,6 @@ We've been here all along but we used to disguise ourselves as leaf blowers. The
 Yes, green cards.",1.2230769230769232,0.04537708517216675,130,107,17,6
 Please keep your human off the grass.,1.2230769230769232,0.04404337946099518,130,106,19,5
 Three things are worth a fortune where we come from.,1.2222222222222223,0.04161826929421155,135,109,22,4
-We love to New England for Fall Foliage.,1.2222222222222223,0.046201009590497714,108,87,18,3
 I think we are really starting to fit into the neighborhood.,1.2222222222222223,0.04428840729415601,108,86,20,2
 "-No leaf blowers, no plastic bags... I guess we really are the only intelligent species in the universe.",1.2222222222222223,0.05087475487389375,99,81,14,4
 What!? The border was open.,1.2222222222222223,0.048037522351901875,108,88,16,4
@@ -1800,6 +1799,7 @@ You try finding a job as another world alien.,1.2203389830508475,0.0419287165413
 They told us your people wouldn't to this job,1.2203389830508475,0.0419287165413032,118,94,22,2
 We heard you Americans like having illegal aliens do your yard work.,1.2203389830508475,0.04362203368075777,118,95,20,3
 We don’t have these back home,1.2203389830508475,0.04525203171228202,118,96,18,4
+We love to New England for Fall Foliage.,1.2201834862385321,0.045820562886151966,109,88,18,3
 "Hey, what do you want? You humans aint cleaning up your parks any time soon, so someone has to do it.",1.2201834862385321,0.047638415680113844,109,89,16,4
 We’re checking if you picked up after it.,1.2201834862385321,0.043927546231223726,109,87,20,2
 We didn’t come here to conquer your planet.  We came to get paid.”,1.2201834862385321,0.04938940487411066,109,90,14,5
@@ -1821,7 +1821,6 @@ This is what happens when you rescind green cards and ban leaf blowers.,1.219298
 "Gravity is overrated, Earthling!",1.219298245614035,0.04786835037396196,114,94,15,5
 The Planet Owner's Association said we need to start cleaning up after you.,1.219298245614035,0.04786835037396196,114,94,15,5
 "Hey mister, want to trade for your little fur snacky snack?",1.219298245614035,0.04786835037396196,114,94,15,5
-We’re not an invasive species,1.219298245614035,0.04786835037396196,114,94,15,5
 We also contract for dog-walking.,1.219298245614035,0.04946346492765509,114,95,13,6
 Cool rake.,1.2191780821917808,0.042913663239950134,146,121,18,7
 Take me to your groundskeeper.,1.2191780821917808,0.04065262439366893,146,119,22,5
@@ -1832,7 +1831,6 @@ Where can we get more of this flying saucer fuel?,1.21875,0.04826913047376049,12
 "Dollar a bag seemed fair
 What exactly is a dollar?",1.21875,0.04956637628367376,96,78,15,3
 Our leaf sucker-upper broke.,1.21875,0.042869371029220206,128,104,20,4
-We figured we’d clean it up before we inhabit it.,1.21875,0.04730250957698441,96,77,17,2
 "Biofuel sir, if you must know.",1.21875,0.042869371029220206,128,104,20,4
 Just a little prep before total annihilation”,1.21875,0.04428108477108411,128,105,18,5
 Good job taking care of your planet. We'll take it from here.,1.21875,0.04697741436722461,128,107,14,7
@@ -1857,6 +1855,7 @@ Please tell me the rake is not your probe.,1.2173913043478262,0.0458542257836724
 "We're not illegal, we're just aliens",1.2173913043478262,0.055353804808394365,92,77,10,5
 We meant ‘take us to your LEADER’.,1.2173913043478262,0.04208057037803804,138,113,20,5
 "The bulbous craniums, elongated limbs, enlarged, black, reflective eyes… we’re just your garden variety aliens.",1.2173913043478262,0.055353804808394365,92,77,10,5
+We’re not an invasive species,1.2173913043478262,0.04748858098023914,115,95,15,5
 Mulder and Scully came by and said to tidy up.,1.2173913043478262,0.04748858098023914,115,95,15,5
 We power the ship with compost.,1.2173913043478262,0.04208057037803804,138,113,20,5
 "Sir!  No sentient life form is ""illegal""!",1.2173913043478262,0.050855290976328946,92,75,14,3
@@ -1874,6 +1873,7 @@ After trying to emulate habits here we're convinced there's no intelligent life 
 "You're a managing partner at an interdimensional corporate law firm,"" they said. ""No way will some silly next-word prediction machine replace you.",1.2166666666666666,0.042969817648649274,120,97,20,3
 You've got to start cleaning up after your dog,1.2166666666666666,0.04130797993547018,120,96,22,2
 Does your dog bite?,1.2166666666666666,0.04611417649244208,120,99,16,5
+We figured we’d clean it up before we inhabit it.,1.2164948453608246,0.04686660376971089,97,78,17,2
 We’re called the Rakes’ Progress for a reason.,1.2164948453608246,0.053299234945862924,97,81,11,5
 American Dream amirite?,1.2164179104477613,0.04014609765660814,134,108,23,3
 "You people think we want to abduct you?  No, we just want a job.",1.2164179104477613,0.044140363715720124,134,111,17,6
@@ -1950,6 +1950,7 @@ Working brings more treats than tricking.,1.2135922330097086,0.04502782826512934
 "Just the usual autumn chores. After this, we clean the pyramids and then plant some new crop circles.",1.2131147540983607,0.045423995988459524,122,101,16,5
 "See the saucer? Even if they deport us, but we'll be back.",1.212962962962963,0.0437331304091476,108,87,19,2
 Your Supreme Leader asked us to neaten up the yard before hosting the reception for us tonight.,1.212962962962963,0.047526068935268895,108,89,15,4
+Nice costume. Is that a real dog?,1.212962962962963,0.052706147914873866,108,92,9,7
 "Your history books got it wrong. Attila,the Hun was one of us,and we are raking and pillaging.",1.212962962962963,0.04566899344097394,108,88,17,3
 Lord Ruler gives us extra credit for community service,1.212962962962963,0.04566899344097394,108,88,17,3
 The only way we could legally visit New England this fall was on H-2A visas.,1.212962962962963,0.0437331304091476,108,87,19,2
@@ -2120,8 +2121,8 @@ The base pay is crappy but the travel allowance is great.,1.2058823529411764,0.0
 Our publicist suggested this as a way to meet people instead of beaming them up.,1.2056737588652482,0.04090878787839137,141,117,19,5
 When are the pick-up days?,1.205607476635514,0.04739431115126178,107,89,14,4
 Your wife told us where to put the rakes when we're done.  It doesn't look good for you.,1.205607476635514,0.050979331262904305,107,91,10,6
+"The loud leaf blower is not a problem for us as we have no ears,but we want to honor your town",1.205607476635514,0.04351493126493826,107,87,18,2
 Not all of those piles are leaves.,1.205607476635514,0.04351493126493826,107,87,18,2
-Nice costume. Is that a real dog?,1.205607476635514,0.05268043241345016,107,92,8,7
 Let’s switch.,1.205607476635514,0.04351493126493826,107,87,18,2
 It's the least we can do to clean up the mess down here.,1.205607476635514,0.04351493126493826,107,87,18,2
 "Please, just leaf us alone !",1.205607476635514,0.04549598868304171,107,88,16,3
@@ -2278,7 +2279,6 @@ We time travel back to the spring and reattach those leaves.,1.1985294117647058,
 We found another use for the anal probes.,1.1985294117647058,0.04151259480400222,136,114,17,5
 When can we see your leader?,1.1984126984126984,0.04367243330856384,126,106,15,5
 "They add roughage to our sustenance packets so we can get back to some regularity, plus . . . no cholesterol.",1.1984126984126984,0.04367243330856384,126,106,15,5
-A miniature dog you said? Wow - and I thought I’d seen everything,1.1983471074380165,0.04169255621695682,121,100,18,3
 O.K.  Just checking to see if our cloaking device was on.,1.1983471074380165,0.03824640048736865,121,98,22,1
 Your neighborhood's expectations are too powerful for us.,1.1982758620689655,0.04280254792505459,116,96,17,3
 "We pick THAT up every month, too.",1.1982758620689655,0.046172591261906815,116,98,13,5
@@ -2326,6 +2326,7 @@ Other planets call us FREAKS.....you people call us NEAT FREAKS.,1.1968503937007
 Aliens--we get the job done.,1.1968503937007875,0.04188916234662918,127,106,17,4
 Sir can you please clean up after your dog. Respect your parks.,1.1968503937007875,0.03879089027331667,127,104,21,2
 What?! They let you have dogs here? How much is pet rent?? Honey they let you have dogs here!!,1.1967213114754098,0.04138135134698903,122,101,18,3
+A miniature dog you said? Wow - and I thought I’d seen everything,1.1967213114754098,0.04138135134698903,122,101,18,3
 "So, every year, since the beginning of time leaves fall at the same time of the year, and still your species has not found a better way to clean them up?",1.1967213114754098,0.04298719851521895,122,102,16,4
 It’s a common misconception that ‘green’ refers to the color of our skin.,1.1967213114754098,0.046031133268198215,122,104,12,6
 What? Did you think the leaves just disappeared by themselves?,1.1967213114754098,0.04298719851521895,122,102,16,4
@@ -2477,6 +2478,7 @@ That thing you're holding isn't going to  work  on leaves,1.1910112359550562,0.0
 "We may poop leaves, but at least we clean up after ourselves.",1.1910112359550562,0.0502201600716848,89,75,11,3
 For once could you answer your mail?,1.190909090909091,0.04565427345619578,110,93,13,4
 "Turns out ""To Serve Man"" is a gardening manual.",1.190909090909091,0.04917239090789421,110,95,9,6
+"Sure, you clean up after your pet, but what about all this tree excrement?",1.190909090909091,0.041841383127562214,110,91,17,2
 We've decided to move on from crop circles.,1.190909090909091,0.03979818677571405,110,90,19,1
 We don't do poop.,1.190909090909091,0.03979818677571405,110,90,19,1
 "In the fall, we're extraterrestrial",1.190909090909091,0.04744595194751529,110,94,11,5
@@ -2512,7 +2514,6 @@ Compost for our baby-breeding nurseries.  Why?  What do you do with them?,1.1894
 We need them for the SpaceX Thanksgiving parade.,1.1894736842105262,0.05029529117145401,95,81,10,4
 These tall ones poop a lot.,1.1894736842105262,0.05029529117145401,95,81,10,4
 "After traveling through a black hole, the Milky Way, and then your solar system, that border was a piece of cake.",1.1894736842105262,0.05029529117145401,95,81,10,4
-We responded to the AI “Help Wanted Ad”,1.1891891891891893,0.04527378450305516,111,94,13,4
 "We were caught here illegally by ICE, so we're serving our Community Service sentence.",1.1891891891891893,0.04342712746002104,111,93,15,3
 It's a promo from the Martin Leaf & Lawn Service.,1.1891891891891893,0.041498376301112666,111,92,17,2
 "I think there’s been a misunderstanding. We wanted to see the world fall, not IN Fall.",1.1891891891891893,0.04342712746002104,111,93,15,3
@@ -2529,7 +2530,6 @@ Take me to your leading home and garden supply store.,1.1886792452830188,0.04468
 "No, we cannot rake your dog in, too.",1.1886792452830188,0.04468761000837394,106,89,14,3
 Our leader says that this is the best way to prevent forest fires,1.1886792452830188,0.04468761000837394,106,89,14,3
 The life forms on Xy!h'er will pay 300 GalaxyCoin for a spaceship load of these things.,1.1886792452830188,0.0381824426969915,106,86,20,0
-"The loud leaf blower is not a problem for us as we have no ears,but we want to honor your town",1.1886792452830188,0.04046718979156078,106,87,18,1
 "Hey, Man! We like a clean ship .",1.1886792452830188,0.04046718979156078,106,87,18,1
 It's what you people call rocket fuel.,1.1886792452830188,0.04262966067122,106,88,16,2
 $900!!! I'm sorry y'all I don't have enough to cover it.,1.1886792452830188,0.04468761000837394,106,89,14,3
@@ -2559,6 +2559,7 @@ Your getup is also a fright.,1.188034188034188,0.04013612251607516,117,97,18,2
 "As soon as the floor is clean, we will roll out the red carpet to abduct you.",1.188034188034188,0.04530998763637655,117,100,12,5
 Take me to your leaf blower.,1.1875,0.042695628191498324,96,79,16,1
 You don’t know what you’re missing. Desiccated leaves are delicious.,1.1875,0.04307077546134616,112,94,15,3
+We responded to the AI “Help Wanted Ad”,1.1875,0.044899519593386075,112,95,13,4
 It's our medium of exchange. Why do you ask?,1.1875,0.042695628191498324,96,79,16,1
 "I said, ""Take me to your leader, not leafer!""",1.1875,0.041160861725266853,112,93,17,2
 You know you can't just leave those there.,1.1875,0.04307077546134616,112,94,15,3
@@ -2674,7 +2675,6 @@ We recycle - everything.,1.18348623853211,0.0435533846923308,109,92,14,3
 What? Your prisons don’t have work release?.,1.18348623853211,0.04546198393675384,109,93,12,4
 It’s the fuel for our warp drive.,1.18348623853211,0.039460207646984526,109,90,18,1
 You look like you've never seen a one-armed alien...,1.18348623853211,0.039460207646984526,109,90,18,1
-"Sure, you clean up after your pet, but what about all this tree excrement?",1.18348623853211,0.04155722142841898,109,91,16,2
 What? You've never seen community service?,1.18348623853211,0.0435533846923308,109,92,14,3
 We come from the planet Tidy.,1.18348623853211,0.04546198393675384,109,93,12,4
 What? Did you think this thing didn't run on fossil fuels?,1.18348623853211,0.04155722142841898,109,91,16,2
@@ -2988,7 +2988,6 @@ We will also bag and utilize your animal waste while you transit this area.,1.17
 ""English please",1.1717171717171717,0.043169625690192184,99,84,13,2
 "Fair question, but we use leaf blowers to power the spaceship.",1.1717171717171717,0.043169625690192184,99,84,13,2
 "Eh, we sorta felt sorry for you guys. Just leaf it at that.",1.1717171717171717,0.038096331262464894,99,82,17,0
-We're  O.C.D.  E.T.s,1.1717171717171717,0.038096331262464894,99,82,17,0
 This is pretty much the only work we can get as illegal aliens,1.1717171717171717,0.047706422091822624,99,86,9,4
 Non-prob end.,1.1717171717171717,0.040712080749396494,99,83,15,1
 The new immigration policy comes with some tough requirements.,1.1714285714285715,0.04376331374008764,105,90,12,3
@@ -3024,6 +3023,7 @@ These are currency on our planet,1.1702127659574468,0.04180304254081611,94,79,14
 Ghosted again,1.17,0.03775251680686371,100,83,17,0
 Is that a Dachshund?,1.17,0.04507009131689365,100,86,11,3
 "Welcome to our planet, we take care of it so we don’t end up like yours.",1.17,0.042770234150550666,100,85,13,2
+We're  O.C.D.  E.T.s,1.17,0.03775251680686371,100,83,17,0
 "The ad read, Earth is hiring, apply now and soon you’ll be raking it in”",1.17,0.042770234150550666,100,85,13,2
 We need to add them to our abducted human compost pile.,1.17,0.04934930126509935,100,88,7,5
 "Geep, lubbin din dan....sgremo!  Ha! Ha!Ha!",1.169811320754717,0.045402657171187806,106,92,10,4
@@ -3161,7 +3161,6 @@ it isn’t just for Terrestrials anymore!",1.164835164835165,0.0449222262762077,
 "A word of warning. Keep your canine’s business off our lawn 
 or his next walk might be in outer space.",1.164835164835165,0.0449222262762077,91,78,11,2
 Well we were warned we'd have to clean this place up and they weren't kidding!,1.164835164835165,0.0449222262762077,91,78,11,2
-As soon as I get my green card I'm going to send for the wife and kids.,1.164835164835165,0.042116578320307095,91,77,13,1
 We have to clean it before we can use it!,1.164835164835165,0.042116578320307095,91,77,13,1
 Where we come from these things are like truffles.,1.164835164835165,0.042116578320307095,91,77,13,1
 All that for a canine creature?!,1.164835164835165,0.0449222262762077,91,78,11,2
@@ -3199,6 +3198,7 @@ So this is the Roomba version 10607?,1.1630434782608696,0.0470769412025354,92,80
 "Roswell, Georgia?",1.1630434782608696,0.044467368369936235,92,79,11,2
 Leave it better than you find it.,1.1630434782608696,0.03872420126056659,92,77,15,0
 A good pyramid starts with a tidy foundation,1.1630434782608696,0.044467368369936235,92,79,11,2
+As soon as I get my green card I'm going to send for the wife and kids.,1.1630434782608696,0.04169478752204208,92,78,13,1
 "No, not gathering fuel for the ride home;  just tidying up as we’re the obsessive-compulsive intergalactic team members.",1.1630434782608696,0.0470769412025354,92,80,9,3
 Today? Earth. Tomorrow? Uranus.,1.1630434782608696,0.044467368369936235,92,79,11,2
 We finally found intelligent life on this planet. And it doesn’t wax on about weird abduction stories!,1.1630434782608696,0.04169478752204208,92,78,13,1
@@ -3236,7 +3236,6 @@ It was either this or 8 months in intergalactic prison.,1.1612903225806452,0.038
 "If you want a job with us, you'll have to a better rake than the one you've got there. We pay two glocks an hour.",1.1612903225806452,0.041281263615876675,93,79,13,1
 sweeping up stardust pays better but this gig is really down to earth,1.1612903225806452,0.041281263615876675,93,79,13,1
 We just couldn't take the sound of leaf blowers any more.,1.1612903225806452,0.04660097538803965,93,81,9,3
-We’re questioning the whole intelligent-life-on-earth thing.,1.1612903225806452,0.041281263615876675,93,79,13,1
 "When the aliens came to Earth to clean, and you didn't get the memo!",1.160919540229885,0.039623877256794074,87,73,14,0
 "Whenever a leaf touches the ground, it's physically painful to us. Okay?""Does that do it for you? Are we done here",1.160919540229885,0.05137396689286534,87,77,6,4
 Rakes? Better than the noisy alternatives. We stay in shape and a lot of bonding takes place at times like these.,1.160919540229885,0.039623877256794074,87,73,14,0
@@ -3275,6 +3274,7 @@ This is part of our community service sentence.,1.1595744680851063,0.04613447436
 What do you want us to do next?,1.1595744680851063,0.04087576943015152,94,80,13,1
 Why didn’t you tell me I was using it wrong?,1.1595744680851063,0.0435845055714996,94,81,11,2
 A leaf blower? What will you humans think of next!,1.1595744680851063,0.04087576943015152,94,80,13,1
+We’re questioning the whole intelligent-life-on-earth thing.,1.1595744680851063,0.04087576943015152,94,80,13,1
 There are no jobs on our planet,1.1595744680851063,0.04087576943015152,94,80,13,1
 I was told that ET's were needed for External Terrarium work....this is not in our union agreement,1.1594202898550725,0.05313363777948607,69,60,7,2
 "Don’t worry, we promise to pay for each one of the leaves.",1.1592920353982301,0.03888126533634789,113,97,14,2
@@ -3384,7 +3384,6 @@ It's extra-community service.,1.1547619047619047,0.046365455724311944,84,73,9,2
 What's up Toby? Long time no see.,1.1546391752577319,0.04478903916748139,97,85,9,3
 Relax. We have work visas.,1.1546391752577319,0.04232353242870658,97,84,11,2
 We have dog food every day!,1.1546391752577319,0.039705223396190224,97,83,13,1
-It’s our favorite teams’ bye week and our wives won’t get off our backs about a clean invasion site. You know how it goes.,1.1546391752577319,0.03690160067854735,97,82,15,0
 I was sure I said “Take”,1.1546391752577319,0.04232353242870658,97,84,11,2
 "Lowest bidders, no papers needed.",1.1546391752577319,0.03690160067854735,97,82,15,0
 "Excuse me, would you mind moving your vehicle while we clean up our park?",1.1546391752577319,0.039705223396190224,97,83,13,1
@@ -3416,6 +3415,7 @@ See you next fall!,1.1531531531531531,0.03433753112748365,111,94,17,0
 Why are you letting those children run wild?,1.153061224489796,0.044357727606196766,98,86,9,3
 "This is fun for us, there are no trees where we come from""",1.153061224489796,0.04191914315274998,98,85,11,2
 "It's a dirty job, but somebody's gotta do it.",1.153061224489796,0.04191914315274998,98,85,11,2
+It’s our favorite teams’ bye week and our wives won’t get off our backs about a clean invasion site. You know how it goes.,1.153061224489796,0.0365571838523037,98,83,15,0
 We have the same infestation.  Do you have the email for Leafa-Nix?,1.153061224489796,0.044357727606196766,98,86,9,3
 "No, what's odd ist there wasn't a single leaf in Roswell.",1.153061224489796,0.04191914315274998,98,85,11,2
 It provides a certain calm before the storm.,1.153061224489796,0.044357727606196766,98,86,9,3
@@ -3588,7 +3588,6 @@ We like to keep our galactic neighborhood tidy.,1.145631067961165,0.037552595238
 leaf blowers are so human,1.145631067961165,0.0375525952386118,103,89,13,1
 President DeSantis invited us as guest workers because we are are thrilled to get $.50/hour.,1.145631067961165,0.044511792105617315,103,92,7,4
 Excuse me Sir!  Would you have any unused poop bags?,1.144736842105263,0.04473684210526319,76,66,9,1
-"If you guys won't take care of your problems, we may have to!",1.144736842105263,0.04473684210526319,76,66,9,1
 The fresher the better.,1.144736842105263,0.04850012612904946,76,67,7,2
 2100 immigration plan,1.144578313253012,0.04245109239481769,83,72,10,1
 We couldn't find it either.,1.144578313253012,0.04578158588104717,83,73,8,2
@@ -3624,10 +3623,10 @@ The judge gave us seven days of community service for creating a public nuisance
 "I'd join in, of course, if it weren't for my tennis elbow.",1.1428571428571428,0.043514835648583675,98,87,8,3
 Yves Montand dead leaves baby.,1.1428571428571428,0.04102618049244218,98,86,10,2
 It's the only work we aliens can find here.,1.1428571428571428,0.03837647782266681,98,85,12,1
+"If you guys won't take care of your problems, we may have to!",1.1428571428571428,0.04419201606355329,77,67,9,1
 It's a good seasonal gig but it keeps me away from my wife and daughters.,1.1428571428571428,0.04197797807648538,84,73,10,1
 "It's only a temporary invasion, then we'll leaf  this cluttered planet.",1.1428571428571428,0.04299935704272291,91,80,9,2
 "We're looking for stinkbug eggs, they're invasive",1.1428571428571428,0.045266017894605576,84,74,8,2
-I need a rake break... got any dog treats?,1.1428571428571428,0.04005926187397017,91,79,11,1
 Building your stupid wall didn’t stop us from coming illegally and stealing your jobs.,1.1428571428571428,0.04299935704272291,91,80,9,2
 "Gathering specimens? No, we just hate looking at mess.",1.1428571428571428,0.039289876569381814,105,92,11,2
 "I know this may look alien, but we always clean up the planets we visit.",1.1428571428571428,0.04299935704272291,91,80,9,2
@@ -3635,7 +3634,6 @@ Building your stupid wall didn’t stop us from coming illegally and stealing yo
 Oh we did build the piramids...in Mexico (x files soundtrack in the background),1.1428571428571428,0.045266017894605576,84,74,8,2
 "These leaves are like kale crossed with gold, back on Memron-4.",1.1428571428571428,0.039289876569381814,105,92,11,2
 Do they taste good?,1.1428571428571428,0.038409489852704655,84,72,12,0
-"You know, these cottonwood trees are actually an invasive species",1.1428571428571428,0.04197797807648538,84,73,10,1
 I’ve been hearing Nanoo Nanoo all day from you people. What does it mean?,1.1428571428571428,0.04102618049244218,98,86,10,2
 Don't worry: we sanitize them before we use them as probes.,1.1428571428571428,0.04299935704272291,91,80,9,2
 Shipment error. We did not want the autumnal probe.,1.1428571428571428,0.04197797807648538,84,73,10,1
@@ -3648,7 +3646,6 @@ We are trying to raise money for a planetary invasion.,1.1415094339622642,0.0365
 Your pet's poop.
 These aliens with green cards 
 Shouldn't have to.",1.1415094339622642,0.03894078081719513,106,93,11,2
-Our chief orange emissary conveyed that you had a forest fire problem,1.1415094339622642,0.03401463467418856,106,91,15,0
 "As our leader said, “You gotta clean your floors, you gotta clean your forests — there are many, many years of leaves and broken trees and they’re like, like, so flammable, you touch them and it goes up.”",1.1415094339622642,0.0411834788473484,106,94,9,3
 "Space travel is just one of the quality public services we offer. You've got a lot to catch up to do here, Sir.",1.1414141414141414,0.03801425648577053,99,86,12,1
 We’re trying to curry favor with The Donald.,1.1414141414141414,0.03801425648577053,99,86,12,1
@@ -3659,6 +3656,7 @@ The guy said: “To see our Leader you must first honor him by raking the lawn.�
 Poop is our fuel and it's a lot easier to find without leaves!,1.141304347826087,0.039651858533041394,92,80,11,1
 Yes we too consider the rake one of the greatest inventions of all time!,1.141304347826087,0.04527751066040476,92,82,7,3
 Is your dog the one creating the dead leaf refuse?,1.141304347826087,0.04255774228461488,92,81,9,2
+I need a rake break... got any dog treats?,1.141304347826087,0.039651858533041394,92,80,11,1
 No leaves out in space?,1.141304347826087,0.036515453466785246,92,79,13,0
 Would you mind covering for me while I take my break? We'll let your puppy poop on our landing space.,1.141304347826087,0.039651858533041394,92,80,11,1
 We. Are. The. Superior. Alien. Rakes.,1.141304347826087,0.04527751066040476,92,82,7,3
@@ -3670,10 +3668,12 @@ do you happen to have a business card with you ?,1.1411764705882352,0.0447618697
 We feel it is important to clean up after your pets.,1.1411764705882352,0.04476186970406316,85,75,8,2
 In autumn we feel extra terrestrial,1.1411764705882352,0.04151521329086001,85,74,10,1
 10% off yardwork for the 3 days we're on your planet.,1.1411764705882352,0.04151521329086001,85,74,10,1
+"You know, these cottonwood trees are actually an invasive species",1.1411764705882352,0.04151521329086001,85,74,10,1
 "For humans, cleaning up after themselves is an alien experience.",1.141025641025641,0.04366020435906118,78,68,9,1
 Cleaning up your litter is certainly not what I had signed up for!,1.141025641025641,0.047320331546548966,78,69,7,2
 Take us to your composter.,1.141025641025641,0.04366020435906118,78,68,9,1
 Earth's first intergalactic cleanup crew - we heard you guys like fetch!,1.141025641025641,0.047320331546548966,78,69,7,2
+Our chief orange emissary conveyed that you had a forest fire problem,1.1401869158878504,0.0337211853936912,107,92,15,0
 They'll power us back to Saturn.,1.14,0.04268749491621902,100,89,8,3
 Are you saying this really will not stop the wildfires?,1.14,0.0376587548676509,100,87,12,1
 "Well, GREEN, is an observable fact.  EARTH-FRIENDLY is more of an inference, don't you think?""",1.14,0.0376587548676509,100,87,12,1
@@ -3870,7 +3870,6 @@ For the fall ritual feast?,1.1290322580645162,0.04109819724326487,93,83,8,2
 We need the leafblowers for,1.1287128712871286,0.03895508034238814,101,90,9,2
 "We can do your lawn, but will require visa sponsorship.",1.1282051282051282,0.04224381902809815,78,69,8,1
 "Thanks for raking our leaves.  Do you scoop poop, too?",1.1282051282051282,0.038099080213023176,78,68,10,0
-We forgot our plaid shirts on Neptune.,1.1282051282051282,0.04224381902809815,78,69,8,1
 We’re aliens not ghosts…ask your dog!,1.1282051282051282,0.04601674237795457,78,70,6,2
 Leaves are important and theyre part of nature and we eat leaves,1.1282051282051282,0.04224381902809815,78,69,8,1
 Community service,1.127906976744186,0.03982352186952072,86,76,9,1
@@ -3891,6 +3890,7 @@ We are here to help you prevent forest fires.,1.1274509803921569,0.0359888694463
 You guys are disgusting.,1.1271186440677967,0.03908746542780284,118,107,7,4
 Raking in the nude will cost you extra.,1.1267605633802817,0.044539121974202504,71,63,7,1
 Exercise boosts our good cholesterol.,1.1267605633802817,0.048848212589146164,71,64,5,2
+We forgot our plaid shirts on Neptune.,1.1265822784810127,0.041737221436360945,79,70,8,1
 "Well, somebody's gotta do it, and you people sure won't!",1.1265822784810127,0.04545949403645994,79,71,6,2
 "Your nasty little friend there has been leaving mud monkeys for us. Start doing your part, man, or find a new neighborhood!",1.1265822784810127,0.03764871456510459,79,69,10,0
 We worry that our silicon footprint just wouldn't be caption-worthy. And I'm sure your biped would agree.,1.1265822784810127,0.041737221436360945,79,70,8,1
@@ -3924,10 +3924,10 @@ This is not what that cookbook title meant.,1.125,0.037021804859943275,96,85,10,
 We'll be over to do your fall clean-up after we abduct your neighbor.,1.125,0.03545678930819846,88,77,11,0
 We've been raking nonstop as a condition of our Halloween probe-ation.,1.125,0.03533553029557649,104,92,11,1
 "Leaves take up space and, ack!, we're really raking it in.",1.125,0.03987370412567353,96,86,8,2
-It's just we love to clean our food before eating it,1.125,0.03031695312954162,120,105,15,0
 We charge per eon.,1.125,0.032586702869168815,104,91,13,0
 We come in peace….and for fresh tootsie rolls.,1.125,0.043951442120546434,72,64,7,1
 We just need enough biofuel to get to the outer limits.,1.125,0.03533553029557649,104,92,11,1
+It's just we love to clean our food before eating it,1.1239669421487604,0.03008309871603518,121,106,15,0
 Harvesting our eggs.,1.1238095238095238,0.035017625324641026,105,93,11,1
 I can’t refund a fecal removal charge. You’ll have to file a dispute in the app.,1.1238095238095238,0.03754176696064164,105,94,9,2
 They won't let us use gas powered leaf blowers.,1.1237113402061856,0.03948153021675622,97,87,8,2
@@ -3967,7 +3967,6 @@ All the crap jobs are filled by aliens.,1.1219512195121952,0.036358828902435546,
 We're saving up money to prove we exist,1.1219512195121952,0.04717315768436096,82,75,4,3
 "The blowers were faster, but too many noise complaints.",1.1219512195121952,0.04028744917972489,82,73,8,1
 "No, our mourning process is beyond your ken. In a nutshell, we’re a multihued, deciduous race.",1.1219512195121952,0.04028744917972489,82,73,8,1
-"As on earth, when the economy on our planet crumbled the energetic escape to the perceived opportunities in America",1.1219512195121952,0.036358828902435546,82,72,10,0
 "This is the opposite of ""Leave no trace.""",1.1219512195121952,0.04028744917972489,82,73,8,1
 "Yes, yes, pretend you’re too busy to help the mothership.",1.1219512195121952,0.036358828902435546,82,72,10,0
 It's a school service learning project.,1.1216216216216217,0.03825469848047654,74,65,9,0
@@ -3986,6 +3985,7 @@ R.L.Russell Marion, Iowa",1.1204819277108433,0.0398262106284982,83,74,8,1
 "Listen, man, can you guys just clean up the planet already? My supervisor's up my rear telling me we need to exterminate you morons before it's too late. I'd really like to hit my bonus this year without committing planetary genocide. You understand.",1.1204819277108433,0.04662449756904842,83,76,4,3
 My dog didn’t do it.,1.1204819277108433,0.0398262106284982,83,74,8,1
 You said you wanted to watch Moonraker!,1.1204819277108433,0.0398262106284982,83,74,8,1
+"As on earth, when the economy on our planet crumbled the energetic escape to the perceived opportunities in America",1.1204819277108433,0.03594813893312355,83,73,10,0
 "Yeah, it's a pain, but when we invade our leader likes everything to be 'juuussstttt soooooo.'",1.1204819277108433,0.0398262106284982,83,74,8,1
 "Your leaf blower’s sound really carries, and we just couldn’t take it anymore.",1.1204819277108433,0.0398262106284982,83,74,8,1
 We heard that the U.S. workforce needed help from aliens to perform jobs that folks here don’t want to do……,1.12,0.03834979883528814,100,90,8,2
@@ -4082,7 +4082,6 @@ This is THE fall of the age of Aquarius.,1.1111111111111112,0.03513641844631533,
 Thanks for coming all this distance - We needed somebody to finally clean up this BIDEN crap.,1.1111111111111112,0.03513641844631533,81,72,9,0
 Curb your dog or make the jump to light speed without a space ship.,1.1111111111111112,0.042217280000676725,72,65,6,1
 My name is actually Sebastian and I am CEO Galactic Trading Currencies. Why are we here - money actually does grow on trees and we are raking it in Baby!,1.1111111111111112,0.039283710065919304,81,73,7,1
-Roaches are the real invaders this time of year.,1.1111111111111112,0.036870202688664894,90,81,8,1
 May I rake your dog?,1.1111111111111112,0.04011358543486932,90,82,6,2
 Speed this up or it’s one phone call and you’re right back to Mars.,1.1111111111111112,0.03331251951092717,90,80,10,0
 "Oh sure, so NOW you want to do this job?!",1.1111111111111112,0.036870202688664894,90,81,8,1
@@ -4096,6 +4095,7 @@ How much mileage do you get per bag?,1.1111111111111112,0.039283710065919304,81,
 Leaves are a highly prized resource on our planet. Just keep walking.,1.10989010989011,0.03296703296703295,91,81,10,0
 Just want to make sure we can cover our gas home.,1.10989010989011,0.03648322226516843,91,82,8,1
 "We are trying to save your planet by clearing the forests of combustible material.  This ""green"" technology is not helping.",1.10989010989011,0.03648322226516843,91,82,8,1
+Roaches are the real invaders this time of year.,1.10989010989011,0.03648322226516843,91,82,8,1
 We're trying to fit in with your fall vibes.,1.10989010989011,0.03648322226516843,91,82,8,1
 What? You thought the wind just blew them away?,1.10989010989011,0.03648322226516843,91,82,8,1
 Who knew that our probing instruments may also be utilized for yard work.,1.1097560975609757,0.038825335452288307,82,74,7,1
@@ -4356,7 +4356,7 @@ We freeze them. Very popular Halloween Candy on Pluto.,1.0555555555555556,0.0336
 We've come from afar to do your raking just so you can have the time to walk that little fur ball out for a pee.,1.054945054945055,0.024019921334439538,91,86,5,0
 We hunt desperately for the fuel to get us home while you bag and discard this precious gift from your Leader?,1.0526315789473684,0.02578410255561243,76,72,4,0
 You have any bags for the tree poop?,1.0481927710843373,0.0236514909290143,83,79,4,0
-"We're taking the little ones to church, we're hoping to get them into St Patrick's",1.0467289719626167,0.020499741172303944,107,102,5,0
 Earth is an important source of leaf-carbs throughout the galaxy. See you next fall!,1.0465116279069768,0.022841730741167455,86,82,4,0
+"We're taking the little ones to church, we're hoping to get them into St Patrick's",1.0462962962962963,0.020313650225214416,108,103,5,0
 All unauthorized contributions are returned to owners of record.,1.037037037037037,0.02111435972405815,81,78,3,0
 Have you turned over a new leaf? It's not easy!,1.0263157894736843,0.018483603075180238,76,74,2,0
