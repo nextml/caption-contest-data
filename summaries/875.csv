@@ -840,7 +840,6 @@ New batch of Trump lawyers headed south to Mar-a-Lago.,1.2846715328467153,0.0485
 I see the lawyerbirds had brief cases this fall,1.2846153846153847,0.04912425119439789,130,100,23,7
 Seem to be taking their case to a higher court.,1.2845528455284554,0.05229674349977569,123,96,19,8
 "Well, it had to happen.  The Canadian Geese are fleeing the U.S.",1.2845528455284554,0.05355585310688398,123,97,17,9
-Could've been an email.,1.2845528455284554,0.048322968831673835,123,93,25,5
 Well that's one way to circumvent bridge toll hikes.,1.2845528455284554,0.051006561924487014,123,95,21,7
 "Ah, the Supreme Court's latest gaggle of ethics counsels.",1.2845528455284554,0.05229674349977569,123,96,19,8
 Back to Mar-a-Lago.,1.2844827586206897,0.05166788545334696,116,89,21,6
@@ -866,6 +865,7 @@ Tricking hunters disguised as lawyers probably isn't the best approach.,1.282258
 "So, we’re not the only ones who have to deal with carry on luggage.",1.282258064516129,0.05064556219679255,124,96,21,7
 "Yes honey, I know I said having to go back to the office is for the birds, but I didn’t mean it quite so literally.",1.282258064516129,0.05064556219679255,124,96,21,7
 "Wow, they let those guys keep their carry-ons.",1.282258064516129,0.05317173739264293,124,98,17,9
+Could've been an email.,1.282258064516129,0.04798658440758398,124,94,25,5
 I’m guessing law firm.,1.2820512820512822,0.049824557874277246,117,89,23,5
 They’re flying business,1.2820512820512822,0.05269925046926825,117,91,19,7
 "See, Linda, I'm not the only one who has baggage.",1.2820512820512822,0.05269925046926825,117,91,19,7
@@ -1044,7 +1044,6 @@ They're not leaving for the winter. They're just taking a brief vacation.,1.2666
 Still another case of bird flu.,1.2666666666666666,0.04841078504124872,120,93,22,5
 It's gonna be a really long winter.,1.2666666666666666,0.04929292474374421,105,80,22,3
 Is that my lost bag from our summer trip,1.2666666666666666,0.04694196508350526,120,92,24,4
-They're handling the pelican briefs.,1.2666666666666666,0.0528780937259731,105,82,18,5
 Air Mail to Canada.,1.2666666666666666,0.04841078504124872,120,93,22,5
 Looks like Trump is adding to his defense team in Georgia.,1.2661870503597121,0.05061970214723154,139,113,15,11
 Book now through December 31st and your first bag flies free!,1.2661290322580645,0.05005749509386557,124,98,19,7
@@ -1066,6 +1065,7 @@ They’ve decided to work from home for the winter.,1.2647058823529411,0.0480958
 "Well, they're not legal eagles...",1.2644628099173554,0.048059586295481994,121,94,22,5
 I guess the meeting went south.,1.2644628099173554,0.04660453613180722,121,93,24,4
 Just can't duck taxes.,1.2641509433962264,0.05575889373409183,106,85,14,7
+They're handling the pelican briefs.,1.2641509433962264,0.052437250040552504,106,83,18,5
 Looks like the fight for the foie gras ban is heading south for the winter.,1.2641509433962264,0.04889045053158237,106,81,22,3
 "I knew we would say goodbye to our jobs soon, damn A.I.",1.2641509433962264,0.05412355966797255,106,84,16,6
 So that’s where all the lost luggage goes.,1.2637362637362637,0.05376011665628522,91,70,18,3
@@ -1207,7 +1207,6 @@ You can't fly far enough south to escape a good divorce lawyer.,1.25409836065573
 UPS has gone green!,1.2540983606557377,0.04736874836158813,122,96,21,5
 At least one airline still has Business Class,1.2540983606557377,0.05148055275533792,122,99,15,8
 Legal eagles in camouflage,1.2540983606557377,0.04736874836158813,122,96,21,5
-Looks like Trump's legal team is headed back to Atlanta,1.2538461538461538,0.04543769573146975,130,102,23,5
 I knew it! I just knew it. And you said I couldn’t invest in the startup selling briefcases to geese,1.2533333333333334,0.06601483134840197,75,61,9,5
 "Damn, they have one heck of a commute.",1.2528735632183907,0.05476100733408987,87,68,16,3
 I want a divorce.,1.2527472527472527,0.057615216823536305,91,73,13,5
@@ -1238,6 +1237,7 @@ Looks like they’ll be working remotely for the winter.,1.2521008403361344,0.04
 Poor things. They now have to carry migration papers to be allowed back in.,1.2520325203252032,0.04842377012779183,123,98,19,6
 You’re the one who said that checked bag fees were for the birds.,1.2520325203252032,0.04702745466282882,123,97,21,5
 "I guess they are evolving into a ""work remotely"" species",1.2519685039370079,0.04869051905961979,127,102,18,7
+Looks like Trump's legal team is headed back to Atlanta,1.251908396946565,0.04513112812486369,131,103,23,5
 You'd think they'd work from their nest.,1.25,0.059108280467932546,92,75,11,6
 You’ve never seen a wild brief chase?,1.25,0.05282762580097078,108,87,15,6
 Working remotely was fun while it lasted.,1.25,0.05,100,78,19,3
@@ -1343,7 +1343,6 @@ He's hiring the one New York law firm willing to relocate to Georgia for the ful
 "When lawyers get wind of a potential lawsuit, they can't help but flock.",1.2439024390243902,0.04944239714081975,123,100,16,7
 The police just said it’s out of their jurisdiction …. Still beautiful though!,1.2439024390243902,0.06390149659919564,82,68,8,6
 They're breaking the mould of a traditional accounting firm.,1.2439024390243902,0.06150030199409332,82,67,10,5
-That’s odd. I thought geese preferred Gucci.,1.2436974789915967,0.04297441721268875,119,92,25,2
 They’re Canada lawyer geese.,1.2436974789915967,0.04915811172084668,119,96,17,6
 "Huh, I knew they flew south for the winter but I had no idea they flew east for tax season",1.2436974789915967,0.04915811172084668,119,96,17,6
 "See. They pack light""",1.2434782608695651,0.04553488256049456,115,90,22,3
@@ -1382,6 +1381,7 @@ People believe that the V formation is about aerodynamics. It really just signif
 "As expected, the executives always get to fly.",1.2417582417582418,0.05262501097748857,91,72,16,3
 "Yep, much better chance of our luggage reaching our destination than if we checked it at the airport.",1.2417582417582418,0.05262501097748857,91,72,16,3
 thanksgiving Home Office,1.2417582417582418,0.054896193170210224,91,73,14,4
+That’s odd. I thought geese preferred Gucci.,1.2416666666666667,0.04266315417964886,120,93,25,2
 They used to fly south but after they went to the weed store there all over the map.,1.2413793103448276,0.049918508786983055,116,94,16,6
 I'm moving my documents to the cloud,1.2413793103448276,0.051398273871768915,116,95,14,7
 "New regulations, they now have to document their status as migratory birds in order to cross the border.",1.2413793103448276,0.05414030610944103,87,69,15,3
@@ -1420,7 +1420,6 @@ They stopped going south now that they can work remotely.,1.2393162393162394,0.0
 "I guess they’re working from home now, too!",1.2393162393162394,0.046462818402408325,117,93,20,4
 Legal eagle has a little more cachet than legal goose.,1.2391304347826086,0.05435976935181601,92,74,14,4
 Why can’t you pack light like that when we go south?,1.2391304347826086,0.05651438814339234,92,75,12,5
-They must be flying Southwest for the winter.,1.2391304347826086,0.05435976935181601,92,74,14,4
 There go the classified documents.,1.2391304347826086,0.05651438814339234,92,75,12,5
 Dang ambulance chasers!,1.2391304347826086,0.05435976935181601,92,74,14,4
 "Wow, I thought they left all their shit on our front yard.",1.2391304347826086,0.05211614894390477,92,73,16,3
@@ -1442,8 +1441,8 @@ Looks like Congress is out of session.,1.2380952380952381,0.0533215580930853,105
 The personal injury geese follow a day or so behind.,1.2380952380952381,0.060165786493056504,84,69,10,5
 Trump's latest legal team flying south to Georgia.,1.2380952380952381,0.06250426863001379,84,70,8,6
 Sounds like legal-geese to me,1.2380952380952381,0.0533215580930853,105,86,13,6
+their manager called: said home office is over.,1.2377049180327868,0.04806692525445646,122,99,17,6
 Guess they get only one carry-on each.,1.2376237623762376,0.05102613357118861,101,81,16,4
-Duck hunting season brings out their attorneys.,1.2376237623762376,0.05102613357118861,101,81,16,4
 "That law brief I wrote was definitely for the birds, but I can't believe they took it.",1.2376237623762376,0.05476957103342309,101,83,12,6
 Looks like everyone is now storing their data in the cloud.,1.2376237623762376,0.05102613357118861,101,81,16,4
 They are not coming back.,1.2376237623762376,0.0490473904019835,101,80,18,3
@@ -1470,6 +1469,7 @@ Birds of a feather carry Italian leather,1.2365591397849462,0.05383352141248461,
 "They didn't used to have such large bills, either.",1.2365591397849462,0.055962506362430074,93,76,12,5
 I guess Trump ran out of US lawyers.,1.2365591397849462,0.055962506362430074,93,76,12,5
 "Wow, talk about upwardly mobile!",1.2365591397849462,0.0516167989802918,93,74,16,3
+They must be flying Southwest for the winter.,1.2365591397849462,0.05383352141248461,93,75,14,4
 This gives me an idea for a book.,1.2365591397849462,0.055962506362430074,93,76,12,5
 It’s one of Amazon’s new delivery systems.,1.2363636363636363,0.05313722887131229,110,91,12,7
 I guess they're commuting to work.,1.2363636363636363,0.04989943636291466,110,89,16,5
@@ -1489,6 +1489,7 @@ Their company is making them return to the office three days a week.,1.235849056
 Now even birds have started to fly business class.,1.2358490566037736,0.05286387066461093,106,87,13,6
 I'll bet they were told they would need extra documentation at the border crossing.,1.2358490566037736,0.04934774344395486,106,85,17,4
 Remember when they used to be free birds?,1.2358490566037736,0.05286387066461093,106,87,13,6
+Duck hunting season brings out their attorneys.,1.2352941176470589,0.050577082470770814,102,82,16,4
 I guess they're limited to one carry-on,1.2352941176470589,0.05427997229904371,102,84,12,6
 "No, they're *Canada* lawyers.",1.2352941176470589,0.050577082470770814,102,82,16,4
 You don't often see matching luggage in ducks.,1.2352941176470589,0.05427997229904371,102,84,12,6
@@ -1566,7 +1567,6 @@ Looks like those birds mean business!,1.2314814814814814,0.051971318143448894,10
 I heard this is the new way of sending light duckuments.,1.2314814814814814,0.0502786996951927,108,88,15,5
 I guess this is the start of geese meeting season.,1.2314814814814814,0.046709818132625494,108,86,19,3
 I guess that's one way of  flying business class.,1.2314814814814814,0.046709818132625494,108,86,19,3
-their manager called: said home office is over.,1.2314049586776858,0.048047741665284756,121,99,16,6
 See those birds? They used to be Twitter executives before the mass layoffs.,1.2307692307692308,0.055048978854826666,104,87,10,7
 "Unlike migratory geese, the commuter geese can be easily identified by their ever present briefcases.",1.2307692307692308,0.045791457566107335,104,82,20,2
 Amazon sure is taking 1-day prime shipping to the next level.,1.2307692307692308,0.0543064228666571,91,74,13,4
@@ -1675,6 +1675,7 @@ Not sure to worry or be grateful.,1.225,0.05618403304872525,80,65,12,3
 The inventors of Remote Work.,1.2247191011235956,0.04990493769277262,89,71,16,2
 Well it sure looks like they quacked the case.,1.2247191011235956,0.04727726928669147,89,70,18,1
 There goes the last of us working remotely…,1.2247191011235956,0.05240100591622927,89,72,14,3
+"Guess that how it goes when you work from home, wherever it is.",1.2244897959183674,0.04706985968207029,98,78,18,2
 It’s naugahyde.,1.2244897959183674,0.049254087406169565,98,79,16,3
 "I guess they're heading to Canada since unemploment is, ah, soaring.",1.2244897959183674,0.049254087406169565,98,79,16,3
 Those secret documents are still getting moved around.,1.2244897959183674,0.05716239033764957,98,83,8,7
@@ -1837,7 +1838,6 @@ St. Martins Day!,1.216867469879518,0.05433917050702214,83,68,12,3
 "Gucci, Gucci, goose?",1.216867469879518,0.059501782930698174,83,70,8,5
 South to Mar-a-Lago. I hear he's adding to the legal team again.,1.216867469879518,0.05433917050702214,83,68,12,3
 It's more a firm than a flock.,1.216867469879518,0.05156439751534847,83,67,14,2
-"Guess that how it goes when you work from home, wherever it is.",1.2164948453608246,0.04686660376971089,97,78,17,2
 "Since they are going to Florida anyway, Trump has hired them to be his legal defense team.",1.2164948453608246,0.05124482230930155,97,80,13,4
 That's the group in business class.,1.2164948453608246,0.05124482230930155,97,80,13,4
 I had read a sequel to 'TheWolf of Wall Street' was in the works.,1.2164948453608246,0.05527734688022483,97,82,9,6
@@ -2074,8 +2074,8 @@ It's all about healthcare.,1.2065217391304348,0.04773424269856957,92,75,15,2
 Look at that. Even snowbirds can’t retire anymore.,1.2065217391304348,0.050174191266479935,92,76,13,3
 Disgruntled ex Twitter employees,1.2065217391304348,0.052500866778413105,92,77,11,4
 I heard their firm litigated the Sullenberger Murders.,1.2065217391304348,0.04516266580668786,92,74,17,1
+Accessories have become so seasonal.,1.2065217391304348,0.04516266580668786,92,74,17,1
 "By George, they *are* Trump's lawyers.",1.2061855670103092,0.048469142790159916,97,80,14,3
-I told you they like Birkin Bags.,1.2061855670103092,0.048469142790159916,97,80,14,3
 Their travel time doubled when they insisted on using apps to navigate.,1.2058823529411764,0.05088659740826314,102,86,11,5
 They're flying south for tax season.,1.2058823529411764,0.064777675870824,68,58,6,4
 Reading and flying has become the new drinking and driving,1.2058823529411764,0.05088659740826314,102,86,11,5
@@ -2122,6 +2122,7 @@ Look! The Snow Birds flying South,1.2040816326530612,0.050161077954179,98,82,12,
 I guess everyone does come with some form of baggage.,1.2040816326530612,0.050161077954179,98,82,12,4
 Think they’re leaving for good this time?,1.2040816326530612,0.050161077954179,98,82,12,4
 Honk no to return-to-office mandates,1.2040816326530612,0.050161077954179,98,82,12,4
+I told you they like Birkin Bags.,1.2040816326530612,0.048018124763472565,98,81,14,3
 I heard they go to Florida for the tax break.,1.203883495145631,0.050429760334432756,103,87,11,5
 Workaholics flying south for the winter...,1.2037037037037037,0.04879875682054561,108,91,12,5
 They must have seen the latest polls,1.2037037037037037,0.04879875682054561,108,91,12,5
@@ -2261,7 +2262,6 @@ Must be headed to Mar-a-Lago,1.1978021978021978,0.05234379685830403,91,77,10,4
 There go the Snow birds ...,1.1978021978021978,0.047449684731754656,91,75,14,2
 It only ever happens when a goose gets into a really bad car accident,1.1978021978021978,0.054626672182585344,91,78,8,5
 There's your answer: remote work is for the birds.,1.1978021978021978,0.047449684731754656,91,75,14,2
-Accessories have become so seasonal.,1.1978021978021978,0.044802592971196056,91,74,16,1
 I heard they specialize in gaggle clauses.,1.1978021978021978,0.0499567095127687,91,76,12,3
 Life Hack: you can Fedex the luggage ahead!,1.1978021978021978,0.047449684731754656,91,75,14,2
 They mean business this year.,1.197674418604651,0.054408314529817106,86,73,9,4
@@ -2416,6 +2416,7 @@ So that’s why those management consultants were clutching dry bread,1.19191919
 Their destination must be confidential.,1.1917808219178083,0.05739637027386542,73,62,8,3
 Working remotely.,1.1917808219178083,0.05033198101609266,73,60,12,1
 Canada is the future,1.1917808219178083,0.05739637027386542,73,62,8,3
+"Like I say, work-life balance is for the birds.",1.1917808219178083,0.053979864920259725,73,61,10,2
 It looks like they’re not coming back next spring.,1.1917808219178083,0.053979864920259725,73,61,10,2
 See? I told you work from home would not last.,1.1917808219178083,0.04639817678744647,73,59,14,0
 Legal geese?,1.1914893617021276,0.04848799577537426,94,79,12,3
@@ -2439,7 +2440,6 @@ Today even geese requiere immigration papers,1.1910112359550562,0.04760989248793
 I can’t believe they fit it all in one carry-on.,1.1910112359550562,0.04484795700808779,89,73,15,1
 Seems like everyone flies business class now.,1.1904761904761905,0.049310188462709244,84,70,12,2
 They now need a 400 page document to tag each protected animal.,1.1904761904761905,0.052137859745800555,84,71,10,3
-"Well, it is only two days a week.",1.1904761904761905,0.052137859745800555,84,71,10,3
 Amazon’s gone ecological!,1.1904761904761905,0.04310187027192874,84,68,16,0
 "Now remember guys,  drop those off in orlando next to the walmart!",1.1904761904761905,0.054819870042874363,84,72,8,4
 No more working remotely.,1.1904761904761905,0.04299935704272291,105,87,16,2
@@ -2493,6 +2493,7 @@ Look! A perfect Vee.,1.1884057971014492,0.05939221260836197,69,59,7,3
 "They wanted to use turkeys, but there seems to be a shortage of them these days.",1.1884057971014492,0.055688216518499936,69,58,9,2
 A government app that can’t be hacked! Ducks with dossiers!,1.1884057971014492,0.05939221260836197,69,59,7,3
 "It’s not a question of where they grip it, it’s a simple question of weight ratios.",1.1884057971014492,0.055688216518499936,69,58,9,2
+"Well, it is only two days a week.",1.188235294117647,0.051569532748121864,85,72,10,3
 It's safer than Southwest Air,1.188235294117647,0.051569532748121864,85,72,10,3
 It's a shame to see their business going south.,1.188235294117647,0.05421742111791689,85,73,8,4
 They're in the business of migration,1.188235294117647,0.045816946845285964,85,70,14,1
@@ -2689,13 +2690,11 @@ Never underestimate geeses with valises!,1.180722891566265,0.04582023644587216,8
 Looks like fowl play to me.,1.180722891566265,0.04892190131450311,83,70,11,2
 at least we’re not half off,1.180722891566265,0.04582023644587216,83,69,13,1
 "F@ck! We forgot to feed the ducks, and now they are planning to sue!",1.180722891566265,0.04892190131450311,83,70,11,2
-"Yeah, I’ve stopped sending any personal information over email.",1.180722891566265,0.054599168022660204,83,72,7,4
 "Oh, look ... they are flying in a VP formation!",1.1805555555555556,0.057075262919065665,72,62,7,3
 I wonder if that’s the story behind the famous handbag manufacturer”,1.1805555555555556,0.04975050777451365,72,60,11,1
 I never knew they had their own lawyers; must have been a big case.,1.1805555555555556,0.04975050777451365,72,60,11,1
 They're suing the US over global warming...,1.1805555555555556,0.057075262919065665,72,62,7,3
 A lot of companies are moving south.,1.1805555555555556,0.04975050777451365,72,60,11,1
-"Like I say, work-life balance is for the birds.",1.1805555555555556,0.05353829779280629,72,61,9,2
 Fair weather tourists.,1.1805555555555556,0.045649498541524836,72,59,13,0
 "I kind of have that ""empty nest"" feeling now that they are off to college.",1.1805555555555556,0.057075262919065665,72,62,7,3
 Remote work really has changed things.,1.1805555555555556,0.057075262919065665,72,62,7,3
@@ -2714,7 +2713,6 @@ I never thought they'd want to go back to the office.,1.1794871794871795,0.05395
 Looks like bad news for Canada.,1.1794871794871795,0.05395941341632321,78,67,8,3
 With climate change they won’t get back up here in time to file their tax returns.,1.1794871794871795,0.04373348027807394,78,64,14,0
 they know something we don't?,1.1794871794871795,0.05696155395733173,78,68,6,4
-I've heard of Secretary birds but lawyer birds?,1.1794871794871795,0.05395941341632321,78,67,8,3
 That honking makes their commute so stressful.,1.1794871794871795,0.05078009416329737,78,66,10,2
 "Look at that, will ya'. Makes me think of ""The Pelican Brief.""",1.1794871794871795,0.05696155395733173,78,68,6,4
 But the dads always come home as soon as they can,1.1794871794871795,0.05078009416329737,78,66,10,2
@@ -2755,6 +2753,7 @@ The Wall Street high flyers are heading South.,1.1785714285714286,0.048383846887
 Fowl play is typical of big business.,1.1785714285714286,0.04532256509703349,84,70,13,1
 Good bye losers. Hello Palm Beach,1.1785714285714286,0.05398814781884477,84,73,7,4
 "'So apparently, the storks still deliver the babies, but they've contracted out all the legal and admin.'",1.1785714285714286,0.04838384688736214,84,71,11,2
+"Yeah, I’ve stopped sending any personal information over email.",1.1785714285714286,0.05398814781884477,84,73,7,4
 With legislation on the table to crack down on undocumented aliens they’re bringing their papers this time.,1.1782178217821782,0.04954453862652201,101,88,8,5
 This meeting could’ve been a V-mail,1.1782178217821782,0.05150418536095032,101,89,6,6
 They're suing over our current immigration policy.,1.178082191780822,0.052857702752466776,73,62,9,2
@@ -2787,12 +2786,14 @@ the Autobahn Society seems to be getting serious.,1.1772151898734178,0.050184643
 "OMG - sustainable drones,  environmentally friendly too!",1.1772151898734178,0.04683939034393647,79,66,12,1
 Must be tax season.,1.1772151898734178,0.04323607918126412,79,65,14,0
 "Climate change has them staying south a bit longer,I guess.",1.1772151898734178,0.05018464339431694,79,67,10,2
+I've heard of Secretary birds but lawyer birds?,1.1772151898734178,0.05332043114452347,79,68,8,3
 Do you think the one in the front works this hard on his remote days?,1.1772151898734178,0.05909490897771218,79,70,4,5
 Looks like somebody's last-ditch attempt to incorporate overseas,1.1772151898734178,0.05018464339431694,79,67,10,2
 They specialize in immigration law.,1.1772151898734178,0.05018464339431694,79,67,10,2
 "Obviously, they identify as businessmen.",1.1772151898734178,0.05018464339431694,79,67,10,2
 You just had to go and call them silly.,1.1772151898734178,0.05332043114452347,79,68,8,3
 I guess they are flying away with my money.,1.1772151898734178,0.05018464339431694,79,67,10,2
+must be easier than checking their luggage,1.1772151898734178,0.04323607918126412,79,65,14,0
 AI really has advanced.,1.1772151898734178,0.04683939034393647,79,66,12,1
 "Well, we’re finally empty nesters",1.1772151898734178,0.05332043114452347,79,68,8,3
 Weird.,1.1770833333333333,0.04681709386300883,96,82,11,3
@@ -3101,12 +3102,12 @@ I guess they only get one carry-on or small personal item too...,1.1666666666666
 Looks like Canada Goose are taking their business elsewhere,1.1666666666666667,0.0480584330140953,90,78,9,3
 "These days, even the cost of migration is going up.",1.1666666666666667,0.04740341308792834,84,72,10,2
 : “Their geesecases are lovely this year!”,1.1666666666666667,0.04969660420745535,78,67,9,2
+"Wait, honey was it the pelican brief or the Canadian geese brief?",1.1666666666666667,0.04604218762109019,96,83,10,3
 They are not flying back in the Spring,1.1666666666666667,0.0480584330140953,90,78,9,3
 I miss the days when Geese could just be Geese and didn’t have to lug those heavy briefcases to migrate south in the winter.,1.1666666666666667,0.04969660420745535,78,67,9,2
 "My accountant said it's the only way to get my records to him in the Caymans, he only trusts Canadians",1.1666666666666667,0.04254688241805302,90,76,13,1
 I thought it was all migration to digital these days.,1.1666666666666667,0.05101913957479684,66,56,9,1
 I hear their annual conference is a bunch of crap.,1.1666666666666667,0.053111270345139606,84,74,6,4
-must be easier than checking their luggage,1.1666666666666667,0.042470599286468784,78,65,13,0
 "Well I’ll be… birds carry baggage, too.",1.1666666666666667,0.04100349435972013,96,81,14,1
 They have the right idea,1.1666666666666667,0.0453863976719122,90,77,11,2
 Looking busy,1.1666666666666667,0.048450158311150925,72,61,10,1
@@ -3337,7 +3338,6 @@ They couldn't pay me enough for that commute.,1.1578947368421053,0.0460839492511
 Don't be too impressed.  They're knockoffs.,1.1578947368421053,0.05939056449056406,76,69,2,5
 "this is a really special breed of bird, they are called, thieves",1.1578947368421053,0.040478076611364294,95,81,13,1
 "My idea ,just hit me,wheels on brief cases.",1.1578947368421053,0.040478076611364294,95,81,13,1
-"Wait, honey was it the pelican brief or the Canadian geese brief?",1.1578947368421053,0.04567716078766765,95,83,9,3
 Vintage is so fly now!,1.1578947368421053,0.046083949251100695,76,65,10,1
 "Look, influencer geese",1.1578947368421053,0.04210526315789474,76,64,12,0
 They must be on their way to Tallahassee.,1.1573033707865168,0.0449118885544538,89,77,10,2
@@ -3708,7 +3708,6 @@ Looks like he's being indicted again down south.,1.144927536231884,0.05171962876
 They carry their provender with them.,1.144927536231884,0.04742006474057418,69,60,8,1
 I don’t know what it’s about. What’s anything about lately?,1.144927536231884,0.055688216518499936,69,62,4,3
 I sank all of my cash into this new cloud storage app called vBay.,1.144927536231884,0.05171962876419153,69,61,6,2
-"Take a gander at that, the briefcases are going south.",1.144927536231884,0.04268963668731212,69,59,10,0
 I love those new Loon Vuittons.,1.144927536231884,0.05171962876419153,69,61,6,2
 The migrant workers are early this season.,1.144927536231884,0.04268963668731212,69,59,10,0
 Did you ever notice that if hire one Canadian Goose it always brings 4 associates,1.144927536231884,0.05171962876419153,69,61,6,2
@@ -3758,6 +3757,7 @@ I wonder if they get frequent flyer miles,1.1428571428571428,0.04678356086900139
 "Hmmm. 
 Legal eagles , I presume.",1.1428571428571428,0.04299935704272291,91,80,9,2
 Looks like another lame duck session...,1.1428571428571428,0.04444078691701825,63,54,9,0
+"I guess that working from home virtually, has gotten all fouled up!",1.1428571428571428,0.05134648267484176,77,69,5,3
 "Boy, I can sure use a brief vacation.",1.1428571428571428,0.05476357440852809,63,56,5,2
 "Now that the election is over, you can clearly see many poll workers flying South. I bet that group has satchels stuffed with ballots!",1.1428571428571428,0.047184161362558326,56,48,8,0
 The lawyers always try to get there first.,1.1428571428571428,0.04444078691701825,63,54,9,0
@@ -3789,6 +3789,7 @@ They’re migrating from Wall Street to Palm Beach.,1.1428571428571428,0.0441920
 The geese who finally got it.,1.1428571428571428,0.04419201606355329,77,67,9,1
 "Yes, it's the early worm commute",1.1428571428571428,0.04678356086900139,70,61,8,1
 Climate change is getting weird.,1.1428571428571428,0.04444078691701825,63,54,9,0
+"Take a gander at that, the briefcases are going south.",1.1428571428571428,0.0421262731871135,70,60,10,0
 I wonder what border control will make of them.,1.1428571428571428,0.047184161362558326,56,48,8,0
 "Honey, put on your thinking cap. Supply chain problems or offshore accounting?",1.1428571428571428,0.04986999410368029,63,55,7,1
 There goes a gaggle of obsolete geekse depositing their severance pay offshore.,1.1428571428571428,0.05476357440852809,63,56,5,2
@@ -3883,7 +3884,6 @@ Do you think they'll bring us back souvenirs?,1.139240506329114,0.04675159384623
 "Off they go for the winter, from Wall Street to Palm Beach.",1.139240506329114,0.043140950178920556,79,69,9,1
 This economy is for the birds.,1.139240506329114,0.046751593846233896,79,70,7,2
 The geese are taking their business south.,1.139240506329114,0.046751593846233896,79,70,7,2
-Ok. I think Elon Musk has officially lost it,1.139240506329114,0.043140950178920556,79,69,9,1
 Snow birds really flocked with the ability to work from home.,1.139240506329114,0.043140950178920556,79,69,9,1
 They’ve made a business decision. They’re headed south.,1.139240506329114,0.043140950178920556,79,69,9,1
 Those meetings are just for the frequent flyer miles.,1.1388888888888888,0.04556013565281042,72,63,8,1
@@ -3949,6 +3949,7 @@ The UFO briefs,1.1375,0.042633817622437835,80,70,9,1
 I knew congestion pricing would drive business out of Manhattan.,1.1375,0.04619629964906088,80,71,7,2
 There’s just no way of avoiding work on vacation anymore.”,1.1375,0.042633817622437835,80,70,9,1
 I’m glad to see that at least one of the wives stayed home to mind the children.,1.1375,0.04619629964906088,80,71,7,2
+Ok. I think Elon Musk has officially lost it,1.1375,0.042633817622437835,80,70,9,1
 Flynance bros think they anser to a higher authority,1.1375,0.049503068566184395,80,72,5,3
 I thought they flew by night.,1.1369863013698631,0.04052109440479185,73,63,10,0
 Everyone has to work remotely these days.,1.1369863013698631,0.04902034372964355,73,65,6,2
@@ -4318,6 +4319,7 @@ They leave a footprint anyway.,1.125,0.05209800262902861,72,66,3,3
 They must have chosen basic economy.,1.125,0.043951442120546434,72,64,7,1
 On their way to D.C with depositions. The only way they could fly under the radar.,1.125,0.0472455591261534,64,57,6,1
 Looks like they're heading back to Texas for the winter.,1.125,0.0472455591261534,64,57,6,1
+It’s obvious to me that they were in Group 3 and the overhead bins were all full.,1.125,0.048197153144195225,72,65,5,2
 "I need that report on my desk first thing tomorrow, everyone- no flocking excuses!",1.125,0.0472455591261534,64,57,6,1
 "Look, a rare species - reverse commuters!",1.125,0.052231930877334055,64,58,4,2
 Look who’s getting remote work this winter!,1.125,0.041666666666666664,64,56,8,0
@@ -4492,6 +4494,7 @@ Do you think they are concerned with Air Traffic Control”?,1.1194029850746268,
 Looks like they’re back in-office as well.,1.1194029850746268,0.039913905875911766,67,59,8,0
 I guess they are going on a business trip,1.1194029850746268,0.049976874162139404,67,61,4,2
 "Ahh, they must be traveling south. But why don’t they just go to Hawaii?",1.1194029850746268,0.049976874162139404,67,61,4,2
+Looks like everyone is returning to the office,1.1194029850746268,0.039913905875911766,67,59,8,0
 So lovely when they litigate south for the winter.,1.1194029850746268,0.039913905875911766,67,59,8,0
 They will make it just in time for tax season.,1.1194029850746268,0.049976874162139404,67,61,4,2
 What do you call a flock of briefcases? A crook.,1.1194029850746268,0.039913905875911766,67,59,8,0
@@ -4507,7 +4510,6 @@ My guess? They're afraid of identity theft.,1.11864406779661,0.04886045542612946
 "Last week it was legal Eagles, now it’s the Canada briefs…",1.11864406779661,0.042460458882410713,59,52,7,0
 "Well, look at that! All the attachés are monogrammed with 'V'!""",1.118421052631579,0.0373090707335732,76,67,9,0
 Trial season seems to come earlier every year.,1.118421052631579,0.0373090707335732,76,67,9,0
-"I guess that working from home virtually, has gotten all fouled up!",1.118421052631579,0.04575719773945604,76,69,5,2
 There goes the best defense gaggle money can buy.,1.118421052631579,0.0373090707335732,76,67,9,0
 Their work from home is only Fridays.,1.118421052631579,0.0373090707335732,76,67,9,0
 Another company heads south for lower taxes and greener grasses!,1.118421052631579,0.0373090707335732,76,67,9,0
@@ -4571,6 +4573,7 @@ Those Canadian snowbirds sure take their work seriously.,1.1159420289855073,0.03
 Must be a major lawsuit.,1.1159420289855073,0.04397274927300527,69,62,6,1
 "They could be headed to New York City, Georgia, or D.C",1.1159420289855073,0.03882454402978924,69,61,8,0
 "Don't you love Autumn, the beautiful fall colors, the nip in the air and the annual flight of the snowbirds off to Florida.",1.1159420289855073,0.04397274927300527,69,62,6,1
+Just look at all those jobs going out of the country.,1.1159420289855073,0.03882454402978924,69,61,8,0
 They're going to be working birdually,1.1159420289855073,0.04397274927300527,69,62,6,1
 "Ah, so that's how the classified documents got to Mar-a-Lago.",1.1159420289855073,0.04397274927300527,69,62,6,1
 Morning commute?,1.1159420289855073,0.04397274927300527,69,62,6,1
@@ -4668,7 +4671,6 @@ Employers now require them to return to the office now that the bird flu epidemi
 "Laugh if you must, but this is visual evidence of a conspiracy that proves snowbirds are sentient entities that should be bound to the same law as mankind, particularly those matters regarding what constitutes consensual sex.",1.1126760563380282,0.04725586748680781,71,65,4,2
 "Farmers hate them, but they actually fertilize their fields with analytics.",1.1126760563380282,0.037792698211264054,71,63,8,0
 Working from home.,1.1126760563380282,0.037792698211264054,71,63,8,0
-It’s obvious to me that they were in Group 3 and the overhead bins were all full.,1.1126760563380282,0.04725586748680781,71,65,4,2
 I hear their office just rescinded their working-from-home option.,1.1126760563380282,0.037792698211264054,71,63,8,0
 "Honey, why can’t you take me on vacation like that?",1.1126760563380282,0.037792698211264054,71,63,8,0
 I guess they also lost their work from home privileges,1.1126760563380282,0.037792698211264054,71,63,8,0
@@ -4838,7 +4840,6 @@ I always thought they worked from home.,1.106060606060606,0.03819217678704997,66
 "Duck, Duck, Duck, Duck and Duck.",1.106060606060606,0.043873030826850165,66,60,5,1
 "Apparently he's getting sued for breaking a man's arm""",1.106060606060606,0.043873030826850165,66,60,5,1
 I guess America needed for migrating workers,1.106060606060606,0.043873030826850165,66,60,5,1
-Looks like everyone is returning to the office,1.106060606060606,0.03819217678704997,66,59,7,0
 Ted Nugent V Ilegal Migratory bird hunting.,1.106060606060606,0.043873030826850165,66,60,5,1
 They have out of town depositions.,1.106060606060606,0.043873030826850165,66,60,5,1
 It's a called a convention of geese.,1.106060606060606,0.03819217678704997,66,59,7,0
@@ -4917,7 +4918,6 @@ I heard they started a new flock-chain currency.,1.1029411764705883,0.0371250992
 Zero emissions but those briefcases are bursting with paperwork.,1.1029411764705883,0.0426292687910726,68,62,5,1
 Looks like this time they are going for good … I’m sad ?,1.1029411764705883,0.03712509925760675,68,61,7,0
 Looks like they're on a business trip.,1.1029411764705883,0.0426292687910726,68,62,5,1
-Just look at all those jobs going out of the country.,1.1029411764705883,0.03712509925760675,68,61,7,0
 Shouldn’t they have checked their bag?,1.1029411764705883,0.03712509925760675,68,61,7,0
 I think it means they're expecting a short winter.,1.1029411764705883,0.0426292687910726,68,62,5,1
 So that's what the briefcase-toting bureaucrats in Washington look like!,1.1029411764705883,0.03712509925760675,68,61,7,0
@@ -5031,7 +5031,6 @@ Heading south for the winter with a,1.0985915492957747,0.040890143728172165,71,6
 "Wow, I like those cases much better than last years backpacks!",1.0985915492957747,0.035631297579361995,71,64,7,0
 The homing pigeons couldn’t cut it anymore,1.0985915492957747,0.035631297579361995,71,64,7,0
 The Children of Arrear,1.0985915492957747,0.040890143728172165,71,65,5,1
-The geese are taking their work south of the border,1.0985915492957747,0.035631297579361995,71,64,7,0
 Massa has won the elections in Argentina... Poor guys!,1.0985915492957747,0.035631297579361995,71,64,7,0
 The Audito,1.098360655737705,0.04499494830653308,61,56,4,1
 "Yes, it’s efficient, but like Bob Dylan says, “Are birds free from the chains of the skyway?”",1.098360655737705,0.03844603081822478,61,55,6,0
@@ -5058,6 +5057,7 @@ I guess the fake MAGA followers finally decided it was time to take their docume
 I didn’t go to work to pay off my college bills. I broke into my nest-egg.,1.0972222222222223,0.035159608253116335,72,65,7,0
 Their leader doesn't let them work at home.,1.0972222222222223,0.04034147195184963,72,66,5,1
 "It’s the goose’s uniquely shaped secondary feathers that put the lift in shoplift, or is that geese’s? Anyway sorry to hear about your loss, are you hungry?",1.0972222222222223,0.04034147195184963,72,66,5,1
+The geese are taking their work south of the border,1.0972222222222223,0.035159608253116335,72,65,7,0
 Either Samsonite's marketing team has really stepped it up or this is a sign of the times.,1.0972222222222223,0.035159608253116335,72,65,7,0
 Looks like they are flying east for the long weekend.,1.096774193548387,0.03785410929280441,62,56,6,0
 They are all carrying Ghurka  bags. They made big money this summer.,1.096774193548387,0.03785410929280441,62,56,6,0
@@ -5577,7 +5577,6 @@ They probably been called back to the office.,1.0666666666666667,0.0324748200298
 It's the most sustainable way for environmental lawyers to travel.,1.0666666666666667,0.03247482002983031,60,56,4,0
 Obviously headed for Fort Lauderdale after a summer at Bar Harbor,1.0666666666666667,0.028997255746722683,75,70,5,0
 They warned me that winter briefcases would fly out of the shelf,1.0666666666666667,0.03247482002983031,60,56,4,0
-They’ll circle back.,1.0666666666666667,0.04024407642600707,60,57,2,1
 Looks like Trump’s new lawyers are headed to Mar-A-Lago for the winter.,1.0666666666666667,0.028997255746722683,75,70,5,0
 The dream!,1.0666666666666667,0.03247482002983031,60,56,4,0
 I hear the top holdings are sending remote workers to their non-breeding sites for the winter.,1.0666666666666667,0.03247482002983031,60,56,4,0
@@ -5594,6 +5593,7 @@ Since when did geese have suitcases?,1.0655737704918034,0.03195670276986541,61,5
 There's an example of taking your work with you.,1.0655737704918034,0.03195670276986541,61,57,4,0
 It looks like business as usual this fall.,1.0655737704918034,0.03195670276986541,61,57,4,0
 It's a start-up.,1.0655737704918034,0.03195670276986541,61,57,4,0
+They’ll circle back.,1.0655737704918034,0.03959392553603668,61,58,2,1
 "Graylag & Graylag - late with their brief, I'd say",1.0655737704918034,0.03959392553603668,61,58,2,1
 The business geese are commuting south. Looks like their office ended the work-from-nest policy.,1.0655737704918034,0.03959392553603668,61,58,2,1
 I guess they’re not working from home anymore.,1.0655737704918034,0.03195670276986541,61,57,4,0
@@ -5727,12 +5727,12 @@ These pickpockets sure have gotten creative.,1.0483870967741935,0.02747451446190
 Would you look at that!  I always figured that private equity firms were vultures!,1.0483870967741935,0.027474514461903625,62,59,3,0
 We’re forced to migrate due to humans invading our country.,1.0483870967741935,0.03582833619762378,62,60,1,1
 Guess they haven't heard of Zelle,1.0476190476190477,0.02704580163081256,63,60,3,0
-"No, those are Mallards, tired from working at home, don't confuse them with Geese, please!",1.0476190476190477,0.02704580163081256,63,60,3,0
 These are the legal advisors confirming the right to traditional migration routes.,1.0476190476190477,0.02704580163081256,63,60,3,0
 The brain drain really is hitting hard hub,1.0476190476190477,0.02704580163081256,63,60,3,0
 "Looks like the Bay is getting a new shipment of Canadian Geese-cases, eh!",1.0476190476190477,0.02704580163081256,63,60,3,0
 The congressional aids said that the geese are more efficient than the carrier pigeons this year!,1.046875,0.034716021271691086,64,62,1,1
 They carry away our cares.,1.046875,0.026630253226448332,64,61,3,0
+"No, those are Mallards, tired from working at home, don't confuse them with Geese, please!",1.046875,0.026630253226448332,64,61,3,0
 "'Jeez, Hitchcock made them bring their own lunch!'
 'No Sandy, they just flew in from Mar-a-Lago'.",1.046875,0.026630253226448332,64,61,3,0
 "Autumn ups and downs
