@@ -1,55 +1,55 @@
 caption,mean,precision,votes,not_funny,somewhat_funny,funny
-The weird part is this one’s on the placebo.,1.7436389822371579,0.01749312314126336,2083,999,619,465
-The control group is doing Impressionism.,1.7424643046007404,0.01754029012156011,1891,856,666,369
-He found the cheese. Now he’s searching for meaning.,1.7293064876957494,0.02640189139260079,894,432,272,190
+The weird part is this one’s on the placebo.,1.743884892086331,0.017490366933188357,2085,1000,619,466
+The control group is doing Impressionism.,1.7422081352350767,0.01752667234198334,1893,857,667,369
+He found the cheese. Now he’s searching for meaning.,1.7299107142857142,0.02639367516014257,896,433,272,191
 My guess is that he didn't get the placebo.,1.6977424749163879,0.01605636647358531,2392,1208,699,485
-I don’t think we’ll have to rely on grants anymore.,1.6972644376899697,0.018616199085007702,1645,793,557,295
-It’s the camembert. The Cheez Whiz group is cranking out stick figures.”,1.685384309040223,0.011745944857692203,5022,2778,1046,1198
-"Fine, it is derivative, but I say we still give him the cheese.",1.6801346801346801,0.017569345974226457,1782,866,620,296
-I'm pretty sure this one is a church mouse.,1.6784240150093808,0.014811044139451678,2665,1345,832,488
+I don’t think we’ll have to rely on grants anymore.,1.6968408262454435,0.018609707627557315,1646,794,557,295
+It’s the camembert. The Cheez Whiz group is cranking out stick figures.”,1.6855095541401275,0.011744976794209204,5024,2779,1046,1199
+"Fine, it is derivative, but I say we still give him the cheese.",1.6797532249018507,0.01756363219862365,1783,867,620,296
+I'm pretty sure this one is a church mouse.,1.6781695423855965,0.014807674307738631,2666,1346,832,488
 Who knew he was a church mouse?,1.6755802219979818,0.016952630918378463,1982,990,645,347
-Sure the painting is amazing. But I’m more impressed with how he built the scaffolding.,1.6751445086705203,0.01787224727474442,1730,850,592,288
-"I admit it's beautiful, but he still has to press the lever if he wants a pellet.",1.6683378326263016,0.014813015225191694,2593,1310,833,450
-I told you he was a church mouse.,1.6674715419110038,0.013977823346431412,2899,1463,937,499
-And yet he still hasn't figured out the water bottle.,1.6653406265539532,0.01664413281075803,2011,1009,666,336
-"The most impressive part is he built the table, too.",1.6585195530726258,0.019485114200085044,1432,717,487,228
-I didn't even know he was Catholic.,1.6558251133031192,0.013069468216746167,3751,2069,904,778
-It's a pity we neutered him.,1.6538263995891114,0.01729016068383567,1947,1020,581,346
-The hard part was getting him to read the Bible.,1.6529507309149973,0.01768640504481001,1847,965,558,324
-Hard to believe he still can't solve the maze.,1.652391975308642,0.014621655633523106,2592,1325,843,424
-We have a betting pool on what God is going to look like,1.6451271186440677,0.01687261465287519,1888,961,636,291
-Let’s add ‘derivative art’ to the list of side effects.,1.6436213991769548,0.015616016319476853,2430,1307,682,441
-"My God Edith, you're right! He's left-handed!",1.6344086021505377,0.02764794616931371,744,397,222,125
+Sure the painting is amazing. But I’m more impressed with how he built the scaffolding.,1.6747544771808203,0.017866177321233155,1731,851,592,288
+"I admit it's beautiful, but he still has to press the lever if he wants a pellet.",1.6682080924855491,0.014804389507104826,2595,1311,834,450
+I told you he was a church mouse.,1.6666666666666667,0.013981896464441718,2901,1465,937,499
+And yet he still hasn't figured out the water bottle.,1.6650099403578529,0.01663914467377655,2012,1010,666,336
+"The most impressive part is he built the table, too.",1.658060013956734,0.019476933966051876,1433,718,487,228
+I didn't even know he was Catholic.,1.6557420730082602,0.013063993497187853,3753,2070,905,778
+It's a pity we neutered him.,1.6534907597535935,0.017284541669941252,1948,1021,581,346
+The hard part was getting him to read the Bible.,1.652785289345592,0.0176717968636026,1849,966,559,324
+Hard to believe he still can't solve the maze.,1.6521403779406094,0.014618180965124159,2593,1326,843,424
+We have a betting pool on what God is going to look like,1.644973544973545,0.016859258894706044,1890,962,637,291
+Let’s add ‘derivative art’ to the list of side effects.,1.6437679967091732,0.015610279667505996,2431,1307,683,441
 Here it comes: the defining scene where God banishes all cats to hell.,1.6341880341880342,0.015534818000602246,2340,1245,706,389
-Should we submit our research results to Nature or to Sotheby's?,1.6315205327413984,0.024523195582070327,901,471,291,139
-"Frankly, I prefer his sculptures.",1.6290414066931367,0.017259730714452057,1763,911,595,257
-What he puts in the center will answer a lot of questions,1.6269070735090152,0.027078349688135685,721,375,240,106
+"My God Edith, you're right! He's left-handed!",1.6335570469798657,0.027623938334113942,745,398,222,125
+Should we submit our research results to Nature or to Sotheby's?,1.630820399113082,0.024505996328578167,902,472,291,139
+"Frankly, I prefer his sculptures.",1.6279728199320498,0.01724143150481553,1766,914,595,257
+What he puts in the center will answer a lot of questions,1.626038781163435,0.02705475606886984,722,376,240,106
 "Oh look, now he's adding a little paw reaching down
-from the clouds.",1.626153846153846,0.020509163527872066,1300,689,408,203
-It started with graffiti on the maze walls.,1.6206662134602312,0.018677390083271957,1471,762,505,204
-He’s severely overestimating the size of our grant,1.6155857740585775,0.01639767091658814,1912,1000,647,265
-This drug definitely causes delusions of grandeur.,1.613919413919414,0.019902973414903862,1365,734,424,207
+from the clouds.",1.6251920122887864,0.020488929859083214,1302,691,408,203
+It started with graffiti on the maze walls.,1.6202445652173914,0.018669459379265483,1472,763,505,204
+He’s severely overestimating the size of our grant,1.6156657963446475,0.016377594885527206,1915,1001,649,265
+This drug definitely causes delusions of grandeur.,1.6134699853587116,0.019893475157486726,1366,735,424,207
 This will be worth a fortune after he's incinerated.,1.609933565327428,0.015128187252561508,3161,2000,394,767
-Michelangelo was also left handed.,1.6083476272155517,0.01701127413891091,1749,919,596,234
-It all started when he chewed on a crayon and we rewarded him with cocaine.,1.6045824094604582,0.020879251221201545,1353,772,344,237
-He’s gone a lot more Renaissance since we took out his wheel.,1.603060306030603,0.021909065059043855,1111,604,344,163
-Micesterpiece.,1.601863354037267,0.01819703564477122,1610,877,497,236
+Michelangelo was also left handed.,1.6073059360730593,0.01699277105942305,1752,922,596,234
+It all started when he chewed on a crayon and we rewarded him with cocaine.,1.604135893648449,0.020868602593461176,1354,773,344,237
+He’s gone a lot more Renaissance since we took out his wheel.,1.6025179856115108,0.02189607090367935,1112,605,344,163
+Micesterpiece.,1.6017369727047146,0.01817996725971676,1612,878,498,236
 "Yeah, I was impressed too ... until I realized 
-he was just painting by numbers.",1.5951070336391437,0.017899547314349507,1635,893,511,231
-Looks like we’ll need to start from scratch. The drug was meant to make him run faster.,1.592814371257485,0.025966764782811645,835,474,227,134
+he was just painting by numbers.",1.5947432762836187,0.01789230097045922,1636,894,511,231
+Looks like we’ll need to start from scratch. The drug was meant to make him run faster.,1.5925925925925926,0.02591894272040821,837,475,228,134
+We found him in the Met's cafeteria.,1.5858585858585859,0.0194779628521141,1386,770,420,196
 Yet he couldn't get into Yale.,1.585209003215434,0.017702035599310245,2177,1381,318,478
-We found him in the Met's cafeteria.,1.5848375451263539,0.01946523205864968,1385,770,420,195
-"Well, he did intern at Disney.",1.5847840103159252,0.017240903943937597,1551,813,569,169
+"Well, he did intern at Disney.",1.5844072164948453,0.01723391104336356,1552,814,569,169
 This trivializes our work on monkeys with typewriters.,1.580191050779286,0.017783172380623966,1989,1218,388,383
 "If I'm being honest, I find his work to be a bit derivative.",1.5792349726775956,0.01826847211167144,1464,795,490,179
-He claims his name is Mickey Angelo and he was commissioned to paint it.,1.5781990521327014,0.025587794120013295,844,486,228,130
-That Bob Ross home video made quite an impact.,1.5771954674220963,0.01899146328151972,1412,784,441,187
-"This is embarassing, Jane. I paid him to write 'Will you marry me?'",1.5767869780608634,0.018929531818238494,1413,783,445,185
-And we call this terrarium the Ratican.,1.5765379113018598,0.019482660848980683,1398,792,406,200
-Behold. The Creation of Edam.,1.5752017608217168,0.01995253242982761,1363,782,378,203
-This one was raised without access to social media.,1.5698689956331877,0.03471658238734544,458,267,121,70
-"We bought him a wheel, but he insisted on the painting supplies",1.567103109656301,0.019682015159486824,1222,668,415,139
-Let's reschedule his dissection.,1.565459610027855,0.039271356666739754,359,211,93,55
+Behold. The Creation of Edam.,1.5779078273591807,0.019980229527943955,1367,783,378,206
+He claims his name is Mickey Angelo and he was commissioned to paint it.,1.5775147928994082,0.025566653075741904,845,487,228,130
+"This is embarassing, Jane. I paid him to write 'Will you marry me?'",1.5773851590106007,0.018933910660245256,1415,784,445,186
+That Bob Ross home video made quite an impact.,1.5767869780608634,0.018982413719502475,1413,785,441,187
+And we call this terrarium the Ratican.,1.5761258041458184,0.019473090915166292,1399,793,406,200
+Let's reschedule his dissection.,1.5694444444444444,0.03936432855777897,360,211,93,56
+This one was raised without access to social media.,1.567391304347826,0.03460975211670948,460,269,121,70
+"We bought him a wheel, but he insisted on the painting supplies",1.5669934640522876,0.019658491884506035,1224,669,416,139
 "Well, its good art, but its not great art.",1.5618374558303887,0.020435673351134057,1132,624,380,128
 It's OK.  But he doesn't get the cheese until he makes it through the maze.,1.561450044208665,0.02041177670114826,1131,623,381,127
 Actually his best work is as a sculptor.,1.5609973285841496,0.02040403759147959,1123,617,382,124
@@ -64,8 +64,8 @@ A janitor captured this guy around 2:00 a.m. at the Met's European Paintings col
 I don’t have the heart to tell him God doesn’t exist.,1.5272244355909694,0.02534313899070868,753,444,221,88
 Just wait until they discover surrealism.,1.525,0.025610683788062038,720,422,218,80
 "I miss the days when you could be a caption finalist, by writing a funny caption (as opposed to simply receiving votes from fans of your New Yorker Cartoon Caption Contest podcast, Facebook page, Instagram page, and Twitter page).",1.5150720838794234,0.030604815220263825,763,547,39,177
-"Yes, it’s impressive, but if you read his poetry you’ll see he’s really quite depressed.",1.5133079847908746,0.030649132828418406,526,320,142,64
 Wow! But where did she find the parts for the scaffolding?,1.5125786163522013,0.025707411816588744,636,364,218,54
+"Yes, it’s impressive, but if you read his poetry you’ll see he’s really quite depressed.",1.5113636363636365,0.030563807340570213,528,322,142,64
 He calls it the Moustine Chapel.,1.5095238095238095,0.026555281472628697,630,370,199,61
 His rendering of God looks a lot like you Alice,1.5083892617449663,0.028347114321159928,596,361,167,68
 "Yep,definitely a church mouse",1.5062937062937063,0.026728750805250362,715,446,176,93
@@ -75,19 +75,19 @@ Another useless side effect.,1.5042372881355932,0.02685465755328234,708,443,173,
 Who is going to tell him that the cage is upside down?,1.5,0.02970093226749325,546,336,147,63
 It's amazing what they're capable of when we take their smartphones away from them!,1.4960998439937598,0.027764481682215143,641,401,162,78
 Amazing what they can do once we remove the cell phones.,1.4945904173106646,0.028341795866216605,647,414,146,87
-I wonder if his angels will have tails?,1.4925925925925927,0.0293643210211957,540,332,150,58
+I wonder if his angels will have tails?,1.4916820702402958,0.02932413229941476,541,333,150,58
 Left-handedness seems to be correlated with artistic ability.,1.4909456740442657,0.028498568307689445,497,291,168,38
 These days they’ll do anything to avoid the rat race.,1.487603305785124,0.030321302121288196,484,295,142,47
-It's fascinating what they will do when they’re not distracted by a treadmill.,1.4873737373737375,0.0347545937138493,396,248,103,45
 Did we over-tweak his right brain?”,1.487369985141159,0.028915829820377402,673,450,118,105
 And yet he failed the maze.,1.486697965571205,0.02860726186835128,639,415,137,87
+It's fascinating what they will do when they’re not distracted by a treadmill.,1.486146095717884,0.03468867021778232,397,249,103,45
 We never gave him a name. I wonder what he’ll sign it.,1.4821052631578948,0.029095315707547902,475,282,157,36
 Quick!  Come take a look at this!  See?  I told you he was left handed.,1.4816053511705685,0.028857452340692834,598,384,140,74
-We were just testing a new laxative so this was a bit of a surprise.,1.4807692307692308,0.040081515714563816,312,201,72,39
+We were just testing a new laxative so this was a bit of a surprise.,1.480891719745223,0.039889724866950936,314,202,73,39
 "Martha,do you still have that little block of marble?",1.4789762340036563,0.030864370940162686,547,359,114,74
 He’s in his Blue Cheese Period,1.4738805970149254,0.03043566628563754,536,348,122,66
+Do you think we should tell him there's no future in the arts?,1.4738372093023255,0.03656608036325584,344,217,91,36
 Nearly finished. Get the marble.,1.473809523809524,0.03274673402640302,420,263,115,42
-Do you think we should tell him there's no future in the arts?,1.4736842105263157,0.03672174018734213,342,216,90,36
 All I had to do was take away his phone for two hours.,1.47119341563786,0.03237758674796427,486,320,103,63
 Incredible. He’s left-handed.,1.46900826446281,0.03234255890996212,484,319,103,62
 And to think... he considers himself a sculptor.,1.467741935483871,0.029414829357288164,558,362,131,65
@@ -191,12 +191,12 @@ We've got to tell the Pope!,1.40117994100295,0.03683176535690811,339,240,62,37
 "Sure, we're impressed.  But we're scientists. What do we know about art?",1.3993399339933994,0.03661523824033371,303,207,71,25
 It's like he's lost all interest in the piano,1.3993399339933994,0.03864804139138136,303,214,57,32
 Their favorite subject is always the big cheese.,1.3986486486486487,0.03752529448635814,296,204,66,26
-One mouse's ceiling is another mouse's masterpiece.,1.3982300884955752,0.041162863817138434,226,152,58,16
 Not bad for a sculptor.,1.397923875432526,0.04001014419938975,289,206,51,32
 "We call this one the Ratican, and just wait until you see Rodent’s The Thinker.",1.3976377952755905,0.043003283068751764,254,182,43,29
 "I said 'fresh coat,' not 'frescoes.'",1.3975903614457832,0.03433065956271924,332,225,82,25
 It's quieter than that damn wheel.,1.3970588235294117,0.03477663023164184,340,234,77,29
 The control group just doodles.,1.3969465648854962,0.03875711504256441,262,178,64,20
+One mouse's ceiling is another mouse's masterpiece.,1.39647577092511,0.0410186606028898,227,153,58,16
 "Remarkable, even if it is paint by numbers.",1.3963636363636365,0.03747086700897503,275,186,69,20
 See?  Everyone thinks God looks like them.,1.3954802259887005,0.0354039996839837,354,250,68,36
 So how far have the monkeys gotten with Shakespeare?,1.394736842105263,0.04083686765596769,266,188,51,27
@@ -255,30 +255,30 @@ I still think we should market it as a weight loss drug.,1.378787878787879,0.038
 Always appreciate the lab animals from Italy.,1.3782608695652174,0.03850522622090252,230,155,63,12
 "I told you the ecstasy would ease the agony.""",1.3781512605042017,0.03669848052871839,238,158,70,10
 Too bad the Pope is cranky about pets.,1.3775510204081634,0.04461042030085623,196,137,44,15
+"By golly, he's finally turned the page from that God awful cubism phase.",1.3775100401606426,0.04113976794171019,249,178,48,23
 I didn't know he is left-handed.,1.3767605633802817,0.037444133757082276,284,200,61,23
 This explains the big naked cheese sculpture in the maze.,1.3764705882352941,0.04118418948802908,255,184,46,25
 "Let’s name it Rodentus Michelangelis.""",1.3759124087591241,0.03587680339013238,274,187,71,16
 We'll get to the bottom of this. I sent his DNA to 23 and Me. .,1.3756097560975609,0.041515425786133014,205,140,53,12
 """He watched a YouTube video.""",1.3754940711462451,0.037847883038186134,253,174,63,16
 I was already impressed when he built the scaffold.,1.375,0.04162311075075884,248,179,45,24
-"By golly, he's finally turned the page from that God awful cubism phase.",1.375,0.04122903692422805,248,178,47,23
 "He’s doing great — to pass the test, he just needed to assemble the scaffolding.",1.375,0.041517122293085656,232,164,49,19
-"I agree about the painting, but the true genius was in building the scaffold!",1.375,0.03928317712723175,272,195,52,25
 Just amazing! How did he ever build that scaffold?,1.3740458015267176,0.04035167411167371,262,189,48,25
 A better question might be where did he get the paint and brush.,1.3740458015267176,0.04035167411167371,262,189,48,25
 They say you should paint what you know.,1.3739837398373984,0.03898358023204089,246,171,58,17
 "Yeah, but is it art?",1.3739495798319328,0.04162226561567809,238,170,47,21
+"I agree about the painting, but the true genius was in building the scaffold!",1.3736263736263736,0.039163115229924716,273,196,52,25
 Ok now let’s give him psilocybin and see if we get surrealism.,1.3735849056603773,0.04141837301152707,265,195,41,29
 We fed this one artisanal cheese.,1.3733905579399142,0.040920259238689166,233,164,51,18
 And he speaks Italian too!,1.3733333333333333,0.036298444992608946,300,212,64,24
 "All we had to do was switch from Cheddar to Mozzarella. Fascinating.""",1.3730407523510972,0.036155652813362346,319,229,61,29
-Isn't it amazing that he built that scaffolding all by himself?,1.3726235741444868,0.03912573323774118,263,187,54,22
 We are witnessing the greatest mice-tro of his generation!,1.372093023255814,0.03648820165814638,258,176,68,14
 "Oh my!  He is left-handed,too",1.3717472118959109,0.040255467634905485,269,196,46,27
 …well this is an unexpected outcome of the drug,1.3716814159292035,0.04131057539383413,226,159,50,17
 "In this version, God is reaching out to Edam.",1.3715415019762847,0.041739555823356506,253,185,42,26
 He's left handed?,1.3714285714285714,0.037757721422617865,280,199,58,23
 "Well, he's no Jackson Pollock.",1.37123745819398,0.0369714769119845,299,214,59,26
+Isn't it amazing that he built that scaffolding all by himself?,1.371212121212121,0.03900279550008227,264,188,54,22
 "Well, I'll be. He's Italian.",1.3711790393013101,0.03997858675179234,229,159,55,15
 "Tell the monkey to finish up the tapestries""",1.3708333333333333,0.0378086630592051,240,164,63,13
 "Interesting, yes. But his maze times are still lousy so the drug is a failure.",1.3707865168539326,0.039407222186060874,267,192,51,24
@@ -288,6 +288,7 @@ His own little Ratican City.,1.3695652173913044,0.042152758743789875,230,165,45,
 I’m more interested in how he built that scaffolding.,1.3693693693693694,0.040307739534328695,222,154,54,14
 "Unfortunately, because we didn’t establish a control group, we’ll never know if this is significant.",1.3692946058091287,0.04283616947148065,241,177,39,25
 The FDA will never approve this.,1.3692307692307693,0.0440529877682329,195,137,44,14
+It’s amazing what he does without the cat around.,1.3692307692307693,0.04523717408855789,195,139,40,16
 I told you limiting his screen time would work!,1.3691588785046729,0.04288641541588831,214,152,45,17
 You'd think a churchmouse would have a more accurate depiction of God.,1.369047619047619,0.04029051120217487,252,181,49,22
 You call the auction houses. I'll call the Pope.,1.3689839572192513,0.04660274757616488,187,134,37,16
@@ -303,8 +304,6 @@ You should see the group who tested the Van Gogh batch.,1.3670411985018727,0.033
 I didn't know it would take this long when I commissioned it.,1.3666666666666667,0.041277822985059026,240,173,46,21
 You should see his David. Sculpted completed out of  mozzarella.,1.3665338645418326,0.041921741634951104,251,185,40,26
 Your guess is as good as mine- we gave this one the placebo,1.3661417322834646,0.04079537010256282,254,185,45,24
-"It’s a little derivative, no?",1.3660714285714286,0.04196824677694896,224,160,46,18
-It’s amazing what he does without the cat around.,1.365979381443299,0.045353358034720286,194,139,39,16
 Looks like the ADHD meds are working.,1.3657407407407407,0.04305978094165548,216,155,43,18
 And this is just the placebo.,1.3657407407407407,0.041010723551273734,216,151,51,14
 He's getting to the part where he and Godzilla touch paws,1.3654618473895583,0.0368255015610293,249,171,65,13
@@ -314,12 +313,13 @@ Yeah...but can he paint sitting up?,1.365296803652968,0.03683474062789907,219,14
 "Well, I think it's about time we stop testing on animals.""",1.365296803652968,0.0431219218089853,219,158,42,19
 And we thought all she could do was build scaffolding.,1.365,0.04144227686261687,200,138,51,11
 I'd say the shrooms have definitely kicked in.,1.3649289099526067,0.04219771464248129,211,149,47,15
-This one shows the interesting result of combining the Adderall with holy water.,1.3648068669527897,0.040801731208259195,233,166,49,18
 She's extremely talented --we call her our mice-tro.,1.3647058823529412,0.04027893192060533,255,185,47,23
 Guess he didn’t get placebos.,1.3644859813084111,0.04178094375614904,214,151,48,15
 I don't know...it seems derivative to me.,1.3644444444444443,0.0427514864578562,225,163,42,20
+"It’s a little derivative, no?",1.3644444444444443,0.041812970654943694,225,161,46,18
 They call him Mickey Angelo,1.3643724696356276,0.03958377587361084,247,176,52,19
 He's watched all 29 seasons of Bob Ross's Joy of Painting,1.364,0.04005538334531026,250,180,49,21
+This one shows the interesting result of combining the Adderall with holy water.,1.3632478632478633,0.04065689194223917,234,167,49,18
 He's very creative but he wasn't able to figure out the maze.,1.3628691983122363,0.036567984566622545,237,161,66,10
 Whichever drug is being tested on her let's license it immediately,1.3628318584070795,0.038722924085951495,226,156,58,12
 Now watch what happens when we turn the WiFi back on.,1.3628318584070795,0.040217644760246064,226,159,52,15
@@ -374,7 +374,6 @@ I never knew he was Catholic,1.3548387096774193,0.038916993057552064,248,178,52,
 "Naming them after artists seemed cute at the time, but now I'm scared to look in Salvador Dalí's tank.",1.3548387096774193,0.043250102074657716,217,159,39,19
 This always happens when you agree to pay by the hour.,1.3548387096774193,0.04655547173952357,186,136,34,16
 I don't have the heart to tell him this has been done before.,1.3547008547008548,0.04052945266271738,234,169,47,18
-Now that’s self actualization,1.354679802955665,0.0408605709729428,203,142,50,11
 "This is nothing, the last one could cook!",1.3546511627906976,0.04492702239046527,172,121,41,10
 Classic overacheiver.,1.3542857142857143,0.043656475721138274,175,122,44,9
 This one's name is Mickey Angelo.,1.3542600896860986,0.041924151595802144,223,162,43,18
@@ -382,6 +381,7 @@ I guess Bob Ross really can teach anyone to paint.,1.3541666666666667,0.04489561
 I liked his last piece better.,1.3534883720930233,0.038763457036379234,215,149,56,10
 Now we know what the placebos do.,1.353448275862069,0.042106701963740785,232,171,40,21
 "If we set him free, his progeny will transform New York graffiti",1.353191489361702,0.042576825588095425,235,175,37,23
+Now that’s self actualization,1.3529411764705883,0.04069693587411839,204,143,50,11
 Amazing - he built a scaffold!,1.3529411764705883,0.04465766284221844,204,150,36,18
 "Next week, we're giving him a hammer and chisel and a big block of marble.",1.3527131782945736,0.0393947016826464,258,189,47,22
 "Once the amphetamines kick in, we'll get him to do a Pollock.",1.3526970954356847,0.041376043210151606,241,178,41,22
@@ -409,7 +409,6 @@ It's just unfortunate they're colorblind.,1.35,0.0462598656580564,180,131,35,14
 "Forget about any side effects, I wonder if he has an agent.",1.3497757847533631,0.039365726472931774,223,158,52,13
 Reincarnation's a bitch.,1.3497536945812807,0.04530524448553599,203,151,33,19
 "They are very active at night, but I had no idea!""",1.349726775956284,0.04301211020510221,183,129,44,10
-Most of our funding comes from commissions.,1.3495575221238938,0.042854159337356645,226,168,37,21
 I was impressed when he turned his spinning wheel in to scaffolding.,1.3494623655913978,0.04646308801614987,186,137,33,16
 "Sure, it’s impressive, but he moves his lips when he reads in Latin.",1.3492822966507176,0.04329924940138411,209,153,39,17
 I guess that MFA wasn’t a waste after all.,1.3492822966507176,0.04111932026319609,209,149,47,13
@@ -420,6 +419,7 @@ We will call him Mickeylangelo,1.3484162895927603,0.038528023452322174,221,155,5
 I didn’t know he was Catholic!,1.3482142857142858,0.039220689007641085,224,159,52,13
 You’re overly impressed. It’s very derivative.,1.3482142857142858,0.038186196098004464,224,157,56,11
 This particular breed we sourced from Italy...,1.3480176211453745,0.04034533010849213,227,164,47,16
+Most of our funding comes from commissions.,1.3480176211453745,0.04269273750954983,227,169,37,21
 Don’t be so impressed. He’s actually doing it all by number.,1.3480176211453745,0.041300306673941904,227,166,43,18
 How much cheese did you promise him?,1.3478260869565217,0.04281991469958228,184,130,44,10
 "This species is promising, but remember that humans showed similar ingenuity and you know how that one ended",1.3478260869565217,0.047427005108667056,184,137,30,17
@@ -501,7 +501,6 @@ So do you think that God might be a mouse?,1.3388888888888888,0.0467197681978930
 That was not the side-effect I had expected...,1.3388888888888888,0.046050662254022726,180,133,33,14
 "Still no weight loss, but maybe not a total failure.",1.3388888888888888,0.044682401470517406,180,131,37,12
 "Remember when we joked that ""Mickey"" was a nickname for Michelangelo?",1.3387978142076502,0.04484958732998979,183,134,36,13
-He’s working for the exposure.,1.3386243386243386,0.04320547289134022,189,137,40,12
 "It's very good, but you should see his 'Pietà!'",1.3385416666666667,0.04144622916956838,192,137,45,10
 "Turns out, all we had to do was take away his iPad.",1.3385416666666667,0.04641217606293041,192,145,29,18
 That's a happy little cloud.,1.3384615384615384,0.03971266693289482,195,137,50,8
@@ -511,6 +510,7 @@ How are we going to explain this one as a potential side effect on the package i
 Yes! God is depicted wearing a lab coat.,1.3373493975903614,0.045661913659749906,166,120,36,10
 I think we're ready to launch our subway beautification campaign!,1.3372093023255813,0.04962865655833875,172,131,24,17
 You should see his sculptures.,1.3369565217391304,0.04189780118342866,184,131,44,9
+He’s working for the exposure.,1.3368421052631578,0.04301441193568909,190,138,40,12
 We've found it! We've isolated the Michelangelo gene!,1.3367875647668395,0.043185448389040544,193,141,39,13
 All this with a placebo. Just imagine what he'll do while on meds.,1.3365384615384615,0.041580822296998284,208,152,42,14
 Five Hundred years from now people will suspect he was gay.,1.3364928909952607,0.04382650926609699,211,159,33,19
@@ -697,14 +697,12 @@ When the Rat Pope gives you a job you don't ask questions.,1.3177083333333333,0.
 Side effects may include renaissance.,1.3176470588235294,0.044482192678532165,170,126,34,10
 Gene splicing was easy.  The hard part was finding the tiny brush and palette.,1.3174603174603174,0.044051916448666795,189,143,32,14
 This one's on loan from the Vatican.,1.3174603174603174,0.04275507878767893,189,141,36,12
-Quick! Get the typewriters into  the monkey cage!,1.3174603174603174,0.044051916448666795,189,143,32,14
 So few work in red dye anymore.,1.3173652694610778,0.03900669535620453,167,117,47,3
 But the assignment was art deco.,1.3173652694610778,0.04659212470628737,167,126,29,12
 He's just bored.,1.3173652694610778,0.045811365595815993,167,125,31,11
 Now that’s what I’d call an unanticipated side effect.,1.3173652694610778,0.041688810048859756,167,120,41,6
 You can see now why we named him Al Fresco.,1.3172413793103448,0.047649189260170415,145,107,30,8
 Thank God - this proves they are still centuries behind us.,1.3172043010752688,0.04388995321170083,186,140,33,13
-"Yeah this is nice, but I still don't see how it helps with the maze...",1.3170731707317074,0.04474151204383071,164,121,34,9
 I think we can leave this side effect out of the clinical trial report.,1.3170731707317074,0.046383577892856874,164,123,30,11
 His other skills include karate and mentoring young turtles.,1.3169014084507042,0.051323234009576925,142,108,23,11
 "I wish we'd just stick to mazes.""",1.3167701863354038,0.03883229614970409,161,112,47,2
@@ -712,6 +710,7 @@ Is it derivative or transformative?,1.3167701863354038,0.04529266480488743,161,1
 My hypothesis was correct! Quarantine does wonders for the creative mind!,1.3165829145728642,0.038714193807177846,199,144,47,8
 So he considers us as gods?,1.316546762589928,0.045706004087159365,139,100,34,5
 "We never should have let him watch ""The Agony and the Ecstasy.""",1.3164556962025316,0.046733678783509286,158,118,30,10
+And to think just a week ago he was doing portrait caricatures on the subway.,1.3164556962025316,0.04497538685184743,158,116,34,8
 Mickey Angelo is on a roll.,1.3163841807909604,0.03854476227898043,177,125,48,4
 "Actually, he’s the control group. He just does art for art’s sake.",1.3161764705882353,0.04972933919455295,136,101,27,8
 "“Well, I’d say we definitely stick with the provolone.”",1.3161290322580645,0.047346726411212244,155,116,29,10
@@ -720,6 +719,7 @@ This will definitely go a long way to redefining gerbilling.,1.3160919540229885,
 You'd think he'd at least come up with an original idea.,1.3160621761658031,0.042113389137328656,193,144,37,12
 I think switching from American cheese to Parmesan has had a notable effect.,1.3157894736842106,0.04706537194088697,152,113,30,9
 "He’s a terrible maze runner, but he has his strengths.”",1.3157894736842106,0.04103383973595671,171,123,42,6
+Quick! Get the typewriters into  the monkey cage!,1.3157894736842106,0.04385129410813497,190,144,32,14
 Those clouds don't look realistic. They're too fluffy.,1.3155080213903743,0.03651839066267252,187,131,53,3
 "We gave up on the monkeys and typewriters, but somehow this one worked!",1.3154761904761905,0.04398515133648947,168,124,35,9
 "Amazing, but who's gonna believe a mouse can play the trumpet?",1.3154761904761905,0.044788162917489625,168,125,33,10
@@ -728,6 +728,7 @@ The funding comes from Disney; it's going to depict the Creation of Mickey Mouse
 you know Ratzinger”",1.3154362416107384,0.04575905984971822,149,109,33,7
 "Shh, let's be as quiet as a chapel mouse.",1.315217391304348,0.040678125407665335,184,134,42,8
 He liked this better than the wheel.,1.315217391304348,0.041401768294655285,184,135,40,9
+"Yeah this is nice, but I still don't see how it helps with the maze...",1.3151515151515152,0.044511025404519275,165,122,34,9
 Mickyangelo may skew our study.,1.3151515151515152,0.03627730575022408,165,113,52,0
 We injected it with fragments of Michelangelo DNA.,1.3151515151515152,0.046141641091063744,165,124,30,11
 "We named him Splinter, but it appears he'd prefer Michelangelo.",1.3150684931506849,0.04737155984200183,146,108,30,8
@@ -748,6 +749,7 @@ you were right about the glue trap,1.3136094674556213,0.044561472030759774,169,1
 Still- is it art?,1.3136094674556213,0.044561472030759774,169,126,33,10
 "‘Before this, he just did sewers.’",1.3135135135135134,0.04121260410671288,185,136,40,9
 He is in the Science field but it is not his true passion,1.3133333333333332,0.0483616749428836,150,113,27,10
+And he’s not even Italian.,1.3132530120481927,0.04669072166241609,166,126,28,12
 You should see his David!,1.3132530120481927,0.04428278942178168,166,123,34,9
 "Not bad, but can he also sculpt?",1.3132530120481927,0.03994832522565796,166,118,44,4
 "I dunno, I think it’s been done before.",1.312883435582822,0.04565617464114615,163,122,31,10
@@ -763,7 +765,6 @@ Is that your face on the judge of the underworld?,1.3121951219512196,0.038509879
 "That’s great, but still no cure for Lupus.",1.3121951219512196,0.036599710243879834,205,147,52,6
 They found him at the Vatican.,1.3121387283236994,0.043822785237046,173,129,34,10
 We discovered this one in the Cistern Chapel.,1.3121019108280254,0.04594757252133935,157,117,31,9
-And to think just a week ago he was doing portrait caricatures on the subway.,1.3121019108280254,0.04505019537444462,157,116,33,8
 I thought we named him Raphael,1.3121019108280254,0.04594757252133935,157,117,31,9
 Guess this isn’t the control.,1.3118279569892473,0.042418178925552386,186,139,36,11
 And she’s a lefty!!,1.311764705882353,0.04433696501451201,170,127,33,10
@@ -790,13 +791,13 @@ Let's approve this one for 'Succession syndrome'.,1.3103448275862069,0.037014246
 "We labeled the reward ""formaggio"" and this happened.",1.3099415204678362,0.043327815563287166,171,127,35,9
 "Not bad, but he had assistants you know.",1.3098591549295775,0.0481223702697873,142,106,28,8
 Should we publish or pretend that never happened?,1.3098591549295775,0.04490091488802172,142,103,34,5
+I wondered why he ordered that scaffold from Amazon!,1.3098591549295775,0.04707305385797126,142,105,30,7
 I can't wait for the professor to take all the credit for this,1.3096774193548386,0.04251000220947429,155,112,38,5
 My God Martha!.. So this is Bansky?,1.3095238095238095,0.046208066519710024,168,128,28,12
 We’re satisfying the dying wish of Pope Ratzinger.,1.3093922651933703,0.0445542802702292,181,138,30,13
 "Yes, yes, just like the Agony and the Extasy. How much extasy did you give him again?",1.3093922651933703,0.041707726785069454,181,134,38,9
 "I must admit being skeptical, Dr. Leon, when you ordered that little brush and palette.",1.3093525179856116,0.04880911141409572,139,104,27,8
 I told you he would respond to Italian Operas!,1.3091787439613527,0.03999570833951214,207,155,40,12
-And he’s not even Italian.,1.309090909090909,0.04678754944758078,165,126,27,12
 I told you this would be better than a hamster wheel.,1.309090909090909,0.045180251474455466,165,124,31,10
 More like the murine chapel!,1.309090909090909,0.04265589798929173,165,121,37,7
 So are we’re agreed then- increase the psilocybin dose and expose him to Dalí next?,1.309090909090909,0.04351362388126566,165,122,35,8
@@ -824,10 +825,10 @@ He's on loan from the Sistine Chapel.,1.3071895424836601,0.04474543459850608,153
 One more dose and he’ll reach Enlightenment.,1.306878306878307,0.04250707942476253,189,143,34,12
 I should have known when he asked for the scaffolding!,1.3068181818181819,0.040863972233281594,176,129,40,7
 Remarkable! And after only two hours of 'Bob Ross'...,1.3068181818181819,0.04242327611762838,176,131,36,9
-Can't wait to see his version of God.,1.3068181818181819,0.041650921857955,176,130,38,8
 "He insists we call him Micelangelo.""",1.3067484662576687,0.04549815022758074,163,123,30,10
 Remarkable! I can't believe he built that scaffold out of his bedding material!,1.3067484662576687,0.04549815022758074,163,123,30,10
 I think we are ready for the human trial now.,1.3067484662576687,0.04292855213042613,163,120,36,7
+Are you sure he had a microdose?,1.3067484662576687,0.04549815022758074,163,123,30,10
 The Rataissance,1.3066666666666666,0.04910534415679868,150,115,24,11
 "Sure the results are interesting, but how do we make a profit?",1.3065693430656935,0.04698058280335821,137,101,30,6
 "I think having him learn how to get through a maze would definitely be a waste of his potential, don't you?",1.3061224489795917,0.048854404673691405,147,112,25,10
@@ -845,9 +846,8 @@ Our own little Micealangelo.,1.305263157894737,0.04424393057164382,190,147,28,15
 …but the rest of them just died?,1.305263157894737,0.0409762300577292,190,142,38,10
 "Well it’s not a cure, but log the results on this one",1.305263157894737,0.04029090017866382,190,141,40,9
 How are the monkeys with typewriters coming along?,1.3051948051948052,0.04449866172519505,154,114,33,7
-That's amazing. He's left-handed.,1.305084745762712,0.044441052888565744,177,135,30,12
+Can't wait to see his version of God.,1.305084745762712,0.04145119829743398,177,131,38,8
 He claims some long distant uncle did the Vatican.,1.305084745762712,0.03987228573229332,177,129,42,6
-I wondered why he ordered that scaffold from Amazon!,1.3049645390070923,0.047151120960552205,141,105,29,7
 … but the cosmology makes no sense!,1.3048780487804879,0.04091762140898773,164,119,40,5
 Forget the research! Find out how to start a YouTube channel.,1.3048780487804879,0.04607767286107956,164,125,28,11
 "Whoa, he’s Catholic.",1.3048780487804879,0.04357409596343864,164,122,34,8
@@ -871,6 +871,7 @@ And then God created cheese”,1.3035714285714286,0.04285149901056961,168,125,35
 By comparison the other mice are losers.,1.303448275862069,0.04302291326945495,145,105,36,4
 "Do you believe in reincarnation, Jane?",1.303448275862069,0.04925123054167483,145,111,24,10
 It's best not to know what its using for paint.,1.303448275862069,0.046242052160669976,145,108,30,7
+That's amazing. He's left-handed.,1.303370786516854,0.044223904692031926,178,136,30,12
 I never realized Mickey was short for Michelangelo.,1.303370786516854,0.04700716577805104,178,140,22,16
 And we've been feeding THIS one Parmigiano.,1.303225806451613,0.04700871533023784,155,118,27,10
 I hear his brother is a famous chef in America.,1.303225806451613,0.04425446616235717,155,115,33,7
@@ -886,7 +887,6 @@ Maybe we should wait till he's done before dissecting him.,1.3027027027027027,0.
 Yes. But who commissioned this?,1.3026315789473684,0.04073166841414003,152,109,40,3
 We call her Michelleangela.,1.3024691358024691,0.044727794296295496,162,122,31,9
 I hope she will draw me in the middle.,1.3024691358024691,0.03724413636801793,162,114,47,1
-Are you sure he had a microdose?,1.3024691358024691,0.045576932967382196,162,123,29,10
 quarantine really got to him,1.3024691358024691,0.04386222003627037,162,121,33,8
 Wait til you see him with a hammer and chisel.,1.302325581395349,0.04134579417903895,172,127,38,7
 Escaping the rat race has really given him time to focus on his art.,1.3021582733812949,0.04860119913216153,139,105,26,8
@@ -902,7 +902,6 @@ If only he’d show this much interest in his music lessons!,1.3018867924528301,
 "We think he's a genius. We won't know for certain, of course, until we dissect his brain.",1.3018867924528301,0.04700632443777409,159,122,26,11
 "Quick, call the Christian Science Monitor!",1.3018867924528301,0.04439324328599177,159,119,32,8
 I'm pretty sure that ceiling hasn't been primed.,1.301775147928994,0.042635042053683014,169,126,35,8
-He got bored with the mazes.,1.301775147928994,0.043453298943279386,169,127,33,9
 The Ratican.,1.301775147928994,0.043453298943279386,169,127,33,9
 It’s Pope Ratzinger reincarnated.,1.301775147928994,0.04094950615880425,169,124,39,6
 "Wow, this drug is going to put art schools out of business.",1.3015873015873016,0.04816616907944171,126,93,28,5
@@ -924,6 +923,7 @@ He prefers to work at night and will only accept payment in Italian cheeses,1.30
 "I’d prefer something less derivative. Luckily, our only objective is finding out if the paint causes cancer.",1.3,0.044119530813060304,190,148,27,15
 "Impressive, but derivative.",1.3,0.044155243568473196,160,120,32,8
 All of the other rats mocked him because he couldn't set up his own scaffolding. Who's laughing now,1.3,0.041398508161374845,160,117,38,5
+He got bored with the mazes.,1.3,0.04323339390753816,170,128,33,9
 "No, we named him Michelangelo because of his temperament. I never imagined him taking it this far!",1.3,0.04086282331151638,180,134,38,8
 Too derivative.,1.3,0.046749701509153696,160,123,26,11
 "So, we CAN come back as an animal!",1.3,0.048409404902408845,130,97,27,6
@@ -931,6 +931,7 @@ Too derivative.,1.3,0.046749701509153696,160,123,26,11
 "Amusing, but derivative.",1.3,0.03988322669578336,170,124,41,5
 I think we fed him too much Gorgonzola,1.3,0.039000745215866946,170,123,43,4
 "If you think this is good, you should see his David.",1.3,0.04242066364980727,170,127,35,8
+Should we let her finish before we dissect?,1.3,0.04499628853028341,140,103,32,5
 This seems to indicate that creation myths are not species-specific!,1.3,0.04242066364980727,170,127,35,8
 Why they would honor a God who made them perfect laboratory specimens is beyond me.,1.3,0.047225160956190816,140,105,28,7
 "Well, at least this is a lot quieter than when he was going through that ‘David’ phase.",1.3,0.048002609921587766,150,115,25,10
@@ -938,7 +939,6 @@ Looks like we have ourselves a little Mousechelangelo.,1.2994350282485876,0.0397
 He keeps asking for his wheel back.,1.2994350282485876,0.04129778033961663,177,132,37,8
 Not JUST a churchmouse,1.2994011976047903,0.041188401097352285,167,123,38,6
 How on earth did it make that scaffolding ?,1.2993630573248407,0.0482123414400231,157,122,23,12
-It looks like this fella has a very high ceiling,1.2993630573248407,0.04469667322986063,157,118,31,8
 You were right; that maze was too elementary for him.,1.2993630573248407,0.04283075954452274,157,116,35,6
 The years developing that tiny paint set were worth it.,1.2993197278911566,0.04570344578181838,147,110,30,7
 Would it take a cheesy offer to paint our bedroom ceiling?,1.2992700729927007,0.04899698501915311,137,104,25,8
@@ -968,6 +968,7 @@ I can’t wait to see his image of Adam.,1.2976190476190477,0.04098126646225077,
 "Update our notes, test group C going through Renaissance period",1.2976190476190477,0.04268531597293645,168,126,34,8
 And just yesterday he asked what I had accomplished in my life.,1.2975206611570247,0.047881609188797684,121,89,28,4
 "You’re right, this one is displaying some unusual behavior.  Let’s prepare the dissection table.",1.2975206611570247,0.05067672633638312,121,91,24,6
+It looks like this fella has a very high ceiling,1.2974683544303798,0.04445327865274731,158,119,31,8
 The new ADHD drugs might be getting too good.,1.2974683544303798,0.04709533892254246,158,122,25,11
 We've created Mickeyangelo.,1.2972972972972974,0.04543861890324254,148,111,30,7
 I thought we named this mouse DaVinci.,1.2972972972972974,0.04221004241445513,185,141,33,11
@@ -1018,7 +1019,6 @@ I told you that organic food is better,1.2951807228915662,0.042954140865998976,1
 I just knew playing Mozart while in the womb would yield something special.,1.2950819672131149,0.05544284720637338,122,96,16,10
 Impressive.  The other mice can only do modern art.,1.2949640287769784,0.046179484885844745,139,104,29,6
 I sure wish he’d cover up their penises with fig leaves,1.2949640287769784,0.04265854639642597,139,101,35,3
-Should we let her finish before we dissect?,1.2949640287769784,0.04503643424791367,139,103,31,5
 All this from just one CBD gummy!,1.2949640287769784,0.046179484885844745,139,104,29,6
 Painting in the nude?! That's a first.,1.2949640287769784,0.04386360672825866,139,102,33,4
 "I mean, I know he's a rat and everything, but it's not very good... is it?",1.2947976878612717,0.04336828143188591,173,132,31,10
@@ -1056,7 +1056,6 @@ Ah “Mice-celangelo”,1.2933333333333332,0.04287922445234526,150,111,34,5
 Ratatouille has nothing on us!,1.2932330827067668,0.04500823307285206,133,98,31,4
 I guess the Smashing Pumpkins were wrong.,1.2932330827067668,0.04747192199022139,133,100,27,6
 This mf really be paintin and shit,1.2929936305732483,0.04263601794106621,157,117,34,6
-"Wasn’t expecting that reaction from placebo, wonder what the new drug will do?",1.292857142857143,0.043600103448292474,140,103,33,4
 The drugs have taken effect.,1.292817679558011,0.042003486870161796,181,138,33,10
 I think I know what happened to you edibles,1.2926829268292683,0.051281988767931885,123,94,22,7
 I'm hoping to find one that can help me write my thesis!,1.2926829268292683,0.04322722151193844,164,124,32,8
@@ -1093,6 +1092,7 @@ Let’s sample his DNA and see if he has Italian ancestry.,1.2911392405063291,0.
 "If we list this as a side effect, will people still want the boner medicine?",1.290909090909091,0.03749174022676823,165,119,44,2
 "Ars longa, vita brevis",1.290909090909091,0.03941383317118817,165,121,40,4
 He's taking his teacher's pet efforts to a new level.,1.290909090909091,0.04300104144408385,165,125,32,8
+"Wasn’t expecting that reaction from placebo, wonder what the new drug will do?",1.2907801418439717,0.04333957607460064,141,104,33,4
 I wish B.F. Skinner was around to see this!,1.2906976744186047,0.04017214262495875,172,128,38,6
 Genealogy records indicate he's Italian.,1.2905405405405406,0.04314934533446183,148,110,33,5
 It's not the Sistine Chapel!,1.2905405405405406,0.04522967310855908,148,112,29,7
@@ -1117,7 +1117,6 @@ This is $3.25B well spend!,1.2900763358778626,0.045319443741206736,131,97,30,4
 I guess he didn't like the poster we put up to amuse him.,1.2899408284023668,0.043930297854750236,169,130,29,10
 The Sistine Terrarium!,1.2899408284023668,0.04229641017081357,169,128,33,8
 "His technique is sound, but he's a little shaky on doctrine.",1.289855072463768,0.04846408395601442,138,106,24,8
-A cure for Modernism?! You must publish at once!,1.289855072463768,0.04736011941389737,138,105,26,7
 I think we underestimated Leonardo.,1.289855072463768,0.04846408395601442,138,106,24,8
 He says he'll be done when he's done.,1.289855072463768,0.043881902220706336,138,102,32,4
 "Can we say ""laid back"" as a side effect?",1.289855072463768,0.04736011941389737,138,105,26,7
@@ -1129,7 +1128,6 @@ Hard to believe last year he was delivering pizza.,1.289617486338798,0.042319933
 His introduction to Italian culture began with a slice of pizza on a staircase. Now look at him!,1.289617486338798,0.04506854511967139,183,145,23,15
 She looks at life from both sides now…,1.2894736842105263,0.036969188465623214,190,140,45,5
 Saying this new ADHD drug is promising seems like an understatement,1.2894736842105263,0.04341590324040133,152,114,32,6
-If he'd just go get the cheese like we asked...,1.2894736842105263,0.04029299600374564,152,111,38,3
 It's not as impressive as you think.  That's color by numbers.,1.2893081761006289,0.04492021777846088,159,122,28,9
 "Quick, what was the last clinical trial this one was in.",1.2893081761006289,0.039244833925808686,159,116,40,3
 And you had to go and name him Michelangelo.,1.2893081761006289,0.04579778882396355,159,123,26,10
@@ -1148,11 +1146,11 @@ When did we give him paint?,1.2885906040268456,0.04596477923292277,149,114,27,8
 … and they’re not using AI!,1.2884615384615385,0.04548208400724728,156,120,27,9
 "He's come a long, long way from his internship as a common vermin in the Medici's kitchen.",1.2884615384615385,0.04638246383689735,156,121,25,10
 This specimen watched only The Joy of Painting with Bob Ross.,1.2882352941176471,0.042900604972475144,170,130,31,9
-Very repetitive. This is his sixteenth chapel.,1.2882352941176471,0.0460316899983204,170,134,23,13
 We did recently switch to Romano cheese,1.2881355932203389,0.03855417147289064,177,131,41,5
 This will look impressive in his college application!,1.2881355932203389,0.043262364131976316,177,137,29,11
 You think THIS doesn't make sense? What if I told you a 'rat pope' commissioned all this?!,1.2880434782608696,0.03843181629596163,184,137,41,6
 "Little does he know, AI will replace him, too.",1.288,0.05056583061521339,125,96,22,7
+A cure for Modernism?! You must publish at once!,1.2877697841726619,0.04706438389614814,139,106,26,7
 I'm just a little surprised.  His watercolors are always secular.,1.2877697841726619,0.044794278679462896,139,104,30,5
 We shouldn’t have given him adderall.,1.2877697841726619,0.04594335443748853,139,105,28,6
 He's been like this since we put Romano cheese in the maze,1.2876712328767124,0.044497832219482995,146,110,30,6
@@ -1166,6 +1164,7 @@ And this one received a heroic dose.,1.2876712328767124,0.042321512846945075,146
 …and this experiment shows what happens when the subject is removed from the rat race,1.2876712328767124,0.04554701289352375,146,111,28,7
 At least it keeps him off that wheel at night!,1.2875816993464053,0.04317268249474997,153,115,32,6
 He is amazing now that he doesn’t just do cheese.,1.2875816993464053,0.04317268249474997,153,115,32,6
+If he'd just go get the cheese like we asked...,1.2875816993464053,0.04007346475881489,153,112,38,3
 The mouse statue made of cheese makes more sense now,1.2875,0.045546558527628525,160,124,26,10
 They really are smarter than we thought!,1.2875,0.04287936493357752,160,121,32,7
 He kinda outgrew the maze-running thing a long time ago.,1.2873563218390804,0.041415467854546674,174,132,34,8
@@ -1191,6 +1190,7 @@ I found him in the subway.,1.2866666666666666,0.04470801785532241,150,114,29,7
 All he needed was the proper tools.,1.2866666666666666,0.04159748171119138,150,111,35,4
 "Yeah, it's great, but where did he get the brush and paints?",1.286624203821656,0.03839308135886439,157,114,41,2
 We just learned he’s left-handed.,1.2865853658536586,0.042166777227855064,164,124,33,7
+Very repetitive. This is his sixteenth chapel.,1.286549707602339,0.04579274000390456,171,135,23,13
 "If it goes viral, we could cover research funds for the year.",1.2864864864864864,0.039015580445703545,185,139,39,7
 "Actually, we're lab-testing the inhalation of paint fumes.""",1.2857142857142858,0.04527841784495309,147,112,28,7
 But can we replicate the results without being accused of forgery?,1.2857142857142858,0.043351042389193226,140,104,32,4
@@ -1388,7 +1388,6 @@ And they say that Monkey typing Shakespeare is impressive.,1.277027027027027,0.0
 "But, he doesn’t have opposable thumbs!",1.277027027027027,0.045802828049788774,148,115,25,8
 Wait until I show this to Dr. Wolfgang and his “genius” typewriter monkeys…,1.277027027027027,0.047767733712967664,148,117,21,10
 It's not a side effect—it's a phase.,1.2769230769230768,0.050063030772570245,130,102,20,8
-We call him Mousekalangelo.,1.2769230769230768,0.04504736077316696,130,98,28,4
 "Impressive, yes, but what until you see what he does when you give him Camembert.",1.2769230769230768,0.04762127551191367,130,100,24,6
 "OMG, we have a Mouselangelo.",1.2769230769230768,0.043703593996958626,130,97,30,3
 Pizza rat is still more famous.,1.2769230769230768,0.04504736077316696,130,98,28,4
@@ -1408,7 +1407,6 @@ I swear it wasn’t like that when I left last night,1.276470588235294,0.0425459
 Find out who his patron is!,1.2764227642276422,0.04515852836409096,123,92,28,3
 Must’ve been the asiago.,1.2764227642276422,0.05071895867729957,123,96,20,7
 It's a queso fresco.,1.2763157894736843,0.04398002535160597,152,117,28,7
-"When its finished, we call Christies",1.2763157894736843,0.04495977096993022,152,118,26,8
 "At a certain point the Vatican's scientists found that God made mice, not man, in his image, a realization that started a Renaissance the Church felt compelled to crush.",1.2763157894736843,0.04591861693702519,152,119,24,9
 I don’t think we should work on that AI injection anymore.,1.2763157894736843,0.04685784627092813,152,120,22,10
 Call the vet.,1.2761194029850746,0.04417829314374187,134,101,29,4
@@ -1443,6 +1441,7 @@ You should see his sculpture of David. He carved it out a block of cheddar.,1.27
 Wow! That month in Italy is finally beginning to pay off!,1.2748538011695907,0.03981461657029319,171,130,35,6
 "Wow, this is surreal.",1.2748091603053435,0.047303613388792874,131,101,24,6
 "We are so going to nail the first combo-papal endorsed-Pulitzer, Nobel, Chuck E. Cheese award.",1.2748091603053435,0.048529080474831635,131,102,22,7
+We call him Mousekalangelo.,1.2748091603053435,0.04475211967542748,131,99,28,4
 This is what happens when you give Parmigiano.,1.2748091603053435,0.04342018428504746,131,98,30,3
 You know I hate tapas,1.2748091603053435,0.04204607700191757,131,97,32,2
 Quick! Call the Met.,1.2746478873239437,0.043730230428841936,142,108,29,5
@@ -1456,7 +1455,6 @@ I think we should classify this under 'unexpected side-effects'.,1.2741935483870
 He works on commision,1.2741935483870968,0.046287153869638685,124,94,26,4
 I guess all that time Splinter spent with those fighting turtles really paid off,1.2741935483870968,0.04484830286410075,124,93,28,3
 "Well, it’s not as if he had an original concept…",1.2741935483870968,0.04484830286410075,124,93,28,3
-This was the compromise after he said the astronaut pen didn’t work.,1.2741935483870968,0.04768260644001235,124,95,24,5
 We refer to this as the Ratican.,1.2740740740740741,0.04261962273509436,135,101,31,3
 "Once she’s finished, say goodbye to her running through another maze""",1.2740740740740741,0.046347677402674696,135,104,25,6
 Shamefully derivative. Textbook placebo effect.,1.2740740740740741,0.04513921666476789,135,103,27,5
@@ -1467,6 +1465,7 @@ Egad! The new vaccine made him artistic!,1.273972602739726,0.041829385499677504,
 "It’s a bit derivative, isn’t it?",1.273972602739726,0.04403003649623462,146,112,28,6
 You should see his statue of Mickey.,1.2738853503184713,0.04391009121393259,157,122,27,8
 It looks to be that he is painting The Creation of Edam,1.2738853503184713,0.04001823135901251,157,118,35,4
+"When he finishes the ceiling, let's see how he does on the walls.",1.2738095238095237,0.039332885937785216,168,127,36,5
 I told you he just needs time alone.,1.2738095238095237,0.037476711666518954,168,125,40,3
 He’s going to need more drugs.,1.2735849056603774,0.052831793070234584,106,82,19,5
 "No caption necessary, this cartoon is funny as hell.",1.2735849056603774,0.05613009351186232,106,84,15,7
@@ -1489,6 +1488,7 @@ Next I'll give him clay.,1.2727272727272727,0.04446056388300178,132,100,28,4
 Happy little clouds.,1.2727272727272727,0.045454545454545456,121,91,27,3
 It’s impressive but his sculptures are extraordinary.,1.2727272727272727,0.04699002641840444,132,102,24,6
 Banksy is a lot smaller than I'd imagined.,1.2727272727272727,0.04249330476752752,154,118,30,6
+"When its finished, we call Christies",1.2727272727272727,0.04444598773470116,154,120,26,8
 We got this Rodin in Auguste but disappointingly it only paints.,1.2727272727272727,0.04458440257755946,143,110,27,6
 "That’s nice, but how fast can she run the maze?",1.2727272727272727,0.03891143863671392,132,96,36,0
 """I think one little beak and the other little beak are going to  just barely touch.",1.2727272727272727,0.04065578140908709,165,126,33,6
@@ -1519,13 +1519,15 @@ Add may see God to the side effects.,1.2720588235294117,0.050559949279057416,136
 Amazing what classical conditioning can achieve!,1.272,0.04454211490264018,125,94,28,3
 "you know, animal right’s groups say he’s a tortured artist",1.272,0.04735044367404632,125,96,24,5
 I simply exposed him to three seasons of The Borgias.,1.272,0.04735044367404632,125,96,24,5
-Always Jackson Pollocks until this!,1.271604938271605,0.04109599199542368,162,124,32,6
+This was the compromise after he said the astronaut pen didn’t work.,1.272,0.04735044367404632,125,96,24,5
 This sure beats running on a wheel all day,1.271604938271605,0.0429213586724719,162,126,28,8
 It's Mouselangelo,1.271523178807947,0.03979392261101545,151,113,35,3
 Clouds as wheels of cheddar?,1.271523178807947,0.04400860324724808,151,117,27,7
 Ratican City's most famous painting reimagined!,1.271523178807947,0.04299368487374794,151,116,29,6
 "When we market this new drug, the art schools will be inundated.",1.271523178807947,0.04195422169785289,151,115,31,5
 "I’m telling you, Dr., gouda always gets results.",1.271523178807947,0.04299368487374794,151,116,29,6
+"OK. 
+Withold the Brie for one more day.",1.2714285714285714,0.04400651304553965,140,107,28,5
 We are so lucky to see Mice L. Angelo at work.,1.2714285714285714,0.04845279024062993,140,111,20,9
 The painting must be from the Michelangelo's DNA we used but where did the Disney caricatures come from?,1.2713178294573644,0.047658265997511384,129,100,23,6
 Looks like he’s out of his Medieval phase.,1.2713178294573644,0.04367995220769242,129,97,29,3
@@ -1568,7 +1570,9 @@ I think it loses something when it's all in gray-scale.,1.27007299270073,0.04334
 "What’s really amazing is 
 that he’s  doing it left-handed.",1.27007299270073,0.04456705721226429,137,105,27,5
 "The most impressive part is, he’s blind.",1.27007299270073,0.04575548923918324,137,106,25,6
+Always Jackson Pollocks until this!,1.2699386503067485,0.04087706707720505,163,125,32,6
 Who commissioned it? That's what I want to know.,1.2699386503067485,0.03898017302112011,163,123,36,4
+We just never thought of putting scaffolding and a paint set in their cages before!,1.2699386503067485,0.04268975681486347,163,127,28,8
 "To get him to finish, we had to agree to rename his cage Ratican City.",1.2699386503067485,0.04268975681486347,163,127,28,8
 We’ve seen this before.  It’s known as the Mice-elangelo syndrome.,1.2698412698412698,0.048354114957866096,126,98,22,6
 "Naw, get real.  He's not all that talented.  I wouldn't call anybody.",1.2698412698412698,0.04423989209306628,126,95,28,3
@@ -1583,7 +1587,6 @@ It's not just AI that's taking our jobs.,1.2695035460992907,0.04256163374546885,
 And this is the one we didn't give the covid vaccine to.,1.2695035460992907,0.04487902530437653,141,109,26,6
 The AI implantation is working very well.,1.2695035460992907,0.04256163374546885,141,107,30,4
 "He wasn’t going for the heroin, so we tried some LSD",1.2695035460992907,0.04256163374546885,141,107,30,4
-"When he finishes the ceiling, let's see how he does on the walls.",1.2694610778443114,0.03932656333431973,167,127,35,5
 Who vetted THIS project???,1.2692307692307692,0.04339286980010145,130,98,29,3
 "And to think, we were going to volunteer him for medical research.",1.2692307692307692,0.04857966124826325,130,102,21,7
 I appreciate his use of chiaroscuro but I just need him to run through a maze.,1.2692307692307692,0.042992058672073556,156,121,28,7
@@ -1655,8 +1658,6 @@ Reincarnation at work.,1.2666666666666666,0.041950931885420414,150,115,30,5
 "That's Ratangelo, he's still learning",1.2666666666666666,0.04694196508350526,120,92,24,4
 "They told me he’s Michelangelo’s distant cousin,  on his father’s side.",1.2662337662337662,0.036901242600698145,154,114,39,1
 I think we'd better clone this one.,1.2661870503597121,0.0474295372295419,139,110,21,8
-"OK. 
-Withold the Brie for one more day.",1.2661870503597121,0.044008723659549186,139,107,27,5
 The Rat Judgement: Magnifico,1.2661870503597121,0.044008723659549186,139,107,27,5
 I just want to say that I burst out laughing when I saw this image. It doesn’t need a caption.,1.2661870503597121,0.0474295372295419,139,110,21,8
 Incredible… but who gave him the brushes?,1.2661870503597121,0.041572093151920314,139,105,31,3
@@ -1676,7 +1677,6 @@ He’s out of control.  He is signing all his ceilings “Micelangelo”,1.26562
 "He says if these commissions keep rolling in,  he's going to need a ride to the cheese shop.",1.265625,0.0436470597159808,128,97,28,3
 He's a lot mellower since we started psilocybin micro-dosing.,1.2654320987654322,0.03993055266148707,162,124,33,5
 Our very own Mice-alangelo. Who knew?,1.2654320987654322,0.04087946026983866,162,125,31,6
-We just never thought of putting scaffolding and a paint set in their cages before!,1.2654320987654322,0.0427140813334007,162,127,27,8
 "Well Miss Dawson, we succeeded in turning him into a neurotic, so now he's an artist.",1.2653061224489797,0.04561319813620343,147,116,23,8
 A mouse aspiring to be a copy cat.,1.2653061224489797,0.039005590413673186,147,110,35,2
 He was the only one who’d do it for free,1.2653061224489797,0.04018238474300383,147,111,33,3
@@ -1750,7 +1750,6 @@ Derivative.,1.2625,0.04204622718063759,160,125,28,7
 It's unbelievable....rats can't play trumpets.,1.2624113475177305,0.042282149295294606,141,108,29,4
 And to think she was born under an F train,1.2624113475177305,0.043463746635826285,141,109,27,5
 Look at what they can accomplish without social media!,1.2624113475177305,0.0457354514224003,141,111,23,7
-I think he’s having a Renaissance,1.2624113475177305,0.044614060499096234,141,110,25,6
 Impressive; but let’s see the caption before making any definitive judgement.,1.2624113475177305,0.044614060499096234,141,110,25,6
 Do you know if Michelangelo was left-handed?,1.2624113475177305,0.04682999721764305,141,112,21,8
 ".  “Now, let’s remove a right brain to see if we get a mathematician.”",1.2624113475177305,0.0457354514224003,141,111,23,7
@@ -1815,7 +1814,7 @@ We told him Michelangelo actually painted standing up. He said “well I’m a r
 Ratatangello,1.2606060606060605,0.03636979499461691,165,124,39,2
 "WOW, who knew Ozempic had so many benefits!",1.2605633802816902,0.040818194582428635,142,108,31,3
 "Well, he's no Michaelango!",1.2605633802816902,0.040818194582428635,142,108,31,3
-Whoa ! I have never seen one like that before?,1.2605633802816902,0.0454498128977138,142,112,23,7
+I think he’s having a Renaissance,1.2605633802816902,0.04433729098140915,142,111,25,6
 "When we named him Michelangelo, I never expected this.",1.2605633802816902,0.04202398279359124,142,109,29,4
 We asked for something modern,1.2605633802816902,0.04433729098140915,142,111,25,6
 "He got sick of the other ways of testing makeup, and who can blame him?",1.2605633802816902,0.0454498128977138,142,112,23,7
@@ -1861,6 +1860,7 @@ He prefers Mr. Buonarroti.,1.2589928057553956,0.039990262468706225,139,105,32,2
 He’s elevated from painting by the numbers.”,1.2589285714285714,0.04528178561492274,112,85,25,2
 The other mice call him Salvador DALL-E,1.2589285714285714,0.04528178561492274,112,85,25,2
 "Nominative determinism or not, 'Mice-elangelo' is still a stupid name.",1.2587412587412588,0.04832798445906852,143,116,17,10
+Whoa ! I have never seen one like that before?,1.2587412587412588,0.0451676312546647,143,113,23,7
 "Unfortunately, the scientific journals won’t accept it because it’s paint-by-numbers.",1.2587412587412588,0.044063838426966706,143,112,25,6
 A regular mice-chelangelo.,1.2587412587412588,0.0451676312546647,143,113,23,7
 It's a clear stylistic advance  from the graffiti he left on the maze last week!,1.2586206896551724,0.042628568482303474,116,87,28,1
@@ -2061,7 +2061,6 @@ At first we thought Mickey was a minimalist.  Who knew?,1.2515337423312884,0.039
 If he can do this I bet he could invent a better mousetrap.,1.25,0.04301237438301157,112,85,26,1
 This could be his best work.,1.25,0.04807465345971242,124,99,19,6
 Rats were the best thing to come out of the Dark Ages!,1.25,0.048297927830185765,112,88,20,4
-"So, are you saying that the Sistine Chapel may have actually been painted by the Vatican mice?",1.25,0.052477812801650835,104,83,16,5
 The Rataissance has begun.,1.25,0.04660273245009,112,87,22,3
 "Yes, as suspected, vermin actually seem immune to politics.",1.25,0.04351941398892446,132,103,25,4
 You know... he didn't really lay on his back to paint the ceiling,1.25,0.047224304468501524,116,91,21,4
@@ -2156,6 +2155,7 @@ This beats Ratatouille all to hell!,1.2477064220183487,0.04904103024434217,109,8
 "Don’t forget, this week it’s my turn to be Pope.",1.2477064220183487,0.055539187144362505,109,90,11,8
 Very nice. But it still needs to run the maze.,1.2477064220183487,0.04904103024434217,109,86,19,4
 "Dr. Medici, you've done it again.",1.2477064220183487,0.050743643077079056,109,87,17,5
+"So, are you saying that the Sistine Chapel may have actually been painted by the Vatican mice?",1.2476190476190476,0.05203012719286361,105,84,16,5
 At least he’s not digging a tunnel & helping the others break out.,1.2476190476190476,0.04645087282554565,105,81,22,2
 "Let's not call it ""copycat.""",1.2476190476190476,0.050239267038397185,105,83,18,4
 "His symbolism is a bit jejune, don't you think?",1.2476190476190476,0.04645087282554565,105,81,22,2
@@ -2167,6 +2167,7 @@ His god is so tiny.,1.2463768115942029,0.04217155550129456,138,108,26,4
 Didn’t we name him Angela?,1.2463768115942029,0.040898087615459135,138,107,28,3
 """The best genesis of an experiment ever.""",1.2463768115942029,0.04340767923070482,138,109,24,5
 "Oh dear. Marcie, somewhere we've caged a wealthy and powerful mouse Pope. You don't suppose there's a rodent Inquisition?",1.2463768115942029,0.04692106333606209,138,112,18,8
+He got a bit carried away after seeing 'The Agony and the Ecstasy'.,1.2462686567164178,0.04162096464564211,134,104,27,3
 another overreacher,1.2462686567164178,0.03735829420800216,134,101,33,0
 i'm not changing his cage. this is the sixteenth cage he does that to!!,1.2462686567164178,0.042947939981654984,134,105,25,4
 We have ourselves a little Mouselangelo on our hands.,1.2461538461538462,0.04095103532465105,130,100,28,2
@@ -2224,7 +2225,6 @@ I heard his apprentice Michelangelo is a turtle.,1.2440944881889764,0.0457089243
 It would be finished if  he had used the roller.,1.2439024390243902,0.04944239714081975,123,100,16,7
 An unexpected side effect of naming him Michelangelo,1.2439024390243902,0.04371991022098887,123,96,24,3
 The real miracle was finding the tiny paint brush.,1.2439024390243902,0.045218475992188534,123,97,22,4
-So it’s true—life imitates rat.,1.2439024390243902,0.045218475992188534,123,97,22,4
 Did someone put weed in his feed?,1.2439024390243902,0.04371991022098887,123,96,24,3
 "Gloria, tell me that's not proof of the Michelangelo gene!",1.2439024390243902,0.04371991022098887,123,96,24,3
 somehow I knew this one was gay 🌈,1.2439024390243902,0.04371991022098887,123,96,24,3
@@ -2275,7 +2275,6 @@ I still just can’t get over that he’s a lefty!,1.2424242424242424,0.05194805
 The Agony and the Amphibian,1.2424242424242424,0.044499961820624365,132,105,22,5
 I think that mouse heard about a thousand monkeys at typewriters.,1.2424242424242424,0.03895644899142241,132,101,30,1
 I really wish we didn’t have to put this rat down. This painting is incredible.,1.2424242424242424,0.04318085433421962,132,104,24,4
-We’re trying a maze next to see if we can get a Mondrian,1.2424242424242424,0.04781541565881932,99,77,20,2
 You should see his ninjitsu,1.2424242424242424,0.03895644899142241,132,101,30,1
 Let's focus on the experiment: magic mushrooms.,1.2424242424242424,0.03895644899142241,132,101,30,1
 We call him Mouscleangelo,1.2421875,0.04539049423914243,128,102,21,5
@@ -2284,6 +2283,7 @@ Lucky we named him Michael.,1.2421875,0.03960013867427302,128,98,29,1
 Mice Al Angelo,1.2421875,0.0411242322613401,128,99,27,2
 "Too contemporary. Next time, more cocaine.",1.2421052631578948,0.04898931362704846,95,74,19,2
 He's not even a Catholic or an Italian.,1.2419354838709677,0.0463328244815081,124,99,20,5
+So it’s true—life imitates rat.,1.2419354838709677,0.04489543719436014,124,98,22,4
 He will forever be known as the artist who painted the Swiss Cheese Chapel,1.2419354838709677,0.04341048188296504,124,97,24,3
 Side effects include a fine arts scholarship.,1.2419354838709677,0.047726941741491634,124,100,18,6
 "B.F. Skinner, come and kiss my ass!",1.2419354838709677,0.04489543719436014,124,98,22,4
@@ -2300,7 +2300,6 @@ I just knew naming him Michael was a good thing,1.2416666666666667,0.04582855844
 When in Rome...,1.2416666666666667,0.044274154390179524,120,94,23,3
 "Yeah, but I'm worried about the nudity.",1.2416666666666667,0.04733194261577883,120,96,19,5
 "We thought playing Classical music would make them calmer, but we didn’t expect to kick off a Renaissance…",1.2416666666666667,0.04582855844748356,120,95,21,4
-It’s really him. Micealangelo.,1.2413793103448276,0.046818879146703046,116,92,20,4
 This doesn't happen when you push every rat toward STEM education,1.2413793103448276,0.04518940591634643,116,91,22,3
 "Looks like the ""magic"" mushrooms are having an effect.  Let's go see how the monkeys are doing with their typewriters.",1.2413793103448276,0.049918508786983055,116,94,16,6
 "100ml Montepulciano, daily for past 45 days",1.2413793103448276,0.046818879146703046,116,92,20,4
@@ -2329,7 +2328,6 @@ We’ve been microdosing them with psychedelic mushrooms,1.2408759124087592,0.04
 Let’s try French cheese next.,1.2407407407407407,0.048995394649344264,108,86,18,4
 Now which gene did we insert in this one?,1.2407407407407407,0.05073084824220075,108,87,16,5
 And we’re sure we didn’t ingest the drugs.,1.2407407407407407,0.048995394649344264,108,86,18,4
-He got a bit carried away after seeing 'The Agony and the Ecstasy'.,1.2406015037593985,0.04154453635293475,133,104,26,3
 If you think that's good you should see what he can sculpt from a block of cheese,1.2406015037593985,0.04547210134179587,133,107,20,6
 A Hubble Blind study.,1.2406015037593985,0.042893701954168785,133,105,24,4
 This rat will do anything to get that sculpting commission.,1.2406015037593985,0.042893701954168785,133,105,24,4
@@ -2350,6 +2348,7 @@ He said that he expects it will increase the resale value significantly,1.24,0.0
 He did far better work on The Last Supper.,1.24,0.04158163366276651,125,97,26,2
 Leonardo da Rodent painting Sistine Chapel Cage,1.24,0.04457686366483794,125,99,22,4
 "Well, this is going a lot better than the monkey and typewriter thing!",1.24,0.047396884353980984,100,78,20,2
+We’re trying a maze next to see if we can get a Mondrian,1.24,0.047396884353980984,100,78,20,2
 It appears he's channeling his inner 'Micelangelo'.,1.2397260273972603,0.04043317004071793,146,115,27,4
 "Of course, it is still incomplete.  But the absence of God suggests that he is, indeed, learning from us.",1.2397260273972603,0.041585027964775624,146,116,25,5
 We have a real Mouse-chelangelo on our hands.,1.2396694214876034,0.043952129902021894,121,95,23,3
@@ -2361,6 +2360,7 @@ This is just a ruse to give him a can of soup.,1.2396694214876034,0.042356211776
 He is exploring the realms of transcendence.,1.2396694214876034,0.04549209568437316,121,96,21,4
 "Well, yeah, interesting, but the maze took a lot less time.",1.2395833333333333,0.048541878434896865,96,75,19,2
 "He  started with painting by numbers.""""",1.2395833333333333,0.05286691265069651,96,77,15,4
+It’s really him. Micealangelo.,1.2393162393162394,0.046462818402408325,117,93,20,4
 "Look Nancy, The Sistene Chemistry Lab has created a Micealangio!",1.2393162393162394,0.04317486608247565,117,91,24,2
 ‘’I never thought we’d see him laying on his back.”,1.2393162393162394,0.04802245006476562,117,94,18,5
 Don't be fooled. It's Paint-by-Numbers.,1.2393162393162394,0.04802245006476562,117,94,18,5
@@ -2400,7 +2400,6 @@ I just thought he would have a better use of color.,1.2384615384615385,0.0434140
 This is so much cooler than the monkeys typing Hamlet!,1.2384615384615385,0.0434140061237124,130,103,23,4
 This IKEA furniture is really holding up,1.2384105960264902,0.04378213095388312,151,123,20,8
 Do you believe in reincarnation now?,1.2380952380952381,0.04129425407367391,126,98,26,2
-This one is called “Mouse-iah.”,1.2380952380952381,0.04280420010332235,126,99,24,3
 I wasn't expecting naming him Mouselangelo to have such an impact on his behaviour.,1.2380952380952381,0.045674585936311615,126,101,20,5
 Mousealangelo at it again.,1.2380952380952381,0.04280420010332235,126,99,24,3
 We decided to infuse the rat’s left hippocampus with delusions of grandeur.,1.2380952380952381,0.045674585936311615,126,101,20,5
@@ -2448,6 +2447,7 @@ The fruit fly lab is screaming 'fake art.',1.2363636363636363,0.0481990464422662
 Such a great idea to spike his water with LSD!,1.2363636363636363,0.04269345457754924,110,85,24,1
 When Angelo asked for the scaffolding and paints I had no idea he would turn out to be a copy cat…,1.236220472440945,0.04101068616380095,127,99,26,2
 "You see, they also have mythologies",1.236220472440945,0.04395276024928965,127,101,22,4
+This one is called “Mouse-iah.”,1.236220472440945,0.04250718476420963,127,100,24,3
 And so the career of Banksy began...,1.236220472440945,0.04395276024928965,127,101,22,4
 And we’d thought he was an atheist.,1.236220472440945,0.046709890681067734,127,103,18,6
 Before we take total credit for this tell me how he got the paint and scaffolding.,1.236220472440945,0.046709890681067734,127,103,18,6
@@ -2455,7 +2455,6 @@ He goes by @Michelmouselo on Instagram.,1.236220472440945,0.04101068616380095,12
 Human progress at its best… I wonder if Iain remembered to buy cheese”,1.236220472440945,0.04395276024928965,127,101,22,4
 "If this what Mouselangelo can do, I hate to see Moussolini is doing.",1.236220472440945,0.04250718476420963,127,100,24,3
 "No, no medications, we just let him watch unlimited TikTok.",1.2361111111111112,0.039403712950929634,144,113,28,3
-And here I thought Michelangelo was a turtle.”,1.2361111111111112,0.04179596617581,144,115,24,5
 Now I know why we shouldn't have named him Angelo,1.2361111111111112,0.03551446610810824,144,110,34,0
 He wants his belly rubed.  It's your turn.,1.2358490566037736,0.05453699057485545,106,88,11,7
 "Great, now I need to start cleaning the lids on these things too?",1.2357723577235773,0.04483342607880306,123,98,21,4
@@ -2506,6 +2505,7 @@ He’s reinventing the wheel,1.2347826086956522,0.048360511755673,115,93,17,5
 How much cheese is this going to cost us?,1.2346938775510203,0.04541002485445702,98,76,21,1
 Remarkable that he's painting.  Disappointing that he's so bad at it.,1.2346938775510203,0.05189653807776411,98,79,15,4
 He's taken our research program to a whole new level.,1.2346938775510203,0.05189653807776411,98,79,15,4
+And here I thought Michelangelo was a turtle.”,1.2344827586206897,0.04153864597607507,145,116,24,5
 Ratatouille: Starry Night,1.2344827586206897,0.039164885143450165,145,114,28,3
 All I did was feed him Parmigiano-Reggiano yesterday.,1.234375,0.04503440149389559,128,103,20,5
 …and this one comes to us from Ratican City.”,1.234375,0.03919147016458323,128,99,28,1
@@ -2573,7 +2573,6 @@ And you said if we gave them religion it would be all bad.,1.2321428571428572,0.
 Very surprising...left-handedness in mice is so rare.,1.2321428571428572,0.0474276236124301,112,90,18,4
 And here’s one of our volunteers for the long-term adderall study.”,1.2321428571428572,0.049094344301533324,112,91,16,5
 "I just remembered, we have an appointment with a Realtor.",1.2321428571428572,0.049094344301533324,112,91,16,5
-"I don't think this will fly with the F.D.A., they're more into the realism movement.",1.2321428571428572,0.042032772914677594,112,87,24,1
 Honey...we finally bred a left-hander!,1.2321428571428572,0.04570015668077273,112,89,20,3
 I think it’s cruelty-free makeup from the rabbit cage.,1.2321428571428572,0.05070630930439188,112,92,14,6
 Incredible! And what happens if you give it cheese?,1.2321428571428572,0.043904773769739606,112,88,22,2
@@ -2624,6 +2623,7 @@ Good idea to put giardiniera on his Italian beef sandwich.,1.2307692307692308,0.
 It's fine as long as God has a lab coat.,1.2307692307692308,0.046040729838903914,117,94,19,4
 The Rat Pope is going to love this.,1.2307692307692308,0.04018214571971751,130,102,26,2
 I’m glad to see incarceration has made his time inspirational.,1.2307692307692308,0.04272030397180561,117,92,23,2
+Next let’s see what happens if we give some typewriters to the monkeys.,1.2307692307692308,0.04272030397180561,117,92,23,2
 For this test we mixed two parts espresso with three parts magic mushroom.,1.2307692307692308,0.04441155916843276,117,93,21,3
 I think he has ADHD.,1.2302158273381294,0.04124603248514717,139,111,24,4
 The Renaissance rat and cheese scented oils are a huge breakthrough!,1.2302158273381294,0.04124603248514717,139,111,24,4
@@ -2635,6 +2635,7 @@ This one got a lot from seeing the work of Michelangelo.,1.2301587301587302,0.04
 "Funny, Michelangelo was also a lefty!",1.2301587301587302,0.04088341676880567,126,99,25,2
 This one is terrible at mazes.,1.2301587301587302,0.04088341676880567,126,99,25,2
 "Well, to be fair, you did name him Mouselangelo.",1.2300884955752212,0.04170976406150094,113,88,24,1
+"I don't think this will fly with the F.D.A., they're more into the realism movement.",1.2300884955752212,0.04170976406150094,113,88,24,1
 What the hell's in that water bottle?,1.2300884955752212,0.04870129022568451,113,92,16,5
 Michelangelo of the Rats!,1.2300884955752212,0.04534049011486548,113,90,20,3
 I wish he would just build a better moustrap.,1.23,0.05096047190685833,100,81,15,4
@@ -2683,7 +2684,6 @@ I think it came from someplace near Rome.,1.2285714285714286,0.04540647284290523
 Mikey took our Renaissance pill #1541. I’m putting that in the win column”,1.2285714285714286,0.04540647284290523,105,83,20,2
 "Impressive, sure, but I commissioned a reproduction of the Mona Lisa.",1.2285714285714286,0.04540647284290523,105,83,20,2
 "I told you, naming it Micelangelo would have an effect on him.",1.2285714285714286,0.03970970863921596,140,111,26,3
-Leonardo Peratsco is laying down on the job again,1.2285714285714286,0.04540647284290523,105,83,20,2
 Mouseangelo insisted on painting the ceiling.,1.2285714285714286,0.04334279170615694,105,82,22,1
 ‘A great example of Early Rodent Art’,1.2285714285714286,0.04458655236600666,140,115,18,7
 I hate to tell him that he's moving to a different cage tomorrow.,1.2285714285714286,0.04341872555669784,140,114,20,6
@@ -2722,7 +2722,6 @@ Another step in evolution. . . it's not even paint by numbers!,1.227642276422764
 Replacing his chisel with a paint brush made all the difference.,1.2276422764227641,0.03796258624175269,123,95,28,0
 Is Ed Sullivan still on the air?,1.2276422764227641,0.03967918819088054,123,96,26,1
 He is the Michelangelo of his breed & is re-creating                       the Sistine Chapel.,1.2276422764227641,0.04443284865346497,123,99,20,4
-Would you like one that can sculpt instead?,1.2276422764227641,0.03967918819088054,123,96,26,1
 OMG. Three fingers on the old guy reaching out to Minnie!,1.2276422764227641,0.04290685281090796,123,98,22,3
 We ordered nunchuck ninja DNAs but there was a mix up at the warehouse.,1.2276422764227641,0.04733749129507531,123,101,16,6
 Shame to waste this talented signorina on the new pesticide trial.,1.2276422764227641,0.04290685281090796,123,98,22,3
@@ -2769,8 +2768,8 @@ I think I’ll call him Angelo…,1.2265625,0.040321731073965326,128,101,25,2
 And that’s just his left hand!,1.2265625,0.03876609989073171,128,100,27,1
 I just wanted a nice geometric design.,1.2265625,0.046021386127029565,128,105,17,6
 Did you get rid of the cat?,1.2264150943396226,0.046980753199957474,106,85,18,3
-He calls it The Destruction of Man.,1.2264150943396226,0.048855764148690535,106,86,16,4
 I'm encouraged! LSD seems to be working.,1.2264150943396226,0.046980753199957474,106,85,18,3
+Leonardo Peratsco is laying down on the job again,1.2264150943396226,0.045027732031695245,106,84,20,2
 Are you sure you didn't genetically modify these sea monkies?,1.2264150943396226,0.045027732031695245,106,84,20,2
 I think we could have a real mice-langelo on our hands,1.2264150943396226,0.046980753199957474,106,85,18,3
 New York City's Finest Specimen,1.2264150943396226,0.048855764148690535,106,86,16,4
@@ -2783,11 +2782,11 @@ The agony and the ecstasy doesn’t begin to describe what I’m seeing here.,1.
 "What does he mean, “Stop Kibbitzing!”?",1.2260869565217392,0.042894633585358666,115,91,22,2
 He claims to be a descendant of the Micelangelo family!,1.2258064516129032,0.04865904566594241,93,74,17,2
 You're right.  The kid's got something!,1.2258064516129032,0.04619468188464644,93,73,19,1
+Would you like one that can sculpt instead?,1.2258064516129032,0.03940068612758992,124,97,26,1
 Looks like we've discovered a treatment for creative burnout!,1.2258064516129032,0.04259899945360052,124,99,22,3
 He said it's for the chapel in Ratican City.,1.2258064516129032,0.04411128084752649,124,100,20,4
 I think we could sell these on eBay.,1.2258064516129032,0.03940068612758992,124,97,26,1
 Is Miceleangelo too obvious?,1.2258064516129032,0.041031017668178266,124,98,24,2
-It's called Renaissance Rat.,1.2258064516129032,0.041031017668178266,124,98,24,2
 "They self-identify as Mice L
 Angelo.",1.2255639097744362,0.044798403337642796,133,109,18,6
 "Yes, but he's been preparing for this ever since Ratzinger became pope.",1.2255639097744362,0.03938543227376263,133,105,26,2
@@ -2833,6 +2832,7 @@ The maze could not contain him.,1.2244897959183674,0.051345482390755634,98,80,14
 Impressive… but my mouse Leonardo is developing theories on perpetual motion.,1.2244897959183674,0.053354962259045804,98,81,12,5
 We call him Micelangelo.,1.2242990654205608,0.044655090377511794,107,85,20,2
 "When I was given this, I thought they said it has rodents skills but they actually said it has Rodin’s skills",1.2242990654205608,0.048443251161891084,107,87,16,4
+He calls it The Destruction of Man.,1.2242990654205608,0.048443251161891084,107,87,16,4
 "Apparently, he wants to call it ""Creation of Mickey"".",1.2242990654205608,0.044655090377511794,107,85,20,2
 "When I named him Mouseangelo, I never thought he would take it this far.",1.2242990654205608,0.044655090377511794,107,85,20,2
 How much do you think Mickey Angelo would charge to do our ceiling?,1.2242990654205608,0.044655090377511794,107,85,20,2
@@ -2848,10 +2848,10 @@ I'm a little insulted he doesn't think I'm his God.,1.2241379310344827,0.0459551
 Infinite Monkey Theorem my ass!,1.2241379310344827,0.044293905443672864,116,93,20,3
 "No, he’s not the subway pizza rat.",1.2241379310344827,0.04256788721526796,116,92,22,2
 Do you have any with wallpaper? I am allergic to paint…,1.2241379310344827,0.04076886047574195,116,91,24,1
-Next let’s see what happens if we give some typewriters to the monkeys.,1.2241379310344827,0.04256788721526796,116,92,22,2
 "Wow, he's really put on some weight",1.224,0.04229542795393436,125,100,22,3
 "Mickey-langelo, when will you make an end?",1.224,0.03912593397833999,125,98,26,1
 Another masterpiece by Mickey Mouselangelo.,1.224,0.04229542795393436,125,100,22,3
+It's called Renaissance Rat.,1.224,0.04074151405804571,125,99,24,2
 "This one has a much higher adoption fee, obviously.",1.2238805970149254,0.04321522818543084,134,109,20,5
 "If you feed him some Ragù alla Bolognese, a glass of Berlucchi followed by an espresso and a gelato, he does this every time.",1.2233009708737863,0.04765995508060272,103,83,17,3
 He has the new AI chip!,1.2233009708737863,0.04561911780367423,103,82,19,2
@@ -2864,7 +2864,6 @@ Mickey Angelo is living up to his name,1.2232142857142858,0.04864611894865114,11
 They've dubbed it the era of Mice-elangelo.,1.2232142857142858,0.046963493565653255,112,91,17,4
 "I still have doubts; Americans will try anything for weight loss, but we can go broke overestimating their desire for intelligence.",1.2232142857142858,0.04864611894865114,112,92,15,5
 Look! It seems he's also producing his own purree.,1.2232142857142858,0.043402988447120004,112,89,21,2
-WOW! that's incredible; do you think AI had anything to do with this?,1.2232142857142858,0.043402988447120004,112,89,21,2
 His twin devoted his life to science “,1.2232142857142858,0.043402988447120004,112,89,21,2
 This one has a 4 day work week.,1.2232142857142858,0.046963493565653255,112,91,17,4
 It’s working. He’s ready for phase 2.,1.2231404958677685,0.041473552437198295,121,96,23,2
@@ -2926,6 +2925,7 @@ Fascinating! We've only ever gotten this result with a turtle before.,1.22123893
 These mice are just different. Maybe if we submit our peer-reviewed results to one of the Italian journals?,1.2212389380530972,0.04118678981465363,113,89,23,1
 Perhaps Disney is trying to make up revenue vis a vie DeSantis?,1.2212389380530972,0.04306250652402303,113,90,21,2
 WOW!!!  No AI there.,1.2212389380530972,0.046587928628794656,113,92,17,4
+WOW! that's incredible; do you think AI had anything to do with this?,1.2212389380530972,0.04306250652402303,113,90,21,2
 We figure he fled a sinking ship from Italy.,1.2211538461538463,0.04724827321830706,104,84,17,3
 Thank God mice can't fly. Imagine that.,1.2211538461538463,0.05104715777478713,104,86,13,5
 We've finally learned the effect of marijuana on rats.,1.2211538461538463,0.045229335886409865,104,83,19,2
@@ -2974,7 +2974,6 @@ D’ya think Pixar’s gonna try to sue us?,1.22,0.046231739501923746,100,80,18,
 Just how much LSD to you put in his water bottle?,1.2197802197802199,0.04636268815325047,91,72,18,1
 Nobody tell him he's the control group.,1.2197802197802199,0.04892544426978456,91,73,16,2
 That’s coming out of his security deposit.,1.2196969696969697,0.04475030829456083,132,109,17,6
-I never thought our study would show that psychedelics would have this affect!,1.2196969696969697,0.04475030829456083,132,109,17,6
 So this is why he asked for “Jarlsberg yellow” paint.,1.2196969696969697,0.039242176397882286,132,105,25,2
 He's a regular Micelangelo.,1.2195121951219512,0.04401631978653827,123,100,19,4
 Note the improved creativity after THC dosing.,1.2195121951219512,0.05494074507510377,82,67,12,3
@@ -3002,7 +3001,6 @@ He's classically trained.,1.2190476190476192,0.042755271681801814,105,83,21,1
 I didn’t realize naming him Michelangelo would be so prophetic,1.2190476190476192,0.04484599691984634,105,84,19,2
 The variety of colors in his droppings is truly incredible.,1.2190476190476192,0.042755271681801814,105,83,21,1
 "My hypothesis is that it’s because he is left handed and from Northern Italy, but how can we prove it?",1.218978102189781,0.03836969672524922,137,109,26,2
-Mama Mia. Get me another wheel of Grana Padano right now.,1.21875,0.04140955779017633,128,103,22,3
 His career as a chef didn’t work out.,1.21875,0.042869371029220206,128,104,20,4
 We've done it - the world's first Mouselleangelo!,1.21875,0.04730250957698441,96,77,17,2
 "Tell me, Nurse.  Shall we call  our mouse Michael, Michele or Micky?",1.21875,0.04140955779017633,128,103,22,3
@@ -3028,6 +3026,7 @@ Buonaratti,1.2181818181818183,0.04161425419368276,110,87,22,1
 A Latitudinal study.,1.2181818181818183,0.039559328617958314,110,86,24,0
 He was actually given the placebo but his confidence is sky high now”  g,1.2181818181818183,0.04357237454499434,110,88,20,2
 Damn. No erection at all.,1.218045112781955,0.04180146234154655,133,108,21,4
+I never thought our study would show that psychedelics would have this affect!,1.218045112781955,0.044443273810524195,133,110,17,6
 "His use of shading is a bit exaggerated.
 
 Otherwise, he's okay.",1.2178217821782178,0.04582351075408372,101,81,18,2
@@ -3048,6 +3047,7 @@ Michaelangelo Buonaratty,1.2173913043478262,0.040557910675105675,115,91,23,1
 It's all a matter of perspective.,1.2173913043478262,0.045854225783672445,115,94,17,4
 He’s a rodent prodigy; spent his formative years in Ratican City.,1.2173913043478262,0.044159423919739836,115,93,19,3
 It’s a Mike thing.,1.2173913043478262,0.044159423919739836,115,93,19,3
+Mama Mia. Get me another wheel of Grana Padano right now.,1.2170542635658914,0.04112227746884293,129,104,22,3
 Let’s try another rat. This one thinks we want wallpaper.,1.2170542635658914,0.042569539993195356,129,105,20,4
 I,1.2170542635658914,0.039622186628412555,129,103,24,2
 You know the old adage…give a mouse some acid.,1.2170542635658914,0.04112227746884293,129,104,22,3
@@ -3140,7 +3140,6 @@ We have to be careful not to anthropomorphize our subjects. I know it seems like
 I’m going to name him Mice-ulangelo.,1.2142857142857142,0.04156791017675276,126,102,21,3
 And this is our talented and gifted classroom.,1.2142857142857142,0.04306826306512387,126,103,19,4
 "Astonishing, like Michelangelo, he's using the buon fresco technique",1.2142857142857142,0.04982041660449398,112,94,12,6
-looks like Michle is painting angels again,1.2142857142857142,0.04811843705815134,84,67,16,1
 The lid's a monitor connected to Dall-E. He's only painting by numbers.,1.2142857142857142,0.04287858751340459,112,90,20,2
 "To be honest,  I miss the wheel.",1.2142857142857142,0.041662283239515895,98,77,21,0
 "This is mural, Anne, not a fresco.",1.2142857142857142,0.03839170356332643,126,100,25,1
@@ -3174,7 +3173,6 @@ The amazing thing is that he's not had any formal training.,1.2135922330097086,0
 "Blek, I told you: Michelangelo painted on his feet!",1.2135922330097086,0.04502782826512934,103,83,18,2
 "We feed him, provided his shelter and paint supplies, and he still thinks God is a mouse.",1.2135922330097086,0.04502782826512934,103,83,18,2
 This suggests it was a dietary allergy rather than a Pollock phase.,1.2135922330097086,0.04907382333253753,103,85,14,4
-He's saving God's finger touching the rodent's paw for last.,1.2134831460674158,0.04651246198172614,89,71,17,1
 "First, we tried it with turtles and they just got really good at karate.",1.213235294117647,0.04354659467724325,136,113,17,6
 That flywheel really made him dizzy.,1.2131147540983607,0.043907361736680285,122,100,18,4
 Mouselangelo is at it again!,1.2131147540983607,0.037228005951704314,122,96,26,0
@@ -3214,7 +3212,6 @@ I thought he was a Ratphael but turns out he is a Mouseangelo!,1.212121212121212
 "He's been misdiagnosed as bipolar. From my observation, he's a ham.",1.2121212121212122,0.05230755832724922,99,83,11,5
 "The weird thing is, he’s the control rat.",1.2121212121212122,0.041296069325408885,99,78,21,0
 I guess this is his chapel,1.2121212121212122,0.050298485015680724,99,82,13,4
-Edward's years at the School of Beaux Arts have paid off!,1.2121212121212122,0.03730187546611742,132,105,26,1
 So what if he's not Michelangelo?,1.2121212121212122,0.048205752059134375,99,81,15,3
 Call Giverny. See if anyone's checked around the waterlily pond.,1.2121212121212122,0.041296069325408885,99,78,21,0
 He's the one billonth trial.,1.2121212121212122,0.046017947241275524,99,80,17,2
@@ -3222,6 +3219,7 @@ He's the one billonth trial.,1.2121212121212122,0.046017947241275524,99,80,17,2
 "Impressive yes, but if only he weren't painting by the numbers.",1.2118644067796611,0.04314805930475334,118,96,19,3
 He apparently has no commercial aspirations.,1.2118644067796611,0.04143537703608233,118,95,21,2
 He calls it “sfumato.”,1.2118644067796611,0.04143537703608233,118,95,21,2
+looks like Michle is painting angels again,1.2117647058823529,0.04761575206918946,85,68,16,1
 Wow -- I wonder what would happen if we let him watch the PBS biography of Elon Musk,1.2115384615384615,0.04668446536082761,104,85,16,3
 Finally!  Proof that microdosing improves mental health regardless of the circumstances.,1.2115384615384615,0.04668446536082761,104,85,16,3
 "Behold, CHEES-E: Transforming data into art, one whisker at a time.",1.2115384615384615,0.044640035939055925,104,84,18,2
@@ -3238,6 +3236,7 @@ Wow! He has opposable thumbs!,1.2113821138211383,0.038725587590846496,123,98,24,
 "Great, now let's give him nunchucks.",1.2113821138211383,0.04202655323609029,123,100,20,3
 "What they do to the ceiling is sacred; what they do to the floor, profane.",1.2113821138211383,0.043583382133913544,123,101,18,4
 I think we gave him the wrong lettuce,1.2111801242236024,0.0367655171620004,161,131,26,4
+He's saving God's finger touching the rodent's paw for last.,1.211111111111111,0.046053880522949266,90,72,17,1
 He has been doing that about 3 years; do you have any idea how long this could last?  Any idea what it is?,1.211111111111111,0.046053880522949266,90,72,17,1
 She squeezed through from Fine Arts.,1.2110091743119267,0.04337407810681607,109,88,19,2
 I think my teenager put some LSD in the fish tank.,1.2110091743119267,0.041369263787365995,109,87,21,1
@@ -3263,6 +3262,7 @@ The inserted Michelangelo gene has successfully adapted to the rat genome.,1.210
 "Well, he said his name is Mouselangelo.",1.2105263157894737,0.042206058518233065,114,92,20,2
 "No, it's his first name- all one word.",1.2105263157894737,0.04204923483878742,95,75,20,0
 The really amazing thing is he’s a lefty,1.2105263157894737,0.04463297341944604,95,76,18,1
+Edward's years at the School of Beaux Arts have paid off!,1.2105263157894737,0.037054687281154366,133,106,26,1
 "And I thought, why can't the mutant rat be the great master?",1.2105263157894737,0.042206058518233065,114,92,20,2
 Ratatouille painting the six cheese chapel.,1.2105263157894737,0.0457368797131426,114,94,16,4
 "First she repurposed the treadmill, and now this!",1.210144927536232,0.04043152736189783,138,113,21,4
@@ -3274,7 +3274,6 @@ This time don't let the python back in before he finishes.  Lesson learned.,1.21
 Subway cars.... rat jars. Read.,1.21,0.045604802157206865,100,81,17,2
 Someone better go tell Mickey before this gets out . . .,1.21,0.04093601807403324,100,79,21,0
 Cheeeeeeesy!,1.21,0.045604802157206865,100,81,17,2
-He’s also known for his monumental marble sculpture of a penguin.,1.2096774193548387,0.04172109251328215,124,101,20,3
 "If the Rat God likes this ceiling, maybe our Leo will get into Rat Heaven.",1.2096774193548387,0.03844982280035692,124,99,24,1
 Told you I wasn’t on acid again. This damn rat is actually making renaissance paintings.,1.2096774193548387,0.04475388527965866,124,103,16,5
 It is impressive I wish he’d at least try to make it through the maze.,1.2096774193548387,0.04172109251328215,124,101,20,3
@@ -3283,7 +3282,6 @@ The subject built the scaffolding himself?,1.2095238095238094,0.0442587258738621
 I'm just sorry he's using washable paint.,1.2095238095238094,0.046281583800987826,105,86,16,3
 Really? Miceangelo?,1.2095238095238094,0.04213887317937551,105,84,20,1
 Alright! Houses are next.,1.2095238095238094,0.046281583800987826,105,86,16,3
-"It's a maze, but we like to encourage improvisation.",1.2095238095238094,0.046281583800987826,105,86,16,3
 "Well,that only took 4 minutes.",1.2095238095238094,0.046281583800987826,105,86,16,3
 It's a good thing he started with a coat of gesso.,1.2095238095238094,0.04213887317937551,105,84,20,1
 I guess our test paid off!,1.2095238095238094,0.03990657150993191,105,83,22,0
@@ -3297,6 +3295,7 @@ Putting numbers on the ceiling seems to have really inspired him.,1.209302325581
 Inside De Medicheese Research Lab ?,1.2093023255813953,0.040697674418604654,129,105,21,3
 We should never have bought that paint-by-number set.,1.2093023255813953,0.047123202233282736,86,69,16,1
 Further evidence in support of the efficacy and positive outcomes of micro-dosing!,1.209090909090909,0.04491759584234193,110,90,17,3
+You think he'll put belly buttons on them?,1.209090909090909,0.04103631408241143,110,88,21,1
 We missed a trick when we named him Rothko,1.209090909090909,0.04103631408241143,110,88,21,1
 If he could only stand on his own two feet;  then we’d have a gold mine.,1.209090909090909,0.04302074784174661,110,89,19,2
 I'd like to do further testing at my house.,1.209090909090909,0.04302074784174661,110,89,19,2
@@ -3329,6 +3328,7 @@ I'm so glad we got rid of the running wheel.,1.2083333333333333,0.04081768121668
 Is that mouse hallucinating?--Or is it me?,1.2083333333333333,0.03906439654592999,120,96,23,1
 The Bob Ross reruns seem to have efficacy.,1.2083333333333333,0.046633760328105456,96,78,16,2
 What type of flowers did we give Algernon?,1.2083333333333333,0.04567549854280215,120,100,15,5
+He’s also known for his monumental marble sculpture of a penguin.,1.208,0.04141995778879799,125,102,20,3
 That's him! Michelangelo Buonarrati!,1.208,0.039831904864835316,125,101,22,2
 "He's calling it the ""Creation of Mickey.""",1.208,0.03817785204928081,125,100,24,1
 It's the rat ace.,1.208,0.04141995778879799,125,102,20,3
@@ -3339,10 +3339,10 @@ I was told he's the best,1.2079207920792079,0.04733874490250266,101,83,15,3
 "After just one trial,  the investigators realized which one was the emotionally evolved rat.",1.2079207920792079,0.04519886023965674,101,82,17,2
 "It’s not as genius as it seems, I saw the Paint-By-Number box it came in.",1.2075471698113207,0.04588548019119496,106,87,16,3
 I guess he believed me when I said it was the Sistine Chapel.,1.2075471698113207,0.04588548019119496,106,87,16,3
+"It's a maze, but we like to encourage improvisation.",1.2075471698113207,0.04588548019119496,106,87,16,3
 "Michel-mouse-angelo, but where is he getting the paints?",1.2075471698113207,0.04178622085977893,106,85,20,1
 No wonder Leonardo ate Stracciatella cheese every day!,1.2075471698113207,0.04178622085977893,106,85,20,1
 I wonder if he paints nudes.,1.2075471698113207,0.04178622085977893,106,85,20,1
-I just fed him pasta.,1.2075471698113207,0.04388374155720299,106,86,18,2
 "Well, to be fair, we’ve already given him the wheel.",1.2075471698113207,0.04178622085977893,106,85,20,1
 Take away the “h” in Michelangelo and this is what you get.,1.2075471698113207,0.04588548019119496,106,87,16,3
 He’s come such a long way since starting the Iraq War.,1.2075471698113207,0.04780347070761396,106,88,14,4
@@ -3395,6 +3395,7 @@ The Agony and the Eek-stacy”.",1.2058823529411764,0.042578134678858966,102,82,
 "Not bad, but I was expecting more from one who grew up in the Vatican.",1.2058823529411764,0.046916646025273935,102,84,15,3
 "Apparently, to create is to live mice.",1.2058823529411764,0.042578134678858966,102,82,19,1
 Fantastic! Give him another thousand volts!,1.2058823529411764,0.04023382273617749,102,81,21,0
+I just fed him pasta.,1.205607476635514,0.04351493126493826,107,87,18,2
 I knew those life enrichment classes would pay off spectacularly.,1.205607476635514,0.04549598868304171,107,88,16,3
 He suffers for his art.,1.205607476635514,0.04549598868304171,107,88,16,3
 Why do you call him da Vinci?,1.205607476635514,0.04351493126493826,107,87,18,2
@@ -3488,7 +3489,6 @@ We exposed this one to Instagram and now he thinks he's an artist.,1.20202020202
 This is great but have you seen his Vitruvian rat?,1.202020202020202,0.04757530020731468,99,82,14,3
 I thought Michelangelo was the turtle?,1.202020202020202,0.0496945897769771,99,83,12,4
 Dolores is at it again,1.202020202020202,0.045357095658013595,99,81,16,2
-"Unfortunately, we are not allowed to take pictures.",1.2019230769230769,0.04402246628452523,104,85,17,2
 Oh look! It’s an example of an “Early Ratessance” painter.,1.2019230769230769,0.04402246628452523,104,85,17,2
 "As you can see, we’re experiencing a true Renaissance in our work.",1.2019230769230769,0.04184819040754393,104,84,19,1
 He wants to be called Mousel Angelo.,1.2019230769230769,0.04609429503917236,104,86,15,3
@@ -3503,7 +3503,6 @@ I always knew all rats go to heaven.,1.201834862385321,0.0427952487863065,109,89
 He applied test optional to this study.,1.201834862385321,0.0427952487863065,109,89,18,2
 "He's left-handed, just like Michelangelo!",1.201834862385321,0.044736204398555954,109,90,16,3
 Do we have a drop cloth covering the floor?,1.201834862385321,0.0427952487863065,109,89,18,2
-You think he'll put belly buttons on them?,1.201834862385321,0.04076197558232867,109,88,20,1
 His dad was a dentist.,1.201834862385321,0.04076197558232867,109,88,20,1
 "We shouldn't be surprised. This rat trained Michelangelo, Leonardo, Donatello, and Raphael!",1.201834862385321,0.04838509392989122,109,92,12,5
 This is a sneak peek of what you can do with our free version of ChatGPT 5.0,1.201834862385321,0.04076197558232867,109,88,20,1
@@ -3524,6 +3523,7 @@ Some day he'll be famous!,1.2016129032258065,0.04281566364000863,124,103,17,4
 Leoratinado @ work!,1.2016129032258065,0.03963483777955143,124,101,21,2
 Are those white things clouds or cheese puffs?,1.2015503875968991,0.03872333566412422,129,105,22,2
 "Andrew, you'll be pleased to know that Pfizer okayed another shipment of titanium white.",1.2,0.04364357804719849,120,100,16,4
+"Unfortunately, we are not allowed to take pictures.",1.2,0.04364357804719849,105,86,17,2
 They must be the latest flock of attorneys heading south t,1.2,0.04364357804719849,105,86,17,2
 My Goodness!  We have a Rattus Da Vince!,1.2,0.044946657497549475,100,82,16,2
 I call him Micel Angelo .,1.2,0.03746343246326777,115,92,23,0
@@ -3538,7 +3538,6 @@ All I did was tell him my last name is Pope!,1.2,0.04569367667316878,105,87,15,3
 Whereas subject X  has been denied social media for the last 10 days.,1.2,0.047978310362298264,110,93,12,5
 These Vatican Mice Are Very Creative!,1.2,0.0443656051737758,110,91,16,3
 We may want to cut him back on the fish tacos !,1.2,0.04264014327112209,100,81,18,1
-"I had a hunch we modified a winner. How about we call it ""The Michaelangelo Gene"" ?",1.2,0.044946657497549475,100,82,16,2
 Its a starter-upper,1.2,0.03922322702763682,105,84,21,0
 Squeak-a-Angelo,1.2,0.04264014327112209,100,81,18,1
 The rat stole my palatte!,1.2,0.0413354493688319,115,94,19,2
@@ -3555,7 +3554,6 @@ The store said he preferred sculpting but still had unfinished business.,1.2,0.0
 Did you use brie?,1.2,0.04095631031768743,125,103,19,3
 This one goes on the art gallery tour. The Vatican first.,1.2,0.04364357804719849,105,86,17,2
 "His middle name is Sistine, you know.  We should have seen this coming!",1.2,0.04179499310101612,135,113,17,5
-Where The Devine touches The Rat is the only difference.,1.2,0.04030694555463089,120,98,20,2
 We could name him Mouselangelo”,1.2,0.037674325988790794,125,101,23,1
 "He's also teaching four of our most promising turtles, Michelangelo Donatello, Raphael and Leonardo.",1.2,0.046207278580632616,110,92,14,4
 Its a revelation. I thought the cheese came from the refrigerator.,1.2,0.03831305140884605,110,88,22,0
@@ -3579,6 +3577,7 @@ I knew we were in trouble when you named him Mousechelangelo.,1.1984126984126984
 We definitely hit the God spot.,1.1983471074380165,0.04000660191858525,121,99,20,2
 Wait till the rat czar sees this! We can train ‘em all,1.1983471074380165,0.04169255621695682,121,100,18,3
 It'd be beautiful if it wasn't a memoriam for all the lab rats that came before.,1.1983471074380165,0.04169255621695682,121,100,18,3
+Where The Devine touches The Rat is the only difference.,1.1983471074380165,0.04000660191858525,121,99,20,2
 My! He's a modern micelangelo!,1.1982758620689655,0.0391434290004603,116,94,21,1
 "I’ m so proud! We’re raising a
  Michelangelo!",1.1982758620689655,0.0391434290004603,116,94,21,1
@@ -3592,7 +3591,6 @@ It's restoring that famous work by Toulouse-Lautrec.,1.1981981981981982,0.040105
 Now you see why we named him 'Mickey.',1.1981981981981982,0.04209855411738919,111,91,18,2
 Quick! Tell the Pope!,1.1981981981981982,0.044001004790514844,111,92,16,3
 I see what you mean about his change in taste and palette.,1.1981981981981982,0.04209855411738919,111,91,18,2
-I am not fancy about the colour palette he chose,1.1981981981981982,0.04010596084093464,111,90,20,1
 Do you still think we should put him in the maze?,1.1981981981981982,0.04582454131112579,111,93,14,4
 How did you know he could do this?,1.1981132075471699,0.04529986209665202,106,88,15,3
 This new art therapy program really has improved maze times in the lab.,1.1981132075471699,0.04114229535820004,106,86,19,1
@@ -3609,6 +3607,7 @@ And this one had the Trappist cheese.,1.1981132075471699,0.04724163444772896,106
 But will the public accept his work?,1.198019801980198,0.04226226924834267,101,82,18,1
 Next we’ll prove how the pyramids were built.,1.198019801980198,0.0445434529869386,101,83,16,2
 "Yeah he is amazing, but he could never find his way through a maze.",1.198019801980198,0.0445434529869386,101,83,16,2
+"I had a hunch we modified a winner. How about we call it ""The Michaelangelo Gene"" ?",1.198019801980198,0.0445434529869386,101,83,16,2
 Quick.  Call the Museum of Art and see if they have any unused space in their ceiling.,1.198019801980198,0.0445434529869386,101,83,16,2
 "It's nice, but derivative. Let him finish before we take the brain sections.",1.198019801980198,0.04878687126635612,101,85,12,4
 "Move over pizza rat, introducing Michelangerat.",1.198019801980198,0.0445434529869386,101,83,16,2
@@ -3630,6 +3629,7 @@ Our data shows that it extends their lives by 3.2 times their average life span.
 I think this will be our masterpiece of Bob Ross research!!!,1.1978021978021978,0.047449684731754656,91,75,14,2
 And all this time I thought Leonardo was a Ninja Turtle.,1.1978021978021978,0.044802592971196056,91,74,16,1
 Mike's visiting from the Vatican's garbage pile.  You have to see his sculptures.,1.1978021978021978,0.0499567095127687,91,76,12,3
+Would you mind if I borrowed him for the weekend? My wife has begged me for weeks to paint the living room ceiling.,1.1978021978021978,0.0499567095127687,91,76,12,3
 We're observing the very pinnacle of High Rataissance art.,1.197674418604651,0.04912299937443241,86,71,13,2
 You should have seen the David it sculpted from gruyere. Unfortunately Dr. Lawrence needed it for a sandwich.,1.197674418604651,0.046254418776188036,86,70,15,1
 "To think,we found him in the sewer with 3 others wielding martial arts weapons.",1.1967213114754098,0.046031133268198215,122,104,12,6
@@ -3647,6 +3647,7 @@ This is destined to be a mousterpiece,1.1964285714285714,0.04364226155841044,112
 We’ve consistently observed this result 30 minutes after lipstick application.,1.1964285714285714,0.04175849414259988,112,92,18,2
 Maybe we could fund our research if we put this on TikTok!,1.1964285714285714,0.045448015961182184,112,94,14,4
 He’s my favorite Teenage Captive Artist Rodent.,1.1964285714285714,0.04175849414259988,112,92,18,2
+I am not fancy about the colour palette he chose,1.1964285714285714,0.039785633992465014,112,91,20,1
 "Yep,Leo is a real Renaissance rat",1.1962616822429906,0.040798009467627856,107,87,19,1
 "Although spectacular, I fear his behavior may be beyond the scope of our research grant.""",1.1962616822429906,0.04290470043918044,107,88,17,2
 Nice but you should see what's happening in the Naked Mole Rat display,1.1962616822429906,0.040798009467627856,107,87,19,1
@@ -3658,7 +3659,6 @@ But this one was in the control group.,1.196078431372549,0.04629385365772775,102
 Let's slip him some indigo for the sky !!!,1.196078431372549,0.04414729692425362,102,84,16,2
 He taught Michelangelo from the Mutant Ninja Turtles everything he knows.,1.196078431372549,0.04414729692425362,102,84,16,2
 MouseAngelo at the Ratican,1.196078431372549,0.04189089119311397,102,83,18,1
-It’s a commission for the Ratican.,1.196078431372549,0.04629385365772775,102,85,14,3
 "Only in New York can you visit a history museum where everyone is portrayed by rats""",1.196078431372549,0.04629385365772775,102,85,14,3
 And he built the scaffolding too!,1.196078431372549,0.04189089119311397,102,83,18,1
 "He’s frightening when working on the floor, but terribilita when he’s working on the ceiling.",1.196078431372549,0.04189089119311397,102,83,18,1
@@ -3701,6 +3701,7 @@ The Pope will have to unveil this masterpiece.,1.1941747572815533,0.041525847920
 "Impressive, but you should have seen his ""Sistine Cellar.""",1.1941747572815533,0.041525847920697904,103,84,18,1
 I thought you were going to preregister the study for reincarnation.,1.1941747572815533,0.039166677628225864,103,83,20,0
 It'll be years before we see the results of this test.,1.1941747572815533,0.039166677628225864,103,83,20,0
+It’s a commission for the Ratican.,1.1941747572815533,0.04588170510924866,103,86,14,3
 I know they call him Mickey Angelo.,1.1938775510204083,0.04507786765341567,98,81,15,2
 Master Splinter has been hanging with those turtles too long.,1.1938775510204083,0.04014009567414168,98,79,19,0
 "OH !  just look at our little genius
@@ -3756,7 +3757,6 @@ That's definitely aquamarine. Shouldn't it be azure?,1.1919191919191918,0.042292
 Just what’d you expect after all those art lessons?,1.1919191919191918,0.04466316750517223,99,82,15,2
 Too bad. We needed a saxaphone.,1.1919191919191918,0.04466316750517223,99,82,15,2
 When you run out of cellar space you go Fresco ceiling .,1.1919191919191918,0.04466316750517223,99,82,15,2
-These results are going to be a work of genius.,1.1916666666666667,0.03977498568775671,120,99,19,2
 The guy in the cloud...it...it looks just like me! But with a long white beard--and bigger muscles!,1.1916666666666667,0.03977498568775671,120,99,19,2
 "No no no, the *turtle’s* called Michelangelo…",1.1916666666666667,0.03977498568775671,120,99,19,2
 "I couldn’t shatter that glass ceiling, so I’m making it my own",1.1916666666666667,0.041498259106500054,120,100,17,3
@@ -3787,6 +3787,7 @@ Can’t believe we always thought he was a turtle!,1.1904761904761905,0.04897341
 What do you think he's doing in there?,1.1904761904761905,0.04631018196447773,84,69,14,1
 "Just for the heck of it, we are going to introduce him to our adolescent turtle population.",1.1904761904761905,0.04299935704272291,105,87,16,2
 "I thought by calling him Mickey, he’d be less driven and more animated.",1.1904761904761905,0.045078763173336374,105,88,14,3
+These results are going to be a work of genius.,1.1900826446280992,0.03947668975473125,121,100,19,2
 Looks like a picture of Cheeses.,1.19,0.04425591326123392,100,83,15,2
 He's a true Renaissance rat.,1.19,0.04648231987117319,100,84,13,3
 "See there!  Forget about the infinite number of monkeys and typewriters!
@@ -3818,7 +3819,6 @@ He likes to be called Mouseangelo. Think it's sacrilegious?,1.1888888888888889,0
 "Sure, but you should see his statue of “David” made from cedar shavings”…",1.1888888888888889,0.044397603281480034,90,74,15,1
 Those AI chips Elon implanted appear to have worked.,1.1888888888888889,0.04970435551754336,90,76,11,3
 The key to achieving AGI was there all along: Artful Gouda Inhaling.,1.1888888888888889,0.041490472243665276,90,73,17,0
-Would you mind if I borrowed him for the weekend? My wife has begged me for weeks to paint the living room ceiling.,1.1888888888888889,0.04970435551754336,90,76,11,3
 And this one lives off a diet of unprocessed cheese and classical music.,1.1888888888888889,0.044397603281480034,90,74,15,1
 When you tolld me about Leonardo I was expecting a turtle,1.1888888888888889,0.04712573678232538,90,75,13,2
 This may be Mouse L. Angelo's masterpiece.,1.1886792452830188,0.04468761000837394,106,89,14,3
@@ -3852,13 +3852,11 @@ Looks like  little Michael got his Angelo’s on that ceiling!,1.1875,0.03636741
 Not ‘Happy Little CHEESE!’",1.1875,0.04519087200177378,96,80,14,2
 A Cistern Chapel Masterpiece,1.1875,0.037046811147738695,112,91,21,0
 Mouselangelo mouseterpiece!,1.1875,0.037046811147738695,112,91,21,0
-Now do you see what a difference using authentic fresco makes?,1.1875,0.041160861725266853,112,93,17,2
 Who’s paying for the paint?,1.1875,0.037046811147738695,112,91,21,0
 İ was right claustrophobia stimulates art.,1.1875,0.040045204719824215,96,78,18,0
 "In the paper he’s subject 1A71, but in the lab we call him Mouselangelo.",1.1875,0.04307077546134616,112,94,15,3
 I told you not to name him Leonardo.,1.1869918699186992,0.04057035967909163,123,103,17,3
 He’s a special breed we brought in from the Vatican. They have tracked their bloodline all the way back to the 16th century.“,1.1869918699186992,0.03889311074169898,123,102,19,2
-"He was caught in Vatican City, must be in the blood.",1.1869158878504673,0.04012597233343557,107,88,18,1
 "He was an apprentice under Michelangelo.
 Bill Hill
 Sherman Oaks, CA",1.1869158878504673,0.04430310533375682,107,90,14,3
@@ -3897,6 +3895,7 @@ Check the backroom for some Carara bianco and a chisel!,1.186046511627907,0.0510
 Ugh. The art world today just produces copycats.,1.186046511627907,0.0482572560890765,86,72,12,2
 "I think he'll need more paint, honey.",1.186046511627907,0.04533392718515793,86,71,14,1
 Michael documentary really hit home with him.,1.1858407079646018,0.040828711155385944,113,94,17,2
+Now do you see what a difference using authentic fresco makes?,1.1858407079646018,0.040828711155385944,113,94,17,2
 „It runs in the family. His uncle was a famous chef in Paris.“,1.1858407079646018,0.040828711155385944,113,94,17,2
 He still thinks this commission is some sort of trap.,1.1858407079646018,0.03884528081652734,113,93,19,1
 "This confirms the validity of the bell curve, though neither of us is rich enough to say so.",1.1855670103092784,0.04710223423323986,97,82,12,3
@@ -3913,6 +3912,7 @@ How long do you think he will take to realise it’s a simulation?,1.18556701030
 We have confirmed 'nominative determinism'! You go Michelangelo!,1.1851851851851851,0.043925083623096,108,91,14,3
 We really need to start testing more secular medications.,1.1851851851851851,0.043925083623096,108,91,14,3
 Seems like the psilocybin parmesan is doing wonders for Ratangelo.,1.1851851851851851,0.0458528432905113,108,92,12,4
+"He was caught in Vatican City, must be in the blood.",1.1851851851851851,0.03979035609591293,108,89,18,1
 You just HAD to name him Micheal Angelo!!!,1.1851851851851851,0.04190874258156364,108,90,16,2
 "Despite the amazing side effects,It's a shame he's still going to die.",1.1851851851851851,0.047702762020163963,108,93,10,5
 "How much do you pay for rent again?
@@ -3923,8 +3923,6 @@ You HAD to name him Michael,1.184873949579832,0.04128402453096098,119,100,16,3
 During the Ozempic clinical trials they said the mice indexed toward dance.,1.184782608695652,0.04618599010841946,92,77,13,2
 Perhaps the other mice can draw murals like they're programmed.,1.184782608695652,0.04352302998477531,92,76,15,1
 "Believe it or not, his specialty is the potter’s wheel.”",1.184782608695652,0.04068614746834948,92,75,17,0
-"The church mouse is at it, again.",1.184782608695652,0.04352302998477531,92,76,15,1
-"Our theory now is that it could very well Be the Italian red wine!""",1.184782608695652,0.04352302998477531,92,76,15,1
 "And this proves, irrefutably, that even Michelangelo relied on animal testing.",1.184782608695652,0.0487035648134137,92,78,11,3
 "Rex - When will it be finished??
  Charlton - When it is done!!!",1.184782608695652,0.04068614746834948,92,75,17,0
@@ -3953,7 +3951,6 @@ Careful- I suggested it may be a tad derivative and he bit me.,1.183908045977011
 "Since we introduced a patronage scheme, It became a full time artist.",1.1839080459770115,0.050468893694394994,87,74,10,3
 I knew naming him Arty could lead to greatness.,1.183673469387755,0.04190633754892204,98,81,16,1
 There was a typo in our o,1.183673469387755,0.04190633754892204,98,81,16,1
-Generational learning coming to fruition!,1.183673469387755,0.04434562619344774,98,82,14,2
 "Mary dear, I'd like some of that too",1.183673469387755,0.04434562619344774,98,82,14,2
 "How's ""Ratella Magna"" as a tile for our paper?",1.183673469387755,0.039315997902118524,98,80,18,0
 This is a breakthrough in our Michelangenome research!,1.183673469387755,0.04434562619344774,98,82,14,2
@@ -3975,6 +3972,8 @@ Italian cheese clearly has a different effect,1.1827956989247312,0.0482179788329
 Ratsy!,1.1827956989247312,0.045729852307199545,93,78,13,2
 Let's see if he's faster than the hamster that did it from inside the spinning wheel.,1.1827956989247312,0.043098321328581886,93,77,15,1
 "Meghan, I'm telling you – in six months those Chat GTP folks will be ruined!",1.1827956989247312,0.045729852307199545,93,78,13,2
+"The church mouse is at it, again.",1.1827956989247312,0.043098321328581886,93,77,15,1
+"Our theory now is that it could very well Be the Italian red wine!""",1.1827956989247312,0.043098321328581886,93,77,15,1
 I knew naming him Mouselangelo would have an effect.,1.1827956989247312,0.040295300106155174,93,76,17,0
 He started when we named him Michael.,1.1826923076923077,0.04269755533620633,104,87,15,2
 Running through a maze did not bring out his creative juices.”,1.1826923076923077,0.03807450901740144,104,85,19,0
@@ -3995,6 +3994,7 @@ Let's get an analysis of his water bottle!,1.1818181818181819,0.0406557814090870
 "Well, *I* say it's derivative.",1.1818181818181819,0.039135397614244956,110,91,18,1
 The ultimate in experimental art!,1.1818181818181819,0.041522350851192366,99,82,16,1
 "I don't know Susan, it seems kinda derivative of Michelangelo",1.1818181818181819,0.041522350851192366,99,82,16,1
+Generational learning coming to fruition!,1.1818181818181819,0.04393459551987973,99,83,14,2
 I’d prefer he’d just run endlessly in his wheel,1.1818181818181819,0.04135080237703108,88,72,16,0
 "I called him ""Michelangelo"" and I see he's identified with his name!",1.1818181818181819,0.04318785349158608,110,93,14,3
 I don't understand his choice of colors.,1.1818181818181819,0.04724780309106126,88,74,12,2
@@ -4069,16 +4069,13 @@ I hear he used to work in a lab. Do you suppose he tested Adderal?,1.17857142857
 patron.",1.1785714285714286,0.036352091215778065,112,92,20,0
 "Hey, it looks like our DaVinci AI brain implant is working.",1.1785714285714286,0.04053670999859968,112,94,16,2
 MICKEYANGELO IS DOING HIS THING AGAIN. CALL THE VATICAN.,1.1782178217821782,0.040774772835592096,101,84,16,1
-"It's heaven all right, but not one slice of cheese.",1.1782178217821782,0.040774772835592096,101,84,16,1
 "This is boring, when is he gonna start jerking off?",1.1782178217821782,0.04313469487285539,101,85,14,2
 Michelangelo Mouse!,1.1782178217821782,0.040774772835592096,101,84,16,1
-"Oh no. Please, God, no. No. No! NOOOO!!",1.1782178217821782,0.04537203658372121,101,86,12,3
 Ratty painting his image of heaven and angels in his own image.,1.1782178217821782,0.03826960017839148,101,83,18,0
 We're testing five reactionary styles. Measuring the power of each to distract from the inequalities that land so many of them in cage.,1.1782178217821782,0.040774772835592096,101,84,16,1
 Why did you name this rat Michelangelo after trying out the new neuroimprovement drug on him?,1.1782178217821782,0.03826960017839148,101,83,18,0
 "Yeah, definitely the Mustine Chapel.",1.1782178217821782,0.04313469487285539,101,85,14,2
 Look! He’s Mouseca-Angelo!,1.1782178217821782,0.04313469487285539,101,85,14,2
-"Now I understand why they call him ""Mickeylangelo"".",1.1782178217821782,0.04313469487285539,101,85,14,2
 This is what happens when you name the mouse Michelangelo.,1.1782178217821782,0.03826960017839148,101,83,18,0
 It’s not really my dream job. I’m just temping in this lab until I figure out what I want to go to grad school for.,1.1782178217821782,0.04313469487285539,101,85,14,2
 This one we’re testing micro-dosing.,1.1782178217821782,0.040774772835592096,101,84,16,1
@@ -4105,12 +4102,14 @@ This new version of RatGPT is even more astonishing than the last,1.177083333333
 "...and we shall call it, ""The Sistine Cage""",1.176991150442478,0.03606359500782784,113,93,20,0
 Looks like giving mice enough time works too..,1.176991150442478,0.04020744347355056,113,95,16,2
 "After this is done, let's see what she can do with a block of marble.",1.1764705882352942,0.04274543644192702,102,86,14,2
+"It's heaven all right, but not one slice of cheese.",1.1764705882352942,0.04041083116994654,102,85,16,1
 Can I be the Pope,1.1764705882352942,0.04041083116994654,102,85,16,1
 "We’ll have to start calling his cage, “The Ratican”!",1.1764705882352942,0.04041083116994654,102,85,16,1
 "We call him Tiepolo, but he prefers Steamboat Willy.",1.1764705882352942,0.04041083116994654,102,85,16,1
+"Oh no. Please, God, no. No. No! NOOOO!!",1.1764705882352942,0.04495897460325049,102,87,12,3
 That Mediterranean Diet we're testing turned him into a real Mice-elangelo.,1.1764705882352942,0.037932811853078105,102,84,18,0
 He says he's ghosting for Hunter Biden.,1.1764705882352942,0.04495897460325049,102,87,12,3
-We commissioned this one to do other lab work,1.1764705882352942,0.047857370340045086,85,72,11,2
+"Now I understand why they call him ""Mickeylangelo"".",1.1764705882352942,0.04274543644192702,102,86,14,2
 We named him Micelangelo and look what he grew up to be.,1.1759259259259258,0.036809181416738834,108,89,19,0
 Master Splinter is an excellent teacher.,1.1759259259259258,0.041243864630109685,108,91,15,2
 We were shooting for a Mutant Ninja Rat ….wait-a-minute,1.1758241758241759,0.04012619468902315,91,75,16,0
@@ -4139,6 +4138,7 @@ His work will influence future generations of artists turned crime fighting turt
 "When he showed no interest in the wheel and the maze, I sure glad we tried that paint-by-number set. Otherwise, we'd never know.",1.1744186046511629,0.04734210697735226,86,73,11,2
 "By special request, you can get some of his DNA in your next booster.",1.1744186046511629,0.04435850856191577,86,72,13,1
 "When we release him, he’s going to name four turtles after his art inspirations.",1.1744186046511629,0.04435850856191577,86,72,13,1
+We commissioned this one to do other lab work,1.1744186046511629,0.04734210697735226,86,73,11,2
 Looks like Splinter learned a thing or two from Michelangelo.,1.1744186046511629,0.04435850856191577,86,72,13,1
 "Of course, Mira: Paint away! If it’s not a masterpiece, so what? Who’s judging?",1.1743119266055047,0.03876279988140986,109,91,17,1
 He’s only been on the CBD for two weeks.,1.1743119266055047,0.03876279988140986,109,91,17,1
@@ -4173,13 +4173,11 @@ You should see his 15 other terrariums.,1.1730769230769231,0.04198738139575608,1
 And to think you insisted she'd be limited to acrylics.,1.1728395061728396,0.04577900300676331,81,68,12,1
 Last week it was adult coloring books!,1.1727272727272726,0.038441469886322015,110,92,17,1
 Didn’t we give him placebo divine intervention?,1.1727272727272726,0.03620691833929222,110,91,19,0
-It may not be a balanced diet but his pellets are now made up exclusively of pasta.,1.1727272727272726,0.04055307976484437,110,93,15,2
 That’s too many doses of spaghetti,1.1727272727272726,0.03620691833929222,110,91,19,0
 "Michelangelo my ass! Get Janey python, Picasso, and we’ll teach Joey’s Italian rat a thing or three!",1.1724137931034482,0.04960926328218621,87,75,9,3
 "It’s not a question of why, it’s a question of how we monetize this.",1.1724137931034482,0.04960926328218621,87,75,9,3
 The student loans for the Rattus Rodentia Art Institute may pay off after all.,1.1724137931034482,0.046837707000229364,87,74,11,2
 "Earlier, he sculpted the cheese into the statue of David.",1.1724137931034482,0.043891486539845044,87,73,13,1
-water till’ mozzarellas,1.1721311475409837,0.03623790287865224,122,102,19,1
 So your theory is that he was inspired by a slice of pizza on the subway?,1.1720430107526882,0.03934852812061861,93,77,16,0
 We call it RatGPT,1.1720430107526882,0.03934852812061861,93,77,16,0
 "Well,we did name him Mice-elangelo!",1.1720430107526882,0.04221446145523712,93,78,14,1
@@ -4196,7 +4194,6 @@ Do you really think this is how Walt Disney started?,1.1717171717171717,0.043169
 We’re experimenting in the next step in AI,1.1717171717171717,0.043169625690192184,99,84,13,2
 The Sistine has nothing on this guy.,1.1717171717171717,0.038096331262464894,99,82,17,0
 I told you! These high-faluting rats from The Papal Laboratories would never settle for these plain cages!,1.1717171717171717,0.043169625690192184,99,84,13,2
-The Renaissance started with rats. #darwin,1.1717171717171717,0.040712080749396494,99,83,15,1
 "As they say, 'garbage in equals masterpiece out.'",1.1714285714285715,0.04376331374008764,105,90,12,3
 I thought only pigs could fly.,1.1714285714285715,0.03695642136439612,105,87,18,0
 He hates it when the rat pope comes by “to offer constructive criticism.”,1.1714285714285715,0.04161823454164244,105,89,14,2
@@ -4207,9 +4204,11 @@ He answers to Michaelratgelo.,1.1714285714285715,0.03695642136439612,105,87,18,0
 I think it’s a symbolic rendering that the apple used to be mouse driven.,1.1711711711711712,0.040216192732314915,111,94,15,2
 And he's not even a computer mouse,1.1711711711711712,0.03812534582246481,111,93,17,1
 We did pray for success. God works in mysterious ways.,1.1711711711711712,0.03812534582246481,111,93,17,1
+It may not be a balanced diet but his pellets are now made up exclusively of pasta.,1.1711711711711712,0.040216192732314915,111,94,15,2
 « Who knew breaking his spine would lead him to find his true calling ? »,1.1711711711711712,0.03812534582246481,111,93,17,1
 The world would seem a lot simpler if magic were involved every once in a while.,1.170731707317073,0.03777659920961161,123,104,17,2
 Look! Finally his chiaroscuro shows improvement!”,1.170731707317073,0.03950128439897153,123,105,15,3
+water till’ mozzarellas,1.170731707317073,0.03596931228865551,123,103,19,1
 Just my luck. Now even my pet rat makes me feel inferior.,1.1704545454545454,0.04908140219102683,88,76,9,3
 "Ooh, sweet! That's the perfect blue for the upstairs bathroom!",1.1704545454545454,0.04031482334670716,88,73,15,0
 "Ratangelo is to obvious. Lets see? How about ""Ozempic really does do Everything"" or ""Get Neil Tyson in here to tell him/her there is no god"" or ""Call the pope""or ""Rats,why can't we get them to do Landscapes""",1.1704545454545454,0.04634383476994134,88,75,11,2
@@ -4225,11 +4224,11 @@ What a terrible thing to do to Philip Johnson.,1.1702127659574468,0.046958019171
 "This is a scientific breakthrough!  Ratatouille is not only a great chef, this guy can paint like Michelangelo!",1.17,0.042770234150550666,100,85,13,2
 He tried frescoes.,1.17,0.04033946860424327,100,84,15,1
 I think she’s inherited it from her mother’s side of the family,1.17,0.04033946860424327,100,84,15,1
-That angelic mouse we named Michael is painting his ceiling!,1.17,0.03775251680686371,100,83,17,0
 "I could've sworn he'd be more of a ""Ratatouille""...",1.17,0.03775251680686371,100,83,17,0
 He no longer responds to Mickey. You must call him il Divino!,1.17,0.04033946860424327,100,84,15,1
 Uncaptured freedom,1.17,0.03775251680686371,100,83,17,0
 "I guess, she's the artsy one.",1.17,0.03775251680686371,100,83,17,0
+The Renaissance started with rats. #darwin,1.17,0.04033946860424327,100,84,15,1
 It's faring far better than that turtle we named Michelangelo.,1.169811320754717,0.03664182311151792,106,88,18,0
 "I mean, sure, it's cool, but imagine if it could teach kung-fu to tortoises..",1.169811320754717,0.03901689019197877,106,89,16,1
 I wonder what he would have done if we named him daVinci?,1.169811320754717,0.03901689019197877,106,89,16,1
@@ -4266,6 +4265,7 @@ First time I've God depicted as a rat.,1.168421052631579,0.044021351784993265,95
 The other mice call him Michelangelo,1.168421052631579,0.03859988447536034,95,79,16,0
 "They don’t call him
 Mousellangelo for nothing.",1.1683168316831682,0.037414739856814275,101,84,17,0
+That angelic mouse we named Michael is painting his ceiling!,1.1683168316831682,0.037414739856814275,101,84,17,0
 And they thought DaVinci was a genius?,1.1683168316831682,0.03997352324393341,101,85,15,1
 We shouldn't have used art documentaries to test mouse vision.,1.1683168316831682,0.04237808823570836,101,86,13,2
 Ya think he’s related to Mickey Mouse?,1.1683168316831682,0.04465335557932551,101,87,11,3
@@ -4293,7 +4293,6 @@ I've seen trained rats before but this one has been trained in High Renaissance 
 I think we need to change his name to Leonardo,1.1666666666666667,0.037206996741622075,114,96,17,1
 "Blue skies,nothing but blue skies…",1.1666666666666667,0.04622501635210242,78,66,11,1
 "Anyway, now we can call him Micelangelo.",1.1666666666666667,0.040906724472817985,84,70,14,0
-Can you believe we used to switch their paws at birth?,1.1666666666666667,0.041992995073954556,102,87,13,2
 Tinkling outside the box.,1.1666666666666667,0.04100349435972013,96,81,14,1
 We believe this is how rats really behaved in the Renaissance era.,1.1666666666666667,0.043595696981716385,96,82,12,2
 I’ll be dammed if it isn’t Michelangelo reincarnated!,1.1666666666666667,0.0453863976719122,90,77,11,2
@@ -4305,6 +4304,7 @@ What do you mean -- Rodentia Chapel has a nice ring to it!,1.165137614678899,0.0
 "Fine, once she's done, we'll feed her the lipstick.",1.1650485436893203,0.04384240371744845,103,89,11,3
 "Just because we can’t decide if it’s a frog, or a tiny weasel it doesn’t mean it’s not an artistic genius.",1.1650485436893203,0.041614768467746824,103,88,13,2
 "Now that we’ve perfected Micelangelo, we can submit our grant for Rodint.",1.1650485436893203,0.041614768467746824,103,88,13,2
+Can you believe we used to switch their paws at birth?,1.1650485436893203,0.041614768467746824,103,88,13,2
 Mouseangelo is thriving with his enrichment tools.,1.1649484536082475,0.04061493695385844,97,82,14,1
 I told you Michelangelo was overrated.,1.1649484536082475,0.04061493695385844,97,82,14,1
 I told you that deep learning would work for rats.,1.1649484536082475,0.03787870736262644,97,81,16,0
@@ -4345,7 +4345,6 @@ Our experiment proves that reincarnation is real and that Michelangelo was a rea
 Genius is where you find it.,1.1630434782608696,0.0470769412025354,92,80,9,3
 "Enough about this rat… and stop changing the subject. Like I was saying, the MCU is in deep shit, and they can’t just blame the misogyny boogeyman this time.",1.1630434782608696,0.04954926776680301,92,81,7,4
 "Better than Sistine, he's painting a Skinner Box ceiling.",1.1630434782608696,0.04169478752204208,92,78,13,1
-What a science project!,1.1630434782608696,0.044467368369936235,92,79,11,2
 It’s clear this experiment needs a more contemporary approach.,1.1630434782608696,0.04169478752204208,92,78,13,1
 It’s amazing what they can do with the right tools and some mushrooms.,1.1630434782608696,0.04169478752204208,92,78,13,1
 Solitary confinement + paint = graffiti,1.1627906976744187,0.04923620479061171,86,75,8,3
@@ -4377,6 +4376,7 @@ Our last AI-infused rat was an Impressionist.   This one prefers the Renaissance
 When did you move his cheese ??,1.1616161616161615,0.04473304473304475,99,86,10,3
 Seems like he was born for it.,1.1612903225806452,0.0350846579724678,124,105,18,1
 "As you can see, I think this one qualifies for special consideration. Any thoughts on a name?",1.1612903225806452,0.041281263615876675,93,79,13,1
+What a science project!,1.1612903225806452,0.044021549455012264,93,80,11,2
 All Rats Go To Heaven,1.1612903225806452,0.03834564688497139,93,78,15,0
 The intelligence serum was a total failure. It's so kitsch.,1.1612903225806452,0.041281263615876675,93,79,13,1
 "'Well, I think this proves your hypothesis, Dr Robinson--the radioactive ooze didn't just change those turtles--it had an effect on the rats in that sewer as well.'",1.1612903225806452,0.044021549455012264,93,80,11,2
@@ -4401,7 +4401,6 @@ There always was something special about  Mickey Angelo.,1.16,0.0368452949177471
 John Schantz, Nazareth, P",1.1595744680851063,0.04087576943015152,94,80,13,1
 I may have misinterpreted your meaning of salts.,1.1595744680851063,0.04087576943015152,94,80,13,1
 "I commissioned it for only 3,000 dead cats!",1.1595744680851063,0.0435845055714996,94,81,11,2
-Is this a statement on mouse existentialism or simply a sign that we should invest in more colorful cage decor?,1.1595744680851063,0.04087576943015152,94,80,13,1
 "Wow , is that the real Mice-el - Angelo",1.1592920353982301,0.03679300179735841,113,96,16,1
 "We could put the lid on eBay when he's done, but I don't know if they accept bids from rats.",1.1590909090909092,0.039213678081561475,88,74,14,0
 "Clearly, we have more than an ordinary mouse.  Let's double up on his cheese allotment and see where this goes.",1.1590909090909092,0.04241397845684892,88,75,12,1
@@ -4424,10 +4423,10 @@ We never should have let him out to see the Sistine Chapel documentary.,1.158415
 "First, he paints the Old Testament. Then, he finds Cheeses.",1.1584158415841583,0.03651304735561543,101,85,16,0
 "Soon this is going to be us, with AI watching us work on our silly little creative projects",1.1584158415841583,0.03913083731756341,101,86,14,1
 "Looks like he's getting started on ""the Creation of Amsterdammer"".",1.1583333333333334,0.033464378262738875,120,101,19,0
-Right now he's working on 'The Creation of Edam'.,1.1583333333333334,0.03549536075208468,120,102,17,1
 It's a miracle: One dose of LSD and I made this rat diorama!,1.1578947368421053,0.04315598280527232,95,82,11,2
 Micelangelo's on a roll!,1.1578947368421053,0.040478076611364294,95,81,13,1
 "Good technique, but his use of color is pretty rudimentary.""",1.1578947368421053,0.040478076611364294,95,81,13,1
+Is this a statement on mouse existentialism or simply a sign that we should invest in more colorful cage decor?,1.1578947368421053,0.040478076611364294,95,81,13,1
 "Well, I’ve been leaving the arts and science channel on for him at night when I go home. I guess he’s really been watching it.",1.1578947368421053,0.046083949251100695,76,65,10,1
 His name is Michelangelo. Mickey for short.,1.1574074074074074,0.03758465013024766,108,92,15,1
 OMG - he's playing Uncle John's Band!,1.1574074074074074,0.03758465013024766,108,92,15,1
@@ -4436,6 +4435,7 @@ Did he get an extra dose of the Italian gene?,1.1573033707865168,0.0419727902171
 "Well, infinite monkeys and Shakespeare...",1.1573033707865168,0.038811757286952686,89,75,14,0
 He certainly takes well to pasta.,1.1573033707865168,0.0449118885544538,89,77,10,2
 Do you think we should name him Micieangelo?,1.1573033707865168,0.038811757286952686,89,75,14,0
+Right now he's working on 'The Creation of Edam'.,1.1570247933884297,0.03522510152216094,121,103,17,1
 We can make it an NFT and be set for life!,1.1568627450980393,0.04120373319778466,102,88,12,2
 I guess he is Mousealangelo.,1.1568627450980393,0.038776417687420815,102,87,14,1
 Our working theory is it’s the Parmesan.,1.1566265060240963,0.04364365530634867,83,71,11,1
@@ -4444,7 +4444,6 @@ I knew we should not have used the Renaissance names on the turtles.,1.15625,0.0
 "I am sorry Susan, but I didn't think mozzarella was going to make him so cheesy.",1.15625,0.03725247254245436,96,81,15,0
 "Cheesy if you ask me, but he's a mouse you know",1.15625,0.03725247254245436,96,81,15,0
 Wow! He can play without any sheet music!,1.15625,0.04008796522823715,96,82,13,1
-This drug trial is going great.  Think it's too soon to call Walter Isaacson?,1.15625,0.03725247254245436,96,81,15,0
 "He wants to be called Michelangelo, not Splinter.",1.15625,0.04008796522823715,96,82,13,1
 It's 'The Creation of Rat' by Rodentia da Vinci.,1.15625,0.04273573682241112,96,83,11,2
 "Some wires got crossed during the AI script rewrite of Ninja Turtles, but I think people are going to love it!",1.15625,0.04008796522823715,96,82,13,1
@@ -4462,6 +4461,7 @@ Aren't they fascinating? Behave like primates.,1.1553398058252426,0.038428291543
 "Okay, activate his microchip.",1.1547619047619047,0.046365455724311944,84,73,9,2
 It all started when he got out of Sistine Chapel trap.,1.1547619047619047,0.046365455724311944,84,73,9,2
 "The FDA cutbacks hurt, but thank goodness for the NEA grants...",1.1547619047619047,0.039699269756928786,84,71,13,0
+This drug trial is going great.  Think it's too soon to call Walter Isaacson?,1.1546391752577319,0.03690160067854735,97,82,15,0
 This explains why he ate all the chalk.,1.1546391752577319,0.04232353242870658,97,84,11,2
 He was commissioned by the Ratican.,1.1546391752577319,0.04478903916748139,97,85,9,3
 And that’s how God created heaven.,1.1546391752577319,0.04478903916748139,97,85,9,3
@@ -4488,7 +4488,6 @@ When the cheese is so that good you see god,1.1529411764705881,0.039271668724530
 Is this the Salvador DALL-E people have been raving about?,1.1529411764705881,0.045852895808718035,85,74,9,2
 He’s another Michelangelo!,1.1523809523809523,0.037750269583862385,105,90,14,1
 Ratangelo is putting the finishing touches on the Sistine Pharmacological.,1.1523809523809523,0.040102780911109755,105,91,12,2
-"Her chosen art medium will no doubt inspire controversy, but cleaning this enclosure just got way easier.",1.1523809523809523,0.03524106511591417,105,89,16,0
 This rat is showing us another form of art!,1.1521739130434783,0.04353794279315701,92,80,10,2
 Now I understand why he was named Mouselangelo.,1.1521739130434783,0.04353794279315701,92,80,10,2
 Nice to be a MountChrist Condé here making some art,1.1521739130434783,0.040702099693023734,92,79,12,1
@@ -4501,7 +4500,6 @@ So that's what the mouse Book of Genesis is about.,1.1515151515151516,0.03896103
 "Disney, and -- yes! -- Mickey Mouse.",1.1515151515151516,0.03896103896103891,99,85,13,1
 "Yeah, he thinks Michel-Frog-alo!",1.1515151515151516,0.04152235085119233,99,86,11,2
 I think we should call him 'Mickey Angelo.',1.1515151515151516,0.043934595519879695,99,87,9,3
-Beetlejuice…beetlejuice…beetlejuice,1.1515151515151516,0.04152235085119233,99,86,11,2
 It was a breeding experiment. We embedded 'rat make rat' in its brain. Then the typo.,1.1511627906976745,0.04222745348420424,86,74,11,1
 Michael angle no,1.1511627906976745,0.038853056720715325,86,73,13,0
 When I bought him he was advertised as a direct descendant of Mousiangelo!,1.1511627906976745,0.04535146788118487,86,75,9,2
@@ -4509,6 +4507,7 @@ Sagest advice I ever got: Paid what you know!,1.1511627906976745,0.0388530567207
 "Experiment hypothesis ""humans believe everything they see"" result-proven",1.1511627906976745,0.04222745348420424,86,74,11,1
 It’s a common misconception the turtle was actually Michelangelo’s monster,1.1511627906976745,0.04222745348420424,86,74,11,1
 That's what happens when you cross the Da Vinci code with the DNA code!,1.150943396226415,0.04194818356325725,106,93,10,3
+"Her chosen art medium will no doubt inspire controversy, but cleaning this enclosure just got way easier.",1.150943396226415,0.03493660753858685,106,90,16,0
 Get Disney on the line-- a Ratstar is born. Ratartouille 2025!,1.150943396226415,0.03742006234124155,106,91,14,1
 Is that a Bob Ross badger-hair brush?,1.1505376344086022,0.04029530010615515,93,80,12,1
 "He’s working on Rattus #9, a vast improvement on his previous compositions.",1.1505376344086022,0.037282128693899984,93,79,14,0
@@ -4520,6 +4519,7 @@ Michael? It that really you?,1.15,0.0385992097056273,100,86,13,1
 Don't even suggest Michelangelo!,1.15,0.0385992097056273,100,86,13,1
 "We've DONE it, Helen! PURE entertainment.",1.15,0.04393608706786989,80,69,10,1
 "The Teenage Mutant Ninja Turtles inspired this experiment, but the Michelangelo mouse yielded a totally different result.",1.15,0.04017367360141355,80,68,12,0
+Beetlejuice…beetlejuice…beetlejuice,1.15,0.04113294533484315,100,87,11,2
 Hollymouse! I never knew these rats could draw the heaven. #,1.15,0.0385992097056273,100,86,13,1
 He is from Michelangelo's old house,1.1494252873563218,0.04177540678018991,87,75,11,1
 And to imagine the last lab rat we adopted just walked in circles and consumed his own tail.,1.1494252873563218,0.04486081606493881,87,76,9,2
@@ -4553,6 +4553,7 @@ We gave him that jellyfish supplement!,1.1473684210526316,0.03950539972626867,95
 The experiment failed. They only plagiarize the great geniuses.,1.1473684210526316,0.04224500885626314,95,83,10,2
 That reminds me to paint my roof.,1.1473684210526316,0.04224500885626314,95,83,10,2
 "I might have to spare this rat from the rat soup that I am going to eat later with my seven illegitimate children ranging in ages seven to sixty-four. Of course that means less food for us, but I dont think Jonny is going to make it so he can starve.",1.1473684210526316,0.0472500698912998,95,85,6,4
+You might be impressed but I find it derivative.,1.1470588235294117,0.0352406895156745,102,87,15,0
 "God damnit Rachel! You were supposed to be watching this one today. This is the fourth cage that they’ve gotten paint all over. Our departments budget is almost non existent... Christ, I have plans tonight with Chery, I don’t have the time to wash these f*ckin cages.",1.1470588235294117,0.04703819194404342,102,92,5,5
 "I hear he's an artist in the kitchen, too!",1.146788990825688,0.036462894235514604,109,94,14,1
 ". ""He has an interesting perspective.""",1.146341463414634,0.03927202370241044,82,70,12,0
@@ -4618,7 +4619,6 @@ I wonder if his patrons are church mice.,1.1401869158878504,0.03624160713338814,
 "t's a common myth that Michelangelo painted the ceiling of the Sistine Chapel while lying on his back, he worked standing.  This so called 'Michelangelo Rat' is a fraud.",1.1401869158878504,0.03859779567366521,107,94,11,2
 Rodence is truly the home of the Masters!,1.1401869158878504,0.03624160713338814,107,93,13,1
 "Interesting! Our lab rat Michelangelo isn't as incentivized by cheese as our mutant turtle experiment, also named Michelangelo.",1.14,0.03487350880197773,100,86,14,0
-You might be impressed but I find it derivative.,1.14,0.03487350880197773,100,86,14,0
 This is a Michaelmouse!,1.1397849462365592,0.03615262258846411,93,80,13,0
 His colors are right on!,1.1397849462365592,0.03925259495524484,93,81,11,1
 We told him he's a Splinter. He insisted he's a Michelangelo.,1.1397849462365592,0.03925259495524484,93,81,11,1
@@ -4628,15 +4628,14 @@ What’s more is professor Jamison’s observations suggest he has been attempti
 "Given the right furniture, look what happens!",1.139240506329114,0.039199128019855194,79,68,11,0
 "Michelangelo, he’s not — yet.",1.139240506329114,0.043140950178920556,79,69,9,1
 WOW!!  So aMAZEing.,1.1388888888888888,0.03826076324884866,108,95,11,2
-"See, Susan? There's no such thing as a glass ceiling.",1.1386138613861385,0.034554313597257746,101,87,14,0
 When we named him Michaelangelo I really didn't expect this.,1.1382978723404256,0.03579685377634942,94,81,13,0
 Do you think it’s him or school of?,1.1379310344827587,0.040619414815555276,87,76,10,1
 I guess because we named him Michealango this was inevitable,1.1379310344827587,0.040619414815555276,87,76,10,1
 That's the same damn rat that stole my pizza.,1.1379310344827587,0.046739204878581554,87,78,6,3
 The essential phases of Rat scripture! I don’t see cheese.,1.1375,0.03874515077865563,80,69,11,0
 "If we pipe in some water, he'll have the Agony after the Extacy.",1.1372549019607843,0.0369671833309425,102,89,12,1
+"See, Susan? There's no such thing as a glass ceiling.",1.1372549019607843,0.03424084669891522,102,88,14,0
 "In a world where all experience was based in the glorious lost past of Antiquity, he has made a new beginning. Harvey, more even than Mickey or Jerry, embodies a standard of artistic genius which reveals a radically changed image of rats.",1.1368421052631579,0.038477539050399544,95,83,11,1
-So this is what Ringo meant!!,1.1368421052631579,0.041285411189771436,95,84,9,2
 "The Sistine Chapel ceiling, painted in fresco, was actually by Rattangelo. Not Michelangelo as is commonly thought.",1.1368421052631579,0.038477539050399544,95,83,11,1
 Gotta be Dixieland or they won't play!,1.1367521367521367,0.03190111200173253,117,101,16,0
 "I knew he'd like those left over Cannoli's!
@@ -4656,6 +4655,7 @@ He could paint the ceiling or join his pals in the other aquarium.,1.13636363636
 "This is Mouse van Gogh painting ""A Ratty Night Sky""",1.1359223300970873,0.0339329572976101,103,89,14,0
 "Michael Angelo he's not but an ""A "" for effort",1.1358024691358024,0.0421383905330272,81,71,9,1
 We call him Michaelratgelo.,1.1354166666666667,0.03810129523822529,96,84,11,1
+So this is what Ringo meant!!,1.1354166666666667,0.04087795181322621,96,85,9,2
 I knew we should've kept the cheese maze. He's become a starving artist.,1.135135135135135,0.04838879136051528,74,66,6,2
 "Wow, look what Mickeyangelo's accomplished!",1.1348314606741574,0.03976119739356875,89,78,10,1
 "No way, Mousechelangelo couldn't be sentient!",1.1348314606741574,0.03976119739356875,89,78,10,1
@@ -4674,11 +4674,8 @@ That circle has to mean something,1.1327433628318584,0.03206056802254301,113,98,
 The medication does have some side effects. You were asking what happened to Ed Kowalski in R&D?,1.1326530612244898,0.0373703104271054,98,86,11,1
 Mouseskullgigolo paints the Cremation of Madam in the Stripqueen Chattel,1.1326530612244898,0.04008657552277356,98,87,9,2
 "Sure, I'm impressed ... but you must admit, it IS kind of derivative.",1.1325301204819278,0.03744359785176951,83,72,11,0
-"Rodent,Rimini, Rodin, et al, you have no ceiling!",1.1325301204819278,0.04460649886088055,83,74,7,2
 "Okay,it may seem impressive,but if you look closer it",1.1325301204819278,0.04118108036896784,83,73,9,1
 He's been spending a lot of time with the turtles.,1.1318681318681318,0.03566494196230942,91,79,12,0
-"Hmmm. Interesting.”
-“This creature has the DNA of Michelangelo!",1.1318681318681318,0.03566494196230942,91,79,12,0
 I don’t even know where to begin…,1.1318681318681318,0.03566494196230942,91,79,12,0
 Looks like Mikey taught Splinter a thing or two.”,1.1313131313131313,0.03701516692173352,99,87,11,1
 Ordered directly from the Sistine Chapel.,1.1313131313131313,0.03411714406215554,99,86,13,0
@@ -4687,10 +4684,12 @@ New on Disney Plus - Mickeyangelo!,1.1313131313131313,0.03411714406215554,99,86,
 I think we’re ready to publish our findings on the crossing of a splinter with a turtle.,1.1313131313131313,0.03411714406215554,99,86,13,0
 That's nothing -- one of the monkeys we have pounding away at those typewriters down the hall just produced 'Romeo and Juliet.',1.130952380952381,0.037028783150812844,84,73,11,0
 I  told you the painting class for Mickey was a good idea.,1.130952380952381,0.037028783150812844,84,73,11,0
+"Rodent,Rimini, Rodin, et al, you have no ceiling!",1.130952380952381,0.04410050166290234,84,75,7,2
 "After staring at this thing for almost 5 hours, my sanity is starting to crumble.",1.130952380952381,0.04071845422256089,84,74,9,1
 "Once A.I. learns how to do this, we can get him back to his desk job.",1.130952380952381,0.037028783150812844,84,73,11,0
+"Hmmm. Interesting.”
+“This creature has the DNA of Michelangelo!",1.1304347826086956,0.035304258388745714,92,80,12,0
 I feel like I’m channeling Michael Angelo with the fluidity of my brush strokes,1.1304347826086956,0.03387449157284589,115,101,13,1
-Cistern Chapel,1.13,0.033799766898963156,100,87,13,0
 Hmmm...I suppose it's all one's point of view.,1.1294117647058823,0.036622976112061986,85,74,11,0
 I know she is one of the greatest artists of our time. But I really want to boop that belly.,1.1294117647058823,0.036622976112061986,85,74,11,0
 You really think it looks like me?,1.1290322580645162,0.03495073154102972,93,81,12,0
@@ -4700,6 +4699,7 @@ Have you been streaming Art History podcasts for this mouse?
 
 Who named this mouse “Micelangelo?”",1.1290322580645162,0.03495073154102972,93,81,12,0
 "After Leonardo, Raphael and Donatello, I just assumed he was named after, you know….",1.1290322580645162,0.03495073154102972,93,81,12,0
+Cistern Chapel,1.1287128712871286,0.033488187178787675,101,88,13,0
 "Amazing work, Michaelmouselo!",1.1287128712871286,0.033488187178787675,101,88,13,0
 "So, now do you believe that he died in yesterday’s test?",1.1287128712871286,0.03895508034238814,101,90,9,2
 I prefer this version of heaven! [I am assuming the fluffy stuff is trees],1.127906976744186,0.0362258896767862,86,75,11,0
@@ -4711,13 +4711,13 @@ The news has been giving me the munchies too.,1.1267605633802817,0.0445391219742
 "I knew he was a rat with a rare talent.""",1.1264367816091954,0.035837248691618764,87,76,11,0
 "You said you had Mickey Mouse, not Micheal",1.1263157894736842,0.03426432155975449,95,83,12,0
 Good thing we screened The Agony and the Ecstasy in the lab last week.,1.1263157894736842,0.03426432155975449,95,83,12,0
-Naming the rat Splinter may have been a mistake.,1.1263157894736842,0.03426432155975449,95,83,12,0
 "Mary, I've told you time and time again to recite your Apostle works outside the lab. The tests we're running on these mice make them very prone to suggestions. Last week another mouse was painting the Gaza Strip",1.1262135922330097,0.03823542562589994,103,92,9,2
 We're soon going to have to get him a new lid for his cage...,1.125,0.03896686961894279,88,78,9,1
 "All he has to do is find the cheese, and we can end this.",1.125,0.03545678930819846,88,77,11,0
 "He claimed to be a Christian, but he's really an Animist. Can we get our money back?",1.125,0.0372087848617242,80,70,10,0
 His reward when he finishes is a piece of cheese pizza.,1.125,0.037021804859943275,96,85,10,1
 We'll name this pill xanartax,1.125,0.033931044626914805,96,84,12,0
+Naming the rat Splinter may have been a mistake.,1.125,0.033931044626914805,96,84,12,0
 How can he do it with two ears?,1.125,0.03545678930819846,88,77,11,0
 "That’s what happens when you show the movie ‘The Agony And The Ecstasy’”
 Jeffrey Manly 
@@ -4726,10 +4726,10 @@ I did always wonder where Michelangelo got his inspiration.,1.1237113402061856,0
 And all this time I've been thinking Leonardo was a turtle!,1.1235955056179776,0.03855214395662025,89,79,9,1
 How many Italian gummies did he ingest?,1.1224489795918366,0.03328341697069122,98,86,12,0
 "You know, if we're planning to name him van Gogh, we should cut off one of his ears.",1.1224489795918366,0.03909696556888407,98,88,8,2
-I’m more fascinated by this than I am with the monkeys in the next room who typed all  the works of Shakespeare!,1.1222222222222222,0.03471941311982696,90,79,11,0
 He must have been watching us dissect cadavers; his musculoskeletal-skeletal structure is unparalleled.,1.1222222222222222,0.03471941311982696,90,79,11,0
 "Might be the tea I just drunk, but can you believe this is a post modern artist answering the call of the Pope?",1.1219512195121952,0.036358828902435546,82,72,10,0
 "He just goes by ""Angelo.""  Michael is his last name.",1.121212121212121,0.035959410661983056,99,88,10,1
+I’m more fascinated by this than I am with the monkeys in the next room who typed all  the works of Shakespeare!,1.120879120879121,0.03436202021848665,91,80,11,0
 "He's not much of a dog-person, but he says absolutely no to cats in his version of the After-Life.",1.120879120879121,0.03436202021848665,91,80,11,0
 He really learned  a lot from his Sistine Chapel visit!,1.120879120879121,0.03774849238970915,91,81,9,1
 I see significant results in this artistically trial,1.120879120879121,0.03774849238970915,91,81,9,1
@@ -4782,16 +4782,16 @@ Would you like to see my impression of Jeremy Irons doing his impression of Clau
 "why didn't I ever think of painting with cheese?  
 so pop",1.1063829787234043,0.03197203760837918,94,84,10,0
 You can  see why Mousyangelo  is a lab favorite.,1.1063829787234043,0.03197203760837918,94,84,10,0
-"First The Musculus Lisa, and now this.",1.106060606060606,0.03819217678704997,66,59,7,0
-"Wow, we have a really smart rat in this cage! Look! He knows how to paint! I've never seen a rat be able to do that before. Maybe we should try to capitalize on this somehow. We could get him a bigger cage and more supplies. It's really neat that this rat can do all of this painting.",1.1057692307692308,0.03844986753471489,104,96,5,3
 Splinter’s ‘Michelangelo’,1.105263157894737,0.040083016346652095,76,69,6,1
 Maybe we should have named this one Michaelangelo instead of Splinter,1.105263157894737,0.040083016346652095,76,69,6,1
+"Wow, we have a really smart rat in this cage! Look! He knows how to paint! I've never seen a rat be able to do that before. Maybe we should try to capitalize on this somehow. We could get him a bigger cage and more supplies. It's really neat that this rat can do all of this painting.",1.1047619047619048,0.038095238095238064,105,97,5,3
+"First The Musculus Lisa, and now this.",1.1044776119402986,0.037651117843993505,67,60,7,0
 That mouse sure can paint!,1.103448275862069,0.03283976780985288,87,78,9,0
 I know you can do it. I know you can do it. I'd like a demonstration. I want you - to knock my socks off!,1.1022727272727273,0.03628436369735344,88,80,7,1
 "I guess this means we have to reconsider non-human animal sentience....nah, off with her head with the rest.",1.1020408163265305,0.030734729362213643,98,88,10,0
 We're feeding him a steady diet of linguine alla puttanesca,1.1012658227848102,0.03415857738895905,79,71,8,0
 He apparently hitched a ride from Rome on a cruise ship - we've named him Mousilangelo,1.0978260869565217,0.03114237840319294,92,83,9,0
-"I am going to call it the Michaelangelo gene, it will revolutionize the food industry.",1.0978260869565217,0.03114237840319294,92,83,9,0
+"I am going to call it the Michaelangelo gene, it will revolutionize the food industry.",1.096774193548387,0.030823647932448732,93,84,9,0
 "I think we've found the next Mouselangelo, maybe he can paint the Sciencestine Chapel for us?",1.0963855421686748,0.03259046872291919,83,75,8,0
 "Maybe it's a combined result of his genetically modified brain cells and the electrically-controlled paintbrush.  Or maybe, after lying around alone for a couple of days, he was just getting bored.""",1.0957446808510638,0.030511347605209665,94,85,9,0
 The man at the store said his name is Bob Ross.,1.0957446808510638,0.034054704991984645,94,86,7,1
@@ -4804,9 +4804,9 @@ Remember the talking dog story!,1.0921052631578947,0.03339099352749875,76,69,7,0
 Record now as the time the level of LSD is therapeutic,1.0909090909090908,0.03297619318681874,77,70,7,0
 He calls it Starry Mice.,1.0875,0.03642987889012764,80,74,5,1
 Maybe we should switch from Rodent to Clouddent,1.0869565217391304,0.029537661760293828,92,84,8,0
-"If animals really use tools, how then will we arrogate ourselves?",1.0869565217391304,0.033337141531704445,92,85,6,1
 "Critize red shirting all you want but look at those leadership skills 
 Frank Buckley Andover MA",1.0864197530864197,0.031414841111109815,81,74,7,0
+"If animals really use tools, how then will we arrogate ourselves?",1.086021505376344,0.03298998239472917,93,86,6,1
 Management likes us to pose them in weird setups when they die to keep the live ones on their toes. To be honest I don't even think we're doing any experiments anymore. God. Damn. This weed is fucking incredible.,1.0824742268041236,0.02807583271197284,97,89,8,0
 "Now we've got to find a way to ask the mouse about its roof masterpiece without it squeaking,""mouse secrets"".",1.0808080808080809,0.0275307128836059,99,91,8,0
 "Look, he's painting the murine chapel.
