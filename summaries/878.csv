@@ -1,7 +1,7 @@
 caption,mean,precision,votes,not_funny,somewhat_funny,funny
 Take those off!  They’ll give you mistle toe.,1.8199221284879947,0.01455291524619537,3082,1333,971,778
 "Don't look at me that way. We're Jewish, and I'm cold.",1.7788663400979705,0.014840140764472362,2858,1285,920,653
-I left one for you. Use your imagination.,1.7382592360676268,0.013789314446278334,3194,1497,1036,661
+I left one for you. Use your imagination.,1.7383411580594679,0.013785241288648838,3195,1497,1037,661
 "I am the present, Stephen. I am the present.",1.7373350361856108,0.01554583479117353,2349,1056,854,439
 You said that all you wanted for Christmas was me in stockings.,1.7224770642201834,0.021308933163281137,1308,620,431,257
 "When you said you’d be in stockings when I got home, I had something else in mind.",1.7215127701375246,0.0122809665116514,4072,1975,1256,841
@@ -14,17 +14,17 @@ He said to meet him on the roof wearing these.,1.6924165251839276,0.012677436831
 "The stockings were hung by the chimney with care
 But the house is so cold I took these down to wear.",1.6906035141329259,0.02131232337090608,1309,654,406,249
 Wait'll you see what I do with the wreath!,1.6899141630901287,0.013992918525804636,2796,1333,997,466
-You’re home early.,1.679260668659962,0.012801585451442712,3679,1888,1083,708
+You’re home early.,1.6790760869565218,0.012799437289887111,3680,1889,1083,708
 Screw the kids. I’m freezing.,1.6763285024154588,0.0141560045269358,2898,1462,912,524
 Do these make my calves look fat?,1.6749055956059045,0.014044285266072225,2913,1464,932,517
 "Now, where is that tree skirt?",1.6745899690991206,0.011707953069295831,4207,2120,1336,751
-Pro Tip...take the Lego pieces out before you try this.,1.6674953387197016,0.012928022972018314,3218,1578,1132,508
+Pro Tip...take the Lego pieces out before you try this.,1.6675986331158745,0.012924418967530108,3219,1578,1133,508
 They go with the Christmas tree skirt.....,1.6562817473755502,0.013699933829157405,2953,1500,968,485
 Remember last year? When you got wasted and wore all three?,1.6538090646094503,0.013783533094058276,3111,1644,900,567
 Wait until you see what I do with the third one.,1.6507666098807496,0.01381304422677614,2935,1513,934,488
 Would you hand me that necklace?,1.6489527977492966,0.013587627965952106,3199,1703,916,580
 Jerrold... You're home early...,1.646906101254868,0.015459596896078327,2311,1190,747,374
-"Get the cap and the little reindeer whip, and I'll give you your present right now.",1.6393949810931592,0.014120599077639066,2909,1557,844,508
+"Get the cap and the little reindeer whip, and I'll give you your present right now.",1.6391752577319587,0.014117455789204201,2910,1558,844,508
 'Twas the night before laundry day.,1.6383714741883981,0.01190649387276005,3758,1926,1265,567
 I didn’t have an ugly sweater.,1.6315280464216635,0.02258048402784378,1034,533,349,152
 I knew it!—yours is bigger.,1.6133625410733845,0.024172200719182642,913,488,290,135
@@ -38,12 +38,12 @@ I can put on the Santa suit but it’ll cost extra.,1.5961408259986458,0.0133092
 "Fine, then you do laundry.",1.5949074074074074,0.015389989022324227,2160,1167,701,292
 "Well, you always said you wanted to see me in stockings!",1.5948212983223924,0.01352504931397906,2742,1468,917,357
 Did you check the dryer?,1.5813037249283668,0.01359173363596391,2792,1549,863,380
-... they had my name on them,1.581174438687392,0.014808488243106382,2316,1276,734,306
+... they had my name on them,1.5809236081139404,0.014804220715986792,2317,1277,734,306
 If you stretch them out they fit more presents,1.5788561525129983,0.029059804911937902,577,313,194,70
-You said you’d like me to wear stockings.,1.5710176195613088,0.013288595075830297,2781,1535,904,342
+You said you’d like me to wear stockings.,1.571531272465852,0.013293744727969889,2782,1535,904,343
 "To hell with Santa, I’m cold",1.570054945054945,0.013327653862901237,2912,1648,868,396
 You should have sprung for my Uggs,1.567849686847599,0.012989915940549114,2874,1586,944,344
-"Now, you get to guess where that last sock goes.",1.5665732305536089,0.013274725373493182,2854,1604,883,367
+"Now, you get to guess where that last sock goes.",1.566725043782837,0.013270943281490956,2855,1604,884,367
 "Santa may think it’s naughty, but it sure feels nice.",1.5597133757961783,0.013648775951478561,2512,1384,850,278
 I thought it’s about time we started some of our own holiday traditions.,1.557131280388979,0.013737014948367175,2468,1363,835,270
 Just stepping into the holidays.”,1.5546558704453441,0.0130766447411542,3458,2135,728,595
@@ -179,9 +179,9 @@ Am I not everything you ever wanted?,1.3652849740932642,0.03128958093887474,386,
 So turn up the thermostat!,1.3643835616438356,0.03205738051998126,365,258,81,26
 They fit fine except for the coal at the bottom.,1.3631713554987213,0.03119892823405181,391,278,84,29
 "Oh, you meant wear the Christmas stockings and nothing else.",1.3627450980392157,0.03685005629087713,306,223,55,28
+"Honey, when I said 'big presents this year,' I meant jewelry, not jumbo hosiery.",1.3625,0.033992150578338494,320,226,72,22
 But it's okay for you to wear a Christmas bow as a tie?,1.3611940298507463,0.03399351748909276,335,240,69,26
 And then I’ll quietly follow you around in these. I call them ‘stalkings.’,1.3610315186246418,0.03473212386627335,349,256,60,33
-"Honey, when I said 'big presents this year,' I meant jewelry, not jumbo hosiery.",1.3605015673981191,0.03403989620890662,319,226,71,22
 This year I’m walking into Christmas like I own it!,1.3603351955307263,0.03292119116079773,358,257,73,28
 Guess what turns out to be the perfect stocking stuffers?,1.360313315926893,0.032682565047922545,383,279,70,34
 Or you could raise the thermostat.,1.3592814371257484,0.034304541971982135,334,241,66,27
