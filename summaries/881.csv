@@ -11,8 +11,8 @@ Pay up front. I know how this ends.,1.679673849737915,0.01836581527175408,1717,8
 "Whaddaya mean, 'you can't decide'?",1.6755753526354862,0.020517307743374173,1347,671,442,234
 From now on you’re all getting separate checks.,1.6682926829268292,0.017576067287509392,1845,933,591,321
 "We had a priest, a rabbi and a pastor in here last week.",1.667645331767469,0.018349013570321086,1703,865,539,299
-Does paper also cover the check?,1.658421052631579,0.01692299161915057,1900,952,645,303
 "One of you is paying, and this time you’re drawing straws.",1.6581196581196582,0.020293002998191874,1287,636,455,196
+Does paper also cover the check?,1.658074697527617,0.016917632963881976,1901,953,645,303
 "3 whiskeys, neat. But they’re all on the rock.",1.6424205378973105,0.018523680751034676,1636,856,509,271
 "So paper covers rock, but not the tab?",1.6415981198589895,0.017644964308257814,1702,865,582,255
 "Nobody cares that you're famous.  No shoes, no shirt, no service.",1.6397022332506204,0.018721784850928416,2015,1205,331,479
@@ -26,7 +26,7 @@ I've had it with you guys--I'm giving you separate checks.,1.6108324974924775,0.
 "Get out! Scissors is smashed, Paper is cut off, and Rock you never pay unless Paper covers you.",1.6082995951417005,0.023951284997968465,988,549,277,162
 Not this time boys...we're flipping a coin today!,1.6033254156769596,0.024799639376202286,842,451,274,117
 …or I could just split the bill three ways.,1.5977564102564104,0.029225155475255966,624,342,191,91
-If only there was a way to choose who picks up the tab.,1.5923076923076922,0.024232713486394053,910,504,273,133
+If only there was a way to choose who picks up the tab.,1.5916575192096598,0.02421482896028978,911,505,273,133
 Can't you guys just flip a coin?,1.5897435897435896,0.03615920078564455,390,212,126,52
 This is a fast-food joint.  You guys'll hafta draw straws.,1.587117212249208,0.026844090894834534,947,599,140,208
 "We settle things like men here, I declare a thumb war.",1.585057471264368,0.02501816720502486,870,492,247,131
@@ -2120,6 +2120,7 @@ Just decide. I ain't got all day!,1.2375,0.051076233666644016,80,62,17,1
 "Look, do you want guac or not?",1.2375,0.05693586776342908,80,64,13,3
 Shoot. Not you guys again.,1.2375,0.059650219900493365,80,65,11,4
 I'm calling the cops. Your fights always end in shooting.,1.2375,0.04787824087586226,80,61,19,0
+"You may be big shots in DC but in New York, you have to pay for your own drinks!",1.2375,0.05408546331291017,80,63,15,2
 Pay up. I got a napkin with Leonard Nimoy's DNA that trumps all of you,1.2375,0.06473839762136747,80,67,7,6
 "You tell us what we’re drinking, Sam. We’ve made enough decisions today.",1.2375,0.06224632061720393,80,66,9,5
 "Your choice is for here or to go- I really don't care how you decide.""",1.2371134020618557,0.050285259885436064,97,77,17,3
@@ -2332,7 +2333,6 @@ I'm not going to stand here all day while you three decide who pays!,1.227848101
 "One rule, no fights here!",1.2278481012658229,0.05389522782353846,79,63,14,2
 "Alright then so we know Scissors cuts paper, paper covers rock, rock crushes lizard, lizard poisons Spock, Spock smashes scissors, scissors decapitates lizard, lizard eats paper, paper disproves Spock, Spock vaporizes rock, and as it always has, rock crushes scissors. So where are the other two then?",1.2278481012658229,0.050794937122985044,79,62,16,1
 You're all paying separately. I don't have time to clean up the aftermath of your little game again.,1.2278481012658229,0.05682662691885048,79,64,12,3
-"You may be big shots in DC but in New York, you have to pay for your own drinks!",1.2278481012658229,0.05389522782353846,79,63,14,2
 "Look…yer allll losers, now scram!",1.2278481012658229,0.059614054314375664,79,65,10,4
 No games this time. Just tell me what you want.,1.2277227722772277,0.050504755425175636,101,82,15,4
 One of you has to leave. I don't care how you decide.,1.2277227722772277,0.056078424786163546,101,85,9,7
