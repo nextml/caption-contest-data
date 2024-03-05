@@ -1,63 +1,63 @@
 caption,mean,precision,votes,not_funny,somewhat_funny,funny
-"You're a lifeguard, Larry. You can't keep working from home.",1.8166862514688602,0.020280963926306406,1702,780,454,468
+"You're a lifeguard, Larry. You can't keep working from home.",1.8158357771260998,0.020256879792968068,1705,782,455,468
 "It's not the sound of gentle waves kissing the shore, Walter.
-It's the dishwasher.",1.7903780068728523,0.016815036326248502,2328,1061,694,573
-When you get back from vacation we need to talk.,1.75857431069267,0.020274796526517893,1487,677,492,318
-"When we agreed to take separate vacations, I hoped you'd go somewhere else.",1.7225919439579684,0.015691596021748775,2855,1509,629,717
-It's low tide now so you can roll the garbage bin back up the driveway.,1.7047413793103448,0.02072462951776199,1392,682,439,271
-"When you get back, take out the garbage.",1.6958762886597938,0.01809417811412207,1746,845,587,314
-Maybe next week you can pretend to be gainfully employed.,1.6923076923076923,0.01755428725517866,2002,1020,578,404
-"Don’t get too comfortable, Jimmy Buffett. It’s your turn to shovel the driveway.",1.6856763925729443,0.02043516915711757,1508,786,410,312
-For god’s sake just tell your 37 followers we couldn’t afford a real vacation.,1.675625579240037,0.023133361504162314,1079,543,343,193
-I still can’t believe you went on a staycation without me.,1.6718146718146718,0.021540417035251374,1295,671,378,246
-"If you close your eyes, the dishwasher sounds exactly like the ocean.",1.6612291350531108,0.014921373679734196,2636,1371,787,478
-"Honey, I don’t think this is what they meant, when they said dress for the job you want",1.6454901960784314,0.021108528194191553,1275,668,391,216
-"For the last time,  I'm sorry that I didn't book the flights on time!",1.645476772616137,0.01894829949162323,1636,873,470,293
-I've arranged for you to have an early check out.,1.6381059751972942,0.025594939264674182,887,476,256,155
-"For the next contest you enter, I suggest you read the fine print.""",1.6361904761904762,0.019038177608018413,1575,840,468,267
-Take all the fries you want. He's been dead for a week,1.6351515151515152,0.028319111206363743,825,478,170,177
-I really don't think I need to do your back.,1.6350574712643677,0.019949587072971196,1392,732,436,224
-"By prepare for vacation, I was thinking maybe you might get the luggage out of the attic.",1.635049161364951,0.0179692677411469,1729,913,534,282
-"I said secluded, not deluded.",1.6349809885931559,0.023057788041759997,1052,556,324,172
-I'm so glad you found a way to work within our budget.,1.6291225886745488,0.01813686222905343,1607,833,537,237
-You seem distant.,1.619410569105691,0.016500340677620778,1968,1044,629,295
-You seem to be in a better mood now that my parents have left.,1.6193282262816735,0.018359095503905434,1697,931,481,285
-"OK, you can turn on the AC.",1.6050541516245487,0.01906832014389388,1385,730,472,183
-Okay!  I'll turn down the thermostat.,1.6016355140186915,0.024607030932383585,856,460,277,119
-"I appreciate your foresight, but it says here that sea levels aren’t expected to reach us for quite a few years.",1.599694423223835,0.020194291876312134,1309,716,401,192
-You’re sure this is easier than taking the Prozac?,1.5944333996023856,0.018770934950120766,1509,831,459,219
-The seagull was a nice touch. Still no.,1.5928217821782178,0.02571079563116771,808,447,243,118
-I wish you wouldn't bring your gull friend into our home.,1.5901084010840107,0.0195373382194839,1476,842,397,237
-"If that thing craps on the floor, the beach is closed.",1.5889830508474576,0.024366384777768136,944,538,256,150
-Just use a Zoom filter like the rest of us.,1.5836849507735584,0.027247010967114352,711,397,213,101
-I’m glad we’re taking separate staycations.,1.5822649572649572,0.02370233768243704,936,523,281,132
-Ok. Fine. I’ll turn the heat down a little.,1.575268817204301,0.029925547706877203,558,308,179,71
+It's the dishwasher.",1.7896995708154506,0.016807444477982166,2330,1063,694,573
+When you get back from vacation we need to talk.,1.758226997985225,0.02025461451921244,1489,678,493,318
+"When we agreed to take separate vacations, I hoped you'd go somewhere else.",1.7222805176635188,0.015682121479793427,2859,1512,629,718
+It's low tide now so you can roll the garbage bin back up the driveway.,1.7041547277936964,0.020704537983228945,1396,685,439,272
+"When you get back, take out the garbage.",1.6946826758147513,0.01807625876788459,1749,848,587,314
+Maybe next week you can pretend to be gainfully employed.,1.6917705735660848,0.017535486771574273,2005,1022,579,404
+"Don’t get too comfortable, Jimmy Buffett. It’s your turn to shovel the driveway.",1.6847323198942499,0.020406281639125518,1513,790,410,313
+For god’s sake just tell your 37 followers we couldn’t afford a real vacation.,1.671889400921659,0.02305565227770713,1085,549,343,193
+I still can’t believe you went on a staycation without me.,1.67,0.021483859678448087,1300,675,379,246
+"If you close your eyes, the dishwasher sounds exactly like the ocean.",1.6599772813328284,0.014903621768366293,2641,1376,787,478
+"For the last time,  I'm sorry that I didn't book the flights on time!",1.6446886446886446,0.01893335503055937,1638,875,470,293
+"Honey, I don’t think this is what they meant, when they said dress for the job you want",1.64296875,0.021056161851911278,1280,673,391,216
+I've arranged for you to have an early check out.,1.6366704161979753,0.025557469444539495,889,478,256,155
+"For the next contest you enter, I suggest you read the fine print.""",1.6350411132194813,0.018985750962041165,1581,844,470,267
+Take all the fries you want. He's been dead for a week,1.6344993968636912,0.028261694687508294,829,481,170,178
+"By prepare for vacation, I was thinking maybe you might get the luggage out of the attic.",1.6339491916859123,0.01794935937592849,1732,916,534,282
+"I said secluded, not deluded.",1.6329233680227058,0.022982634322114354,1057,560,325,172
+I really don't think I need to do your back.,1.6327845382963493,0.0199040580810389,1397,737,436,224
+I'm so glad you found a way to work within our budget.,1.6283405842137975,0.01812274362859734,1609,835,537,237
+You seem distant.,1.619289340101523,0.01648771707005849,1970,1045,630,295
+You seem to be in a better mood now that my parents have left.,1.6189078097475045,0.018309334388967924,1703,934,484,285
+"OK, you can turn on the AC.",1.6040316774658028,0.01903046870982409,1389,733,473,183
+Okay!  I'll turn down the thermostat.,1.6013986013986015,0.02456405436110676,858,461,278,119
+"I appreciate your foresight, but it says here that sea levels aren’t expected to reach us for quite a few years.",1.596958174904943,0.020133011304172947,1315,722,401,192
+You’re sure this is easier than taking the Prozac?,1.5933993399339934,0.018716854881766717,1515,835,461,219
+The seagull was a nice touch. Still no.,1.590628853267571,0.025646822003924107,811,450,243,118
+I wish you wouldn't bring your gull friend into our home.,1.5891891891891892,0.019498713724710626,1480,845,398,237
+"If that thing craps on the floor, the beach is closed.",1.587117212249208,0.02431297981269327,947,541,256,150
+Just use a Zoom filter like the rest of us.,1.582047685834502,0.027195147224220055,713,399,213,101
+I’m glad we’re taking separate staycations.,1.5810234541577826,0.02366804160580559,938,525,281,132
 You still have to take out the garbage.,1.5742827868852458,0.016865203931825636,1952,1134,515,303
+Ok. Fine. I’ll turn the heat down a little.,1.5729537366548043,0.029774757264329606,562,311,180,71
 My mother warned me about marrying a dermatologist.,1.572704081632653,0.016976191772516535,2352,1514,329,509
-While you're on vacation don't forget to tip the help.,1.5658572479764532,0.019940945436523593,1359,790,369,200
+While you're on vacation don't forget to tip the help.,1.565025716385011,0.019920304435862388,1361,792,369,200
 Better give me all your passwords before high tide.”,1.5594871794871794,0.0183418880213153,1950,1258,293,399
-S-O-N. I said quality time with your SON.,1.5546116504854368,0.024991076387781263,824,477,237,110
-"Yes George, I know you suffer from jet lag but we returned from Hawaii three weeks ago.",1.5522267206477733,0.020159883255256764,1235,710,368,157
+S-O-N. I said quality time with your SON.,1.5531400966183575,0.02490311609662255,828,480,238,110
+"Yes George, I know you suffer from jet lag but we returned from Hawaii three weeks ago.",1.551779935275081,0.020148520319110644,1236,711,368,157
 "I don’t think taking 
 separate vacations is working out as
- I thought it would.",1.547212741751991,0.02332247821805871,879,499,279,101
-"Cute. Retirement looks good on you, dear.",1.5447368421052632,0.020368855412684465,1140,647,365,128
+ I thought it would.",1.5453514739229024,0.02326787663283372,882,502,279,101
+"Cute. Retirement looks good on you, dear.",1.5442594215600352,0.020356595036040186,1141,648,365,128
 I know the difference between 'working remotely' and 'fired a month ago'.,1.5431098010316875,0.020571840480408627,1357,841,295,221
-Please stop calling me your Bahama Mama!,1.5391221374045803,0.021693890784037873,1048,611,309,128
-I miss the inflatable cabana boy.,1.533249686323714,0.02518410371929419,797,474,221,102
+Please stop calling me your Bahama Mama!,1.537583254043768,0.021650141189697627,1051,614,309,128
 "When you get back from the Caribbean, the garbage needs to be taken out.",1.5329000812347684,0.021104878114195206,1231,759,288,184
 "Be melodramatic, but the AC stays off until May.",1.5320715036803365,0.023211897955446502,951,570,256,125
 You’ve been distant lately.,1.5319371727748692,0.022610628854676074,955,561,280,114
+I miss the inflatable cabana boy.,1.5319148936170213,0.02513872758690667,799,476,221,102
 "I'm not making ocean sounds for you, Gary.",1.5243790248390063,0.022148717359344785,1087,671,262,154
 Can I stop making ocean noises now?,1.5229779411764706,0.02171021959885399,1088,662,283,143
-"No, I have not found your lost shaker of salt",1.5179407176287052,0.02801808121149557,641,390,170,81
+"No, I have not found your lost shaker of salt",1.5170278637770898,0.02794180055834873,646,394,170,82
 It's still February on this side of the room.,1.5169029443838604,0.02222723120078489,917,536,288,93
-I can't believe you booked this on Expedia.,1.5152542372881357,0.029153733547326588,590,360,156,74
+I can't believe you booked this on Expedia.,1.5134228187919463,0.029031934902378088,596,365,156,75
 Welcome to Club Meh.,1.5133976420150053,0.02297717356794323,933,567,253,113
-"If you can work from home, I can vacation here.",1.5120643431635388,0.024893078692864862,746,443,224,79
-It says here you should remain perfectly still.,1.5105189340813465,0.025579742353307063,713,426,210,77
+"If you can work from home, I can vacation here.",1.5106951871657754,0.024845319591756853,748,445,224,79
 "You've made your point, dear. We can turn down the thermostat.",1.5099557522123894,0.02368438774268449,904,559,229,116
-It isn't five o'clock here!,1.5077793493635079,0.025740073140918925,707,425,205,77
+It says here you should remain perfectly still.,1.509090909090909,0.0255280910455932,715,428,210,77
+It isn't five o'clock here!,1.5070621468926553,0.025713695390934814,708,426,205,77
 "Great news, we stayed within our travel budget...",1.5062429057888762,0.023225809373480334,881,534,248,99
 Amazon says the sand will be here by 2:00.,1.5049180327868852,0.024074947566890076,915,581,206,128
 Can you go be retired in another room?,1.5036855036855037,0.02450784083664994,814,501,216,97
@@ -66,18 +66,18 @@ It’s five o’clock somewhere else.,1.4974424552429668,0.026332687856828827,78
 How long will you be away?,1.4948979591836735,0.025461939903662575,784,497,186,101
 You spoil that bird.,1.4940867279894876,0.024325160818551357,761,461,224,76
 "The seagull has spoken, Derek. It's your turn to do the dishes.",1.4925619834710744,0.027741137507533195,605,372,168,65
-Because I don't own a grass skirt.,1.4924623115577889,0.02811316748534321,597,369,162,66
 If you're smart you'll keep that hat on.,1.4922206506364921,0.02747197678860926,707,459,148,100
 "You know, a fake tan would pair well with your clip-on seagull.",1.491891891891892,0.02646267384647358,740,475,166,99
+Because I don't own a grass skirt.,1.4908180300500835,0.02804329459273838,599,371,162,66
 Pretend all you wish. You still have to shovel the walk!,1.4907651715039578,0.025305092505603033,758,475,194,89
 Did you remember to use sunblock?,1.4879725085910653,0.028539402271333714,582,363,154,65
 Just get the vaccine already Frank,1.4867256637168142,0.03022699340991032,565,365,125,75
 Why you have sunglasses on indoors is about the fifth thing I wanna ask about you right now.,1.4866562009419153,0.02744409168418278,637,400,164,73
-I see you and Jonathan Livingston are enjoying your staycation.,1.486388384754991,0.02847078194342571,551,337,160,54
 "Wasting away again in Minneapolis, Dad?",1.4854517611026035,0.02780297908127006,653,419,151,83
 Think you'll be back for dinner?,1.4854227405247813,0.026554548048459473,686,433,173,80
 "You know Stan, it'd be easier to just fix the thermostat",1.4850640113798008,0.025527435713416667,703,435,195,73
-How’s the water?,1.4811320754716981,0.028536319076206695,530,323,159,48
+I see you and Jonathan Livingston are enjoying your staycation.,1.484629294755877,0.028394928165648814,553,339,160,54
+How’s the water?,1.4812734082397003,0.028384408810596246,534,325,161,48
 "OK, I'll turn down the heat.",1.4809052333804809,0.025575513459602732,707,442,190,75
 "Sure, it's all fun and games until the tide comes in.""",1.480836236933798,0.02818561213409596,574,357,158,59
 "The Jersey shore, right? Now do the Grand Canyon.",1.4798206278026906,0.029120945269166643,669,454,109,106
@@ -100,7 +100,6 @@ How’s your zoom cruise going?,1.4633333333333334,0.028070650458740288,600,389,
 If you want me to turn off the radiator just say so.,1.4631956912028725,0.028890929198925552,557,359,138,60
 I warned you ... They'll find the fries anywhere!,1.4630541871921183,0.028341557533900007,609,400,136,73
 I can't believe you went on staycation without me.,1.4624573378839592,0.0303453889145554,586,400,101,85
-Enjoy yourself Frank. It's as close to Florida as we're going.,1.4621409921671018,0.034604874369953034,383,246,97,40
 Can it be 5 o’ clock somewhere else?,1.461689587426326,0.029857091136027376,509,326,131,52
 And I booked you for 'Yoga with Jill'  in the hallway.,1.4606299212598426,0.03091856292289215,508,334,114,60
 "I’m sorry our flight was cancelled too 
@@ -112,6 +111,7 @@ Am I blocking your view?,1.4589285714285714,0.029317092979752775,560,368,127,65
 When you return could you please shovel the driveway?,1.4588665447897624,0.029833727327684512,547,361,121,65
 I can’t believe you went on vacation without me.,1.4587525150905432,0.030902120375126876,497,325,116,56
 "For God's sake, give him a fry!",1.4586466165413534,0.028909190227768375,532,340,140,52
+Enjoy yourself Frank. It's as close to Florida as we're going.,1.4585492227979275,0.03439781475540693,386,249,97,40
 I see you're making the most of your staycation.,1.4582441113490363,0.031206906685162357,467,301,118,48
 I prefer not to waste away in Magaritaville.,1.4572649572649572,0.03130205901116789,468,303,116,49
 For an authentic experience why don't you let him steal your fries?,1.4566473988439306,0.03173623298719388,519,353,95,71
@@ -134,11 +134,11 @@ Get your own mai tai.,1.4427966101694916,0.030913810829478673,472,311,113,48
 You look like a New Yorker cartoon.,1.4427645788336934,0.031941035257745984,463,310,101,52
 "Once again, I don't know where your shaker of salt is.",1.4412955465587045,0.03176887670615193,494,338,94,62
 "You can stay, but your friend in the hat has to go.",1.440180586907449,0.03268370538320915,443,298,95,50
-"You do know we are out of quarantine, right?",1.4383561643835616,0.033585367659273835,365,235,100,30
+"You do know we are out of quarantine, right?",1.4371584699453552,0.033514886013016325,366,236,100,30
 You’re not fooling anyone except yourself and maybe that seagull. We both are still working from home.,1.4365079365079365,0.032332691408920436,378,241,109,28
-"I am surfing, Frank. And no, I'm not wearing that mermaid costume again",1.4362606232294617,0.03597541063218126,353,236,80,37
 Retirement without money sucks doesn’t it?,1.4357682619647356,0.035810916855389084,397,276,69,52
 This changes nothing.  Life with you is still no day at the beach.,1.4350649350649352,0.03239796850427752,462,316,91,55
+"I am surfing, Frank. And no, I'm not wearing that mermaid costume again",1.4350282485875707,0.03589480300200027,354,237,80,37
 We are not covering the floor with sand!,1.4335106382978724,0.03393127868880083,376,248,93,35
 "Actually, you're the first Airbnb guest to take advantage of our off-season winter rates.",1.4328703703703705,0.033588003105134955,432,297,83,52
 Today’s forecast calls for partial sun with a strong chance of afternoon chores.,1.4323040380047507,0.03553847298831223,421,299,62,60
@@ -179,7 +179,6 @@ I feel like you're doing work from home better than I am.,1.4090909090909092,0.0
 I was talking to the bird.,1.4085714285714286,0.032695056615518844,350,230,97,23
 You’re in a different time zone. Dinner was three hours ago.,1.4077669902912622,0.038711293900512075,309,217,58,34
 "Honey, the bird is staring again.",1.4076655052264808,0.03747974216087763,287,193,71,23
-You were right. The psychedelics do work better than antidepressants.,1.407258064516129,0.04157247241911706,248,170,55,23
 Can you get that bird to fly over here with one of your fries.,1.406832298136646,0.03754539945738563,322,225,63,34
 "Why don't you put on sunscreen while I Google ""divorce lawyer""?",1.4066265060240963,0.036711526204824416,332,231,67,34
 Your fantasy ends when your friend poops on the carpet.,1.4066265060240963,0.03911180161973304,332,241,47,44
@@ -187,6 +186,7 @@ The snow isn't going to shovel itself.,1.4057507987220448,0.03641116031185767,31
 That skylight saved our marriage.,1.405109489051095,0.03583053530400057,274,178,81,15
 Actually I don't care about your Coney Island of the mind.,1.404332129963899,0.03770942523261231,277,186,70,21
 "I think we have different ideas of what a ""staycation"" is.",1.4039548022598871,0.03361873425457483,354,239,87,28
+You were right. The psychedelics do work better than antidepressants.,1.402390438247012,0.041169858184128154,251,173,55,23
 Can't you just wear a Life Is Good T-shirt like everyone else?,1.4012738853503184,0.036290788513393735,314,215,72,27
 "Yes, honey, I think SPF 30 is enough.",1.4012738853503184,0.036847259645652206,314,217,68,29
 "Ten letters, starts with D-E-L, clue is ‘holding beliefs about external reality despite incontrovertible evidence to the contrary’. Any ideas?",1.4012738853503184,0.03820299169658976,314,222,58,34
@@ -213,11 +213,11 @@ I see you are on vacation this week.,1.390625,0.040093621289891676,256,178,56,22
 Is this what you meant by separate vacations?,1.3905109489051095,0.03785923509708321,274,188,65,21
 It says here that vacation is a state of mind. What do you think?,1.3903225806451613,0.03623515427141059,310,215,69,26
 "So,you went on vacation without me again!",1.3898305084745763,0.03814103757081408,295,208,59,28
-"When you finish your drink, can you dig my car out?",1.389121338912134,0.04292570984319539,239,170,45,24
 Fine. I’ll turn down the thermostat.,1.3888888888888888,0.03848862092519728,288,203,58,27
 Can’t you just do Seasonal Affective Disorder like everybody else?,1.3886792452830188,0.0398263163453504,265,186,55,24
 "Alexa, play ocean waves...",1.388235294117647,0.043854135579046695,255,188,35,32
 "I don't care if your thoughts are 1,000 miles away; your body still has to take out the garbage.",1.3875432525951557,0.03899988966711666,289,206,54,29
+"When you finish your drink, can you dig my car out?",1.3875,0.04277721551672125,240,171,45,24
 "I'm not letting you out of your cage any more, if you keep bringing home these tourists.",1.3873239436619718,0.04012409925380839,284,205,48,31
 "I’d say what YOU’RE doing is strange, but a seagull ignoring French fries has you beat.",1.3869863013698631,0.04019303149714205,292,213,45,34
 I feel like a Gulf has opened up between us,1.38671875,0.04043173178205249,256,180,53,23
@@ -244,7 +244,6 @@ Sometimes I feel like we have completely separate lives.,1.379182156133829,0.038
 "High tide isn't for a few hours, dear.",1.3789473684210527,0.03637137947621447,285,197,68,20
 Those damn gulls can find fries anywhere.,1.378839590443686,0.03535596808433213,293,201,73,19
 When are you going to shovel the driveway?,1.378787878787879,0.039095004121914204,264,186,56,22
-"Times up George, my next patient has arrived.",1.378238341968912,0.05073632082406926,193,145,23,25
 "You can remove the shades. We're on the 46th Floor, and the bird flew in from the balcony.",1.3777777777777778,0.04055392473346419,225,155,55,15
 Could you interrupt your staycation long enough to unload the dishwasher?,1.3776978417266188,0.0366332604964143,278,192,67,19
 This is not what I had in mind when I said  I wanted a Florida room.,1.3768115942028984,0.03923034140136564,276,198,52,26
@@ -261,14 +260,14 @@ Wasting away in Margaritaville again?,1.3738738738738738,0.04234390351662495,222
 I love February in New York.,1.3734939759036144,0.0402948270044252,249,177,51,21
 Is this another one of your staycations because I need an awaycation.,1.3729508196721312,0.041285235587212886,244,175,47,22
 "Mom, Dad's wasting away again in Margaritaville.",1.3721804511278195,0.04162845872991798,266,197,39,30
-You could have invited me.,1.3717277486910995,0.0459453620911125,191,136,39,16
 "I was with you, until the bird.",1.3711790393013101,0.038014022636638424,229,155,63,11
 "It is, admittedly, a natural extension of working from home.",1.3708920187793427,0.043053035652764804,213,151,45,17
 "“This is not quite what I meant when I said,  ‘ A cabana boy would be an interesting diversion.’ “",1.3706563706563706,0.04064978134319611,259,188,46,25
+"Times up George, my next patient has arrived.",1.3705583756345177,0.0498493635191907,197,149,23,25
 I draw the line at the gull.,1.3703703703703705,0.03765151829609088,270,190,60,20
 Go ahead. Ask me for a daiquiri again. See what happens.,1.3703703703703705,0.04362216659942462,216,155,42,19
-One of you has to go. And I frankly don’t have a preference.,1.37012987012987,0.05042161490620353,154,109,33,12
 "That's not what I expected when I said, 'Dress for the job you want.'",1.3700787401574803,0.0427080780713069,254,189,36,29
+You could have invited me.,1.3697916666666667,0.04574642472209785,192,137,39,16
 "By the way, the 'pool' needs a plunger.",1.369718309859155,0.040245658804586595,284,211,41,32
 I feel like you’re getting more out of this staycation than I am.,1.3694779116465863,0.04104005420923077,249,180,46,23
 How are things in Margaritaville?,1.3692307692307693,0.037471669558623015,260,181,62,17
@@ -276,6 +275,7 @@ How long are you going to stay mad that we didn't go to the beach on vacation?,1
 Did you book round trip or one way?,1.369047619047619,0.04068101334117038,252,182,47,23
 "This is much better than moving to Florida, trust me.",1.36864406779661,0.04265950660118392,236,172,41,23
 New hat?,1.3680555555555556,0.03664351487551572,288,204,62,22
+One of you has to go. And I frankly don’t have a preference.,1.3670886075949367,0.04947065629291763,158,112,34,12
 "I like you, but I kinda get why mom doesn't.""",1.3669724770642202,0.044253367108753966,218,159,38,21
 I hear the kitchen is nice this time of year.,1.3669354838709677,0.039918142817824805,248,177,51,20
 Did you remember to bring your charger?,1.3669064748201438,0.038234880405653725,278,200,54,24
@@ -321,12 +321,12 @@ News flash - there’s trouble in paradise.,1.356020942408377,0.0438535652649689
 I begged you not to go off your meds.,1.3548387096774193,0.04470547530216666,217,162,33,22
 "No, I won't bring you the sunscreen.",1.3545454545454545,0.04184055567657417,220,159,44,17
 "Sorry, I don't still have my itsy bitsy, teenie weenie, yellow, polka-dot bikini.",1.3545454545454545,0.04184055567657417,220,159,44,17
-"Those gummies kicking in yet, Hank?",1.3544973544973544,0.04285248674192988,189,133,45,11
 "Frank, am I a mermaid or a lifeguard in your beach fantasy?",1.3540856031128405,0.038747530774521616,257,186,51,20
 "No Larry, I didn’t call you a son of the beach.",1.353658536585366,0.04037153388939535,246,180,45,21
 "Sorry honey, I KNEW Jimmy Buffet and you're no Jimmy Buffet.",1.353448275862069,0.04121087653266797,232,169,44,19
 Wasting away?  Again?,1.3529411764705883,0.040022894641182326,238,172,48,18
 Nice try but you still have to shovel the snow.,1.3526785714285714,0.04079663770661862,224,161,47,16
+"Those gummies kicking in yet, Hank?",1.3526315789473684,0.04266716406956253,190,134,45,11
 It's almost as if you're somewhere else.,1.3522267206477734,0.03769909467050551,247,175,57,15
 Now is as good a time as any to tell you I want a divorce.,1.3521739130434782,0.04323932829014657,230,172,35,23
 "If you're happy, I'm happy.",1.352112676056338,0.04171864486570415,213,153,45,15
@@ -352,11 +352,11 @@ It’s summer somewhere,1.3480176211453745,0.039367194359831555,227,162,51,14
 Couldn't your mid life crisis involve leaving the house?,1.3478260869565217,0.047427005108667056,184,137,30,17
 You can pretend all you want but we are still in Milwaukee.,1.3478260869565217,0.0435079489992585,184,131,42,11
 "I get it, I’m sorry my passport expired. You could have gone without me",1.3478260869565217,0.0390840499978691,253,185,48,20
-Artificial Intelligence has taken on a whole new meaning.,1.3478260869565217,0.04248189999618684,207,150,42,15
 What do you think about separate staycations next time?,1.3476394849785407,0.04008122250632263,233,169,47,17
 Im going to need you to take your mental health day into another room,1.3474178403755868,0.042689262144070164,213,156,40,17
 Nice try-we're still going to St Tropez for our anniversary.,1.3466666666666667,0.040079286500001546,225,162,48,15
 Who let the bird in?,1.3463687150837989,0.04770981914432971,179,133,30,16
+Artificial Intelligence has taken on a whole new meaning.,1.3461538461538463,0.0423102259300144,208,151,42,15
 Did you remember to pause the mail?,1.3459915611814346,0.0413488974012243,237,176,40,21
 "Okay, okay. I'll turn down the thermostat.",1.3457446808510638,0.04284199131505906,188,134,43,11
 Turn the thermostat back down when you're done.,1.3454545454545455,0.041190627559978495,220,160,44,16
@@ -393,7 +393,6 @@ I'd say SPF 0 is probably fine.,1.3365384615384615,0.04101845498658981,208,151,4
 "Idiot”, five letter",1.336405529953917,0.04244470623547803,217,162,37,18
 I tried to tell you that hotel app was a scam.,1.336322869955157,0.04258441507465969,223,168,35,20
 You know you’re going to have to move everything when the tide comes in.,1.3353293413173652,0.04775516101065649,167,124,30,13
-I told you to use your vacation days in the summer.,1.3352941176470587,0.047889039318118616,170,127,29,14
 """How early did you wake up to get that spot?""",1.335164835164835,0.042160602392699115,182,130,43,9
 Do NOT pretend to be on a nude beach. My mother's on her way.,1.335135135135135,0.04443853332276425,185,136,36,13
 "What do you mean, 'I'm blocking your view of the ocean' ?""",1.335135135135135,0.04309610690906362,185,134,40,11
@@ -402,9 +401,9 @@ I think you're taking our thermostat disagreement a little too far.,1.3348837209
 "Enjoy your day off, but that's not mayonnaise on your fries.",1.334862385321101,0.043752030561271846,218,166,31,21
 "So, how’s spring break going?",1.3333333333333333,0.04072314811876841,201,145,45,11
 Wow. I really am your sunshine.,1.3333333333333333,0.0428710642942023,210,157,36,17
+I told you to use your vacation days in the summer.,1.3333333333333333,0.04764852397446646,171,128,29,14
 "Nice, but you still have to shovel the front walk.",1.3333333333333333,0.04155748317014373,195,141,43,11
 So how long has that man been stuck to your feet?,1.3333333333333333,0.049071180301212554,171,130,25,16
-This is what I get for marrying a seagull.,1.3333333333333333,0.04242786992641584,180,129,42,9
 I believe I warned you to renew your passport ………,1.3333333333333333,0.044385303440942284,189,140,35,14
 "It says on their website that our hotel is missing a poolside chaise, umbrella, and gull drone from last weekend.",1.3317972350230414,0.04185456839881732,217,162,38,17
 "No matter how hard you try, it's still snowing outside.",1.3317307692307692,0.0431348298711034,208,156,35,17
@@ -415,6 +414,7 @@ Is dreaming me into a Beach Barbie working for you Harry?,1.3316326530612246,0.0
 “It’s very hard to work from home while you are taking a staycation”,1.3316062176165804,0.04245069846677186,193,141,40,12
 Just how long will this Margaritaville vigil last?,1.331578947368421,0.04418592093535344,190,141,35,14
 We'll hang your Honorary Mar-a-Lago Membership certificate next  to your Trump University diploma.,1.3314917127071824,0.04704610842473456,181,137,28,16
+This is what I get for marrying a seagull.,1.3314917127071824,0.04223298282712984,181,130,42,9
 I do not respond to ‘garçon.’,1.3314606741573034,0.044161363156419275,178,130,37,11
 You really committed to this staycation.,1.3314285714285714,0.045405360120326976,175,129,34,12
 No - I’m not putting suntan lotion on your back.,1.3312883435582823,0.04691111256737629,163,120,32,11
@@ -499,7 +499,6 @@ I'm gonna have to wash that hat.,1.3186274509803921,0.04119848500576066,204,152,
 "Sorry, I'm not going to ""like"" your vacation photos",1.3181818181818181,0.049361035187691985,154,117,25,12
 "No, I'm not down for some ""Vacation Sex"" right now.",1.3181818181818181,0.043900081638407924,154,111,37,6
 "For the last time, I'm sorry we canceled our trip!",1.3181818181818181,0.04849360119620888,154,116,27,11
-"I said we can relax after the chores, not ‘at the shore’.",1.3178807947019868,0.04444493174983447,151,109,36,6
 Is it five o'clock already?,1.3177083333333333,0.04099140600331445,192,141,41,10
 You seem like you're miles away.,1.3176470588235294,0.04288867189528611,170,124,38,8
 The things you do for your pets.,1.3175675675675675,0.047007490769755696,148,109,31,8
@@ -516,6 +515,7 @@ Maybe it's time to fix the roof.,1.3162790697674418,0.03858309404061422,215,158,
 "I was prepared to indulge your little fantasy, but the seagull is a step too far.",1.3160919540229885,0.04450203685889274,174,130,33,11
 "‘Pina colada?’
 ‘You know it!’",1.3157894736842106,0.035420311750680285,190,132,56,2
+"I said we can relax after the chores, not ‘at the shore’.",1.3157894736842106,0.04420106456536994,152,110,36,6
 I hope the airlines find my luggage!,1.3155080213903743,0.04434077046618917,187,142,31,14
 "Honey, could you ask your seagull to bring me a fry?",1.3155080213903743,0.04166653213869419,187,138,39,10
 We live in Tennessee. Where'd you find the seagull?,1.3154761904761905,0.04233345649996533,168,122,39,7
@@ -535,10 +535,10 @@ This isn’t really what I meant by ‘staycation.’,1.3135135135135134,0.04191
 "Sorry to have to tell you, but the Internet's back up.",1.3132530120481927,0.045902114757704,166,125,30,11
 I'm beginning to think we live in two different worlds.,1.3132530120481927,0.04428278942178168,166,123,34,9
 Do you want me to turn the brightness up?,1.3131868131868132,0.044470983530690934,182,138,31,13
+I just wish we had enough miles to get to the dining room,1.3129770992366412,0.049760400041498294,131,97,27,7
 Did you remember to apply sunscreen?,1.312883435582822,0.04481903525092777,163,121,33,9
 A seagull for your thoughts.,1.312849162011173,0.03900738086508597,179,128,46,5
 "Spring Break isn’t a thing for us anymore, Peter. It hasn’t been for 20 years.",1.312849162011173,0.04356833659644502,179,134,34,11
-I just wish we had enough miles to get to the dining room,1.3125,0.050526265875355234,128,95,26,7
 "Honey, I think you really need to get out more.",1.3125,0.04153009905357379,192,143,38,11
 We should get a pool.,1.312169312169312,0.039905187990259536,189,138,43,8
 Am ....I just think we're in two different places right now,1.3121387283236994,0.04678984768552909,173,133,26,14
@@ -623,7 +623,6 @@ Please just TRY yoga.,1.3015075376884422,0.04151511886809534,199,152,34,13
 Did you remember to put on sunblock?,1.3012048192771084,0.04716874813773959,166,129,24,13
 Aren't you supposed to have VR glasses for virtual reality to work?,1.3010752688172043,0.042836029883187625,186,142,32,12
 "I told you so.  Less expensive, and just as much fun.",1.3006134969325154,0.04697545236269953,163,126,25,12
-Why don’t you go out and shovel some snow?,1.3006134969325154,0.04616224390821272,163,125,27,11
 "Fine, we can turn on the AC.",1.3006134969325154,0.04697545236269953,163,126,25,12
 I thought “remote vacation” just meant you’d  watch less TV.,1.3005464480874316,0.04117631189601678,183,137,37,9
 "Next time we take separate vacations, let's not take them together.",1.3005464480874316,0.044673648421005414,183,142,27,14
@@ -632,6 +631,7 @@ I see 'I need a moment to relax' is a relative term.,1.3,0.044155243568473196,16
 Fine.  But you're cleaning up after the seagull.,1.3,0.0415181144684701,190,144,35,11
 "Nice try, but I'm not turning down the thermostat.",1.3,0.0489258215863269,150,116,23,11
 "Honey, watch the fries.",1.2994011976047903,0.03752205907710141,167,119,46,2
+Why don’t you go out and shovel some snow?,1.298780487804878,0.045916505270878635,164,126,27,11
 "I want to help, but I also want to see what the bird does next.",1.2987012987012987,0.04618532925956254,154,117,28,9
 Who gave you the bird?,1.2987012987012987,0.04618532925956254,154,117,28,9
 "I booked us for a tour of the new garbage chute at noon, and cocktails in the laundry room at sunset.",1.2987012987012987,0.050571699871887595,154,122,18,14
@@ -749,7 +749,6 @@ Would you ask the gull to bring me a fry?,1.2857142857142858,0.04785825496092454
 Fred... I know what you're thinking!!,1.2857142857142858,0.048934219347295714,126,96,24,6
 You were within budget until you added the gull.,1.2857142857142858,0.048934219347295714,126,96,24,6
 """Jimmy's gone, Ted.  Let it go.",1.2857142857142858,0.04729176506299244,147,114,24,9
-"First came remote work, now it's remote vacation?",1.2857142857142858,0.045660296999332405,140,106,28,6
 "I get your hint... that if Trump's 
 re-elected you're leaving the country.",1.2857142857142858,0.048934219347295714,126,96,24,6
 "No longer in a New York state-of-mind, I gather?",1.2857142857142858,0.050708613406591115,133,104,20,9
@@ -771,6 +770,7 @@ You look like you could use a vacation.,1.2840236686390532,0.042118651881780336,
 You should actually read Dune at some point.,1.2838709677419355,0.045542706778752565,155,120,26,9
 "Five letter word for a sandy strip of land, starting with ""B""...?",1.2838709677419355,0.04269398785603557,155,117,32,6
 "I'm sorry, I haven't seen your lost shaker of salt.",1.2837837837837838,0.04602266935891564,148,114,26,8
+"First came remote work, now it's remote vacation?",1.2836879432624113,0.04538057144769253,141,107,28,6
 It's your turn to take him out.,1.2835820895522387,0.05255447531897648,134,107,16,11
 "Frank, you already work-from-home. You can vacation away from it. For my sake.",1.2835820895522387,0.05255447531897648,134,107,16,11
 You'll be sorry when you see the top of your hat!,1.283132530120482,0.04344290822955234,166,128,29,9
@@ -988,7 +988,6 @@ Can't we just get a parakeet like everyone else?,1.2644628099173554,0.0480595862
 "Dad, your midlife crisis is tracking sand everywhere!""",1.2642857142857142,0.042543387303545004,140,107,29,4
 If this is how you’re trying to communicate that our vacation will once again be in our living room—you’re sadly mistaken!,1.2642857142857142,0.04602460833093377,140,110,23,7
 "No, you’re not a chick magnet!",1.2641509433962264,0.04132664881900788,159,123,30,6
-Never thought El Nino would get to Brooklyn.,1.264,0.04838554836232179,125,98,21,6
 You're so dramatic,1.2638888888888888,0.04179596617581002,144,110,30,4
 This isn’t what they mean by ‘dress for the job you want.’,1.2638888888888888,0.0482664828977629,144,116,18,10
 All I can find is a tsunami surf sound ... will that work?,1.2638888888888888,0.042942145797509386,144,111,28,5
@@ -1019,6 +1018,7 @@ You're blocking the TV !!,1.2624113475177305,0.044614060499096234,141,110,25,6
 "2024 work-life balance, check!",1.2621951219512195,0.03854957192485366,164,125,35,4
 They won't deliver the sand until Sunday.,1.2620689655172415,0.04487177309412214,145,114,24,7
 When my parents come over do you think you could at least take off the sunglasses?,1.2619047619047619,0.04532572965444112,126,97,25,4
+Never thought El Nino would get to Brooklyn.,1.2619047619047619,0.0480457076404931,126,99,21,6
 Watching you enjoy yourself is my vacation.,1.261744966442953,0.047038133387666464,149,120,19,10
 Is it just me or is it hot in here.,1.2615384615384615,0.04703979735018118,130,102,22,6
 "You are my sunshine, my only sunshine. You make me happy when skies are gray",1.2615384615384615,0.04703979735018118,130,102,22,6
@@ -1115,7 +1115,6 @@ I have to give you credit for embracing the staycation idea.,1.253968253968254,0
 Remote vacationing,1.253968253968254,0.04498537037185613,126,98,24,4
 "Okay, okay... I admit it's better to call it a housegull.",1.2538461538461538,0.046731625028052344,130,103,21,6
 Why didn't you take me with you?,1.2538461538461538,0.04543769573146975,130,102,23,5
-Sarcasm about a vacation will get you nowhere.,1.2538461538461538,0.046731625028052344,130,103,21,6
 "You're NOT a pirate, that's not a parrot, and it belongs on your shoulder.  We need a new therapist, John.",1.2538461538461538,0.04543769573146975,130,102,23,5
 "Give it up, Harvey. I heard what I heard, and you weren't talking about ""that beach in the living room.",1.2537313432835822,0.04700258836732816,134,107,20,7
 "I’ll just book my ticket, you’re already there.",1.2537313432835822,0.04700258836732816,134,107,20,7
@@ -1142,6 +1141,7 @@ I’m having second thoughts about your safari trip!,1.2519685039370079,0.044674
 "This is THE best indoor cabana! Oh,and pass the birdseed.",1.2519685039370079,0.043253082415981345,127,98,26,3
 Would this work just as well without the bird?,1.2519685039370079,0.04467452870973073,127,99,24,4
 "If you give him that french fry, all the other gulls will want one",1.2519685039370079,0.047389685263170056,127,101,20,6
+Sarcasm about a vacation will get you nowhere.,1.251908396946565,0.0464139907562274,131,104,21,6
 "I understand work from home, but I'm not sure ""vacation from home"" will catch on.",1.251908396946565,0.042449253251738844,131,101,27,3
 I'ts Tuesday - shouldn't you be in Belgium??,1.251908396946565,0.04766233680817027,131,105,19,7
 I see you’ve gone beyond ‘Work from home’ to ‘Vacation from home’.,1.2518518518518518,0.046690965621885495,135,108,20,7
@@ -1171,7 +1171,6 @@ I see you have given up on the New York State of Mind.,1.25,0.044621345688633046
 Some of us have to actually work from home.,1.25,0.04238884637277001,144,113,26,5
 I get trying out the chair and umbrella. But the seagull?,1.25,0.044828560259541315,132,104,23,5
 "I know this is your staycation, but do you think the pool boy could help me with the laundry?",1.25,0.04878585829946003,116,92,19,5
-My inner self tells me you're a hallucination meant to make me long for the pleasant days we spent at the beach last summer. My outer self tells me you're  an idiot.,1.25,0.0519809599951771,100,79,17,4
 I'm not cleaning that hat.,1.25,0.04195259890620107,140,109,27,4
 Uh oh. Time to change your hat again.,1.25,0.04941965852606572,124,100,17,7
 I don’t need YOUR advice on dealing with MY hot flashes!,1.25,0.05600951380850969,112,93,10,9
@@ -1194,6 +1193,7 @@ Just because you work from home doesn’t mean you need to vacation at home.”,
 I'm guessing you've read the travel section.,1.247787610619469,0.05111118839882061,113,91,16,6
 They said to dress for the job you want.,1.247787610619469,0.04449991379721377,113,87,24,2
 "Next staycation, let's do France.",1.2477064220183487,0.05239095320798719,109,88,15,6
+My inner self tells me you're a hallucination meant to make me long for the pleasant days we spent at the beach last summer. My outer self tells me you're  an idiot.,1.2475247524752475,0.05152321517329776,101,80,17,4
 I’d join yo but I forgot my sun screen,1.2465753424657535,0.04407410326605939,146,117,22,7
 "I understand “Work from home” therefore “Vacation from home”, but are you sure that’s sunscreen on your chest?",1.2464788732394365,0.048126024624523187,142,117,15,10
 Don't even think about adding a dune.,1.2463768115942029,0.04460956331318161,138,110,22,6
@@ -1231,7 +1231,6 @@ I didn't know we were taking 'staycation' so literally.,1.2448979591836735,0.043
 You call this working from home?,1.2446043165467626,0.040641460990527734,139,108,28,3
 What's a four-letter word for doofus?,1.2444444444444445,0.042667634040995855,135,106,25,4
 That towel boy has been ignoring you all afternoon.,1.2444444444444445,0.042667634040995855,135,106,25,4
-Don't get too comfortable.  We're out of toilet paper.,1.2442748091603053,0.046094191207963285,131,105,20,6
 "Honey, did you put on sunscreen?",1.2442748091603053,0.046094191207963285,131,105,20,6
 "No, I don't see the slightest resemblance to David Hasselhoff.",1.2442748091603053,0.046094191207963285,131,105,20,6
 Can you tilt that umbrella? The sun is blinding me here,1.2442748091603053,0.046094191207963285,131,105,20,6
@@ -1261,6 +1260,7 @@ So you refuse to help me with 31 across?,1.2432432432432432,0.04652760880417775,
 "No, the girl will NOT get you a refill.",1.2426470588235294,0.042390861443509856,136,107,25,4
 The gull is a nice touch.,1.2424242424242424,0.044499961820624365,132,105,22,5
 I take it that’s a no vote for the Alaskan cruise …,1.2424242424242424,0.04578107712844859,132,106,20,6
+Don't get too comfortable.  We're out of toilet paper.,1.2424242424242424,0.04578107712844859,132,106,20,6
 Who ordered the wave machine?,1.2424242424242424,0.04992451339684328,99,78,18,3
 "The bird is a nice touch. A bit much, but nice",1.2424242424242424,0.044499961820624365,132,105,22,5
 Wishful drinking again?,1.2424242424242424,0.04318085433421962,132,104,24,4
@@ -1395,7 +1395,6 @@ After 30 years of marriage the Donaldsons enjoy the hour they both agreed the te
 I dunno! It came with the fries and the drink...,1.2338709677419355,0.04301280155099032,124,98,23,3
 You're really taking this Staycation to another level.,1.2338709677419355,0.0459604371648908,124,100,19,5
 "No, I said ""Room-mate wanted in Jamaica,QUEENS""",1.2335766423357664,0.04178135975060226,137,109,24,4
-I was thinking more along the lines of ‘teleworking at a remote beach’ and not so much ‘beaching remotely.’ But I admire your spirit.,1.2333333333333334,0.04694196508350526,120,97,18,5
 "Come on in here, Charlie, and see what your ChatGPT vacation self is doing.",1.2333333333333334,0.04694196508350526,120,97,18,5
 "I wouldn't rely on Punxsutawney Phil, if I were you.",1.2333333333333334,0.0438569953494662,120,95,22,3
 Can I come with you on your next staycation?,1.2333333333333334,0.0438569953494662,120,95,22,3
@@ -1430,6 +1429,7 @@ Do you know you have albatross on your head?,1.231578947368421,0.050645622486369
 Will you grab me a planters punch on your way to water aerobics?,1.231578947368421,0.04838403570702222,95,75,18,2
 "If I don't hear the ocean, I'm not getting into my swim suit.",1.231578947368421,0.05064562248636977,95,76,16,3
 How's this new Vacation From Home policy working out for you?,1.2314814814814814,0.0502786996951927,108,88,15,5
+I was thinking more along the lines of ‘teleworking at a remote beach’ and not so much ‘beaching remotely.’ But I admire your spirit.,1.2314049586776858,0.04659232160240553,121,98,18,5
 I hope that’s not your new hat.,1.2314049586776858,0.04353575930930886,121,96,22,3
 I told you the french fries were a bad idea. Expect more company shortly,1.2314049586776858,0.041923994225337324,121,95,24,2
 "I know it’s not exactly like being there, but on the positive side think of the money you’re saving on sunscreen.",1.2314049586776858,0.04946035307158549,121,100,14,7
@@ -1552,7 +1552,6 @@ Are you hinting Aruba this year?,1.2258064516129032,0.03940068612758992,124,97,2
 You think the sight of you like this will prevent me from wanting to go to the Caribbean?,1.2255639097744362,0.04080604663458454,133,106,24,3
 "Be careful, you-know-who has the ""I want all the fries"" look on its face.",1.2255639097744362,0.043508341442180715,133,108,20,5
 "Greg, I think you're taking this staycation a little too seriously.",1.2255639097744362,0.04217884076757722,133,107,22,4
-"George, you have taken this ""staycation"" idea a bit too far.",1.2255639097744362,0.044798403337642796,133,109,18,6
 I ran into Beavis today. He says he misses you.,1.2254901960784315,0.050056971512760534,102,83,15,4
 Let me know if you want me to do your back.,1.2254901960784315,0.04601550038301789,102,81,19,2
 I guess you're on staycation now?,1.2254901960784315,0.04601550038301789,102,81,19,2
@@ -1585,6 +1584,7 @@ I'm ready for separate staycations.,1.2241379310344827,0.044293905443672864,116,
 This staycation is for the birds and no I will not bring you another Sex on the Beach cocktail,1.224,0.04664761515876241,125,103,16,6
 When I said I liked The Beach Boys...,1.224,0.0437942403047589,125,101,20,4
 It's time to re-apply your sunscreen,1.2238805970149254,0.04449468280314968,134,110,18,6
+"George, you have taken this ""staycation"" idea a bit too far.",1.2238805970149254,0.04449468280314968,134,110,18,6
 I pronounce “Life’s a beach” differently.,1.2234042553191489,0.05485834865035173,94,78,11,5
 "Nope, not convinced -- the hole in the roof still needs to be fixed.",1.2234042553191489,0.0481985126163457,94,75,17,2
 "Once the tide goes back out, can you unload the dishwasher?",1.2234042553191489,0.050516108498509724,94,76,15,3
@@ -1743,7 +1743,6 @@ My therapist said to practice mind over matter.,1.216,0.046258739366112606,125,1
 That's not rain falling on your hat !!!,1.2159090909090908,0.05224546106377937,88,72,13,3
 I think you have your Vision Pro on backwards.,1.2159090909090908,0.054688401161677745,88,73,11,4
 I’m not so sure about this hybrid home and vacation arrangement.,1.2159090909090908,0.04698001875328986,88,70,17,1
-"If you are still pushing for a stay-cation this year, I promise you this isn't it.",1.2156862745098038,0.04542226432881116,102,82,18,2
 "I said,""We need a bench in here.""",1.2156862745098038,0.04542226432881116,102,82,18,2
 "All prepared for Shark Week, are we?",1.2156862745098038,0.043232453504184684,102,81,20,1
 "Harvey, I think you need to look up the definition of 'Staycation.'",1.2156862745098038,0.043232453504184684,102,81,20,1
@@ -1777,6 +1776,7 @@ You are a staycation master.,1.2136752136752136,0.04674658407270865,117,97,15,5
 "You're going to need to turn of vacation mode at some point""",1.2136752136752136,0.04514289430396643,117,96,17,4
 Let me guess. It’s migration time.,1.2136752136752136,0.04348009532891288,117,95,19,3
 "Honestly, I'm regretting the Margaritaville-At-Home kit.",1.2135922330097086,0.04709429612355983,103,84,16,3
+"If you are still pushing for a stay-cation this year, I promise you this isn't it.",1.2135922330097086,0.04502782826512934,103,83,18,2
 "Next time you take a dip in the ocean, raise the toilet seat.",1.2135922330097086,0.04709429612355983,103,84,16,3
 "How's that ""power of the mind"" thing working out for ya?",1.2135922330097086,0.04709429612355983,103,84,16,3
 After getting this ottoman I can relate to you so much better.,1.2135922330097086,0.04907382333253753,103,85,14,4
@@ -1856,7 +1856,6 @@ Still undecided about your time share staycation?! You could be in the laptop of
 I'm glad you decided to go south this winter.,1.2087912087912087,0.05067669921031872,91,75,13,3
 "i guess you really mean it when you say that life with me is like a day at the beach, so get off your ass and get me what you are drinking.",1.2087912087912087,0.05067669921031872,91,75,13,3
 "When I asked what’s with him, I was speaking to the parrot.",1.2087912087912087,0.045604027831460565,91,73,17,1
-"When the marriage counsellor said we should recreate the magic of when we first met, I don’t think they meant it this literally.",1.2087912087912087,0.048207132238423746,91,74,15,2
 I think we have different definitions of work-from-home.,1.208695652173913,0.04537436813430066,115,95,16,4
 Well you look like you're enjoying your staycation.,1.208695652173913,0.04001458958551093,115,92,22,1
 Parrot Heads have you beat.,1.208695652173913,0.041877472237392736,115,93,20,2
@@ -1903,6 +1902,7 @@ Yep. French fries will do it!,1.2066115702479339,0.04378345689935829,121,100,17,
 You bought a seagull. Does this make you gullible or gullable?,1.2065217391304348,0.052500866778413105,92,77,11,4
 This must be another suggestion from the Mindfulness for Dummies book my mom got you for Christmas.,1.2065217391304348,0.04516266580668786,92,74,17,1
 "If the Seagull is real, why isn't he eating your french fries?",1.2065217391304348,0.050174191266479935,92,76,13,3
+"When the marriage counsellor said we should recreate the magic of when we first met, I don’t think they meant it this literally.",1.2065217391304348,0.04773424269856957,92,75,15,2
 "This is not exactly the ""staycation"" I  imagined.",1.2061855670103092,0.04620044556614693,97,79,16,2
 "Does this work for you,dear?",1.2061855670103092,0.04129077264844647,97,77,20,0
 "Like they say, “Dress for the lifestyle you want.”",1.2061855670103092,0.05063629562986729,97,81,12,4
@@ -1956,7 +1956,6 @@ Do let us know when you get back from CanCouldn'tAffordIt,1.2043010752688172,0.0
 "You say Miami, but I still say Scarsdale.",1.2043010752688172,0.04727037156900375,93,76,15,2
 Just what are you implying?,1.2043010752688172,0.04968140616939365,93,77,13,3
 VR can fix you.,1.2043010752688172,0.04968140616939365,93,77,13,3
-"George, margaritaville is a state of mind, not a place in our living room.",1.2043010752688172,0.04727037156900375,93,76,15,2
 Mind if I turn down the thermostat?,1.2040816326530612,0.045774958984969194,98,80,16,2
 "No, I'm not impressed with your Margaritaville staycation and a truck load of sand will not change my mind.",1.2040816326530612,0.045774958984969194,98,80,16,2
 This domestic vacation was a great deal.”,1.2040816326530612,0.045774958984969194,98,80,16,2
@@ -2008,6 +2007,7 @@ What are you doing in this cartoon?  We're in Wichita.,1.202127659574468,0.04430
 Keep all of that on your side. I am drawing a line in the sand.,1.202127659574468,0.046815269577118276,94,77,15,2
 My mother warned me you were passive aggressive.,1.202127659574468,0.04919806972822639,94,78,13,3
 'if only re-enactment made it real...',1.202127659574468,0.046815269577118276,94,77,15,2
+"George, margaritaville is a state of mind, not a place in our living room.",1.202127659574468,0.046815269577118276,94,77,15,2
 "This doesn’t qualify as our vacation, in case you’re wondering",1.202020202020202,0.0496945897769771,99,83,12,4
 "I know we’re out of sunscreen, but still.",1.202020202020202,0.045357095658013595,99,81,16,2
 I’m looking for a new house without your idea of  “Open Concept.”,1.202020202020202,0.04757530020731468,99,82,14,3
@@ -2065,7 +2065,6 @@ How long are you gonna continue mourning Jimmy Buffett?,1.2,0.04954000862144106,
 How are you enjoying vacationing at home?,1.2,0.048391860388899456,80,65,14,1
 "That's a bit of a dramatic response to me ""throwing shade"" at you, Frank.",1.2,0.04954000862144106,105,89,11,5
 I think we get along wonderfully even if we do have different lifestyles.,1.2,0.0443656051737758,110,91,16,3
-"No, I'm not going to run out for sunscreen.",1.2,0.04388726267731849,95,77,17,1
 You win. I'll ask the super to turn down the heat.,1.2,0.04388726267731849,95,77,17,1
 Make me a cocktail!,1.2,0.044946657497549475,100,82,16,2
 "That gull sure has a lot of gall, Gil.",1.2,0.044946657497549475,100,82,16,2
@@ -2116,7 +2115,7 @@ I preferred it when we both went to the office to work.,1.198019801980198,0.0487
 I liked the old look better.,1.198019801980198,0.04226226924834267,101,82,18,1
 "Ok, you win - we can get a dog.",1.198019801980198,0.046713370740932486,101,84,14,3
 "Yes, I know I said you needed to relax more…",1.198019801980198,0.0445434529869386,101,83,16,2
-"If you're going for Margaritaville, I think it's supposed to be a parrot, dear.",1.1979166666666667,0.052607016381036265,96,82,9,5
+"No, I'm not going to run out for sunscreen.",1.1979166666666667,0.04347764011602375,96,78,17,1
 "Mai-tai, parrot, sun umbrella, it's still sixteen degrees out there.",1.1979166666666667,0.05047969816570403,96,81,11,4
 are you happy now?,1.1979166666666667,0.04825869539561288,96,80,13,3
 Are you sure you have enough sunscreen?,1.1979166666666667,0.04825869539561288,96,80,13,3
@@ -2172,8 +2171,8 @@ You should never tell someone to relax.,1.196078431372549,0.04629385365772775,10
 No way I'm cleaning the bird poop from the rug or your hat.,1.1958762886597938,0.04550021538441706,97,80,15,2
 "Harold, I've gone along with your ""staycation"" up until now but the seagull has made our livingroom a poop deck.",1.1958762886597938,0.04307543345952467,97,79,17,1
 I love happy hour!,1.1958762886597938,0.04780215719327684,97,81,13,3
-Is this your idea of a snowbird?,1.1958762886597938,0.04550021538441706,97,80,15,2
 Now go outside and shovel the driveway,1.1958762886597938,0.04780215719327684,97,81,13,3
+"If you're going for Margaritaville, I think it's supposed to be a parrot, dear.",1.1958762886597938,0.05210181855689453,97,83,9,5
 I guess self-deception is kind of a superpower.,1.1958762886597938,0.04999822861495349,97,82,11,4
 "I'm sorry, but I think Gullheads in Mojitoville sounds derivative.",1.1958762886597938,0.04780215719327684,97,81,13,3
 Try not to get too sunburned.,1.1958762886597938,0.04780215719327684,97,81,13,3
@@ -2219,6 +2218,7 @@ if a groundhog told you to jump of a bridge would you do it ?,1.1941747572815533
 Does blasting the heat really feel like the sun on your face?,1.1941747572815533,0.043758010176794974,103,85,16,2
 Now if only we could take the roof off this place.,1.1938775510204083,0.04014009567414168,98,79,19,0
 Can you take that outside?,1.1938775510204083,0.04014009567414168,98,79,19,0
+Is this your idea of a snowbird?,1.1938775510204083,0.04507786765341567,98,81,15,2
 That’s so 2021,1.1938775510204083,0.04507786765341567,98,81,15,2
 Staycation? You'd have to be gullible.,1.1938775510204083,0.05160614749575165,98,84,9,5
 "You miss Jimmy Buffet, don't you?",1.1938775510204083,0.047354066223542664,98,82,13,3
@@ -2800,7 +2800,6 @@ In my living room you didn’t need to bring the bird ..",1.1724137931034482,0.0
 No thanks—I don’t need to relive our pandemic vacation.,1.1724137931034482,0.04073271884266337,87,72,15,0
 "The builders did claim the hole in the roof was intentional, but now I understand what they had meant.",1.1724137931034482,0.043891486539845044,87,73,13,1
 "Stop judging me, Nancy, I’m trying to cure my seasonal depression.",1.1724137931034482,0.04960926328218621,87,75,9,3
-So this is you budgeting our Amazon Prime?,1.1724137931034482,0.043891486539845044,87,73,13,1
 "I know you’d rather work from home, but do you need to vacation from home, too?",1.1720430107526882,0.04221446145523712,93,78,14,1
 "Vacation is over, Harry. The seagull needs to go.",1.1720430107526882,0.03934852812061861,93,77,16,0
 "Okay, okay...you can turn the thermostat down.",1.1720430107526882,0.04221446145523712,93,78,14,1
@@ -2859,6 +2858,7 @@ You can’t just ‘go on vacation’ whenever I ask you a question.,1.170454545
 Don't you feel a little silly now that Jimmy Buffet is out of the scene?,1.1704545454545454,0.043434064987402626,88,74,13,1
 I really wish you didn't find your beach right in front of the TV.,1.1704545454545454,0.04634383476994134,88,75,11,2
 Feel free at any time to give off some of that sunshine you're so dedicated to soaking up.,1.1704545454545454,0.043434064987402626,88,74,13,1
+So this is you budgeting our Amazon Prime?,1.1704545454545454,0.043434064987402626,88,74,13,1
 Does this mean you're not taking out the garbage tonigh?,1.1704545454545454,0.04908140219102683,88,76,9,3
 That’s not what I meant by vacate the premises.,1.1704545454545454,0.05167414305908752,88,77,7,4
 "We're not leaving for Antigua for another three weeks, Larry.",1.1702127659574468,0.04180304254081611,94,79,14,1
@@ -3032,7 +3032,6 @@ Thank you for obeying my 'Keep Our Beach Clean' sign.,1.164835164835165,0.042116
 "I get it, I'll go pack !",1.164835164835165,0.039110176747367394,91,76,15,0
 I think your bird needs a vacation.,1.164835164835165,0.04756266033151478,91,79,9,3
 Lose the bird and I'll book the vacation.,1.164835164835165,0.039110176747367394,91,76,15,0
-"No, sorry--I gave up searching for that lost shaker of salt.",1.164835164835165,0.042116578320307095,91,77,13,1
 What impresses me most is that seagull.,1.164835164835165,0.0449222262762077,91,78,11,2
 "Bill and Suzy move to corner the male, dad bod, Millennial, ""Pools, Hot Tubs and Beaches"" streaming market.",1.164835164835165,0.05006402802423406,91,80,7,4
 you are getting sand all over the living room,1.164835164835165,0.042116578320307095,91,77,13,1
@@ -3086,6 +3085,7 @@ I love how committed you are to our staycation,1.1630434782608696,0.038724201260
 You really take sta-cations to a new level Fred.,1.1630434782608696,0.044467368369936235,92,79,11,2
 "This is not what I expected when you said you wanted to role play, Steven",1.1630434782608696,0.0470769412025354,92,80,9,3
 I keep telling you to save up so we can go someplace warm in the winter.,1.1630434782608696,0.0470769412025354,92,80,9,3
+"No, sorry--I gave up searching for that lost shaker of salt.",1.1630434782608696,0.04169478752204208,92,78,13,1
 So how's your stay-cation going?,1.1630434782608696,0.044467368369936235,92,79,11,2
 Cheer up . . . you got what you wanted.,1.1630434782608696,0.03872420126056659,92,77,15,0
 "Honey, I can't talk I'm on vacation from you right now.",1.1630434782608696,0.044467368369936235,92,79,11,2
@@ -3112,7 +3112,6 @@ I don’t think this was how Nixon became tanned and ready,1.1627906976744187,0.
 "How much did you pay the bird, I could have given you the bird for free?",1.1625,0.048534699840501676,80,69,9,2
 I think you’re taking this virtual reality thing a bit too far.,1.1625,0.04515707466615903,80,68,11,1
 Hate to tell you but we're still home.,1.1625,0.04150548995256567,80,67,13,0
-"Dear, I think you are having another one of your episodes again... I'll get the meds",1.1625,0.04150548995256567,80,67,13,0
 "I know you actually enjoyed being alone during the COVID lock down, but you are starting to worry me.",1.1625,0.04150548995256567,80,67,13,0
 "That’s a pretty crappy‘Happy Place’, Frank.",1.1625,0.048534699840501676,80,69,9,2
 Do you really think that getup will make the ten inches of snow outside melt faster?,1.1625,0.04515707466615903,80,68,11,1
@@ -3228,6 +3227,7 @@ maybe dial back the SPF,1.158878504672897,0.04016702193223528,107,92,13,2
 "Sonny, I want to start seaing other people.",1.1585365853658536,0.04742547425474257,82,71,9,2
 Stop complaining.  It beats working from home.,1.1585365853658536,0.04058259927336571,82,69,13,0
 "Whose imagination is at work here, yours or mine?",1.1585365853658536,0.044136849525480595,82,70,11,1
+"Dear, I think you are having another one of your episodes again... I'll get the meds",1.1585365853658536,0.04058259927336571,82,69,13,0
 I hope you don’t think this will make me feel better about  missing our Cancun vacation.,1.1585365853658536,0.04058259927336571,82,69,13,0
 "Lose the weird guy, but we could always use another beach umbrella.",1.1585365853658536,0.04058259927336571,82,69,13,0
 "You don't have to waste away in Margaritaville, but you can't do it here.",1.1585365853658536,0.044136849525480595,82,70,11,1
@@ -3319,7 +3319,6 @@ WeWork is offering a vacation special.,1.1555555555555554,0.04154059161636945,90
 It has been two weeks since we returned from Cancun. When will it be enough?,1.1555555555555554,0.04154059161636945,90,77,12,1
 It say here 6 more weeks of winter!,1.1555555555555554,0.047169868900736205,90,79,8,3
 Says here there is no such thing as a emotional support vacationer.,1.1555555555555554,0.04154059161636945,90,77,12,1
-Taking a little time off?,1.1555555555555554,0.04444444444444449,90,78,10,2
 "You move 3 beaches and encounter a daiquiri bar. Okay, roll your 20-sided die for relaxation.",1.1555555555555554,0.04154059161636945,90,77,12,1
 "Don't pretend you're in Hawaii, Howard. I know you bought that bird.",1.1555555555555554,0.03841787164459603,90,76,14,0
 "I'm with you, but those shorts are so 80s.",1.1555555555555554,0.03841787164459603,90,76,14,0
@@ -3369,6 +3368,7 @@ Wonder what our heating bill will be this month?,1.1538461538461537,0.0518615278
 You saw Jimmy Buffet live one time. This grieving period is getting a little ridiculous.,1.1538461538461537,0.048545007377001494,78,68,8,2
 "I hope you're not getting sunscreen on the chaise, John.",1.1538461538461537,0.04111711414037303,78,66,12,0
 "Harold , whatever you're expecting to get out of  the new sunroom is overrated",1.1538461538461537,0.04111711414037303,78,66,12,0
+Taking a little time off?,1.1538461538461537,0.04398655839495409,91,79,10,2
 That new light bulb is too bright.,1.1538461538461537,0.0449846352461904,78,67,10,1
 This could be Margaritaville Ohio but you are still missing the water and sand.,1.1538461538461537,0.04398655839495409,91,79,10,2
 "I see Pottery Barn has re-introduced their Living Room Beach Time Fun Collection, complete with French Fry Filching Seagull.",1.1538461538461537,0.041117114140373015,91,78,12,1
@@ -3408,7 +3408,6 @@ You look comfy! I think I'll join you.,1.1521739130434783,0.040702099693023734,9
 "Bringing a bird into our open marriage has changed you, Tom.",1.1521739130434783,0.040702099693023734,92,79,12,1
 How’s your bird?,1.1518987341772151,0.04796612321171352,79,69,8,2
 "' What's for supper?' Cheeseburgers, of course. Love you, Jimmy.",1.1518987341772151,0.04445423524410439,79,68,10,1
-Cheer up. The red tide in Florida can't last forever.,1.1518987341772151,0.040639993680056885,79,67,12,0
 Well you convinced the seagull,1.1518987341772151,0.040639993680056885,79,67,12,0
 Even pirates take vacations,1.1518987341772151,0.04445423524410439,79,68,10,1
 I’ll be honest- not really what I had in mind when you suggested a staycation”,1.1518987341772151,0.040639993680056885,79,67,12,0
@@ -3466,6 +3465,7 @@ Dream on-------------,1.1504424778761062,0.036044200763344914,113,97,15,1
 "You call it a “staycation,” I’ll call it “too broke to travel.",1.15,0.04393608706786989,80,69,10,1
 "Hey, you're the one who wanted a staycation.",1.15,0.0385992097056273,100,86,13,1
 Your idea of a staycation is not my idea of a staycation.,1.15,0.04017367360141355,80,68,12,0
+Cheer up. The red tide in Florida can't last forever.,1.15,0.04017367360141355,80,68,12,0
 "For the last time, the bird has no right to do the Sunday crosswords.",1.15,0.04351941398892449,100,88,9,3
 "I know we said this would be a staycation, but the lifeguard in the bathroom went a little too far.",1.15,0.04393608706786989,80,69,10,1
 "Harold, honey, your
@@ -3509,7 +3509,6 @@ I think you need more sun tan lotion.,1.148936170212766,0.036918129039477075,94,
 If you told me it was a stay-vacation I would have brought my swimsuit,1.1486486486486487,0.045867476603888985,74,64,9,1
 No I didn’t notice what is it you’re trying to say?,1.1486486486486487,0.045867476603888985,74,64,9,1
 "It’s called work from home, not lounge from home!",1.1486486486486487,0.045867476603888985,74,64,9,1
-Why don’t you send that dermatologist a postcard while you’re soaking up the view?,1.1486486486486487,0.041636428317793156,74,63,11,0
 Feed it and expect a crappy outcome…,1.1486486486486487,0.04973991010198831,74,65,7,2
 Sand in your suit was a bit over the top!,1.1481481481481481,0.046848557928420444,81,71,8,2
 I will not test if the ocean is cold or warm!!!,1.1481481481481481,0.043429775553920656,81,70,10,1
@@ -3559,6 +3558,7 @@ Stop building your nest on top of my sex doll.,1.1466666666666667,0.045295161459
 "Forecast is you will likely go75% hungry today with a 90% chance of sarcasm""",1.1466666666666667,0.05265332251978379,75,67,5,3
 Enjoy it while it lasts – my mother returns next week.,1.1466666666666667,0.04911223892281852,75,66,7,2
 "I don't want to hurt your feelings, but the honeymoon phase is over.",1.1466666666666667,0.04911223892281852,75,66,7,2
+Why don’t you send that dermatologist a postcard while you’re soaking up the view?,1.1466666666666667,0.041125312050989835,75,64,11,0
 I suppose separate vacations are out of the question this year?,1.1466666666666667,0.041125312050989835,75,64,11,0
 How does it feel to win the Caption Contest?,1.1466666666666667,0.05265332251978379,75,67,5,3
 WebMD says you have Beach Bum,1.1466666666666667,0.04911223892281852,75,66,7,2
@@ -3673,7 +3673,6 @@ So you’re giving up your annual trip to the Bahamas for a season’s ticket to
 Looks like you're ready for climate change!,1.1428571428571428,0.04197797807648538,84,73,10,1
 "Vacation is not a place, it’s a feeling!",1.1428571428571428,0.04197797807648538,84,73,10,1
 He's only staying on your side because you have French fries.,1.1428571428571428,0.04678356086900139,70,61,8,1
-You can have all the trappings of the beach but you're still not in Fort Lauderdale!,1.1428571428571428,0.038409489852704655,84,72,12,0
 Jimmy Buffett did not die for your sins.,1.1428571428571428,0.04419201606355329,77,67,9,1
 So what if I bring our entire apartment to the beach?,1.1428571428571428,0.04102618049244218,98,86,10,2
 "I’m a little bit country, he’s a little bit rock-n-roll”",1.1428571428571428,0.04299935704272291,91,80,9,2
@@ -3706,6 +3705,7 @@ Martha's Vineyard stay at home day,1.1411764705882352,0.04778846120374095,85,76,
 How's your staycation working out for you?,1.1411764705882352,0.04476186970406316,85,75,8,2
 I know you think you're a riot but I'm telling you for the last time we are not going to Florida this year!,1.1411764705882352,0.04151521329086001,85,74,10,1
 "All right, have it your way_ you heard a seal bark.",1.1411764705882352,0.04151521329086001,85,74,10,1
+You can have all the trappings of the beach but you're still not in Fort Lauderdale!,1.1411764705882352,0.03799211615279771,85,73,12,0
 "If that seagull poops, you're cleaning it up.",1.1411764705882352,0.04476186970406316,85,75,8,2
 "Hey George, is that your idea of a staycation?",1.1411764705882352,0.04476186970406316,85,75,8,2
 "I know the book said to manifest what you want, but I think the bird is pushing it, Phil.",1.1411764705882352,0.04151521329086001,85,74,10,1
@@ -3828,7 +3828,6 @@ Feeling Sorry for Other,1.1369863013698631,0.04052109440479185,73,63,10,0
 Now you've gone too far.  Don't drink your Mi Tai in the living room.,1.1369863013698631,0.04497195343285888,73,64,8,1
 This cruise ship lets you be whoever you want to be,1.1369863013698631,0.04052109440479185,73,63,10,0
 Actually today  is Thursday not Saturday.,1.1369863013698631,0.04497195343285888,73,64,8,1
-"What was that, honey? No, this isn't a 'staycation'. I'm modelling what it means to 'work from home'.",1.1368421052631579,0.038477539050399544,95,83,11,1
 "No, you cannot have it to put over your hat till I’m finished with it.",1.1363636363636365,0.043314293849451554,88,78,8,2
 "Very odd, I can't seem to find any ski package in this brochure for our next remote vacation.",1.1363636363636365,0.040185756578953784,88,77,10,1
 "Feels like Bobby Berk's Queer Eye replacement had some really unique self care ideas for our space, huh?",1.1363636363636365,0.03679214606365355,88,76,12,0
@@ -3855,7 +3854,6 @@ That 'Discount Timeshares' salesman really had your number didn't he?,1.13580246
 "The umbrella, seagull, sunglasses, cool drink, hat, and lounger I get, but the cup of fries freaks me out.",1.1358024691358024,0.03830146187034216,81,70,11,0
 I found a doctor who can fix your feet.,1.1358024691358024,0.04565398046197679,81,72,7,2
 "Birdy wants potato chips, not fries.",1.1358024691358024,0.03830146187034216,81,70,11,0
-I should have married the squirrel guy.,1.1358024691358024,0.03830146187034216,81,70,11,0
 "I know you're just looking out for me, Polly, but I'm not into beach bums.",1.1358024691358024,0.03830146187034216,81,70,11,0
 I think you're taking the whole 'stay at home vacation' a little too literally.,1.1358024691358024,0.03830146187034216,81,70,11,0
 What's up? Why are you throwing so much shade this week?,1.1358024691358024,0.03830146187034216,81,70,11,0
@@ -3864,6 +3862,7 @@ You're about to lose those fries.,1.1358024691358024,0.0421383905330272,81,71,9,
 I still say we can afford a trip to the beach.,1.1358024691358024,0.04565398046197679,81,72,7,2
 Harry...don't you think the sea gull is a bit much?,1.1358024691358024,0.0421383905330272,81,71,9,1
 So can I cancel the order for VR glasses?,1.1354166666666667,0.035105703998301666,96,83,13,0
+"What was that, honey? No, this isn't a 'staycation'. I'm modelling what it means to 'work from home'.",1.1354166666666667,0.03810129523822529,96,84,11,1
 I  think you might be taking this 'staycation' a little too far.,1.135135135135135,0.040012605956627305,74,64,10,0
 I don’t think a stay home vacation works for me,1.135135135135135,0.044398669826762854,74,65,8,1
 I don't mind the umbrella. But the seagull has to go.,1.135135135135135,0.044398669826762854,74,65,8,1
@@ -3891,6 +3890,7 @@ And, there’s a good reason for that!",1.1343283582089552,0.04705493189919477,6
 "'Could you turn the heat down?""",1.1341463414634145,0.037867719817024754,82,71,11,0
 I like what you’ve done with your WFH.,1.1341463414634145,0.037867719817024754,82,71,11,0
 You act like you're always on set.,1.1341463414634145,0.037867719817024754,82,71,11,0
+I should have married the squirrel guy.,1.1341463414634145,0.037867719817024754,82,71,11,0
 "We aren't really going to make it as a species, are we?",1.1341463414634145,0.045124189174381366,82,73,7,2
 "No, LSD is not legal yet.",1.1341463414634145,0.045124189174381366,82,73,7,2
 "You know you are dreaming, don't you?",1.1341463414634145,0.045124189174381366,82,73,7,2
@@ -4080,7 +4080,6 @@ Too bad you forgot a place to put your food.,1.125,0.043951442120546434,72,64,7,
 This staycation thing of yours has really gotten out of hand.,1.125,0.043951442120546434,72,64,7,1
 "Yup, we all want summer to be here.",1.125,0.0372087848617242,80,70,10,0
 "I know you said we couldn't afford that winter trip to Florida, but this is ridiculous!",1.125,0.04491553253932474,80,72,6,2
-I'm ordering the optional seagull diaper.,1.125,0.03545678930819846,88,77,11,0
 "She: ""You know what that white stuff in parrot-poop is?"" He: ""No, what?"" She: ""It's parrot-poop, too. And there's a glob of it on you hat.""",1.125,0.04491553253932474,80,72,6,2
 "I said, ""No salt on the margaritas,"" dear.",1.125,0.0372087848617242,80,70,10,0
 A hat that flies.,1.125,0.0372087848617242,80,70,10,0
@@ -4110,6 +4109,7 @@ The Real Swim Shady,1.125,0.043951442120546434,72,64,7,1
 "I think your obsession with “Weekend at Bernie’s” has gone too far, Dave.",1.125,0.043951442120546434,72,64,7,1
 "@newyorkercartoons if you give it another French fry, it will repay you in an undesirable way.",1.125,0.043951442120546434,72,64,7,1
 "And no, I won’t be vacuuming up the sand you insisted on hauling in here for your staycation.",1.125,0.041242567416306754,80,71,8,1
+I'm ordering the optional seagull diaper.,1.1235955056179776,0.035084258417968514,89,78,11,0
 "When we talked about your staycation idea, I said I would draw the line AT sand in the living room, not IN it.",1.1235955056179776,0.03855214395662025,89,79,9,1
 "I don't care what you do on your vacation days, just stop asking me if I ""Gotta Mango"" or if I'll write your name a grain of rice!",1.1235955056179776,0.035084258417968514,89,78,11,0
 "Even indoors, seagull protection factor 30 is recommended.",1.1235955056179776,0.03855214395662025,89,79,9,1
@@ -4246,7 +4246,6 @@ You were the one who wanted a relaxing beach staycation!!,1.1176470588235294,0.0
 I said lets go play in Florida NOT for you to play like you are in Florida,1.1176470588235294,0.03515378262748217,85,75,10,0
 I'm still not convinced that's the 'good seat'.,1.1176470588235294,0.038934566619370434,85,76,8,1
 I told you we should have gone to the Dominican Republic this year for our vacation.,1.1176470588235294,0.03515378262748217,85,75,10,0
-What’s a seven-letter word for ‘legal separation’? Third letter is D.,1.1176470588235294,0.044590674528640815,68,61,6,1
 "I think the seagull is tired of your imaginary beach 'staycation'.""",1.1176470588235294,0.038934566619370434,85,76,8,1
 "That's not what I meant when I said ""staycation""",1.1170212765957446,0.03333235978465087,94,83,11,0
 Your unplugged vacations are always hectic.,1.1170212765957446,0.03333235978465087,94,83,11,0
@@ -4266,7 +4265,6 @@ Not what I envisioned in asking A.I. to find a partner.,1.1168831168831168,0.041
 "2020 Vacation flashback.”
 J Torpey 
 Jamestown NC",1.1168831168831168,0.04518521908691296,77,70,5,2
-We're just relaxing. #mylamenewyorkercaption,1.1168831168831168,0.0412303350007502,77,69,7,1
 I appreciate the sentiment but the fries and seagull are a little much.,1.1168831168831168,0.036853453360789,77,68,9,0
 "Thanks, but I don’t want to break my internet habit.",1.1162790697674418,0.0347695349579722,86,76,10,0
 "Bit you know, it’s your own damn fault",1.1162790697674418,0.03850348519824097,86,77,8,1
@@ -4284,6 +4282,7 @@ I know it's 5 o'clock somewhere . . . but this is Some Wear Else.,1.115942028985
 He's waiting for ketchup.,1.1159420289855073,0.04397274927300527,69,62,6,1
 "By the way, in case you're interested, there's some waves in the bathtub and it says here that you need more sand !",1.1159420289855073,0.03882454402978924,69,61,8,0
 I still say a parrot would have been a less fussy pet ...,1.1159420289855073,0.03882454402978924,69,61,8,0
+What’s a seven-letter word for ‘legal separation’? Third letter is D.,1.1159420289855073,0.04397274927300527,69,62,6,1
 I hope you arranged maid service for this staycation.,1.1153846153846154,0.03640875553275107,78,69,9,0
 You can’t dress like that and call it a staycation just because we live in Brighton Beach.,1.1153846153846154,0.04072588626959473,78,70,7,1
 "Look, you knew what the job was when you took it.",1.1153846153846154,0.03640875553275107,78,69,9,0
@@ -4293,6 +4292,7 @@ Last time we did that I was shitting sand for weeks. My mom had to get a plumber
 I don't think this is what your boss meant by remote work.,1.1153846153846154,0.04072588626959473,78,70,7,1
 I just love being a visual woman,1.1153846153846154,0.03693769936994781,104,94,8,2
 That's not virtual,1.1153846153846154,0.03640875553275107,78,69,9,0
+We're just relaxing. #mylamenewyorkercaption,1.1153846153846154,0.04072588626959473,78,70,7,1
 "They said that if we work from home, we can go on a company vacation from home",1.1153846153846154,0.04462732509846739,78,71,5,2
 Broooo that shit is crazyyyyyyyy,1.1153846153846154,0.03640875553275107,78,69,9,0
 Can you please turn the Humidifier down?,1.1153846153846154,0.03640875553275107,78,69,9,0
@@ -4438,7 +4438,6 @@ The props aren't going to stop your boss from asking you to come in this weekend
 No I will not let you eat my cheeseburger in paradise,1.1071428571428572,0.04154868140879175,84,77,5,2
 It's not a queso dip for your fries...,1.1071428571428572,0.03793983650682237,84,76,7,1
 Your stay-caytion is starting to bother my work from home coworkers.,1.1071428571428572,0.03793983650682237,84,76,7,1
-Control-Alt-Delete,1.1066666666666667,0.04059615804541172,75,68,6,1
 My shade can fly,1.1066666666666667,0.04059615804541172,75,68,6,1
 "Look at it this way, pop, just think of all the money you’re saving by not being able to afford a vacation because of me.",1.1066666666666667,0.03588436550487812,75,67,8,0
 There’s a bird on you.,1.1063829787234043,0.03846780975883542,94,86,6,2
@@ -4449,7 +4448,6 @@ That bird dumps on my new carpet and it's over.,1.1058823529411765,0.03751201268
 'Ode to tragic bird affair: geezer sailor tells all.' Why do I feel like this should be a slam dunk?,1.1058823529411765,0.0375120126857039,85,77,7,1
 "No, Covid *isn't* over, but I do think you could get back to work.",1.1058823529411765,0.0375120126857039,85,77,7,1
 "OK,OK. Keep the umbrella,the fries and the drink. But the seagull goes!",1.1058823529411765,0.033571402278047356,85,76,9,0
-"As always, I’m in and you’re out.",1.1058823529411765,0.0375120126857039,85,77,7,1
 "Honey, there's that bird on your hat again.",1.1058823529411765,0.033571402278047356,85,76,9,0
 I don’t care if you’re comfortable. Get that sand out of my living room!,1.1058823529411765,0.033571402278047356,85,76,9,0
 The pigeon makeover still isn't working.,1.105263157894737,0.040083016346652095,76,69,6,1
@@ -4461,6 +4459,7 @@ It's a good thing you're wearing a hat,1.105263157894737,0.040083016346652095,76
 Robert Jablon/202-333-5332/rcjablon@aol.com",1.105263157894737,0.040083016346652095,76,69,6,1
 "I'll check on towels in a minute darling, I'm glad you like this staycation idea.",1.105263157894737,0.040083016346652095,76,69,6,1
 That's your dream vacation?  Count me out.,1.105263157894737,0.04424393057164378,76,70,4,2
+Control-Alt-Delete,1.105263157894737,0.040083016346652095,76,69,6,1
 The seagull is creeping me out.,1.105263157894737,0.035436859432849334,76,68,8,0
 "So, Harold, what's on tap for you in your part of Margaritaville?",1.1046511627906976,0.03709369866745896,86,78,7,1
 "I appreciate the island vibe, but the bird poop has to go.",1.1046511627906976,0.03709369866745896,86,78,7,1
@@ -4468,6 +4467,7 @@ Vacation doesn’t start until I order it.,1.1046511627906976,0.0370936986674589
 How ‘bout you move to the nude section of our living room?,1.1046511627906976,0.03709369866745896,86,78,7,1
 I have seen anyone so stingy with their frequent flyer miles.,1.1046511627906976,0.03320157631219844,86,77,9,0
 Nice hat but it is now ruined,1.1046511627906976,0.03320157631219844,86,77,9,0
+"As always, I’m in and you’re out.",1.1046511627906976,0.03709369866745896,86,78,7,1
 "I know I know, it filters out 98% of harmful LED rays.",1.1044776119402986,0.037651117843993505,67,60,7,0
 "Vacation. Staycation.
  The next level :  Absurdification.",1.1044776119402986,0.037651117843993505,67,60,7,0
@@ -4753,13 +4753,13 @@ This is so 2010. Get an Oculus you moron.,1.0769230769230769,0.03330866937632455
 Maybe you should have worn your white hat.,1.076086956521739,0.031802422674281246,92,86,5,1
 "I hope you've reapplied, these LEDs are a killer at this time of day.",1.0759493670886076,0.02999595287390335,79,73,6,0
 Your horoscope today has a warning about what a bird might do on your head.,1.0757575757575757,0.03282081081661708,66,61,5,0
-Did you remember to put on your SPF?,1.075268817204301,0.027505616493839213,93,86,7,0
 "On the plus side, we know it won’t rain in this beach",1.075,0.03456327897009421,80,75,4,1
 "I am not that gullible, no birds in our sun porch.""",1.075,0.029633841414201174,80,74,6,0
 "so, where were thinking of going for our vacation?",1.075,0.029633841414201174,80,74,6,0
 "You’re not really serious about this, are you?",1.075,0.03456327897009421,80,75,4,1
 Miami Beach sounds great but the pigeon stays here,1.0746268656716418,0.03234700505823379,67,62,5,0
 Are you happy? The condo association jusrassessed us a beach tag fee.,1.0746268656716418,0.03234700505823379,67,62,5,0
+Did you remember to put on your SPF?,1.074468085106383,0.027223209066950926,94,87,7,0
 Your idea of a stay-cation is for the birds.,1.0740740740740742,0.029280348705262704,81,75,6,0
 Why do you insist on taking separate virtual reality vacations? We still end up with nothing to talk about!,1.0740740740740742,0.03414646095293656,81,76,4,1
 I said no birds in the living room!,1.0740740740740742,0.029280348705262704,81,75,6,0
