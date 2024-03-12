@@ -2,7 +2,7 @@ caption,mean,precision,votes,not_funny,somewhat_funny,funny
 Four wishes if you listen to a timeshare presentation.,1.640625,0.016212005092260732,2368,1315,589,464
 Your wish may be granted within three to five business days.,1.6012396694214877,0.023434938062887874,968,527,300,141
 "You wished for a better candidate, so here I am!",1.5993265993265993,0.04785410910286834,297,184,48,65
-"All our genies are busy right now, but please continue to rub that lamp, your wishes are very important to us.",1.597926267281106,0.01873636358147737,1736,1018,398,320
+"All our genies are busy right now, but please continue to rub that lamp, your wishes are very important to us.",1.5972382048331415,0.018721116107601857,1738,1020,398,320
 "Wish granted, kid, pending corporate approval.",1.587747287811104,0.020563751148452922,1567,975,263,329
 "Yes, I'm the genie, but the last guy wished to swap outfits.",1.5842318059299192,0.021107162601107173,1484,927,247,310
 "Yeah, well, you don't look like Aladdin either",1.576219512195122,0.021190768053834984,1312,782,304,226
@@ -30,17 +30,17 @@ I'm the Genie's lawyer. We're reviewing the three wish conditions.,1.50711743772
 You were thinking the three wishes were tax free?,1.5070671378091873,0.029772989118378248,566,350,145,71
 "Next time, enunciate.  I heard ""audit"", not ""Audi"".",1.5045871559633028,0.03203386990674736,545,354,107,84
 "Three rules: I can’t raise the dead, I can’t make someone fall in love, and I can’t lower my hourly rate.",1.502803738317757,0.029919665292502604,535,327,147,61
+I can grant you three loopholes.,1.501039501039501,0.031852693385719166,481,297,127,57
 You obviously rubbed me the wrong way.,1.5,0.03176998876477983,522,333,117,72
-I can grant you three loopholes.,1.5,0.03190212066170504,480,297,126,57
 By rubbing this lamp you have agreed to these Terms of Service.,1.4980392156862745,0.03100199124092716,510,317,132,61
 I shall grant you three billable hours.,1.4970530451866404,0.030544915980716007,509,313,139,57
 "To grant your wish, I'll need your completed W-9 form as well as two forms of government ID.",1.4970414201183433,0.030506221248340223,507,311,140,56
 I’m from HR; that wish was totally inappropriate.,1.497029702970297,0.03135611291352352,505,316,127,62
 "Whatever you wish for, I take a third.",1.496,0.032834802397715045,500,324,104,72
 I’m here to grant you three loopholes,1.4939271255060729,0.031358068602059135,494,308,128,58
+"Actually, it’s ‘Eugenie.’",1.493801652892562,0.03156925867867933,484,301,127,56
+Are you sure you want to waste a wish on bitcoin?,1.4933035714285714,0.03207152892166495,448,274,127,47
 "Actually, it’s one wish in today’s market.",1.4927835051546392,0.031385106153253746,485,301,129,55
-"Actually, it’s ‘Eugenie.’",1.4927536231884058,0.031617250268020154,483,301,126,56
-Are you sure you want to waste a wish on bitcoin?,1.4899328859060403,0.03196534025521283,447,274,127,46
 I’d like to talk to you about your car’s extended warranty.,1.4893162393162394,0.03374983985397595,468,305,97,66
 "Sorry, you’ve caught me without my trousers, I was just in a Zoom meeting.",1.4893162393162394,0.03334064744308085,468,302,103,63
 "Actually, due to inflation, your 3 wishes are now worth 1.5",1.486842105263158,0.031656369971041966,456,281,128,47
@@ -51,15 +51,15 @@ My client is suing you for unwanted rubbing.,1.4830699774266365,0.03248451295724
 Your wishes have been submitted for consideration. Please allow six to eight months for final approval or denial.,1.4788732394366197,0.03259128697205825,426,265,118,43
 "You said, ""I dream of Cheney,"" right?",1.4758454106280192,0.03548174024064678,414,273,85,56
 "I’ll grant you three wishes, but they may be reversed on appeal.",1.4757281553398058,0.033387379845243356,412,259,110,43
-Terms and conditions apply,1.475,0.03143896501641328,400,239,132,29
+Surprise! You're being audited,1.4748010610079576,0.0352374787167337,377,239,97,41
 You're going to wish you hadn't done that.,1.4742014742014742,0.03368342356524862,407,257,107,43
 "I prefer Eugene, actually.",1.4742014742014742,0.03439457609265211,407,261,99,47
 I'm sorry we no longer handle those types of wishes.  Have you tried Alexa?,1.4742014742014742,0.03368342356524862,407,257,107,43
 "The name's Gene, actually.",1.474074074074074,0.03213635402209817,405,247,124,34
+Terms and conditions apply,1.4738154613466334,0.03138282866176721,401,240,132,29
 "I can grant you 3 wishes, but beware I am a politician.",1.4727722772277227,0.03256893711424124,404,249,119,36
 You rub me the wrong way. You’ll wish you never did that.,1.4711779448621554,0.03471874539799826,399,257,96,46
 Johnson! Sometimes you just rub me the wrong way!,1.4708860759493672,0.03534422296112451,395,257,90,48
-Surprise! You're being audited,1.4707446808510638,0.03509644174740235,376,239,97,40
 """I'm a GOP genie, so whatever your wishes, I'm unlikely to grant them.",1.4690721649484537,0.036370547294255005,388,257,80,51
 Beware! Your three wishes are taxable income.,1.4690721649484537,0.032706980449077064,388,238,118,32
 "Were you injured rubbing that lamp? If so, my firm will make your wishes come true!",1.4680306905370843,0.033325172812326595,391,244,111,36
@@ -151,11 +151,11 @@ You owe a 30% tax on the second wish.,1.41796875,0.03996730889719833,256,170,65,
 "As a genie, I’d love to grant you a million dollars and a beautiful bride half your age; as a divorce attorney, I’d advise against it.",1.4166666666666667,0.04449915212602928,252,179,41,32
 "Better hope you read the fine print on that thing, son.",1.4166666666666667,0.03839611547311824,252,163,73,16
 "Thank you for getting me out of that bottle. Now, if you could do just two more things for me.",1.4166666666666667,0.04040246837860963,252,168,63,21
-"After taxes, you're left with 2.14 wishes!",1.416,0.04293190648430967,250,173,50,27
 This is a reminder from the IRS.  Your wishes must be itemized on Form 1323C and will be subject to taxes.,1.416,0.04101836203575645,250,168,60,22
 I’m sorry to report that wish-related income is in fact taxable,1.416,0.04140814579466957,250,169,58,23
 Tell me your email address and receive up to 20% off your next wish!,1.4157303370786516,0.03878812675367031,267,177,69,21
 I grant you three non-billable hours.,1.415686274509804,0.04513326721510388,255,184,36,35
+"After taxes, you're left with 2.14 wishes!",1.4143426294820718,0.04279262820192421,251,174,50,27
 "Sorry, it was a typo. I'm actually 'Gene in a bottle.'",1.4136546184738956,0.04150803609098681,249,169,57,23
 "Let's get this straight:  Never, ever summon me during office hours!",1.4131274131274132,0.04108524635231554,259,177,57,25
 "Since inflation, I now am now granting Four wishes!",1.4129554655870444,0.04134727509679026,247,167,58,22
@@ -216,18 +216,18 @@ Three wishes after taxes make 1.2 wishes.,1.396551724137931,0.043523110062139235
 I’m going to grant you 3 deductions.,1.3963133640552996,0.04330916521756746,217,149,50,18
 You rubbed?,1.3963133640552996,0.042813717361780766,217,148,52,17
 "Three wishes, Johnson, and I want them on my desk by noon!",1.3956521739130434,0.04201938222430352,230,158,53,19
-"Always been true, still true: Be careful what you wish for.",1.3953488372093024,0.0430815174397076,215,147,51,17
-People like you rub me the wrong way.,1.3953488372093024,0.045534176181719906,215,152,41,22
-"Sadly, even I don't have the power to fix the IRS.",1.3953488372093024,0.04101392325047395,215,143,59,13
 "Jim, we've been trying to reach you concerning your vehicle's extended warranty.",1.3953488372093024,0.04647901486481765,215,154,37,24
 Do not let him win in 2024.,1.3953488372093024,0.04505432708874801,215,151,43,21
 "Yeah, well, I dreamed of Jeannie, myself.",1.3953488372093024,0.045534176181719906,215,152,41,22
-"Ah, common mistake... Jeanie is down the hall in accounting.",1.3953488372093024,0.04600902098149801,215,153,39,23
 "Here is my handle, here is my spout.",1.3953488372093024,0.046944303530161734,215,155,35,25
 You get three empty promises,1.3946188340807175,0.04293817036606077,223,154,50,19
 I’m Gene. Not Genie,1.3944954128440368,0.041142057431349424,218,146,58,14
+"Always been true, still true: Be careful what you wish for.",1.3935185185185186,0.0429206461680545,216,148,51,17
+People like you rub me the wrong way.,1.3935185185185186,0.045359822289817005,216,153,41,22
+"Sadly, even I don't have the power to fix the IRS.",1.3935185185185186,0.04086461279565699,216,144,59,13
 I grant you three tax deductions.,1.3935185185185186,0.04391257805863271,216,150,47,19
 I only grant appeals these days.,1.3935185185185186,0.042415982192414714,216,147,53,16
+"Ah, common mistake... Jeanie is down the hall in accounting.",1.3935185185185186,0.04583208265287395,216,154,39,23
 "Yes, I can grant unlimited wishes, but you won’t like my fees.",1.3925233644859814,0.044687998234869394,214,150,44,20
 And all three are tax-deductible.,1.3925233644859814,0.041638388205666566,214,144,56,14
 "Wishes are free to download, followed by a monthly premium.",1.3915094339622642,0.04397549499844152,212,147,47,18
@@ -237,7 +237,6 @@ Did you seriously just waste a wish on turning me into Karl Rove?,1.390909090909
 "We've been trying to reach you about your car warranty...""",1.3904761904761904,0.04477251998639265,210,147,44,19
 Trump will go to prison without your wish.,1.3904761904761904,0.04627400939831369,210,150,38,22
 "Just know, the IRS will take one of those wishes.",1.3904761904761904,0.044260705815777845,210,146,46,18
-"Three wishes, no pardons",1.39,0.042997019880370385,200,135,52,13
 "Of course, the genie will grant you three wishes. First comes the Non-Disclosure Agreement.",1.3894230769230769,0.045581611068358625,208,147,41,20
 I'm Mr. Genie from Washington.  You will grant me three wishes!,1.3888888888888888,0.0448303658214405,216,153,42,21
 I will grant you three wishes.  Applicable local and federal taxes apply.  Offer not available in Maine and New Jersey.,1.3883495145631068,0.044314987432873536,206,143,46,17
@@ -246,6 +245,7 @@ The IRS warned you last year. You need  an accountant not a genie.,1.38834951456
 "I swear, if you ask for a bull market again, you'll find yourself in Pamplona!",1.3883495145631068,0.045890055587998135,206,146,40,20
 "No, I don't predict the future.  I'm an economist.",1.3883495145631068,0.044314987432873536,206,143,46,17
 "You get three wishes except better wages, work-life balance, and health insurance.",1.3883495145631068,0.044314987432873536,206,143,46,17
+"Three wishes, no pardons",1.3880597014925373,0.042826545704790726,201,136,52,13
 "Actually it’s Gene F., Gene E. had a conflict.",1.3878504672897196,0.04313430205784795,214,148,49,17
 "Yes, but first you must sign three waivers.",1.38755980861244,0.044376341105871006,209,146,45,18
 You get three wishes but I’m obligated to inform you that past performance does not guarantee future success.,1.3872549019607843,0.04406395307305585,204,141,47,16
@@ -397,7 +397,6 @@ Submit your wish in triplicate!,1.3567251461988303,0.045142348748854116,171,120,
 Three wishes? In this economy?,1.3567251461988303,0.046641511015103033,171,122,37,12
 Any more wishes and I claim you as a dependent.,1.3567251461988303,0.04737330471242618,171,123,35,13
 "As the McConnell of the lamp, I only grant wishes to billionaires.",1.3567251461988303,0.04589805115871015,171,121,39,11
-"I'll grant you any three wishes, except paid sick leave.",1.3566433566433567,0.05002274121426202,143,101,33,9
 "No, it's Gene.  I prefer Eugene.",1.355421686746988,0.04758885944177743,166,119,35,12
 I’ll grant you this…  you should increase your 401k contribution.,1.355421686746988,0.042738547497575836,166,113,47,6
 "Well, it's closer to 2.3 wishes after taxes",1.355421686746988,0.04681538414710986,166,118,37,11
@@ -406,6 +405,7 @@ We no longer outsource Genie contracts to the middle east.  You want to get your
 "Mind you, those ""three rules"" don't apply offshore.",1.355421686746988,0.04602891311679737,166,117,39,10
 "I will grant you three wishes, but first you must sign a waiver.",1.3550295857988166,0.04623703768156958,169,120,38,11
 "I said I wanted a genie in a bottle, not a Cheney in a bottle!",1.3542857142857143,0.049308614179721724,175,130,28,17
+"I'll grant you any three wishes, except paid sick leave.",1.3541666666666667,0.0497358504240635,144,102,33,9
 Only two wishes... we have a budget shortfall.,1.353932584269663,0.04531719786391684,178,127,39,12
 You’re granted 3 deductions.,1.353658536585366,0.04473131454807572,164,114,42,8
 "Before continuing, you need to acknowledge that you have read and agree to all terms set forth in the disclosure documents.",1.353658536585366,0.04795995514539016,164,118,34,12
@@ -726,8 +726,6 @@ You get three audits.,1.3059701492537314,0.048807588230415234,134,100,27,7
 The higher-ups will never go for three more wishes.,1.3059701492537314,0.048807588230415234,134,100,27,7
 But is it legal in Alabama?,1.3059701492537314,0.048807588230415234,134,100,27,7
 Now you've let the Cheney out of the bottle!,1.3059701492537314,0.049943983816910474,134,101,25,8
-"No worries, I'm still Jeannie but I transitioned, I'm trans",1.3057851239669422,0.04957529711010629,121,89,27,5
-"""Okay, that's one venti soy latte and a croissanwich.  And I'll try for the filing extension, but you know the IRS.""",1.3057851239669422,0.05485138349105824,121,93,19,9
 I said any three wishes except quality healthcare,1.3053435114503817,0.05070626239928623,131,99,24,8
 Anything but politics!,1.3046875,0.05268223171183776,128,98,21,9
 "Whereas you are in possession of the magic lamp, I hereby grant you three wishes subject to the restrictions stipulated in the terms and conditions.",1.3046875,0.04905428676426544,128,95,27,6
@@ -744,10 +742,12 @@ Accountant in a teapot-,1.304,0.04980478018255132,125,93,26,6
 Your retainer covers the first wish. The second and third will be billed hourly.,1.3037037037037038,0.050726152208336844,135,103,23,9
 I will grant you three investments.,1.3037037037037038,0.0496244314662628,135,102,25,8
 You should have seen what the last guy wished for.,1.3032786885245902,0.050588387697447626,122,91,25,6
+"No worries, I'm still Jeannie but I transitioned, I'm trans",1.3032786885245902,0.04923110777692677,122,90,27,5
 "Before we get started, just know a raise is off the table.",1.3032786885245902,0.0478353318798928,122,89,29,4
 "You wanted Genie in a bottle? Sorry, this is Cheney in a bottle. Who do you want liberated?",1.3032786885245902,0.05191019135691142,122,92,23,7
 "I shall grant you one statute, one ordinance, and one law.",1.3032786885245902,0.050588387697447626,122,91,25,6
 Geez! After 50 years these acid flashbacks are still f***ing weird.,1.3032786885245902,0.05319916318510144,122,93,21,8
+"""Okay, that's one venti soy latte and a croissanwich.  And I'll try for the filing extension, but you know the IRS.""",1.3032786885245902,0.05445763454722344,122,94,19,9
 I'm here to explain the terms and conditions of the three wishes.,1.3032786885245902,0.05445763454722344,122,94,19,9
 "Well, there is a transaction fee, and a convenience fee, so it’s really just one wish.",1.3032786885245902,0.05445763454722344,122,94,19,9
 I'm from the Legal Department. Wishes are limited.,1.3032786885245902,0.05191019135691142,122,92,23,7
@@ -1507,6 +1507,7 @@ Major Nelson got Jeannie and I get you?!,1.2444444444444445,0.05544308215259638,
 "Because of the blatant fiscal irresponsibility of prior genies, you will be receiving only two wishes.",1.2444444444444445,0.05074011803597716,90,70,18,2
 Your expenses are my command,1.2444444444444445,0.05765087378970833,90,73,12,5
 This was the only place I could afford after the divorce,1.2444444444444445,0.059777179080768,90,74,10,6
+Budget cuts in the magic department led to some rather unconventional flight methods for the corporate wizards.,1.2432432432432432,0.06326548497088139,74,60,10,4
 Do to our recent downturn you are granted only two wishes.,1.2427184466019416,0.05247722016731465,103,83,15,5
 We regret to inform you that due to financial hardship we have implemented a reduction-in-wishes.,1.2427184466019416,0.04871471870276674,103,81,19,3
 Dump the poetry. Investment banking is your future,1.2427184466019416,0.04671997869423882,103,80,21,2
@@ -1820,6 +1821,7 @@ I said genie not genius!,1.2247191011235956,0.05240100591622927,89,72,14,3
 I am the lawyer of the lamp — before I grant you any wishes you must sign an indemnity waiver holding me harmless for any unexpected disasters that befall you...,1.2244897959183674,0.05716239033764957,98,83,8,7
 I'll grant you three wishes that the Founding Fathers might have made.,1.2244897959183674,0.051345482390755634,98,80,14,4
 "You were supposed to say ""Open Sesame,"" not ""Open sez me!""",1.2244897959183674,0.051345482390755634,98,80,14,4
+I don't grant wishes. I wish for grants.,1.2238805970149254,0.06316288636259096,67,55,9,3
 I'm Russ. Turns out Genie can grant her own wishes too.,1.223529411764706,0.05645074347855474,85,70,11,4
 "We can take different forms,Burnie!",1.223529411764706,0.05391265523477455,85,69,13,3
 I promised a younger presidential nominee if you rubbed the lamp.,1.223529411764706,0.05645074347855474,85,70,11,4
@@ -1962,7 +1964,6 @@ I 'll grant you three wishes but my name is Bob!  Never ever call me Jeanie!,1.2
 "I owe you 3 wishes but will put a third in escrow for a prerelease.""",1.2159090909090908,0.05224546106377937,88,72,13,3
 Finally!  We've got a presidential campaign to win!!,1.2159090909090908,0.04968254403624252,88,71,15,2
 Oh no! It’s grandpa Cheney!,1.2159090909090908,0.04968254403624252,88,71,15,2
-I don't grant wishes. I wish for grants.,1.2153846153846153,0.06389710663783137,65,54,8,3
 "I need to get back inside and grab my shoes, socks, and legs.",1.2151898734177216,0.05305006140654649,79,64,13,2
 I grant you three billable hours.,1.2151898734177216,0.05885107394843846,79,66,9,4
 Let's put a pin in that wish and circle back after your performance review.,1.2151898734177216,0.049897285200852806,79,63,15,1
@@ -2079,8 +2080,6 @@ Where have I been? In an undisclosed location.,1.2093023255813953,0.057575927553
 "I know I wished I could stick it to 'The Donald' but I didn't think I would get help from 'The Dick',Mr. Cheney",1.2093023255813953,0.055148795293926356,86,72,10,4
 You must be the oil peddler.,1.2093023255813953,0.047123202233282736,86,69,16,1
 "Now I am Karl Rove, the destroyer of worlds. You now have three conspiracy theories to propel into the electorate.",1.2083333333333333,0.053222197804875436,96,81,10,5
-Budget cuts in the magic department led to some rather unconventional flight methods for the corporate wizards.,1.2083333333333333,0.05913268547421808,72,60,9,3
-You've got a good product liability suit on that lamp.,1.2083333333333333,0.06235311378048466,72,61,7,4
 Im a bit rusty. You’re better off fixing your own problems.,1.2083333333333333,0.05572645856918899,72,59,11,2
 "The tax genie doesn’t grant wishes, we take them.",1.2077922077922079,0.05649134587834131,77,64,10,3
 you let me out past my expiration date,1.2077922077922079,0.05338078923628006,77,63,12,2
@@ -2131,6 +2130,7 @@ One rub is sufficient! It’s not an elevator.,1.2054794520547945,0.055031830105
 "As a Republican, could I get you to wish  the whole frozen embryo thing never happened.",1.2054794520547945,0.05838681211207499,73,61,9,3
 "I will grant you three wishes…but first, I need you to do me a favor”",1.2054794520547945,0.05145857383371985,73,59,13,1
 "Well, not ANY wish—you’re too valuable to the team.",1.2054794520547945,0.05838681211207499,73,61,9,3
+You've got a good product liability suit on that lamp.,1.2054794520547945,0.06155921809457883,73,62,7,4
 I’ll tell YOU what your 3 wishes are.,1.2054794520547945,0.055031830105908446,73,60,11,2
 "Listen and obey, Masterson...",1.2054794520547945,0.04761793062697309,73,58,15,0
 Your three wishes are down the agenda. The first item is to sign my NDA,1.2054794520547945,0.05145857383371985,73,59,13,1

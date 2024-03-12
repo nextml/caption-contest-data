@@ -128,10 +128,10 @@ We thought that digital would be too distracting.,1.4634146341463414,0.032392357
 I think you misheard me Doctor - I didn't want a bigger CLOCK.,1.461340206185567,0.03671600966841685,388,262,73,53
 5 more minutes till you can start to tell me something really important so I can cut you off dramatically and carelessly.,1.4611528822055138,0.034145334832834356,399,258,98,43
 Try not to focus on how much time we have left.,1.4603960396039604,0.03490525224958523,404,267,88,49
+"Well, why do YOU think there's a giant clock on the wall?",1.4597402597402598,0.03524285469416278,385,252,89,44
 It's a gift from a patient who said they appreciated me big time.,1.4584382871536523,0.033512630502368454,397,254,104,39
 Does anyone really know what time it is?,1.4573643410852712,0.03334001134334403,387,245,107,35
 "You know what they say; big hands, big clock.",1.4564102564102563,0.03545972679489638,390,259,84,47
-"Well, why do YOU think there's a giant clock on the wall?",1.4557291666666667,0.035105154481172865,384,252,89,43
 You know what they say about big hands,1.4543080939947781,0.03418251252529961,383,247,98,38
 "Times about up so we'll have to stick to ""yes"" or ""no"" questions.",1.4540682414698163,0.03308160866796713,381,240,109,32
 It looked smaller online.,1.4540682414698163,0.03451219018073804,381,247,95,39
@@ -146,8 +146,8 @@ It adjusts to the size of my client's egos.,1.4457142857142857,0.035560947943690
 "Rob, it seems the more you lie about your feelings the bigger the clock gets.",1.4447592067988668,0.036459489800443494,353,235,79,39
 "In your fantasy, what is the little hand touching?",1.4419263456090652,0.03644698139819514,353,236,78,39
 I find it helps add to the atmosphere of existential dread AND I got a killer deal on it.,1.441860465116279,0.035516444107963396,344,224,88,32
+What time do you want it to be?,1.441696113074205,0.03906469628416182,283,184,73,26
 So let’s explore your feeling of impending doom.,1.4397590361445782,0.03566671086900177,332,215,88,29
-What time do you want it to be?,1.4397163120567376,0.039153091263336846,282,184,72,26
 It's 5:53. You have $33.26 left in your session.,1.4391691394658754,0.035537586969283066,337,219,88,30
 "You've a deep fear of your own mortality... but sadly, you're almost out of time.",1.4388059701492537,0.03715885400107915,335,224,75,36
 And I can promise you this:  You will never catch me looking at my watch.,1.4388059701492537,0.0373985979555114,335,225,73,37
@@ -225,6 +225,7 @@ I don’t know… I just feel like I can see my life ticking away right in front
 "No pressure David, we have time.",1.4083044982698962,0.036653437702844155,289,192,76,21
 "Oh, that's for me.  It's biological.",1.4078947368421053,0.03890505849403294,304,213,58,33
 I’m a big time shrink.,1.4072727272727272,0.041277775357849565,275,194,50,31
+Heavy handed?... in what way?,1.4063604240282686,0.03914169344140089,283,195,61,27
 Enough with your childhood - let's get into the Lightning Round.,1.405693950177936,0.03901280695168651,281,193,62,26
 "Before we start, let's take a look at the Doomsday Clock.",1.405511811023622,0.0419766729683197,254,177,51,26
 "I get that you’re paid by the hour, but is the “Cha-ching!” alarm necessary?",1.405511811023622,0.04122858098104223,254,175,55,24
@@ -242,7 +243,6 @@ What makes you think I charge by the minute.,1.4016064257028114,0.04100676241665
 Many find it motivational on several levels.,1.4008097165991902,0.03960733464210512,247,166,63,18
 The size is an attempt to make up for the 50-minute hour.,1.4008097165991902,0.040834873382713244,247,169,57,21
 "Sorry, the ‘cha-ching’ sound effect wasn’t supposed to go off for another 7 minutes",1.4008097165991902,0.043564825795054454,247,176,43,28
-Heavy handed?... in what way?,1.400709219858156,0.038869180359873384,282,195,61,26
 "Yes, I have my own obsessions.",1.4,0.038226188159970406,260,174,68,18
 You never noticed it before now...?,1.4,0.040490019010141744,260,180,56,24
 Tell me more about your dread of looming deadlines.,1.399390243902439,0.03647292272833504,328,229,67,32
@@ -250,6 +250,7 @@ It helps keep me focused.,1.3991935483870968,0.039891749563768376,248,168,61,19
 ''That's not for timing my patients -- that's for timing my patience'',1.3984375,0.04130221275911279,256,179,52,25
 It 's a 50-minute hour.,1.3982683982683983,0.0405494233989596,231,155,60,16
 Time’s up.,1.3982300884955752,0.0399899336765814,339,255,33,51
+Trust me; you don't want to be here when the alarm goes off!,1.3975903614457832,0.04251885764256201,249,176,47,26
 Sometimes a big clock is just a big clock.,1.3968871595330739,0.03966617865486825,257,176,60,21
 "You haven't said anything for 53 minutes, soon your insurance will require me to declare you dead, and I can go home.",1.3967611336032388,0.04079406053806383,247,170,56,21
 "Yes, it is intimidating, but when you call up a childhood memory, it runs counterclockwise.",1.3966244725738397,0.04158358295463283,237,163,54,20
@@ -267,7 +268,6 @@ It runs on one AAAAAAAAAAAAAAAA battery.,1.391304347826087,0.046274252144545454,
 We still have 2 minutes.   How's your sex life?,1.391304347826087,0.04586212087661823,230,168,34,28
 I chose it in proportion to my hourly rate.,1.391304347826087,0.04197122358453096,230,159,52,19
 I find it helps patients get to the point.,1.391304347826087,0.04197122358453096,230,159,52,19
-Trust me; you don't want to be here when the alarm goes off!,1.3911290322580645,0.042194844726493284,248,176,47,25
 …and what do you think ‘having big hands’ means?,1.3911111111111112,0.04168623878942751,225,154,54,17
 What wall clock?,1.3907563025210083,0.04224400509941563,238,167,49,22
 Time is up? Really? I’m a millennial and don’t know how to read clocks without numbers.,1.3907563025210083,0.044691154516499416,238,173,37,28
@@ -275,6 +275,7 @@ What time do YOU think it is?,1.389763779527559,0.040308902210817926,254,177,55,
 Is there one last thought you'd like to share?,1.3896103896103895,0.040913497353200406,231,158,56,17
 Is the big penis on the 10 or the 11?,1.3893805309734513,0.044728947306253375,226,162,40,24
 "Actually, I just have very poor eyesight""",1.3883928571428572,0.040320679005203405,224,151,59,14
+No.  It works.  It's not a metaphor.,1.3881278538812785,0.04437462726762183,219,155,43,21
 "It captures the sense of dread caused by the relentless march of time and the vanity of human defiance,while reminding patients that I have a dinner date.",1.388,0.04152978318708473,250,177,49,24
 "...but the genie misheard me, so now I have an enormous clock.",1.3879310344827587,0.04593617570016311,232,171,32,29
 "No really, I am listening!",1.3876651982378854,0.04232103252136046,227,158,50,19
@@ -284,14 +285,14 @@ Trust me—I don’t have more than five minutes of empathy and understanding le
 What makes you think it's seven minutes to six?,1.3872340425531915,0.043018010524124795,235,167,45,23
 "No, no symbolism, just a big clock.",1.3869565217391304,0.04146566481737927,230,159,53,18
 "Well, would you just look at the time!",1.3863636363636365,0.04325849084372461,220,154,47,19
+Do you have a seven minute childhood trauma you’d like to get off your chest?,1.3859649122807018,0.043522157752793486,228,162,44,22
 "Well, you said you always wanted to make the big time.",1.3856502242152466,0.04513097883075404,223,161,38,24
-No.  It works.  It's not a metaphor.,1.385321100917431,0.04448938674057728,218,155,42,21
 "Oh, don’t pay any attention to the clock.",1.3846153846153846,0.04396455869780253,234,169,40,25
 "You asked for a big time therapist, and you got it!",1.3846153846153846,0.04312212357086199,234,167,44,23
 "You think I should go digital?""",1.3835616438356164,0.04287948071419635,219,153,48,18
+"Oh, that’s just my biological clock.",1.3835616438356164,0.04287948071419635,219,153,48,18
 Where do you see yourself in 8 minutes?,1.3835616438356164,0.043845564620400825,219,155,44,20
 "If you could, which hand would you be?",1.383399209486166,0.04073834615079638,253,179,51,23
-Do you have a seven minute childhood trauma you’d like to get off your chest?,1.3832599118942732,0.04362979572483917,227,162,43,22
 You still have $31.25 left in this session.,1.3832599118942732,0.042268245412999124,227,159,49,19
 Time is the biggest thing on your side right now,1.3831775700934579,0.0430760341276593,214,149,48,17
 "So in the seven minutes remaining, can you think of any reason for why you feel so rushed and pressured?",1.3831775700934579,0.04555139472137141,214,154,38,22
@@ -307,7 +308,6 @@ Oh my! What big hands you have.,1.3818181818181818,0.039697714352969926,220,148,
 Don't get comfortable.,1.3815261044176708,0.03999024610646869,249,174,55,20
 oh the clock? yeah i always forget it is there.,1.3813953488372093,0.043913526047778255,215,152,44,19
 "Given what happened at our last session, I've shut the alarm off this time.",1.3807339449541285,0.045838782522995176,218,159,35,24
-"Oh, that’s just my biological clock.",1.3807339449541285,0.04298286137888639,218,153,47,18
 Try not to watch the clock,1.3807339449541285,0.044906994030987565,218,157,39,22
 Now you don't have to keep looking at your phone.,1.3800904977375565,0.04108573727319354,221,152,54,15
 I'm aware of the time.,1.3791666666666667,0.04143853165943734,240,170,49,21
@@ -481,6 +481,7 @@ I’m not the kind of therapist who stares at her watch.,1.3414634146341464,0.05
 It’s time.,1.3414634146341464,0.05076035977672803,164,124,24,16
 "It's so we can know when to begin a meaningful exchange just before I say, 'sorry, our time is up'.",1.3407821229050279,0.04558613678123168,179,131,35,13
 Why do you think you can’t relax?,1.3407821229050279,0.04558613678123168,179,131,35,13
+"No, no! It's not just you! Most of my patients feel a sense of dread about the relentless passing of time.",1.3405405405405406,0.04454560568098802,185,135,37,13
 It's just for show. We're done when I'm bored.,1.3402061855670102,0.0449187170605854,194,144,34,16
 It would be rude to check my watch.,1.3401015228426396,0.045006876429827126,197,147,33,17
 I see we’re almost out of time.,1.3399014778325122,0.04177066577724303,203,147,43,13
@@ -506,7 +507,6 @@ My advice? Time will tell.,1.3372781065088757,0.043520393522249255,169,120,41,8
 It's on your side.  Yes it is.,1.3371428571428572,0.04899937046898689,175,133,25,17
 It stops me glancing at my watch when I’m bored.,1.3371428571428572,0.044058690305256415,175,126,39,10
 "You have 6 mins and 54 seconds left, no pressure.",1.3370165745856353,0.04583379003632374,181,134,33,14
-"No, no! It's not just you! Most of my patients feel a sense of dread about the relentless passing of time.",1.3369565217391304,0.04464316150292694,184,135,36,13
 "Interesting that so many of my patients make the same Freudian slip.  Yes, I do have a big clock.",1.336734693877551,0.04393501403188863,196,145,36,15
 OK.  We have 5 minutes left. Let's talk about you.,1.3366834170854272,0.04404610267477038,199,148,35,16
 I notice you seem to be watching the clock.,1.3354430379746836,0.04967909557126696,158,118,27,13
@@ -635,7 +635,6 @@ Patients find it distracting if I wear a watch.,1.319526627218935,0.043911317383
 "I assure you, the fact that the little hand is always pointing toward you during our sessions has no significance.",1.3194444444444444,0.05087881317719879,144,109,24,11
 "Not everything is about size. Sometimes, one is just gifted with an enormous clock.”",1.3194444444444444,0.0527532352047767,144,111,20,13
 What makes you think I just do this for the money?,1.3191489361702127,0.046475744494948096,141,102,33,6
-You don't want to be here when it chimes!,1.3191489361702127,0.050648428571225895,141,106,25,10
 "Therapist: You said you were terrified of time, so I thought exposure therapy would be a good place to start.",1.3191489361702127,0.0496381526060434,141,105,27,9
 Tell me about it. I’ve got plenty of time,1.3191489361702127,0.046475744494948096,141,102,33,6
 I specialize in big time problems.,1.31875,0.04966228321587556,160,123,23,14
@@ -655,6 +654,7 @@ Can you be more specific? They’re both big hands.,1.3172413793103448,0.0496187
 Time flies when you’re having issues.,1.3170731707317074,0.04718318553499707,164,124,28,12
 It’s an early Salvatore Dali,1.3169398907103824,0.04505762250082871,183,139,30,14
 It looked a lot smaller online.,1.3169014084507042,0.052287326094081724,142,109,21,12
+You don't want to be here when it chimes!,1.3169014084507042,0.05034068164352512,142,107,25,10
 "Ah yes, it was a gift from the patient who comes in right after you.",1.3166666666666667,0.045584009523852095,180,137,29,14
 "Ok,but which one looks like your penis?",1.316546762589928,0.05210206614854446,139,106,22,11
 "While some are Freudian and others are Jungian,I am a Flavor-Flavian.",1.316546762589928,0.05406620132816737,139,108,18,13
@@ -674,6 +674,7 @@ It feels like everywhere I go I'm reminded of my big brother Ben,1.3146853146853
 "So you think you have chronomentrophobia?” 
 
 “Big time",1.3142857142857143,0.04764302239909952,140,103,30,7
+"As you can see Mr. Biggs, we’ve exceeded the 50 minute hour.",1.314102564102564,0.04708587018600659,156,117,29,10
 And why do you think you have this feeling of impending doom?,1.314102564102564,0.04246780240934893,156,112,39,5
 You say you feel like you're running out of time to change things?,1.313868613138686,0.04941893451080853,137,102,27,8
 "Why do you think you feel small,Ben?",1.3137254901960784,0.04492721269564549,153,112,34,7
@@ -706,6 +707,7 @@ Looks like a big time problem.,1.3115942028985508,0.049112212093043395,138,103,2
 "Don't mind the new clock Marcus, it's only for symbolic order.",1.3115942028985508,0.05122091781944238,138,105,23,10
 "I think your tic tac is broken"" (or for the portuguese people ""o teu Tico teco não está bom!!""",1.3115942028985508,0.05519717849178572,138,109,15,14
 "Well, time is money",1.311377245508982,0.04405677386109729,167,124,34,9
+Wounds healed yet?,1.3112582781456954,0.04899468860124077,151,115,25,11
 "I see our, well, you know.",1.3111111111111111,0.04756847982341376,135,99,30,6
 Tell me about a time when you felt really small.,1.3111111111111111,0.05093559886023872,135,102,24,9
 Next week we work on your clock fixation.,1.3111111111111111,0.04871671778993393,135,100,28,7
@@ -718,7 +720,6 @@ The first thing I’d like to talk about is your obsession with time.,1.31081081
 "So, you see a high kicking Rockette.",1.3101265822784811,0.04910051093096636,158,122,23,13
 "Just remember David, we’re not here for a good time, we’re here for a long time.",1.3099415204678362,0.0456475404627614,171,130,29,12
 We have a little under two minutes to explore why you feel no one cares about you.,1.3098591549295775,0.05114130310212722,142,109,22,11
-"As you can see Mr. Biggs, we’ve exceeded the 50 minute hour.",1.3096774193548386,0.04718088798079557,155,117,28,10
 Starting this year I will charge by the second,1.3093525179856116,0.04986575750541569,139,105,25,9
 Don't mind that.,1.3092105263157894,0.047811600749434566,152,115,27,10
 It was a gift from my regular 6 o'clock.,1.3092105263157894,0.046891478868581825,152,114,29,9
@@ -788,7 +789,6 @@ What clock?,1.3,0.05197357247809656,130,100,21,9
 Don't worry about the time; let's stay focused.,1.3,0.04935347680939759,140,107,24,9
 It was Dali's first attempt,1.3,0.055308534506589,130,103,15,12
 "Why yes, it is a death clock. Now, how is your anxiety?",1.3,0.04411698907260348,150,111,33,6
-Wounds healed yet?,1.3,0.048002609921587766,150,115,25,10
 "Mr. Jones, it would be better if you turned your head away from the clock, so you can concentrate. The clock is for me.",1.3,0.04403112527563468,170,129,31,10
 Can I just remind you I am off to my own therapist at six,1.3,0.04511977596847296,150,112,31,7
 Well?,1.3,0.047225160956190816,140,105,28,7
@@ -798,6 +798,7 @@ Well?,1.3,0.047225160956190816,140,105,28,7
 It used to be a train station.,1.2993197278911566,0.042535174573345214,147,107,36,4
 "Think of the hour hand as all the things that you regret, the minute hand as all the things that make you happy, and the second hand as what you pay me to tell you the difference.",1.2992125984251968,0.05161431074911198,127,97,22,8
 It takes two double-Z batteries.,1.2992125984251968,0.05281118679843104,127,98,20,9
+It’s time we mentioned the elephant-sized clock in the room.,1.2992125984251968,0.04651988355847823,127,93,30,4
 Interesting. And how long have you had this feeling of a time constraint hanging over you?,1.2992125984251968,0.05161431074911198,127,97,22,8
 Try not to think about it,1.2992125984251968,0.04913316924644831,127,95,26,6
 Try not to be concerned with the meter--let's just focus on your financial anxiety.,1.2987012987012987,0.04618532925956254,154,117,28,9
@@ -842,7 +843,6 @@ Don't worry. It's three seconds fast.,1.2941176470588236,0.04625867739159112,153
 You have exactly 2 more minutes left to say what you actually wanted to talk about,1.2941176470588236,0.04693684155616266,170,134,22,14
 Wake up. Your time is almost up...,1.2937062937062938,0.04742161944054853,143,109,26,8
 Just a reminder that our time together is precious.,1.2937062937062938,0.04844897363829027,143,110,24,9
-It’s time we mentioned the elephant-sized clock in the room.,1.2936507936507937,0.04655423233443904,126,93,29,4
 "I think what you’re dealing with is 
 big-time anxiety issues.",1.2933333333333332,0.0468675764690954,150,115,26,9
 "So Paul, we only have a few minutes left to discuss your issues with overcompensation.",1.2932330827067668,0.046256482906646926,133,99,29,5
@@ -1035,7 +1035,6 @@ You can still reach closure if you use your timeouts wisely.,1.2773109243697478,
 So you think you're good at picking up on subtle hints.  Maybe we should discuss that next time.,1.2769230769230768,0.04762127551191367,130,100,24,6
 When I snap my fingers you will awaken and forget the entire year of 2023.,1.2769230769230768,0.050063030772570245,130,102,20,8
 Now you can stop asking me what time it is,1.2769230769230768,0.04885740952771086,130,101,22,7
-So what's on your mind?,1.2769230769230768,0.04635218761832849,130,99,26,5
 I’m very big on tick-tok.,1.2769230769230768,0.051240293075978584,130,103,18,9
 People were finding my diplomas intimidating.,1.2769230769230768,0.050063030772570245,130,102,20,8
 "Well, how do you feel about that $5 per minute if they're really big minutes.",1.2769230769230768,0.04762127551191367,130,100,24,6
@@ -1070,6 +1069,7 @@ You have my undivided attention,1.275,0.047282599946524534,120,91,25,4
 A gift from a patient with a very specific phobia.,1.275,0.05287597136071295,120,95,17,8
 Because it brings me joy.,1.275,0.047282599946524534,120,91,25,4
 Tell me more about this feeling of being ‘small’ you have whenever you come to my office for therapy.,1.2748091603053435,0.048529080474831635,131,102,22,7
+So what's on your mind?,1.2748091603053435,0.04604554297149816,131,100,26,5
 Actually it's there to remind you I stopped listening a couple of minutes ago.,1.2748091603053435,0.04972435483572397,131,103,20,8
 So you're feeling ticked off?,1.2746478873239437,0.047031940380562146,142,111,23,8
 It was a gift from a patient with OCD.,1.2746478873239437,0.047031940380562146,142,111,23,8
@@ -1166,7 +1166,6 @@ You may want to summarize those memories.,1.26890756302521,0.050206068721861626,
 Do you ever feel like you’re running out of time?,1.26890756302521,0.04876699173833713,119,92,22,5
 "I’m also an optometrist. If you can’t tell when our session is over, you’ll need a new prescription there too.",1.26890756302521,0.050206068721861626,119,93,20,6
 "It looks like time, but it's really money.",1.2686567164179106,0.05207422331612789,134,109,14,11
-I charge $200 per minute.,1.2686567164179106,0.047569331837243274,134,105,22,7
 "Well if you didn't buy the cheap insurance, I wouldn't have to do this.",1.2682926829268293,0.05041897065444284,123,97,19,7
 I've found that analog is more relaxing.,1.2682926829268293,0.04628425799209876,123,94,25,4
 You have to learn to talk about the elephant in the room.,1.2682926829268293,0.049079451713815676,123,96,21,6
@@ -1192,6 +1191,7 @@ My six o’clock gave it to me for Christmas.,1.2671755725190839,0.0494531783647
 Go ahead. Take my time,1.2666666666666666,0.04841078504124872,120,93,22,5
 "Yes, I'm quite sure it's bolted to the wall, Mr. Smith.",1.2666666666666666,0.049836333439760135,120,94,20,6
 I charge by the minute now.,1.2666666666666666,0.0454256762579498,120,91,26,3
+I charge $200 per minute.,1.2666666666666666,0.04725757139521219,135,106,22,7
 "I like to spend the last few minutes of each session telling my patients why they need to keep coming back,,,,",1.2666666666666666,0.05623515948579823,105,84,14,7
 Being right twice a day is my aspiration.”,1.2666666666666666,0.049836333439760135,120,94,20,6
 It makes my hourly rate look smaller.,1.2666666666666666,0.04929292474374421,105,80,22,3
@@ -1325,6 +1325,7 @@ Can you give me the seven-minute version?,1.2583333333333333,0.04806600464972997
 Let's unpack why you're focusing on the second hand. Do you feel second-hand?,1.2583333333333333,0.052254271310724,120,97,15,8
 "Although time is a precious gift, just a reminder that I charge for mine.",1.2580645161290323,0.047035048593734724,124,97,22,5
 "AT FIRST IT WAS AWKWARD, BUT I CAN’T EVEN HEAR THE TICKING ANYMORE.",1.2580645161290323,0.0523145980626917,124,101,14,9
+"So as you can see, I went to Yale.",1.2580645161290323,0.04840894689803205,124,98,20,6
 I found having the Doomsday clock as decor helps clients reach existential crisis sooner,1.2580645161290323,0.051045928602577964,124,100,16,8
 I always forget. Is this when I fall behind or spring ahead?,1.2580645161290323,0.047035048593734724,124,97,22,5
 "Yes, I get paid by the hour but it's not really important to me.",1.2578125,0.049908989205293415,128,103,17,8
@@ -1352,7 +1353,6 @@ Think of it as more time for your money.,1.2566371681415929,0.053005082082791775
 Are we thinking big hand or little hand?,1.2566371681415929,0.046662913271925226,113,87,23,3
 "The second hand needs to be adjusted and the diplomas straightened, but don't sweat the small stuff, right?",1.2566371681415929,0.049934788482713675,113,89,19,5
 It’s the little hands you always have to watch out for”.,1.2566371681415929,0.053005082082791775,113,91,15,7
-"I assure you I respect your time every bit as much as mine, Mr. Smith.",1.2566371681415929,0.051492823904971695,113,90,17,6
 "You have all the time in the world. 
 But don't waste the next five minutes.",1.2564102564102564,0.04402703626710301,117,89,26,2
 Close your eyes and listen to the sound of the ticking money meter.,1.2564102564102564,0.047255733568745614,117,91,22,4
@@ -1382,10 +1382,12 @@ You pay me $5 every time the big hand moves.,1.2545454545454546,0.04907206261035
 Why do you think you see that as the Doomsday Clock?,1.2543859649122806,0.05108875702500376,114,91,17,6
 "Since we only have seven minutes left, tell me about your childhood . . .",1.2543859649122806,0.049545995794159706,114,90,19,5
 That’s a very subtle hint I charge by the hour,1.2543859649122806,0.047953626600184374,114,89,21,4
+Seven minutes to get your shit together.,1.2543859649122806,0.047953626600184374,114,89,21,4
 Do you ever feel like time is pressing down on you?,1.2543859649122806,0.044598649238064926,114,87,25,2
 It's for people who take off their glasses.,1.2543859649122806,0.05108875702500376,114,91,17,6
 "My wife resents me coming here. ""Oh, suuure, go see your big time therapist.""",1.2543859649122806,0.05258627662693806,114,92,15,7
 "You say it isn’t about me, but one session after I ran late you just happen to get a new clock?",1.2543859649122806,0.05108875702500376,114,91,17,6
+"I assure you I respect your time every bit as much as mine, Mr. Smith.",1.2543859649122806,0.05108875702500376,114,91,17,6
 "In case you’ve forgotten, our session ends at six.",1.2542372881355932,0.04989695404704998,118,94,18,6
 Oh that. We’re now billing in 30 second increments and we installed it to avoid any stress or confusion.,1.2542372881355932,0.046125314568714715,118,94,19,5
 Time just seems to expand right before you die.,1.2542372881355932,0.05132806809940961,118,95,16,7
@@ -1422,7 +1424,6 @@ We overcompensate too.,1.2521008403361344,0.0480624258685221,119,94,20,5
 Say more about the size of your hands.,1.2521008403361344,0.04339017423882312,119,91,26,2
 "The clock on the wall says it's time to go; and yes, as Freud discovered, size matters,",1.2520325203252032,0.0511020699780237,123,100,15,8
 So you can see how quickly I take your money.,1.2520325203252032,0.0511020699780237,123,100,15,8
-"So as you can see, I went to Yale.",1.2520325203252032,0.04842377012779183,123,98,19,6
 Was it really cheaper than LASIK?,1.2519685039370079,0.049957492163318996,127,103,16,8
 Interesting...  And what made you think of the films of Orson Welles?,1.2519685039370079,0.047389685263170056,127,101,20,6
 why would you say something like that at a time like this?,1.2519685039370079,0.047389685263170056,127,101,20,6
@@ -1465,6 +1466,7 @@ Goodness would you look at the time,1.25,0.05305954499725111,112,91,14,7
 "Yes, I know it’s a hard concept for you to grasp. CLEARLY. But I’ve exhausted all efforts to make you understand that a therapeutic “hour” is 50 minutes. And ONCE AGAIN, you have dropped an emotional bomb at the 0:49:45 mark of our session.",1.25,0.05176784759846126,116,94,15,7
 Andy Warhol was a patient “,1.2481203007518797,0.048214904726397355,133,108,17,8
 It is a bit loud.,1.2481203007518797,0.04452991733786778,133,105,23,5
+A successfully treated 'GOD COMPLEX' patient left me his wristwatch as a parting gift.,1.248062015503876,0.04673316105343991,129,103,20,6
 But you said time was a construct…,1.248,0.04635904755624927,125,99,21,5
 Try not to think of it as the Doomsday Clock . . .,1.2479338842975207,0.04735568440129775,121,96,20,5
 The clock is not your problem.,1.2479338842975207,0.0443517615371859,121,94,24,3
@@ -1482,7 +1484,6 @@ I’m what they call a “big time therapist”.,1.2478632478632479,0.0499129553
 It's art. We never keep track of time,1.247787610619469,0.04791970318928943,113,89,20,4
 "I couldn’t help but notice your eyes keep drifting towards the clock, what do you think that means?",1.247787610619469,0.052634412625532395,113,92,14,7
 "Believe me, you're not the only one who'd like to ""take a swing"" at my decorator.",1.247787610619469,0.04791970318928943,113,89,20,4
-Seven minutes to get your shit together.,1.247787610619469,0.04791970318928943,113,89,20,4
 "When I said 'Take your time', I didn't mean it literally.",1.247787610619469,0.04791970318928943,113,89,20,4
 It's not a clock. It measures the patient's neurosis.,1.2477064220183487,0.04727714016434343,109,85,21,3
 Why does it seem time is always looming?,1.2477064220183487,0.04904103024434217,109,86,19,4
@@ -1578,7 +1579,6 @@ Same time next week?,1.2427184466019416,0.05247722016731465,103,83,15,5
 Got the idea in England.  It's my Big When to stop.,1.2424242424242424,0.05194805194805195,99,79,16,4
 "Yeah, I know. But I've never figured out how to adjust it for DST.",1.2424242424242424,0.05389566925536249,99,80,14,5
 Have you always felt time was running out?,1.2424242424242424,0.05389566925536249,99,80,14,5
-A successfully treated 'GOD COMPLEX' patient left me his wristwatch as a parting gift.,1.2421875,0.04672610045078247,128,103,19,6
 Ignore that.,1.2421052631578948,0.05336554301341158,95,76,15,4
 Don’t worry. It’s not the world’s doomsday clock…just yours.,1.2419354838709677,0.047726941741491634,124,100,18,6
 “Because I was tired of making furtive glances at my watch every fifty minutes.”,1.2417582417582418,0.05917763524323631,91,75,10,6
@@ -1874,6 +1874,7 @@ it feels like the clock is always ticking away.,1.2254901960784315,0.04601550038
 Come on. Out with it while there’s still time.,1.2252252252252251,0.04374875158566949,111,88,21,2
 I feel like we need to dig a little deeper to understand why you seem so fixated on the passage of time.,1.2252252252252251,0.04183483119966489,111,87,23,1
 Freud  compared everything with big clocks.,1.2252252252252251,0.047345048240602164,111,90,17,4
+I thought time only flies when you’re having fun….,1.2252252252252251,0.05068682196099173,111,92,13,6
 I see by the big hand that you're on your own until Friday at 4PM,1.2252252252252251,0.05068682196099173,111,92,13,6
 "your insomnia is now cured… remember, don't watch the clock",1.225,0.05085060780094461,120,101,11,8
 "No, I'm not watching the clock!",1.2247191011235956,0.04990493769277262,89,71,16,2
@@ -2026,7 +2027,6 @@ Sounds like you're having big time hallucinations.,1.2183908045977012,0.05526366
 "Get ready, get set, $390. . .",1.2183908045977012,0.05763142612108451,87,73,9,5
 You seem more fixated than usual.,1.2183908045977012,0.05526366862947198,87,72,11,4
 "We have 8 minutes and 56 seconds left in our session.  Coming up to the 30 second mark .....and pretty soon we'll have only 7 minutes left.""",1.2181818181818183,0.0472457740573157,110,90,16,4
-I thought time only flies when you’re having fun….,1.2181818181818183,0.05065347479749617,110,92,12,6
 "Why yes, I am a Freudian therapist.",1.2178217821782178,0.051902346226063996,101,84,12,5
 "Unlike the Rolling Stones, time is not on your side.",1.2178217821782178,0.05558680731729981,101,86,8,7
 Any final thoughts ?,1.2178217821782178,0.051902346226063996,101,84,12,5
@@ -2118,6 +2118,7 @@ Just don't think about it.,1.2134831460674158,0.056434560149382106,89,75,9,5
 I feel like time is looming over me.,1.212962962962963,0.047526068935268895,108,89,15,4
 "How does my massive, loud and distracting clock make you feel?",1.212962962962963,0.0437331304091476,108,87,19,2
 I notice that you focus a lot on mortality.,1.212962962962963,0.0437331304091476,108,87,19,2
+That's not the time WE have left; it's the time YOU have left.,1.212962962962963,0.04566899344097394,108,88,17,3
 "I don't want to rush you, but ...",1.212962962962963,0.047526068935268895,108,89,15,4
 And now the big topic.  Six.,1.212962962962963,0.0510379051440824,108,91,11,6
 I thought we could both use the distraction,1.212962962962963,0.049313258815131475,108,90,13,5
@@ -2218,6 +2219,7 @@ And why exactly do you feel like time is flying by?,1.2087912087912087,0.0482071
 Twelve is the witching hour; six is the bitching hour.,1.2087912087912087,0.05067669921031872,91,75,13,3
 Are we done yet?,1.2087912087912087,0.053031387753417904,91,76,11,4
 It keeps me from checking my watch all the time.,1.208695652173913,0.04537436813430066,115,95,16,4
+Just a subtle reminder that my life is also slipping away.,1.2083333333333333,0.04422001081778641,96,77,18,1
 That’s right. I do bill by the hour.,1.2083333333333333,0.04892857905103333,96,79,14,3
 "Small problems, small clocks - Big problems, big clocks!",1.2083333333333333,0.04892857905103333,96,79,14,3
 "When your time is up, it plays 'My Melancholy Baby'""",1.2083333333333333,0.04892857905103333,96,79,14,3
@@ -2296,7 +2298,6 @@ We like to think of ourselves as the thinking man's Tick Talk,1.2058823529411764
 "Doc , You've got too much time on your hands !",1.205607476635514,0.05268043241345016,107,92,8,7
 "It's a takeoff on the doomsday clock only it's your remaining life.""",1.205607476635514,0.0492194724957285,107,90,12,5
 This clock goes backwards in time. How does that make you feel?,1.205607476635514,0.0492194724957285,107,90,12,5
-That's not the time WE have left; it's the time YOU have left.,1.205607476635514,0.04549598868304171,107,88,16,3
 It's a Rorshclock test.,1.205607476635514,0.04549598868304171,107,88,16,3
 I find it speeds up my client's trust in me big time.,1.205607476635514,0.04143927484569612,107,86,20,1
 "When your office is behind the dial in a clock tower, you have to learn to read the face backward.  Don’t worry - you still got about forty three minutes.",1.205128205128205,0.052759276388894,78,64,12,2
@@ -2322,7 +2323,6 @@ Actually it's three minutes slow. I'm afraid your time is up.,1.2045454545454546
 "It's normal-sized. I'm a shrink, remember?",1.2045454545454546,0.053991879176445545,88,74,10,4
 "So sorry, I’ll have to charge you for the next half hour, I just totally lost track of the time",1.2045454545454546,0.05151591984183321,88,73,12,3
 "As you can see, that’s our time for the day",1.2045454545454546,0.04891479303131595,88,72,14,2
-I find it helps stay on topic.,1.2043010752688172,0.04472956446887328,93,75,17,1
 "No, not everything is phallic.",1.2043010752688172,0.04968140616939365,93,77,13,3
 We put it up there so you won't keep looking at your watch,1.2043010752688172,0.04727037156900375,93,76,15,2
 "Let's work with that, Mr. Hook; so you say tic-toc makes you  feel anxious?",1.2043010752688172,0.04968140616939365,93,77,13,3
@@ -2365,6 +2365,7 @@ And now let's talk about your time anxiety,1.202247191011236,0.04841664403947964
 It's part of my new mental health efficiency program.,1.202247191011236,0.050985625768042275,89,74,12,3
 "Well, Mr. Brenner, in seven minutes how about a stream-of-consciousness exercise?",1.202127659574468,0.04430450164682011,94,76,17,1
 Hi.  I'm Dr. Anna Logue.  This clock reminds you when the session is over and to whom you make out the check.,1.202127659574468,0.04919806972822639,94,78,13,3
+I find it helps stay on topic.,1.202127659574468,0.04430450164682011,94,76,17,1
 I’ve been thinking of adding a cash register chime for each tick of the second hand.,1.202127659574468,0.05364709930456415,94,80,9,5
 You need to understand that in most relationships timing is everything.,1.202127659574468,0.046815269577118276,94,77,15,2
 All my HMO patients get secondhand therapy.,1.202127659574468,0.05364709930456415,94,80,9,5
@@ -2398,7 +2399,6 @@ It helps to prevent stories from going on longer than necessary.,1.2,0.051558004
 It seems that we only have seven more minutes to resolve all of your issues.  Let's hurry.,1.2,0.04714045207910317,100,83,14,3
 "In another seven minutes, you’ll be cured…for six days.",1.2,0.04872391770757887,95,79,13,3
 We have to resolve this issue in 7 minutes,1.2,0.050970425959652337,95,80,11,4
-Just a subtle reminder that my life is also slipping away.,1.2,0.04388726267731849,95,77,17,1
 "No, sorry--discounts aren't available for solving your problems early.",1.2,0.05454065955141906,80,67,10,3
 Time to wake up - our session is almost over.,1.2,0.046368696240474946,95,78,15,2
 "Just so you know, I really am a big time psychologist",1.2,0.05155800469472483,80,66,12,2
@@ -2500,6 +2500,7 @@ I’m afraid we only have 7 minutes to wrap up a lifetime of unresolved issues.,
 It’s six minutes later than the last time you asked me.,1.197674418604651,0.05183306742570805,86,72,11,3
 It's supposed to distract you from watching me write notes about your behavior.,1.197674418604651,0.046254418776188036,86,70,15,1
 Patients usually feel more at ease knowing I'm not just some small time therapist.,1.197674418604651,0.046254418776188036,86,70,15,1
+It's come in very handy ever since I started charging by the second.,1.197674418604651,0.046254418776188036,86,70,15,1
 "Choose any happy place you like, so long as it comes with incessant, thunderous ticking.",1.197674418604651,0.04912299937443241,86,71,13,2
 Do you have the time?,1.197674418604651,0.04912299937443241,86,71,13,2
 "We have a tremendous amount of time, so let’s start with all your problems!",1.197674418604651,0.054408314529817106,86,73,9,4
@@ -2722,7 +2723,6 @@ Relax.  Don't think about my hourly rate.,1.1886792452830188,0.04046718979156078
 Let's explore the age old question of why you want to throw the clock out the window.,1.1886792452830188,0.04468761000837394,106,89,14,3
 Is Flavor Flav in the room with us right now?,1.1886792452830188,0.04262966067122,106,88,16,2
 "It’s the only real tool we psychotherapists have to prevent us from going stark raving mad ourselves; and, your time is up for today.",1.188235294117647,0.051569532748121864,85,72,10,3
-It's come in very handy ever since I started charging by the second.,1.188235294117647,0.045816946845285964,85,70,14,1
 It's a small world after all.,1.188235294117647,0.048778116640986524,85,71,12,2
 My time is valuable.,1.188235294117647,0.048778116640986524,85,71,12,2
 The American Psychological Association frowns on cuckoo clocks.,1.188235294117647,0.05421742111791689,85,73,8,4
@@ -2806,7 +2806,6 @@ No it’s not just your magical magnifying mind,1.1851851851851851,0.04684855792
 For some reason I am more tense than I have ever been with an analyst,1.1851851851851851,0.046848557928420444,81,67,13,1
 "So, tell me about your relationship with your grandfather clock.",1.1851851851851851,0.0500342818003937,81,68,11,2
 Don’t worry about the time. We have a way to tell when your session has ended.,1.1851851851851851,0.0500342818003937,81,68,11,2
-I've gotten less complaints about an hour being too short with the bigger clock.,1.1851851851851851,0.046848557928420444,81,67,13,1
 "Yeah, we're running a bit over, but time is not a big deal to me.",1.1851851851851851,0.05302896690102354,81,69,9,3
 "Well, Myles, sometimes a minute hand is just a minute hand.",1.1851851851851851,0.05302896690102354,81,69,9,3
 Time is of the essence.,1.184782608695652,0.04352302998477531,92,76,15,1
@@ -2865,6 +2864,7 @@ No problem is bigger than the clock.,1.1829268292682926,0.04947191399330268,82,6
 How will you feel about it if the world doesn't end at 6 oclock?,1.1829268292682926,0.04632878319045735,82,68,13,1
 It was that or a banana taped to a wall.,1.1829268292682926,0.05242694342046913,82,70,9,3
 "Well,one thing that never lies is the time. Looks like we will have to talk about your issues next  week.",1.1829268292682926,0.05242694342046913,82,70,9,3
+I've gotten less complaints about an hour being too short with the bigger clock.,1.1829268292682926,0.04632878319045735,82,68,13,1
 "Patients think that they're getting their money's worth this way.""",1.1829268292682926,0.05522407553472856,82,71,7,4
 "Ralph, please. You bring up your mother with seven minutes left?",1.1827956989247312,0.045729852307199545,93,78,13,2
 "I hope it is clear now, Mr. Papadopolos. I'm not a shrink.",1.1827956989247312,0.05284393687196332,93,81,7,5
@@ -3052,6 +3052,7 @@ Have I ever told you about my plan to MAGA?,1.1758241758241759,0.048401572627571
 You seem oddly consumed with the time left on your life’s clock.,1.1758241758241759,0.04306172017490284,91,76,14,1
 It's a reminder that I'm at least right twice a day.,1.1758241758241759,0.04012619468902315,91,75,16,0
 It's Overtime! Don't let your Ego write a check that your Id can't cash!,1.1756756756756757,0.04851786278573962,74,62,11,1
+I have to be home by six,1.1756756756756757,0.052194025100977155,74,63,9,2
 It's a new form of CBT: Clock Big Time.,1.1756756756756757,0.0556277763638545,74,64,7,3
 "Okay, let's try another one.  What time does it indicate now?",1.1756756756756757,0.052194025100977155,74,63,9,2
 Time will tell.,1.1756756756756757,0.052194025100977155,74,63,9,2
@@ -3221,6 +3222,7 @@ Time flies when you're talking about your mom.,1.17,0.042770234150550666,100,85,
 "Yes, tell me more about your mother... Just make sure it doesn't take more than 7 minutes.",1.17,0.047258156262526094,100,87,9,4
 Maybe time wouldn't drag so much if you weren't watching the clock.,1.17,0.04507009131689365,100,86,11,3
 That wall grappling with your clock is furious and enraged.,1.1692307692307693,0.0517447078733604,65,55,9,1
+It was a gift from an OCD patient.,1.1692307692307693,0.06032456592830045,65,57,5,3
 "I won’t be charged for less than an hour session, right?",1.1692307692307693,0.0517447078733604,65,55,9,1
 Is this a Freudian slip?,1.1690140845070423,0.049079722002617565,71,60,10,1
 I'm tasked with researching the large scale impact of Tik Tok on mental health.,1.1690140845070423,0.05668904731689607,71,62,6,3
@@ -3454,7 +3456,6 @@ I told you time was on your side,1.1627906976744187,0.04332445313847636,86,73,12
 "No, we have plenty of time for your new seemingly life-threatening problem",1.1627906976744187,0.04637462723263169,86,74,10,2
 Oh it’s the actual clock Pink Floyd used on Dark Side of the Moon.,1.1627906976744187,0.04923620479061171,86,75,8,3
 "That reminds me, I need to get the windows cleaned.",1.1627906976744187,0.04923620479061171,86,75,8,3
-"That will be all for today, Mr. Smithers. Next session, we'll explore  my fixation with clocks",1.1627906976744187,0.04637462723263169,86,74,10,2
 "Edward knew Dr. Big-Clock was known for her big clocks, but he didn’t realize how big Dr. Big-Clock’s big clocks were",1.1627906976744187,0.05194036651199686,86,76,6,4
 "It matches the bill, Mr. Smith.",1.1627906976744187,0.04637462723263169,86,74,10,2
 Even with my new purchase sitting above your head you manage to waste my time!,1.1627906976744187,0.04923620479061171,86,75,8,3
@@ -3536,6 +3537,7 @@ It's to remind you to cherish our brief time together.,1.160919540229885,0.04870
 Yup. Your hour ends on a toc.,1.160919540229885,0.048702939007284646,87,76,8,3
 "Well, you got here in the nick of time.",1.160919540229885,0.04587666140408817,87,75,10,2
 I can’t tell if my head has shrunk or the clock has just gotten larger since we started our sessions…,1.160919540229885,0.04587666140408817,87,75,10,2
+"That will be all for today, Mr. Smithers. Next session, we'll explore  my fixation with clocks",1.160919540229885,0.04587666140408817,87,75,10,2
 "If we’re going to overcome your fear of flying, we better hurry up. Your flight leaves in a little more than an hour.",1.160919540229885,0.04587666140408817,87,75,10,2
 "Go on, I’ll wait 7 minutes before chiming in.",1.160919540229885,0.04587666140408817,87,75,10,2
 "Actually. I though my last patient said he was wishing for a bigger clock.......""",1.160919540229885,0.048702939007284646,87,76,8,3
@@ -3591,7 +3593,6 @@ Seems we both have a case of idle hands.,1.16,0.05036801501882856,75,65,8,2
 It’s a 2-in-1 doomsday clock,1.16,0.053826548257317225,75,66,6,3
 "Now, we will retrace your steps... Look at the the hands of the clock. You are getting sleepy... Your eyes are getting heavy...",1.16,0.05036801501882856,75,65,8,2
 What I REALLY like is the “60 Minutes” ticking stopwatch playing in Surround Sound.,1.1595744680851063,0.0435845055714996,94,81,11,2
-Your time is almost up.,1.1595744680851063,0.0435845055714996,94,81,11,2
 "Does that clock seem to be getting smaller,or is it just me?",1.1595744680851063,0.04087576943015152,94,80,13,1
 Most patients don’t even notice the clock,1.1595744680851063,0.0435845055714996,94,81,11,2
 "yep, the clock still ticks with fees regardless of napping",1.1595744680851063,0.0435845055714996,94,81,11,2
@@ -3656,6 +3657,7 @@ I see our time's about up.  I have a 2:00 next Thursday if that works for you.,1
 I see hypnotherapy has finally moved beyond pocket watches.,1.1585365853658536,0.04742547425474257,82,71,9,2
 I need to talk to you about a problem - it's big time.,1.1584158415841583,0.04610077911612999,101,89,8,4
 "Oh, wait, I see that your time is nearly up.  I hope that your next life is better!",1.1578947368421053,0.046083949251100695,76,65,10,1
+Your time is almost up.,1.1578947368421053,0.04315598280527232,95,82,11,2
 I'd like to turn the clock back to when you were at your high school senior prom.,1.1578947368421053,0.049745427644764306,76,66,8,2
 "In our last 7 minutes, can you summarize all the things you've just said you're unhappy about - I can't read my notes.",1.1578947368421053,0.04567716078766765,95,83,9,3
 "Yes, it's almost time for Jeopardy!",1.1578947368421053,0.04210526315789474,76,64,12,0
@@ -3897,7 +3899,6 @@ Your future's looking up.,1.1506849315068493,0.050383736280168755,73,64,7,2
 I guarantee that this chronometer therapy will cure your habitual lateness.  I just can't tell you how long it will take.,1.1506849315068493,0.057441760846617014,73,66,3,4
 I can't be late for Frazier reruns at 6:00.,1.1506849315068493,0.0421602404397703,73,62,11,0
 It's a loaner. The rose window's in for repairs.,1.1506849315068493,0.050383736280168755,73,64,7,2
-I have to be home by six,1.1506849315068493,0.04645431495291281,73,63,9,1
 I wish I could go back in time too. For other reasons…,1.1506849315068493,0.050383736280168755,73,64,7,2
 "Gee, Ben gets bigger every year.",1.1506849315068493,0.0421602404397703,73,62,11,0
 "Watching the clock does not solve your problems, it just adds to your bill.",1.1506849315068493,0.050383736280168755,73,64,7,2
@@ -3952,6 +3953,7 @@ YOU NOW HAVE 5 AND A HALF MINUTES TO TELL  THE TRUTH,1.148936170212766,0.0426674
 "Oh that's what you meant by, ""if I wanted 'extra' time at my next appointment.""",1.148936170212766,0.04526908492548741,94,83,8,3
 Try to stay focussed in the moment,1.148936170212766,0.0398964766762762,94,81,12,1
 Let's take a look at the minutes from our last meeting,1.1486486486486487,0.04973991010198831,74,65,7,2
+"Sorry but after 50 minutes your ""hour"" is up.",1.1486486486486487,0.04973991010198831,74,65,7,2
 No sense getting up to go to bed!,1.1486486486486487,0.045867476603888985,74,64,9,1
 "Even with all the time in the world, doc, there isn't enough time to do all the things I don't want to do",1.1486486486486487,0.04973991010198831,74,65,7,2
 Seven more one-hour sessions and I’m closing the case on your sad ass.  Please continue.,1.1486486486486487,0.045867476603888985,74,64,9,1
@@ -3986,7 +3988,6 @@ So....you took the pill 4 hours ago?,1.1481481481481481,0.046848557928420444,81,
 Close your eyes and try not to think of a giant clock,1.1481481481481481,0.043429775553920656,81,70,10,1
 My advice to you; timing is everything in life!,1.1481481481481481,0.043429775553920656,81,70,10,1
 "You seem inordinately pressured with the length of your sessions, and I need some help understanding where this is coming from.",1.1481481481481481,0.046848557928420444,81,71,8,2
-"I think it's time for you to get a smaller clock, doc.",1.1481481481481481,0.043429775553920656,81,70,10,1
 "Hmm, I'm not familiar with Chronomentrophobia. What is that?",1.1481481481481481,0.043429775553920656,81,70,10,1
 "Remember that time is relative, even size wise.",1.1481481481481481,0.043429775553920656,81,70,10,1
 (in shrink's thought bubble) 10 more minutes to get my steps in...,1.1477272727272727,0.04723209309791176,88,78,7,3
@@ -4049,6 +4050,7 @@ Donnelle McGee, Sacramento, CA",1.146341463414634,0.049453353904863606,82,73,6,3
 It tends to focus the mind - sort of like an impending execution...,1.146341463414634,0.04630896338925494,82,72,8,2
 this is the time.,1.146341463414634,0.049453353904863606,82,73,6,3
 "So I never miss happy hour… dollar oysters for another seven minutes, want to share a dozen?",1.146341463414634,0.03927202370241044,82,70,12,0
+"I think it's time for you to get a smaller clock, doc.",1.146341463414634,0.04293490384215413,82,71,10,1
 Just gimme 5 minutes more.,1.146341463414634,0.04630896338925494,82,72,8,2
 Ok you can open them now.,1.146341463414634,0.04630896338925494,82,72,8,2
 Did you steal this clock from the Eras tour?,1.146341463414634,0.04630896338925494,82,72,8,2
@@ -4160,7 +4162,6 @@ Don't you think it's about time?,1.1428571428571428,0.05134648267484176,77,69,5,
 You’re not getting one minute more than insurance covers.,1.1428571428571428,0.045266017894605576,84,74,8,2
 "50 minutes means 50 minutes. I’m
 Hungry!",1.1428571428571428,0.0421262731871135,70,60,10,0
-Time. What’s it good for?,1.1428571428571428,0.04790300390810151,77,68,7,2
 Sam's therapist charges big hours per buck but it's definitely worth the time,1.1428571428571428,0.04419201606355329,77,67,9,1
 """It gives off a loud CUCKOO when your session is over.",1.1428571428571428,0.05101745037270873,70,62,6,2
 "Actually, Jack, the session ends at six o'clock, not sex o'clock.",1.1428571428571428,0.04444078691701825,63,54,9,0
@@ -4183,7 +4184,6 @@ Your wife doesn't love you.,1.1428571428571428,0.045266017894605576,84,74,8,2
 Some of my patients are myopic.,1.1428571428571428,0.0421262731871135,70,60,10,0
 "With the big hand ticking of my fee, there's no more free association.",1.1428571428571428,0.0421262731871135,70,60,10,0
 "Yes, it has been argued that time is just a human construct. Regardless, Carl, our time is almost up.",1.1428571428571428,0.04419201606355329,77,67,9,1
-"How, exactly, is your latent homosexuality aroused by that big black clock?",1.1428571428571428,0.045266017894605576,84,74,8,2
 "Yes, it has cut down on billing disputes.",1.1428571428571428,0.04299935704272291,91,80,9,2
 Why do you say something huge looms over you in life?,1.1428571428571428,0.04678356086900139,70,61,8,1
 Why don’t we continue on your passive-aggressiveness next time?,1.1428571428571428,0.036885555678165885,105,91,13,1
@@ -4216,12 +4216,14 @@ It's a leap year time warp.,1.1411764705882352,0.04151521329086001,85,74,10,1
 No wonder she’s out of network,1.1411764705882352,0.04778846120374095,85,76,6,3
 My time is your time.,1.1411764705882352,0.03799211615279771,85,73,12,0
 "Yes, I see that time is very much on your side Mr. Turner, but we've still run out of it.",1.1411764705882352,0.04151521329086001,85,74,10,1
+"How, exactly, is your latent homosexuality aroused by that big black clock?",1.1411764705882352,0.04476186970406316,85,75,8,2
 "Tick, tick, tick.",1.141025641025641,0.05390004122146831,78,71,3,4
 I go  by  Vienna time.,1.141025641025641,0.047320331546548966,78,69,7,2
 So...You were dreaming about a clock that was about to fall on you?  How did that make you feel?,1.141025641025641,0.04366020435906118,78,68,9,1
 When we go over 30 seconds you will be charged for another full hour.,1.141025641025641,0.04366020435906118,78,68,9,1
 I messed up- big time.,1.141025641025641,0.05071700021369216,78,70,5,3
 It started when I received my first Department 56 Snow Village piece. All the clocks I see are set to five minutes to six.,1.141025641025641,0.04366020435906118,78,68,9,1
+Time. What’s it good for?,1.141025641025641,0.047320331546548966,78,69,7,2
 Oh look!  It's almost time for me to go home and drown a days work of listening to peoples problem in vodka.,1.141025641025641,0.047320331546548966,78,69,7,2
 The clock drives you crazy? You should see the electric bill.,1.141025641025641,0.04366020435906118,78,68,9,1
 `I'm a big time analyst,1.141025641025641,0.047320331546548966,78,69,7,2
@@ -4245,6 +4247,7 @@ For some reason I seem to feel more cuckoo than usual  when I'm here.,1.14084507
 Anything else before Happy Hour ends?,1.1408450704225352,0.04157742116654289,71,61,10,0
 It's for my patients with time blindness,1.1408450704225352,0.04157742116654289,71,61,10,0
 "We have to watch the clock. I charge for every 3 minutes,including the chitchat at the beginning.",1.1408450704225352,0.04157742116654289,71,61,10,0
+"Yeah, I think it's time for a break!",1.1408450704225352,0.04157742116654289,71,61,10,0
 You’ve been staring at the clock for years. You can have it.,1.1408450704225352,0.046163800079517044,71,62,8,1
 "Yes, I wish I had a face that doesn’t age, too.",1.1408450704225352,0.046163800079517044,71,62,8,1
 It’s time for you to become hopelessly despondent.,1.1408450704225352,0.046163800079517044,71,62,8,1
@@ -4254,7 +4257,6 @@ This therapy isn't very dynamic,1.1408450704225352,0.046163800079517044,71,62,8,
 "So time heals everything, huh?",1.1408450704225352,0.04157742116654289,71,61,10,0
 People find comfort when time is on their side.,1.140625,0.04913531839612815,64,56,7,1
 Why would you say you think you’ve been here too long?,1.140625,0.043797805514170944,64,55,9,0
-It was a gift from an OCD patient.,1.140625,0.053947300765845876,64,57,5,2
 This isn't helping my Chronomentrophobia,1.140625,0.043797805514170944,64,55,9,0
 "OK, you've got seven minutes to explain to me why you're feeling like you're ruled by the clock.",1.140625,0.04913531839612815,64,56,7,1
 "Well Mr. Steven, instead of focusing on the size of the hands, 
@@ -4353,7 +4355,6 @@ man this clock is so fuckin big,1.1375,0.05552895811982624,80,74,1,5
 When you hear the chime your hour is finished,1.1375,0.042633817622437835,80,70,9,1
 Your BS-ing time is almost over.,1.1369863013698631,0.04052109440479185,73,63,10,0
 Let’s explore this; what is it about the clock that you find “so big?”,1.1369863013698631,0.04052109440479185,73,63,10,0
-"Sorry but after 50 minutes your ""hour"" is up.",1.1369863013698631,0.04902034372964355,73,65,6,2
 When they said I could lease office space in Big Ben I thought they were cuckoo.,1.1369863013698631,0.04497195343285888,73,64,8,1
 "Time weighs heavily on you, doesn't it?",1.1369863013698631,0.04497195343285888,73,64,8,1
 "I see, Mr. Brodsky, your time is up.",1.1369863013698631,0.04497195343285888,73,64,8,1
@@ -4666,7 +4667,6 @@ Talk about pressure!,1.1285714285714286,0.04029615300200892,70,61,9,0
 "Sorry, but your insurance doesn't cover the full hour.",1.1285714285714286,0.04514264748228169,70,62,7,1
 "Not to rush you, but...",1.1285714285714286,0.04951704046747739,70,63,5,2
 "No pressure, buct at 6 o'clock, ypu turn into a pumpkin. Hee-hee.",1.1285714285714286,0.04514264748228169,70,62,7,1
-"Yeah, I think it's time for a break!",1.1285714285714286,0.04029615300200892,70,61,9,0
 I think we've cured your insomnia.,1.1285714285714286,0.04514264748228169,70,62,7,1
 "So, with regard to your fear of deadlines,  . . .",1.1285714285714286,0.04029615300200892,70,61,9,0
 "Well, it seems we've run two minutes over our hour-long appointment, which is actually only 50 minutes.",1.1285714285714286,0.04514264748228169,70,62,7,1
@@ -4933,7 +4933,6 @@ Pay no attention to the fact that we have 7 minutes left in your session.,1.12,0
 Wait 'til you see the size og my bill!,1.12,0.03777601126412134,75,66,9,0
 Have you ever considered you might suffer from narcolepsy?,1.12,0.042277504507567405,75,67,7,1
 It makes the “45-minute hour” look like a real hour.,1.12,0.042277504507567405,75,67,7,1
-Can you summarize your problem in bullet points?,1.12,0.042277504507567405,75,67,7,1
 "When the alarm goes off, you will awake fully refreshed and guilt free.",1.12,0.042277504507567405,75,67,7,1
 "In case you’re wondering,                                                                     your session ends in 7 minutes and 34 seconds.",1.12,0.03777601126412134,75,66,9,0
 I feel that the presence of this clock is therapeutic for both of us.,1.12,0.0463437994530848,75,68,5,2
@@ -4980,6 +4979,7 @@ It doesn't really make your hourly rate seem smaller,1.118421052631579,0.0373090
 Just $80 left to the session,1.118421052631579,0.04174738257645891,76,68,7,1
 Just 7 more minutes of snoring and this session is OVER!,1.118421052631579,0.04174738257645891,76,68,7,1
 "It’s not crazy, you’re crazy!",1.118421052631579,0.04575719773945604,76,69,5,2
+Can you summarize your problem in bullet points?,1.118421052631579,0.04174738257645891,76,68,7,1
 So - it looks like our time is almost up.,1.118421052631579,0.04575719773945604,76,69,5,2
 "You've got exactly 2&1/2 more minutes to try to get to a breakthrough, Mr. Jones.  But please don't let that make you anxious.",1.118421052631579,0.0373090707335732,76,67,9,0
 It's MY motivator; time is money!,1.118421052631579,0.04174738257645891,76,68,7,1
@@ -4990,8 +4990,6 @@ to that day  or It could be that the world is gone mad.",1.118421052631579,0.037
 "For my continuing education credits, I need to watch Frasier reruns at 6:00 every evening.",1.118421052631579,0.04174738257645891,76,68,7,1
 We're going to try some exposure therapy to get you over your fear of big clocks...,1.118421052631579,0.0373090707335732,76,67,9,0
 Patient: people thought I was crazy when I told them my shrink practices in Big Ben.,1.118421052631579,0.04575719773945604,76,69,5,2
-"Therapist: I specialize in chronophobia. In other words, time is my big focus. 
-Patient: I see…",1.118421052631579,0.0373090707335732,76,67,9,0
 "Don't worry, the clock won't hurt you. I find immersion therapy is excellent for treating  chronophobia.",1.118421052631579,0.04174738257645891,76,68,7,1
 I don’t have time for your problems.,1.118421052631579,0.04174738257645891,76,68,7,1
 I see this is a really big time for you.,1.118421052631579,0.04174738257645891,76,68,7,1
@@ -5042,6 +5040,8 @@ It's just a gentle reminder to keep the monologues concise.,1.1168831168831168,0
 Freud says you have 71/2 minutes left.,1.1168831168831168,0.0412303350007502,77,69,7,1
 I see it's time to wind down your therapy.,1.1168831168831168,0.0412303350007502,77,69,7,1
 Enough about me and my problems. How are you?,1.1168831168831168,0.0412303350007502,77,69,7,1
+"Therapist: I specialize in chronophobia. In other words, time is my big focus. 
+Patient: I see…",1.1168831168831168,0.036853453360789,77,68,9,0
 "I understand you always think you're being followed, but you can’t escape time",1.1168831168831168,0.0412303350007502,77,69,7,1
 "Self-indulge some more, we still have five minutes",1.1168831168831168,0.036853453360789,77,68,9,0
 "Oh, I see you are feeling Pavlovian”",1.1168831168831168,0.036853453360789,77,68,9,0
@@ -5187,6 +5187,7 @@ The clock is set an hour ahead so we get places on time,1.1126760563380282,0.042
 You're not hallucinating. It always says ten before the hour.,1.1126760563380282,0.04278670967729594,71,64,6,1
 Let's try to find the source of your chronomentrophobia.,1.1126760563380282,0.04725586748680781,71,65,4,2
 "Well, it’s about time you stand up to your crazy mother, Stephen.",1.1126760563380282,0.04725586748680781,71,65,4,2
+What time is it? Showtime!,1.1126760563380282,0.04725586748680781,71,65,4,2
 It’s the perfect backdrop if you want to post about your session on TikTok.,1.1126760563380282,0.037792698211264054,71,63,8,0
 "It’s 5 o’clock somewhere.”
 
@@ -5587,7 +5588,6 @@ It appears you were assigned to the ADHD time-blindness prolonged exposure group
 "I know, I shouldn't have done it, but people kept calling me a shrink",1.1,0.036115755925730755,70,63,7,0
 One more round of anything before Happy Hour is over?,1.1,0.036115755925730755,70,63,7,0
 50-minutes to process a childhood filled of trauma? Game on.,1.1,0.036115755925730755,70,63,7,0
-What time is it? Showtime!,1.1,0.04617905559865247,70,65,3,2
 "Now,…when I snap my fingers, you will wake-up and ignore the clock, so that I can have time to run across the street to grab a coffee before the next patient.",1.1,0.03905667329424713,60,54,6,0
 What I’m trying to say is you should stop wasting time on the little things,1.1,0.04145390815152651,70,64,5,1
 I stooped it for my hypnotherapy sessions.,1.1,0.03905667329424713,60,54,6,0
@@ -5724,6 +5724,7 @@ I bill my overtime rate after your 50-minute hour.,1.0952380952380953,0.04913113
 "But before we pause, why do you think she was in bed with him, wearing your old letterman's coat, and eating sardines from the can?",1.0952380952380953,0.043610044751392865,63,58,4,1
 "When the clock hits 6, you'll be. ready for an early dinner!",1.0952380952380953,0.03728006482184818,63,57,6,0
 Nope..not flying for me. How about you?,1.0952380952380953,0.043610044751392865,63,58,4,1
+I just get ticked off so easily,1.0952380952380953,0.02878431070604705,105,95,10,0
 It was at this moment she realized she would indeed need the 3d and final degree which included how to know when the clients time was up.,1.0952380952380953,0.03728006482184818,63,57,6,0
 "No, no...take all the time you need!",1.0952380952380953,0.036400934097480735,84,77,6,1
 We’re having great results with the tic toc hypnotherapy.,1.0952380952380953,0.03728006482184818,63,57,6,0
@@ -5801,6 +5802,7 @@ So tell me more about your relationship with your mother in the next 6 minutes a
 "Well, there was this genie, see...",1.0923076923076922,0.03618247638889766,65,59,6,0
 I hope you realize that your time is running out!,1.0923076923076922,0.04230769230769232,65,60,4,1
 I shared a shipment with a sex worker in my building.,1.0923076923076922,0.03618247638889766,65,59,6,0
+"Every time you lie, the clock grows and slows…we may be here a while…",1.0923076923076922,0.03618247638889766,65,59,6,0
 Living your life - minute by minute,1.0923076923076922,0.04765196805139949,65,61,2,2
 We bill on the quarter hour.,1.0923076923076922,0.03618247638889766,65,59,6,0
 Time sure flies when you’re having fun.,1.0923076923076922,0.04765196805139949,65,61,2,2
@@ -5962,7 +5964,6 @@ You have exactly seven minutes and fifty-seven seconds left to tell me about you
 Let’s wrap up all of your problems in the next seven minutes and get you out of here.,1.0869565217391304,0.029537661760293828,92,84,8,0
 We've gone past the 50-minute hour,1.0869565217391304,0.03416979339101634,69,63,6,0
 "Uhuh, hmm, yeah, right, ok, time’s up!",1.0869565217391304,0.039922828555730934,69,64,4,1
-I just get ticked off so easily,1.0865384615384615,0.027703274527460894,104,95,9,0
 "Yes, let’s call it a gift from the healthcare administrators.",1.0865384615384615,0.030889770425336166,104,96,7,1
 I see that our time is up,1.0864197530864197,0.03599353021509445,81,75,5,1
 And could you rate that on a scale from 1 to 12?,1.0864197530864197,0.03599353021509445,81,75,5,1
@@ -6037,7 +6038,6 @@ I can help but the process takes time.,1.0833333333333333,0.032800912235873524,7
 You should know that I charge by the second.,1.0833333333333333,0.032800912235873524,72,66,6,0
 Lying to me won't make the time go any faster.,1.0833333333333333,0.03598231413236443,60,55,5,0
 "It's been stuck at that time for two days, you need to replace the battery.",1.0833333333333333,0.04312422383919023,60,56,3,1
-It appears that you are entering dream time.,1.0833333333333333,0.03598231413236443,60,55,5,0
 It REALLY looks like our time is up for today.,1.0833333333333333,0.03598231413236443,60,55,5,0
 Sometimes I feel that time’s weighing on me…,1.0833333333333333,0.032800912235873524,72,66,6,0
 I’ve noticed a pattern in our conversations and it’s time we talked about it.,1.0833333333333333,0.03598231413236443,60,55,5,0
@@ -6074,6 +6074,7 @@ It's almost time for the Bob Newhart Show.,1.0819672131147542,0.0424333741165402
 "Yes, they are both big hands, but the larger of the two is the minute hand.",1.0819672131147542,0.03541388359785716,61,56,5,0
 "Ok,  I'm going to stop you here.",1.0819672131147542,0.03541388359785716,61,56,5,0
 "We have about 8 minutes and 57 seconds left in your session, give or take.",1.0819672131147542,0.04243337411654028,61,57,3,1
+It appears that you are entering dream time.,1.0819672131147542,0.03541388359785716,61,56,5,0
 It's a reminder that I am in fact a successful TikToker.,1.0819672131147542,0.03541388359785716,61,56,5,0
 I just want you to stay aware of how much of my time you're wasting.,1.0819672131147542,0.03541388359785716,61,56,5,0
 Time and a half for overtime! Medicare has defined an hour as 37 to 45 minutes.,1.0819672131147542,0.048446251932899455,61,58,1,2
@@ -6169,7 +6170,6 @@ Time for a Cool Change,1.078125,0.033811213593755246,64,59,5,0
 It helps you confront your phobia that time exists.,1.078125,0.033811213593755246,64,59,5,0
 """It stems from my love of watching parking meters expire.""",1.078125,0.033811213593755246,64,59,5,0
 Please try not to watch the clock while you’re in therapy!,1.078125,0.033811213593755246,64,59,5,0
-"Every time you lie, the clock grows and slows…we may be here a while…",1.078125,0.033811213593755246,64,59,5,0
 it's mostly just a cover for my wass safe.,1.078125,0.033811213593755246,64,59,5,0
 Maybe we both just needed a nap......,1.078125,0.04048740434646664,64,60,3,1
 "Time solves most problems,however yours is about up.",1.078125,0.033811213593755246,64,59,5,0
@@ -6615,7 +6615,6 @@ You can see why I charge so much for my time.,1.0508474576271187,0.0288462014710
 Let's not get carried away here...,1.0508474576271187,0.028846201471076645,59,56,3,0
 'Let's beginning...if you could turn back time (in Cher's voice)...,1.0508474576271187,0.028846201471076645,59,56,3,0
 "Going back to reality, remember that time is just an illusion.",1.0508474576271187,0.028846201471076645,59,56,3,0
-It’s my job to find out what makes you tick.,1.0508474576271187,0.028846201471076645,59,56,3,0
 "So what were you saying about feeling like  life is passing you by?
 ….oh sorry that’s all we have time for.",1.0508474576271187,0.028846201471076645,59,56,3,0
 You don't have to super size everything.,1.05,0.02837401532675117,60,57,3,0
@@ -6629,6 +6628,7 @@ Your hour is not up but my patience is!,1.05,0.02837401532675117,60,57,3,0
 "Why can’t I remember: leftie loosie , rightie tightie!",1.05,0.02837401532675117,60,57,3,0
 I'm thinking of trading it in for an analog. What do you think?,1.05,0.02837401532675117,60,57,3,0
 …and I haven’t even covered my day past breakfast yet,1.05,0.024520722313684188,80,76,4,0
+It’s my job to find out what makes you tick.,1.05,0.02837401532675117,60,57,3,0
 Don't worry about the clock. Your insurance will cover the session.,1.0491803278688525,0.027917026829387525,61,58,3,0
 This is the reason for my anxiety,1.0491803278688525,0.027917026829387525,61,58,3,0
 Think 'Checkovian' short story ... not everything has meaning.,1.0483870967741935,0.027474514461903625,62,59,3,0
