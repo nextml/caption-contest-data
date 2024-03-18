@@ -1,7 +1,7 @@
 caption,mean,precision,votes,not_funny,somewhat_funny,funny
 "What do you mean, 'we can do this the smooth way or the crunchy way'...?!",1.7192812044681884,0.017992261768048756,2059,1056,525,478
 My old nemesis.  After all these years I’m an empty shell and you are a shadow of your former self.,1.715323645970938,0.02053877784705209,1514,760,425,329
-The cane is made of ivory.  Why do you ask?,1.7025689370728259,0.012353191680676154,4243,2192,1121,930
+The cane is made of ivory.  Why do you ask?,1.7028746465598492,0.012354063666135872,4244,2192,1121,931
 Tell Babar I'll have the money for him by Saturday! I swear!,1.690546528803545,0.021607817626471067,1354,702,369,283
 Don't you Republicans already have enough nuts?,1.6845553822152886,0.014449764809591476,3205,1737,742,726
 "My name is Mr. Peanut.
@@ -26,10 +26,10 @@ I was hoping you might forget.,1.6269065310911224,0.014833514070094072,2557,1374
 Tell my wife it happened at a baseball game..not like this.,1.617874736101337,0.01983051035664884,1421,772,420,229
 I suppose we should address the elephant in the room?,1.6110497237569061,0.024500323605956633,905,490,277,138
 "Yes, I'm free for lunch.",1.6079734219269104,0.015227252126349844,2408,1329,694,385
-Ok. I agree you're in the room.  Now let's negotiate.,1.6022284122562673,0.017066949752153834,1795,968,573,254
+Ok. I agree you're in the room.  Now let's negotiate.,1.6024498886414253,0.0170588821296667,1796,968,574,254
 And that’s basically the job.  I assume you’re willing to work for peanuts?,1.6013162452372705,0.013788651576394887,2887,1597,844,446
 Seriously?  I thought you were a metaphor!,1.599216245101532,0.013983374775354801,2807,1558,816,433
-You represent an organization that's gone mad and I represent a snack company. I'd say we're both nuts.,1.5966964900206468,0.01170575432338216,4359,2535,1047,777
+You represent an organization that's gone mad and I represent a snack company. I'd say we're both nuts.,1.596559633027523,0.011703869392478106,4360,2536,1047,777
 There’s no way I’m getting in the trunk.,1.5920629245620308,0.014130654179943207,2797,1584,770,443
 "Charlie, Snoopy, Lucy… they’re the peanuts you want.",1.5919003115264798,0.014564364009003024,2568,1437,742,389
 "Before you do anything rash, let me warn you that I may contain nuts.",1.5903547671840355,0.012286398089861936,3608,2024,1038,546
@@ -641,7 +641,6 @@ in a limerick?",1.302325581395349,0.03937924027234843,215,163,39,13
 "Just so you know, I like being an introvert. You don’t need to help me come out of my shell.",1.3022222222222222,0.03817485067404837,225,170,42,13
 The elephant in the room is that there's an elephant in the room.,1.3021276595744682,0.03990098131700827,235,183,33,19
 Isn't it time we addressed the elephant in the room?,1.3021276595744682,0.0416841613398311,235,187,25,23
-It's getting increasingly difficult to ignore the elephant in the room,1.3018867924528301,0.035435914946461006,265,201,48,16
 "I'm taking you seriously, but not literally.",1.3016528925619835,0.037262407336306314,242,184,43,15
 It's the age-old battle of the husk versus the tusk.,1.3016528925619835,0.03861818394112705,242,187,37,18
 My nuts are bigger than yours.,1.3014354066985645,0.0429008755802473,209,164,27,18
@@ -654,6 +653,7 @@ Its just a costume!,1.3009708737864079,0.043344602638765176,206,162,26,18
 Now those are some big nuts…,1.3008849557522124,0.03904963007285643,226,173,38,15
 "Alright, one more quick tickle of your ivories then you’re going to have to leave.",1.3008474576271187,0.036439000623931385,236,177,47,12
 "As I've told you before, I'm an empty shell.  I have nothing left to give!",1.3008474576271187,0.03836728910431999,236,181,39,16
+It's getting increasingly difficult to ignore the elephant in the room,1.300751879699248,0.03532068389882109,266,202,48,16
 "Ah, a hitman. Blue Diamond Almonds must mean business.",1.3004926108374384,0.03971253050036641,203,153,39,11
 "Wait...I'm supposed to be discontinued,not endangered. That's you!",1.3004484304932735,0.0372980375077033,223,167,45,11
 "Even at the peanut convention, there's an elephant in the room!",1.3004291845493563,0.04102296457105683,233,184,28,21
@@ -5327,7 +5327,6 @@ Would you like to see my impression of Jeremy Irons doing his impression of Clau
 "Haha, I'm in danger.",1.1238938053097345,0.03357337983537169,113,100,12,1
 And I thought the elephant in the room was that I was made of styrofoam.,1.1238938053097345,0.031131078051925422,113,99,14,0
 You don’t have to call me Mr. Peanut.  Just don’t call me dinner.,1.1238938053097345,0.03798983363164784,113,102,8,3
-I have a wife and kids––eat them instead.,1.1238938053097345,0.03584968126030149,113,101,10,2
 "My good sir, have you by chance heard the news about me being moldy, stale, and full of allergens?",1.1238938053097345,0.03584968126030149,113,101,10,2
 Do you want to end up like Charles Sumner?,1.1238938053097345,0.03357337983537169,113,100,12,1
 He's back! He's back! Voldemort is back!,1.1238938053097345,0.03357337983537169,113,100,12,1
@@ -5364,6 +5363,7 @@ Never address the elephant in the room,1.1229508196721312,0.03204172876304025,12
 Listen you've got the wrong guy I'm only on marketing,1.1229508196721312,0.03204172876304025,122,108,13,1
 You’ve got it all wrong. I’m Mr. Boiled Peanut.,1.1228070175438596,0.03329531493723402,114,101,12,1
 You called about a peanut allergy that no one believes or takes seriously.,1.1228070175438596,0.03329531493723402,114,101,12,1
+I have a wife and kids––eat them instead.,1.1228070175438596,0.03555043448250077,114,102,10,2
 I promise I'll have it tomorrow.,1.1228070175438596,0.03767079488170591,114,103,8,3
 "A peanut or not, I’m coming in hot. 
 
