@@ -3,7 +3,7 @@ caption,mean,precision,votes,not_funny,somewhat_funny,funny
 Gesundheit!,1.6278553299492386,0.01396331588753441,3152,1773,779,600
 Did I get rid of your hiccups?,1.6183544303797468,0.018981401870830868,1580,866,451,263
 "With all due respect, you look like a pickle.",1.6140762463343108,0.018197200574297072,1705,937,489,279
-"Helluva sneeze, Merv.",1.6102642276422765,0.017221459747795598,1968,1107,521,340
+"Helluva sneeze, Merv.",1.6094464195022855,0.017299387949254116,1969,1107,521,341
 I don’t think that’s what she meant when she said she doesn’t like pricks.,1.5987002437043054,0.022518039184564118,1231,730,265,236
 It’s called cactile dysfunction. It can happen to any of us,1.5968,0.018068849708154654,1875,1104,423,348
 "I didn’t say go PLUCK yourself, Val.",1.5926916221033869,0.023232229966436424,1122,661,257,204
@@ -19,7 +19,7 @@ It's called succulent pattern baldness.,1.552212389380531,0.01791095412114786,16
 "Jesus, Frank. It’s not Brazil.",1.5474452554744527,0.019345332246877275,1507,920,349,238
 "Shed happens, man.",1.5448504983388704,0.023866061117765142,903,531,252,120
 I thought we agreed we weren’t going to get the *full* Brazilian,1.5433526011560694,0.021101670856968395,1211,729,306,176
-Get dressed! Tourists are parking.,1.538036809815951,0.017521134189791863,1630,958,467,205
+Get dressed! Tourists are parking.,1.5383200490496627,0.017512678940842907,1631,958,468,205
 Gazuntite,1.5315508021390374,0.02389969504912402,935,571,231,133
 It's not called streaking unless you can run.,1.530674846625767,0.020250448909762603,1304,798,320,186
 You’re 100 years old. What did you expect?,1.529460580912863,0.019928812622174396,1205,705,362,138
@@ -959,6 +959,7 @@ Prickly heat?,1.2356687898089171,0.03953441204976719,157,125,27,5
 "It wasn´t sunblock, it was depilatory cream",1.2352941176470589,0.04326372304696509,153,125,20,8
 I told you not to use that aloe vera stuff...,1.2352941176470589,0.04332993214109078,136,109,22,5
 You'll be sorry you didn't leave some on there.,1.2352941176470589,0.036820563002912844,153,119,32,2
+"I still love you, honey",1.2349397590361446,0.035148124153778146,166,129,35,2
 Don't worry. The sheriff has a needle-exchange program.,1.2348993288590604,0.04404421799155704,149,122,19,8
 "Honestly, I don’t care. Just pay your half of the rent on time.",1.2348993288590604,0.04193451675354549,149,120,23,6
 "Yes, you do look skinnier, but it wasn't a sharp move.",1.2348484848484849,0.044158998786431834,132,106,21,5
@@ -1008,7 +1009,6 @@ I told you not to keep the nair next to the suntan lotion.,1.2307692307692308,0.
 Oh my god I told you that bottle that said Nair wasn’t shampoo,1.2307692307692308,0.04573452932028563,130,106,18,6
 Don’t feel bad it’s genetic and doesn’t make you any less of a cactus.,1.2307692307692308,0.03667453230133897,182,146,30,6
 I think you should stop getting your wife to cut your hair,1.2307692307692308,0.043470376140912446,156,129,18,9
-"I still love you, honey",1.2303030303030302,0.03505274499347255,165,129,34,2
 Didn't you hear drinking all that water has been debunked?,1.230263157894737,0.040118327440928456,152,122,25,5
 "I told you that would happen, Louis. If you stay in the GOP, they won't let you keep your spines.",1.230263157894737,0.043253847503772216,152,125,19,8
 Sorry Calvin.  Bald is not virile in my book.,1.2302158273381294,0.04370084695834212,139,113,20,6
@@ -3383,7 +3383,6 @@ I warned you you were spineless,1.1122448979591837,0.03205118021233007,98,87,11,
 "Wow! Biden really sucks, doesn't he?",1.1122448979591837,0.03205118021233007,98,87,11,0
 You hold that position too long - you lose your spines.,1.1122448979591837,0.035180556970122914,98,88,9,1
 You can also start sounding less defensive.,1.1122448979591837,0.035180556970122914,98,88,9,1
-You’re still a prick Robert,1.1122448979591837,0.038053449573630896,98,89,7,2
 A little Rogaine should fix that.,1.1122448979591837,0.035180556970122914,98,88,9,1
 There's always transplants.,1.1121495327102804,0.033402011549440974,107,96,10,1
 You are spineless-don't come to me talking about climate change.,1.1121495327102804,0.033402011549440974,107,96,10,1
@@ -3419,6 +3418,7 @@ You're too easy to sneak up on.,1.1111111111111112,0.042217280000676725,72,65,6,
 It's okay. It happens to a lot of guys.,1.1111111111111112,0.03513641844631533,81,72,9,0
 Radiation treatment is tough,1.1111111111111112,0.042217280000676725,72,65,6,1
 "Ma'am, this is a family desert. Nudity isn't allowed.",1.1111111111111112,0.03513641844631533,81,72,9,0
+You’re still a prick Robert,1.1111111111111112,0.03768416986205077,99,90,7,2
 I hear progesterone does wonders for hair loss,1.1111111111111112,0.039283710065919304,81,73,7,1
 Prickly heat doesn’t suit you,1.1111111111111112,0.03331251951092717,90,80,10,0
 "Welcome to middle age, pal. I’ve been using acupuncture for years.",1.1111111111111112,0.04011358543486932,90,82,6,2
