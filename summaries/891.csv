@@ -1,56 +1,56 @@
 caption,mean,precision,votes,not_funny,somewhat_funny,funny
-"Sorry, only the catcher works from home.",1.7512953367875648,0.015102510353248912,2895,1405,805,685
-"Yes, I did order a slider for lunch.",1.7457282343368592,0.015749762410915025,2458,1141,801,516
+"Sorry, only the catcher works from home.",1.7510359116022098,0.01509952325624907,2896,1406,805,685
+"Yes, I did order a slider for lunch.",1.7457351746547523,0.01573859470411327,2462,1143,802,517
 Just give me ballpark figures.,1.721149721149721,0.015415993499224576,2331,1061,859,411
-Can you explain why your last employer said you were caught stealing?,1.708469055374593,0.014349678319186331,3070,1548,869,653
-"The job requires short, intense periods of productivity combined with longer periods of reflection and spitting.",1.6914660831509847,0.016269781221222798,2285,1152,686,447
+Can you explain why your last employer said you were caught stealing?,1.708984375,0.014346808995870998,3072,1548,870,654
+"The job requires short, intense periods of productivity combined with longer periods of reflection and spitting.",1.6917358985570616,0.01626843081799783,2287,1153,686,448
 "Unfortuately, I think this job may be out of your league.",1.690120481927711,0.016144854029122982,2075,982,754,339
-"Yes, but are you a closer?",1.6869885433715222,0.015332078268258949,2444,1204,801,439
-"Give us your best pitch"" is actually just a figure of speech.",1.675564681724846,0.017435286185798437,1948,995,590,363
-Don't come in here and try to play hardball with me.,1.67513611615245,0.014495560426294614,2755,1390,870,495
-"So you want to play hardball, eh?",1.667953667953668,0.0139185518950201,2849,1416,963,470
-"No, you cannot “work from home plate”",1.6605166051660516,0.01646832837538799,2168,1130,644,394
-HR is concerned about your crotch-grabbing.,1.6597682119205297,0.01051877360093686,6040,3395,1305,1340
-You're not fired. You're relieved.,1.659537771645395,0.013516858512964464,2899,1429,1028,442
-Give it to me with no spin.,1.6567514677103719,0.014092620248968164,2555,1237,958,360
-Can you explain the 5-month-a-year-gap on your resume?,1.6545204537641802,0.013665673443536303,2909,1466,982,461
-I'll listen to four pitches and then I'm walking.,1.6512375441980072,0.013588846154010362,3111,1625,946,540
-We’re looking for someone with more experience in the field.,1.647316538882804,0.011136997967182023,4565,2381,1413,771
-"Muriel, when I said to send in a pitcher I just wanted some water.",1.6449934980494147,0.027421322985631037,769,407,228,134
-Can you work an extra inning this weekend?,1.641436628079549,0.012943090829243994,3369,1771,1035,563
-Give me your best pitch—and make it fast.,1.6377056094474904,0.015091390489790718,2371,1225,780,366
-I gather from this interview that you are a team player.,1.6258603736479842,0.015861012504803196,2034,1043,709,282
-"This is strike one, Johnson",1.619664268585132,0.01583399690404063,2085,1092,694,299
-Enough windup. Gimme the pitch.,1.6083976006855185,0.014545634072579573,2334,1212,824,298
-I've talked to management and they've agreed to play ball.,1.6072097378277153,0.015342323575966784,2136,1121,733,282
-I'm pretty sure the casting call asked for singers with perfect pitch.,1.6030176899063475,0.017072080328532944,1922,1071,543,308
-Do you have any idea how many captions we're going to get using 'Pitch me your idea' variations?,1.6023474178403756,0.01653735982451117,2130,1212,553,365
-Let me guess — they sent you here to retire me.,1.60135996600085,0.01531511911846542,2353,1305,681,367
-"Interestingly, the cat is the only other applicant who used that sand.",1.6012558869701727,0.01781298443491895,1911,1112,449,350
-"I understand, but HR has a different 3 strike rule",1.5903021784961349,0.019253988137214247,1423,786,434,203
-The catcher will see you shortly.,1.586337760910816,0.01570349431998293,2108,1164,652,292
-"This isn't what I meant by ""make your best pitch.""",1.5837129840546698,0.017038701425159234,1756,965,557,234
-Run that pitch by me again.,1.5812294182217344,0.016354966167219546,1822,985,615,222
-There's been a complaint about pine tar on the microwave.,1.5718277066356228,0.011585822131571189,4295,2551,1032,712
+"Yes, but are you a closer?",1.687525562372188,0.01533521193156734,2445,1204,801,440
+Don't come in here and try to play hardball with me.,1.6756071040231968,0.014485529610546517,2759,1391,872,496
+"Give us your best pitch"" is actually just a figure of speech.",1.6752180605438687,0.0174297850489691,1949,996,590,363
+"So you want to play hardball, eh?",1.6685373553139249,0.013917117343505635,2851,1416,964,471
+"No, you cannot “work from home plate”",1.6614463380930447,0.01647150764040667,2171,1131,644,396
+HR is concerned about your crotch-grabbing.,1.659880834160874,0.010518198020095314,6042,3396,1305,1341
+You're not fired. You're relieved.,1.6596551724137931,0.013512706732242932,2900,1429,1029,442
+Give it to me with no spin.,1.6572769953051643,0.014096904772012791,2556,1237,958,361
+Can you explain the 5-month-a-year-gap on your resume?,1.6540707660597733,0.01365998300924534,2911,1468,982,461
+I'll listen to four pitches and then I'm walking.,1.6510433386837882,0.013575538327966994,3115,1627,948,540
+We’re looking for someone with more experience in the field.,1.6475481611208407,0.01113479174513554,4568,2382,1414,772
+"Muriel, when I said to send in a pitcher I just wanted some water.",1.6441558441558441,0.02739849550812591,770,408,228,134
+Can you work an extra inning this weekend?,1.641056066449125,0.012938208520262595,3371,1773,1035,563
+Give me your best pitch—and make it fast.,1.6385846672283066,0.01508477384481607,2374,1225,782,367
+I gather from this interview that you are a team player.,1.62573673870334,0.015849476618770883,2036,1044,710,282
+"This is strike one, Johnson",1.6198465963566635,0.01582745469805927,2086,1092,695,299
+Enough windup. Gimme the pitch.,1.608304794520548,0.014536479369372834,2336,1213,825,298
+I've talked to management and they've agreed to play ball.,1.60710944808232,0.015331701494687856,2138,1122,734,282
+I'm pretty sure the casting call asked for singers with perfect pitch.,1.6025974025974026,0.017052471501025235,1925,1073,544,308
+Do you have any idea how many captions we're going to get using 'Pitch me your idea' variations?,1.6020647583294227,0.0165320142186648,2131,1213,553,365
+Let me guess — they sent you here to retire me.,1.6016985138004247,0.015303981504881123,2355,1305,683,367
+"Interestingly, the cat is the only other applicant who used that sand.",1.6011500261369576,0.017798354482762905,1913,1113,450,350
+"I understand, but HR has a different 3 strike rule",1.5898876404494382,0.019244927444853906,1424,787,434,203
+The catcher will see you shortly.,1.5852272727272727,0.015683563547889644,2112,1168,652,292
+"This isn't what I meant by ""make your best pitch.""",1.5833807626636311,0.017032241424223202,1757,966,557,234
+Run that pitch by me again.,1.5809105869445967,0.016349101380863634,1823,986,615,222
+There's been a complaint about pine tar on the microwave.,1.5717942750756342,0.01158162250951216,4297,2552,1033,712
 Great pitch. Go ahead and bring in the rest of your team.,1.568888888888889,0.015389032769344297,2025,1110,678,237
-"I'll tell marketing it was a strong pitch, but I've got too much on my plate right now.",1.560202205882353,0.014594715767280823,2176,1193,747,236
+"I'll tell marketing it was a strong pitch, but I've got too much on my plate right now.",1.5607519486474095,0.01458352564386972,2181,1195,749,237
 "This is not what I meant by ""outstanding in the field""",1.5588235294117647,0.016041373441881366,1972,1127,588,257
-"That's your problem, Bob. You're all pitch, no sales.",1.5580969807868252,0.021767986825339706,1093,631,314,148
-"Yeah Ray, well I did build it, and they didn't come, so now I'm in a Field of Debt.",1.5531062124248498,0.01918201836109991,1497,896,374,227
-We have Cameron from accounting coming in to relieve you.,1.5515267175572518,0.01489665672293102,2096,1168,700,228
-Is this your first pitch meeting?,1.5475047984644914,0.015315943133254769,2084,1194,639,251
-Let me guess — you're here to retire me.,1.5466015466015466,0.014177454657123768,2457,1416,739,302
-"""Your resume states that you are a team player.""",1.544574982722875,0.018249837568825436,1447,828,450,169
+"That's your problem, Bob. You're all pitch, no sales.",1.5575868372943327,0.02175406249249355,1094,632,314,148
+"Yeah Ray, well I did build it, and they didn't come, so now I'm in a Field of Debt.",1.5526666666666666,0.019153062917943046,1500,898,375,227
+We have Cameron from accounting coming in to relieve you.,1.5512148642210577,0.014881536430238294,2099,1170,701,228
+Is this your first pitch meeting?,1.5476760900814566,0.015299246528939079,2087,1195,641,251
+Let me guess — you're here to retire me.,1.5469321414059325,0.014171406276525796,2461,1418,740,303
+"""Your resume states that you are a team player.""",1.5455172413793103,0.01824628192947164,1450,829,451,170
+"OK, but make it fast.",1.543163789080728,0.015151285770579632,2143,1240,642,261
 We received a complaint that you use too many sports metaphors.,1.5430523917995445,0.015145477711921944,2195,1283,632,280
 You've broken another window.,1.5429344151453686,0.013676443779086798,2958,1803,704,451
-"OK, but make it fast.",1.5427370387669312,0.01514803441372864,2141,1239,642,260
-This isn't what I meant when I said you could pitch me on the idea.,1.5422535211267605,0.01440017349628261,2272,1293,726,253
+This isn't what I meant when I said you could pitch me on the idea.,1.5424549054113506,0.014395245501592532,2273,1293,727,253
 "Dobbs, I'm relieving you.",1.53810623556582,0.014914146977840562,2165,1252,661,252
-"We hire satirists, not punsters, but there's always a need for a good screwball.",1.5375391032325338,0.016030015318166762,1918,1121,563,234
+"We hire satirists, not punsters, but there's always a need for a good screwball.",1.5380208333333334,0.01603386987823513,1920,1122,563,235
 "If you're dressing for the job you want, this isn't the place for you.",1.5340626553953256,0.015669060941790162,2011,1183,582,246
 Where do you see yourself three innings from now?,1.5314653192466696,0.015197382081586344,2177,1296,605,276
 "'""Dress for the job you want"" is just a figure of speech, Roberts.'",1.5288243304584657,0.01585154632195567,2203,1373,495,335
-Just wanted to touch base,1.527520701412567,0.015249735485845286,2053,1204,615,234
+Just wanted to touch base,1.527263875365141,0.015244472817025177,2054,1205,615,234
 You’re taking the corporate jargon way too literal Steve. We’ll touch base on your pitch next week to ensure a home run.,1.525866969869244,0.016798037378658454,1759,1051,491,217
 "When I said ""Practice your pitch,"" I meant your sales pitch.",1.5165343915343916,0.01757385532595905,1512,895,453,164
 I said ballpark figures!,1.5157657657657657,0.016084475939472844,1776,1046,544,186
@@ -110,8 +110,8 @@ I’m not buying your pitch.,1.4555873925501432,0.025288443799450704,698,449,180
 It's lunch time.  I ordered a slider.,1.451219512195122,0.02443478813646146,738,476,191,71
 "I’m sorry, but your offer is low and away.",1.4505347593582887,0.023974868920202314,748,479,201,68
 "SALES pitch, Clemmons. SALES!",1.450381679389313,0.024173838335876982,786,515,188,83
+We’re trading you to accounting for a new coffee machine and two catered lunches.,1.4498327759197325,0.028696716170309847,598,402,123,73
 "Remember, you signed a 'no-strike' clause.",1.4496021220159152,0.02413005615204796,754,487,195,72
-We’re trading you to accounting for a new coffee machine and two catered lunches.,1.4494949494949494,0.028840448621146993,594,400,121,73
 "I'm assuming that the term ""pitch meeting"" is new to you.",1.449255751014885,0.02417913884817682,739,475,196,68
 How about intentionally walking back to your cubicle?,1.4484076433121018,0.024258150523431585,785,517,184,84
 What’s the catch?,1.448377581120944,0.02529518008728088,678,437,178,63
@@ -145,7 +145,7 @@ Enough with the wind-up. Just give me the pitch.,1.4268707482993197,0.0272263620
 "When I said I wanted you to play hardball, Stevens, this isn’t what I meant.",1.4268292682926829,0.027593524124666705,574,384,135,55
 You’re being sent down to accounting.,1.4267857142857143,0.026207012084263345,560,360,161,39
 We've traded you for an accountant to be named later.,1.4267515923566878,0.02497627218684617,628,406,176,46
-So you want to play hardball!,1.4262295081967213,0.02896192858794251,488,320,128,40
+So you want to play hardball!,1.4256619144602851,0.028834738093894932,491,322,129,40
 "That’s strike two, mister.",1.424342105263158,0.025740135258138,608,398,162,48
 I'm sorry but life gives you curve balls sometimes.,1.4228456913827656,0.027342235511140706,499,320,147,32
 "That's not what I meant by ""pitch your idea"", Frank ...",1.4225352112676057,0.027218352317568202,568,378,140,50
@@ -159,8 +159,8 @@ You have 15 seconds to make your pitch. You’re on the clock.,1.418566775244299
 This wasn't what I thought you meant when you said you were going to strike.,1.4153297682709447,0.025745082673626827,561,364,161,36
 "Your salary request is high and outside.""  —Greg Walker Chicag",1.4142581888246628,0.02873186653524226,519,352,119,48
 "You're outstanding in your field, but this is my office",1.413919413919414,0.027586438127323566,546,367,132,47
-"Picture, we wanted a picture",1.4134078212290502,0.027408285678226577,537,358,136,43
 I told my secretary I was tired of looking at the same old picture in my office.,1.4131274131274132,0.02824106382119611,518,348,126,44
+"Picture, we wanted a picture",1.412639405204461,0.027368083042943615,538,359,136,43
 "Make it fast, I'm going to lunch",1.4125,0.02685207725961151,560,374,141,45
 I’m the designated auditor.,1.4116504854368932,0.02524707697687321,515,325,168,22
 Well that's a relief!,1.4116504854368932,0.02794580860129178,515,344,130,41
@@ -198,8 +198,8 @@ I’d prefer you work from home.,1.3969957081545064,0.02846348997618732,466,313,
 "Well, I gotta admit, that was a good pitch.",1.3969631236442517,0.02834320890705942,461,308,123,30
 Well whaddya know. I built it- and you came!,1.396103896103896,0.030220583890810265,462,321,99,42
 That’s an interesting pitch unfortunately the position we need to fill is for a financial advisor,1.396039603960396,0.031214362611234964,404,275,98,31
-"Sorry, I'm bringing in the closer.",1.3956639566395663,0.03190574370183144,369,248,96,25
 This'll be your final pitch for the job.,1.394859813084112,0.028290450694517823,428,281,125,22
+"Sorry, I'm bringing in the closer.",1.3945945945945946,0.03183735919915952,370,249,96,25
 "Yes, I know Who's on first.",1.3937360178970917,0.02993946776530072,447,307,104,36
 You're asking for 162 days off?,1.3934837092731829,0.03186292144367172,399,275,91,33
 "When I asked HR to get me a right-hand man, this wasn't quite what I had in mind.",1.3926940639269407,0.030704967129928453,438,304,96,38
@@ -249,11 +249,11 @@ Can you type?,1.3756756756756756,0.03301108584217303,370,262,77,31
 One more strike and you're promoted.,1.3753424657534246,0.030743959482260143,365,248,97,20
 "Yes, yes. I built it and you came. But I'm also the moron who designed this ridiculous fifteen hour wall clock.""",1.375,0.035590351805976035,352,257,58,37
 "Well, one of us is in the wrong place.",1.3742690058479532,0.033399323377999675,342,239,78,25
-You will be graded on a curve.,1.3739837398373984,0.03436781180158313,369,268,64,37
 But can you type?,1.3738019169329074,0.03721718615459157,313,227,55,31
 They tell me you're a closer.,1.3737373737373737,0.031447098667763504,396,279,86,31
 "What do you mean, “I’m not giving you signs”?",1.3734015345268542,0.0300264792271402,391,268,100,23
 And where do you see yourself 5 innings from now?,1.372972972972973,0.03253602927493596,370,261,80,29
+You will be graded on a curve.,1.372972972972973,0.03428970052468073,370,269,64,37
 Who gave you the idea that I was looking for a team player?,1.37292817679558,0.028299025096606763,362,237,115,10
 "Okay, gimme your pitch - but make it fast!",1.3726027397260274,0.03261474231859047,365,257,80,28
 What's this I hear about a new idea you want to pitch?,1.3721590909090908,0.03221803038507363,352,244,85,23
@@ -417,11 +417,11 @@ Stop shaking your head every time I  say “you’re fired”.,1.328063241106719
 "We're only approving ""work from home"" requests from catchers.",1.328,0.038255954729808486,250,186,46,18
 This is not what we meant by 'pitch us an idea'.,1.3279352226720649,0.03900384941651094,247,185,43,19
 "So,you caught Johnson stealing?",1.3276450511945392,0.035289336427298174,293,218,54,21
-"I don’t care if you’re a reliever, your shift started at eight.",1.3274647887323943,0.034297990402084096,284,207,61,16
 When does your catcher get here? I don’t have all day to wait for your pitch.,1.3273381294964028,0.033265088524371725,278,199,67,12
 I’m still not going to bat for you.,1.326996197718631,0.03611594392145488,263,193,54,16
 "Ok go, but you're on the clock.",1.3264604810996563,0.03265446658034745,291,209,69,13
 We're getting complaints that the break room is littered with peanuts and Cracker Jack.,1.3263598326359833,0.037629546766971826,239,175,50,14
+"I don’t care if you’re a reliever, your shift started at eight.",1.3263157894736841,0.034196743151090836,285,208,61,16
 Make it snappy. He’s catching both games of today’s doubleheader.,1.326241134751773,0.03055600122411087,282,196,80,6
 Our diversity hiring team tells me you identify as an Ambidexterian. Tell me more.,1.326241134751773,0.03014017368808979,282,195,82,5
 Ok. Spit it out.,1.326241134751773,0.03294091765518587,282,202,68,12
@@ -606,6 +606,7 @@ Can you not stand on my cats burial mound?,1.295,0.039973295105708274,200,152,37
 "Shake your head all you want, but your appointment’s not ‘til one.",1.2946859903381642,0.04194515197099867,207,162,29,16
 "Heyyy corporate ladder ladder ladder, Heyyy corporate ladder ladder ladder",1.2946859903381642,0.03904977845575026,207,157,39,11
 "Consider this strike one, Bill",1.2946859903381642,0.039645772949062005,207,158,37,12
+"Not fastball, Marty.  'Hardball.'",1.2946428571428572,0.03704576793557514,224,169,44,11
 "This is not what I meant when I said, ""Pitch me your idea"".",1.2943722943722944,0.03831150222040915,231,178,38,15
 "We are desperate for relief, but this isn't what I had in mind when I called the temp agency.",1.2943722943722944,0.03524074498301791,231,172,50,9
 "Evan, you got a little confused when I asked you for your best pitch.",1.2943396226415094,0.03361264681952971,265,199,54,12
@@ -625,7 +626,6 @@ I’m not that kind of manager and this is not that kind of pitch.,1.29184549356
 "No, I need a “pitch man”! — You’re just a …",1.2916666666666667,0.0378767323849152,216,164,41,11
 "Aaaand, the pitch!",1.291497975708502,0.030631457596397575,247,178,66,3
 "I didn't mean literally pitch me your best idea""",1.2914798206278026,0.03707637863612379,223,169,43,11
-"Not fastball, Marty.  'Hardball.'",1.2914798206278026,0.03707637863612379,223,169,43,11
 Another righty? Next!,1.2914798206278026,0.035404242996493314,223,166,49,8
 "Maybe it’s time for YOU to step up to the plate, boss",1.2914572864321607,0.04126553597544212,199,154,32,13
 Do you consider yourself a team player?,1.2910798122065728,0.03821727482243117,213,162,40,11
@@ -658,6 +658,7 @@ Give me your elevator pitch.,1.2864321608040201,0.03792541777876674,199,150,41,8
 "Boy, you really threw me a curveball, there.",1.2863849765258215,0.03691369741169409,213,161,43,9
 I'm ready for your pitch.,1.2863636363636364,0.039966541348193746,220,173,31,16
 "I need a closer, and they tell me you're the best.",1.2863436123348018,0.03597299102867508,227,172,45,10
+"Johnson, when I tell one of you sales guys  you’ve lost your fastball, it’s a metaphor…",1.2857142857142858,0.04231641189901048,203,161,26,16
 That's not what I meant when I told you to give me your best pitch.,1.2857142857142858,0.03501575487487206,231,174,48,9
 "I'm sorry sir, this is your third strike. Please exit the premises.",1.2857142857142858,0.03760566108956178,217,166,40,11
 We need you to think more inside the box.,1.2857142857142858,0.03586331765827946,217,163,46,8
@@ -680,12 +681,12 @@ Let's talk about the strike,1.2835820895522387,0.03953580809568922,201,155,35,11
 "OK, let’s hear your pitch",1.2835820895522387,0.038901527964825114,201,154,37,10
 "Em, secretary, I meant a pitcher of water...",1.2832618025751072,0.035806300894858964,233,178,44,11
 What new idea are you pitching this time?,1.2831858407079646,0.032550122062852446,226,166,56,4
+"Well yes, in fact, I do feel relieved.",1.283132530120482,0.03901524733744984,166,123,39,4
 "No, I am not wearing a cup",1.2829268292682927,0.038994488783497934,205,158,36,11
 Not quite the pitch I was expecting.,1.2827225130890052,0.03883569486611756,191,145,38,8
 "No, it's not a deal. In fact, you're not even in the ball park!",1.2825112107623318,0.037924210504295515,223,173,37,13
 We're ready to hear your pitch!,1.2825112107623318,0.033991936361540506,223,166,51,6
 "Yes. A high, hard one is useful. But I was looking more for someone with people skills.",1.2822966507177034,0.03725752722251275,209,159,41,9
-"Johnson, when I tell one of you sales guys  you’ve lost your fastball, it’s a metaphor…",1.2821782178217822,0.04237768543526258,202,161,25,16
 Strong pitch. May I approach the mound?,1.2821782178217822,0.03809275026021401,202,154,39,9
 Now pretend your mom's at bat.,1.2820512820512822,0.04096612124428186,195,152,31,12
 "Nice pitch. Now, get down on one knee and show me your proposal.",1.2820512820512822,0.040315691680733866,195,151,33,11
@@ -711,11 +712,11 @@ What qualities make you a team player?,1.280373831775701,0.0372292914461058,214,
 Hit me.,1.28,0.03827958507045014,200,153,38,9
 "Yes, we do play hardball at this company.",1.2796208530805686,0.03239564767759103,211,154,55,2
 Maybe replay will tell if that walk with my wife was intentional.,1.279503105590062,0.04424239777857304,161,125,27,9
+"Not quite what I meant when I asked you to ""pitch it to me"".",1.2792792792792793,0.03631015548795332,222,170,42,10
 "Thomas, you don't need to demonstrate everything on your resume.",1.2791878172588833,0.037962135677915475,197,150,39,8
 "It's a metaphor, but go ahead, let's see what you got.",1.2791878172588833,0.04123239731930239,197,155,29,13
 That last one was just a tad outside.,1.2790697674418605,0.03894285566271207,172,129,38,5
 I’m trading you for an accountant.,1.2788461538461537,0.03600849796634856,208,157,44,7
-"Well yes, in fact, I do feel relieved.",1.2787878787878788,0.039008289137373,165,123,38,4
 Our firm prefers serving subpoenas in pizza boxes.,1.2786069651741294,0.039397833725282334,201,156,34,11
 "So, you took pitch me your idea quite literally.",1.2786069651741294,0.03397321521428665,201,148,50,3
 Sales pitch is an expression you idiot!,1.2786069651741294,0.03876129588215414,201,155,36,10
@@ -724,17 +725,18 @@ Can you do it in an elevator?,1.2783505154639174,0.037612453459265,194,147,40,7
 "I'm sorry, we're looking for someone who thinks outside the diamond.",1.2780748663101604,0.04067317328706051,187,145,32,10
 I can see your underwear.,1.2777777777777777,0.039129317358701295,198,153,35,10
 Give me your best pitch,1.277511961722488,0.03712138837245394,209,160,40,9
+"Sorry, we didn't like your pitch.",1.277511961722488,0.03893606746399203,209,163,34,12
 You’re being traded to Cleveland. The mound stays.,1.2772727272727273,0.03647114659228567,220,169,41,10
 "Really, this is your sales pitch?",1.2772727272727273,0.037035868211385305,220,170,39,11
 only HR can tell you if your safe,1.2772277227722773,0.0398494925707185,202,158,32,12
 "No no, I said, 'If you're being undervalued, start bitching'",1.2772277227722773,0.04046283128196485,202,159,30,13
+This better be a good idea.,1.2772277227722773,0.03729540761685989,202,154,40,8
 "I'll throw the curveballs in this interview, thank you very much.",1.2769953051643192,0.03842076890315677,213,166,35,12
 I’m afraid we’re looking for a different kind of pitch,1.2769230769230768,0.04017084643307532,195,152,32,11
 I thought we agreed no more sports metaphors in the office.,1.2767857142857142,0.03712288645345894,224,174,38,12
 For the last time I am NOT joining the company softball league!,1.2765957446808511,0.03831746253109429,188,143,38,7
 This isn't what I meant by a pitch meeting.,1.2763819095477387,0.036951149051750995,199,151,41,7
 You say I’m giving mixed signals?,1.276243093922652,0.040022954319153,181,139,34,8
-"Not quite what I meant when I asked you to ""pitch it to me"".",1.2760180995475112,0.03632741550663985,221,170,41,10
 Finally - working from home.,1.2758620689655173,0.035184675704486655,232,178,44,10
 I said elevator pitch.,1.2758620689655173,0.03511108761265708,203,152,46,5
 I presume you came with a pitch.,1.2758620689655173,0.03571106841395449,232,179,42,11
@@ -757,10 +759,8 @@ Alright Johnson what’s your pitch?,1.2741116751269035,0.03711815487184838,197,
 "I'll listen to your pitch once you're 60 feet, 6 inches away from the desk.",1.2741116751269035,0.039155453351628206,197,153,34,10
 Make your pitch already.,1.2740384615384615,0.03713663534056561,208,160,39,9
 This is not what a pitch meeting is.,1.2740384615384615,0.0365058700897608,208,159,41,8
-"Sorry, we didn't like your pitch.",1.2740384615384615,0.038967718494173,208,163,33,12
 You don't need the outfit to make a pitch.,1.273972602739726,0.037618354927453634,219,171,36,12
 Is that your only pitch,1.2739130434782608,0.03311081045738756,230,173,51,6
-This better be a good idea.,1.2736318407960199,0.03730679874690086,201,154,39,8
 Quit playing games.,1.2732919254658386,0.043155411807833464,161,125,28,8
 You have 12 seconds to deliver.,1.273224043715847,0.03565398047359636,183,136,44,3
 "One of us doesn't understand what ""pitch meeting"" means.",1.273224043715847,0.04185212356175567,183,144,28,11
@@ -837,7 +837,6 @@ I ordered a pitcher….of water.,1.2645502645502646,0.0399722994441786,189,149,3
 "While I’m a little hesitant to ask, what’s your pitch?",1.2645502645502646,0.03628151418016981,189,144,40,5
 Screwball.,1.2643171806167401,0.030633051877898377,227,169,56,2
 I'm on my way to lunch.Make it a fast pitch.,1.2641509433962264,0.036381397444068354,212,165,38,9
-I know you are going to throw me a curve. So why don't we just go to your fast pitch and get this interview into the home stretch?,1.2640449438202248,0.04007146524885307,178,139,31,8
 "Sorry, we’re looking for a lefty.",1.263959390862944,0.03679443868012291,197,152,38,7
 "It’s very cute, Marvin. But I meant a sales pitch.",1.2637362637362637,0.04315183201835776,182,147,22,13
 "I know you say you’re in a “league of your own” but you still must have an appointment to be seen, Mr Smith.",1.263681592039801,0.03766336740555251,201,157,35,9
@@ -847,6 +846,7 @@ Would you say that you’re a team player?,1.263157894736842,0.03907953220624763
 "Your sales pitch is stretching into my lunch hour, so wind it up.",1.262857142857143,0.03966550263718428,175,136,32,7
 Very clever. You're making a pitch. Now get on with it.,1.262672811059908,0.03266993782068463,217,164,49,4
 "Sir, this is Citi Bank. You're looking for the field",1.2625698324022345,0.042169531005341286,179,143,25,11
+I know you are going to throw me a curve. So why don't we just go to your fast pitch and get this interview into the home stretch?,1.2625698324022345,0.03987426800954235,179,140,31,8
 No interpreter today?,1.2625698324022345,0.03907923426397883,179,139,33,7
 "I already told you, dad, my passion is accounting!",1.2625698324022345,0.037438551699861274,179,137,37,5
 "So, where's the rest of the team?",1.2623762376237624,0.03616173441714147,202,156,39,7
@@ -922,7 +922,6 @@ We need  you to change-up your sales pitch.,1.2553191489361701,0.038364816776803
 It was a nice pitch but you didn’t need the costume.,1.2552083333333333,0.037107012828205096,192,150,35,7
 "Shirley get in here please, I asked for a baseball pic-ture",1.2552083333333333,0.03924975116453101,192,153,29,10
 "Yes, Mrs. Hinkley, I received the pitcher for my office that I asked for, but there's a small problem with it.",1.2547770700636942,0.045096353373616394,157,127,20,10
-Is it possible to work remotely from home plate?,1.2547770700636942,0.045096353373616394,157,127,20,10
 So I guess you are here to pitch your idea,1.2546583850931676,0.03967991409683428,161,125,31,5
 And you're sure you didn't leave it in your car?,1.2546583850931676,0.043417215352246255,161,129,23,9
 I believe our 15 seconds are up.,1.2545454545454546,0.04181271856083455,165,131,26,8
@@ -940,6 +939,7 @@ Your classified ad said you were looking for an experienced pitchman.,1.25405405
 I need a weekend reliever.,1.253968253968254,0.04033572517320513,189,152,26,11
 The pitch meeting doesn't start for another hour.,1.253968253968254,0.03818519155718357,189,149,32,8
 "Alright, alright.  I'll let you do the closing.",1.2532467532467533,0.041777101738457396,154,121,27,6
+Is it possible to work remotely from home plate?,1.2531645569620253,0.044839028619317184,158,128,20,10
 "The instructions for the interview were meant to be friendly, not literal",1.2530120481927711,0.04070100148121295,166,131,28,7
 Your resume indicates you were previously a belly-itcher.,1.2530120481927711,0.039793871028663635,166,130,30,6
 I admire your sales pitch!,1.2528735632183907,0.03403693820729332,174,131,42,1
@@ -966,7 +966,6 @@ Why do I suddenly feel like I'm in a New Yorker Cartoon Caption Contest?,1.25136
 I’d rather hear your pitch.,1.2513661202185793,0.03813538102697993,183,144,32,7
 It has been brought to my attention that you are outstanding in your field.,1.2513368983957218,0.03983288569224526,187,150,27,10
 Seems a little off base,1.2512562814070352,0.0361309571827538,199,156,36,7
-"Now, show me your walk-off face.",1.251231527093596,0.035674530125139436,203,159,37,7
 You’ve got eighteen seconds to make the pitch,1.251207729468599,0.03523397910153021,207,162,38,7
 "I said I wanted to see your slides, not your slider.",1.25,0.037428583339959215,188,148,33,7
 Don't balk at my proposal.,1.25,0.03666073590916169,188,147,35,6
@@ -974,13 +973,13 @@ Don't balk at my proposal.,1.25,0.03666073590916169,188,147,35,6
 Come on in. Next batter up!,1.25,0.038648553554096944,160,124,32,4
 People are saying you’ve been high and outside.,1.25,0.04133384003585129,172,138,25,9
 Don’t balk at my offer.,1.25,0.03904344047215152,164,128,31,5
+"Now, show me your walk-off face.",1.25,0.03552057968536265,204,160,37,7
 Second base when your interpreter arrives.,1.25,0.038648553554096944,160,124,32,4
 You’ve made a very compelling pitch.,1.25,0.03736447371640468,176,137,34,5
 That was quite a pitch!,1.25,0.03219026117454106,192,145,46,1
 "You are too late.  We built it, they came, and have now left.",1.25,0.03761773969316394,160,123,34,3
 I’m afraid we got our signals crossed,1.25,0.038181361646374215,156,120,33,3
 We have a minor problem.,1.25,0.03877031056783869,152,117,32,3
-Remote work isn’t really an option for this position.,1.25,0.04705918538536189,128,102,20,6
 "Thanks for stepping up to the plate here, but I think you're off base.",1.25,0.04270429767893841,164,132,23,9
 "I have heard of elevator pitches, but this...",1.25,0.036924761954211946,192,151,34,7
 It’s a figure of speech.,1.25,0.04027103781908219,168,133,28,7
@@ -998,6 +997,7 @@ Well if this isn’t a curveball,1.2486187845303867,0.03910138350523822,181,144,
 You can’t deduct a fast ball.,1.2485549132947977,0.03680701896364391,173,134,35,4
 Thish pitch better be good. The boss's loaded.,1.2485207100591715,0.04423758912923,169,139,18,12
 So that was your best pitch?,1.2485207100591715,0.03637283173956072,169,130,36,3
+You have fifteen seconds to make your pitch.,1.2484848484848485,0.04247172930955392,165,133,23,9
 "O.K., Pitch it to me once more, but this time I want you to put a positive spin on it.",1.2484848484848485,0.038835659779569306,165,129,31,5
 I think I can squeeze you in in the bottom of the 7th inning.,1.2484472049689441,0.0404084886504948,161,127,28,6
 ‘’Hit me with your best shot’’,1.2484472049689441,0.04135801864898707,161,128,26,7
@@ -1005,6 +1005,7 @@ I think I can squeeze you in in the bottom of the 7th inning.,1.2484472049689441
 "Louis, in the awkward silence, rethinks pitching his idea to the boss.",1.2483221476510067,0.04354385721569028,149,119,23,7
 Don’t play hardball with me,1.2483221476510067,0.044573110983951156,149,120,21,8
 Most candidates do theirs in powerpoint.,1.24822695035461,0.04947139868265776,141,117,13,11
+Remote work isn’t really an option for this position.,1.248062015503876,0.04673316105343991,129,103,20,6
 OK. You've got 1 minute to give me your best pitch.,1.2474226804123711,0.03658828814591328,194,153,34,7
 "You have a great attitude and a fantastic resume. Unfortunately, we decided to go a different way and made an offer to a left-handed candidate.",1.2474226804123711,0.038020188445794426,194,155,30,9
 This isn't what I meant by pitching your idea.,1.2473684210526317,0.03855279671460398,190,152,29,9
@@ -1016,6 +1017,7 @@ Okay. You're up. Pitch it to me.,1.2472527472527473,0.03565293647757243,182,141,
 Asking someone to come in and ‘pitch their idea’ is not meant literally!,1.2471264367816093,0.03751887581917127,174,136,33,5
 I said sales pitch.,1.2470588235294118,0.04071392535457735,170,136,26,8
 "So I assume you took  ""make your best pitch to the company"" quite literally?",1.2469879518072289,0.03863001402777619,166,130,31,5
+"We don't have room for screwballs in this company, Rodriguez.",1.2469879518072289,0.03863001402777619,166,130,31,5
 "You're in corporate America now, take as long as you want.",1.2469879518072289,0.039563838715599486,166,131,29,6
 Are you just going to stand there?,1.2469879518072289,0.03863001402777619,166,130,31,5
 "The catcher has agreed to your proposal of a slider, provided that you accept his low-and-outside clause.",1.2469879518072289,0.04224163093794226,166,134,23,9
@@ -1049,7 +1051,6 @@ Is this going to be another one of your screw ball ideas?,1.244047619047619,0.04
 Somebody threw you a curve.,1.244047619047619,0.03728089092506769,168,131,33,4
 Strike three!,1.244047619047619,0.03914635138842724,168,133,29,6
 "My apologies, sir. The magazine only accepts pitches submitted via e-mail.",1.244047619047619,0.042633095415944955,168,137,21,10
-You have fifteen seconds to make your pitch.,1.2439024390243902,0.04248205227842972,164,133,22,9
 That was not exactly the pitch I had in mind!,1.2439024390243902,0.03975266869690043,164,130,28,6
 First base isn't enough.,1.2439024390243902,0.03682152320673085,164,127,34,3
 What else you got? I never go for the first pitch.,1.24375,0.03940085379625947,160,126,29,5
@@ -1061,16 +1062,15 @@ I didn't see that curve ball coming.,1.2427745664739884,0.03923393848818495,173,
 "I would have thought it was obvious that I meant a sales pitch, Jones, but let’s see your curveball just for kicks.",1.242603550295858,0.03983502469756134,169,135,27,7
 "Well, there’s no need to balk.",1.242603550295858,0.03708776156970469,169,132,33,4
 When I told you to spitball your best idea…,1.2425742574257426,0.037505680369128096,202,163,29,10
-"We don't have room for screwballs in this company, Rodriguez.",1.2424242424242424,0.03859268142070267,165,130,30,5
 I believe the person you're looking for is Kevin Costner.,1.2424242424242424,0.04136574125120958,165,133,24,8
 "Before you begin presenting, keep in mind that the pitch clock has already started.",1.2422680412371134,0.036401559060007894,194,154,33,7
 "Nice pitch, but you're the third porta-mound salesman today.",1.2420382165605095,0.03980320063478991,157,124,28,5
 "No, I’m not going to put an apple on my head",1.2420382165605095,0.04081610096642558,157,125,26,6
 "No, firing you isn’t a ‘balk’",1.2420382165605095,0.038763842217267794,157,123,30,4
 Lose the shades and keep the see-through pants.,1.2419354838709677,0.038916188465308824,186,150,27,9
+"When I said come and pitch your proposal, I did not mean that literally !",1.2419354838709677,0.03816211584673517,186,149,29,8
 "Mr Ohtani, …I don’t understand",1.2418300653594772,0.04352278957221578,153,124,21,8
 A Sales pitch Norman.....not an actual pitch.,1.2418300653594772,0.044499803641733955,153,125,19,9
-"Well young man, baseball's been very very good to me as well.",1.2418300653594772,0.04352278957221578,153,124,21,8
 "You can shake me off all you want, but you are going to to take a seat and wait your turn.",1.2417582417582418,0.038710091351527566,182,146,28,8
 I'm very busy so cut the small talk and just make your pitch,1.2417582417582418,0.038710091351527566,182,146,28,8
 You’re taking “the pitch” much too literally.,1.2413793103448276,0.04069934986516517,174,141,24,9
@@ -1081,6 +1081,7 @@ This is an inside job.,1.2409638554216869,0.03838728006320658,166,131,30,5
 That was a very nice slider. But that doesn’t show me you know how to use excel.,1.240506329113924,0.04058586885471601,158,126,26,6
 "Aw, c’mon. You knew ‘home’, ‘error’ and ‘hit’ had other meanings too.",1.2404371584699454,0.03610667498180675,183,144,34,5
 I see now this isn't as much fun as how I pictured it in my head.,1.2403100775193798,0.04507636957214343,129,103,21,5
+"Well young man, baseball's been very very good to me as well.",1.2402597402597402,0.043267755912915686,154,125,21,8
 Please don't balk about the salary.,1.2402597402597402,0.039148038909314384,154,121,29,4
 "When you said you wanted me to watch your pitch, I expected something less...literal.",1.24,0.037978474587846534,175,139,30,6
 Every man is an island.,1.24,0.04048961431027807,175,142,24,9
@@ -1110,7 +1111,6 @@ Our customers say you've been throwing nothing but curve balls.,1.23809523809523
 "Ok, let’s not play games.",1.2380952380952381,0.042445658147416666,147,118,23,6
 I never noticed that lump in the carpet before...,1.2380952380952381,0.044262666813799055,126,100,22,4
 Sales! I said SALES!,1.2378378378378379,0.035762277823612264,185,146,34,5
-"When I said come and pitch your proposal, I did not mean that literally !",1.2378378378378379,0.03814713272153898,185,149,28,8
 "Yes, I built it. Thanks for coming.",1.2377622377622377,0.043211520370902166,143,115,22,6
 That's not what ball park figure means.,1.2377622377622377,0.04433653740431731,143,116,20,7
 We're looking for a team player. What's your best pitch?,1.2376237623762376,0.033140937568475706,202,158,40,4
@@ -1133,11 +1133,13 @@ Henry always took preparing for the curveball a little too seriously.,1.23602484
 Not quite what I meant when I said ‘bring your best pitch.’,1.2359550561797752,0.03824777627568974,178,143,28,7
 Well apparently some men are islands.,1.2357142857142858,0.041317851835987615,140,111,25,4
 "I’m afraid you may have misunderstood our job posting. We’re an advertising agency recruiting for a pitchman, not a pitcher.",1.2356687898089171,0.03953441204976719,157,125,27,5
+"Unfortunately, management has a different kind of changeup in mind.",1.2356687898089171,0.042519968110349034,157,128,21,8
 I think our definition of “spit balling” a few ideas is different.,1.2356687898089171,0.03953441204976719,157,125,27,5
 Oh what a relief it is.,1.235632183908046,0.03521957683040056,174,136,35,3
 "I understand that you have been shaking off my memos.""",1.235632183908046,0.03880955635321799,174,140,27,7
 "So this pitch, is it something I haven't seen before?",1.2352941176470589,0.03908647443633772,153,121,28,4
 What are you doing here? I signaled for the lefty.,1.2352941176470589,0.04017152966801222,153,122,26,5
+"I like your pitch, kid. But we traded you for a CFO to be named later.",1.2352941176470589,0.04122803788532132,153,123,24,6
 "Well, we DO care if you never get back.",1.2352941176470589,0.04122803788532132,153,123,24,6
 Son of a Pitch!,1.2352941176470589,0.04326372304696509,153,125,20,8
 The company can't afford any more curve balls.,1.2349726775956285,0.03752385692555158,183,147,29,7
@@ -1201,11 +1203,9 @@ I need you to think outside of the box.,1.2307692307692308,0.03804063995028231,1
 If it hurts when you do that; then don't do that.,1.2307692307692308,0.04163970964136848,130,103,24,3
 They called our bluff. Throw 'em a curveball.,1.2307692307692308,0.04174409487036005,143,115,23,5
 I just wanted to touch base with you on your sales pitch,1.2307692307692308,0.042508359364878075,156,128,20,8
-"Unfortunately, management has a different kind of changeup in mind.",1.2307692307692308,0.042508359364878075,156,128,20,8
 "Stare me down all you like, the doctor still won’t have room for a walk-in today",1.2307692307692308,0.04290760437014813,143,116,21,6
 "Frankly, I don't think a strike is in your best interest.",1.2303030303030302,0.03904272341431856,165,133,26,6
 Can you tell me why the mound is relevant to this discussion?,1.230263157894737,0.03671600563018157,152,119,31,2
-"I like your pitch, kid. But we traded you for a CFO to be named later.",1.230263157894737,0.04119003001210644,152,123,23,6
 "That's not what I meant when I said ""Make your pitch.""",1.230263157894737,0.03671600563018157,152,119,31,2
 "Fred, it's not funny anymore Go home.",1.2301587301587302,0.046683940221754726,126,103,17,6
 This a stretch seeing you here.,1.2298136645962734,0.0396495196733034,161,130,25,6
@@ -1249,7 +1249,6 @@ I'm afraid the elevator isn't real either.,1.2272727272727273,0.0396516613277557
 I brought you in for relief from a hellish job.,1.2272727272727273,0.03856645962786087,154,123,27,4
 "Ok, show me your elevator pitch",1.2269938650306749,0.03921193461014221,163,132,25,6
 Now give me your elevator pitch.,1.2269938650306749,0.03513707966969291,163,128,33,2
-Your slider crushed my cigar.,1.2269938650306749,0.038233956816305814,163,131,27,5
 Come back in the ninth inning.,1.2269938650306749,0.037230298035232104,163,130,29,4
 The pitch clock is ticking. You have 15 seconds to state your case.,1.2267441860465116,0.03506176513929852,172,136,33,3
 We could use an accountant like you on our softball team.,1.2267441860465116,0.04211084210412022,172,144,17,11
@@ -1264,6 +1263,7 @@ I should  have made it clear to the employment agency I was looking for a sales 
 This is the Universal Allied General Banking Corporation head office.  You want the Universal Allied General Banking Corporation Stadium.,1.226027397260274,0.04321792603067137,146,120,19,7
 "Sorry, we only do pitch meetings over Zoom.",1.226027397260274,0.039804135419876915,146,117,25,4
 "Remember, we don't tolerate curve balls in this company!",1.2258064516129032,0.039422291394586396,155,125,25,5
+Your slider crushed my cigar.,1.225609756097561,0.038025306701429465,164,132,27,5
 "Next time, shit in your pants.",1.225609756097561,0.042661545274098524,164,137,17,10
 "We do play hardball here, Johnson — but not literally.",1.225609756097561,0.0399444282461553,164,134,23,7
 Getting ready for the company softball team try outs?,1.2255639097744362,0.044798403337642796,133,109,18,6
@@ -1312,6 +1312,7 @@ I need to talk to you about all the spitting in the workplace.,1.222222222222222
 "Linda, I meant a pitcher of lemonade",1.2222222222222223,0.042721148279734084,153,127,18,8
 "No, I've gotten that pitch before.",1.2222222222222223,0.033938231725594965,180,143,34,3
 We have to talk about the ass-slapping.,1.2222222222222223,0.03958659589207582,171,141,22,8
+Very creative- proceed.,1.2222222222222223,0.038730390737892535,144,115,26,3
 Thanks for coming in on your day off.,1.2222222222222223,0.042721148279734084,153,127,18,8
 Do I look like I’m bunting?,1.2215189873417722,0.03977626061828338,158,129,23,6
 You brought your mound to the meeting. That’s strike one!,1.221476510067114,0.04134247033532938,149,122,21,6
@@ -1321,6 +1322,7 @@ I know I told you to give me your best pitch - ever heard of a metaphor?,1.22142
 I knew the break room foosball table was a slippery slope…,1.2213740458015268,0.048814575203571034,131,111,11,9
 "You're on your third strike, sir.",1.2213740458015268,0.04096613088549232,131,105,23,3
 "If your team has ever failed to reach a goal, what went wrong, and what did you learn from that experience?",1.221311475409836,0.04434150684593694,122,99,19,4
+This is the third time this week DoorDash screwed up!,1.2212389380530972,0.048254149115042264,113,93,15,5
 Let's see your sales pitch.,1.2210526315789474,0.03758061583504072,190,157,24,9
 Just spitballin' here?  I'd rather you didn't.,1.2209302325581395,0.0338016123748985,172,136,34,2
 "Sorry, I need a quarterback.""",1.2205882352941178,0.04134342127394495,136,110,22,4
@@ -1376,6 +1378,7 @@ Enough with the sales pitch!!,1.216867469879518,0.036350877732882605,166,134,28,
 I’m assuming either your movie is about baseball or you don’t know what a pitch meeting is.,1.2167832167832169,0.042268785941076484,143,118,19,6
 Your fantasy league may be affecting your output.,1.2167832167832169,0.043418237195585,143,119,17,7
 We were looking for an advertising pitch.,1.21656050955414,0.03650418098334813,157,126,28,3
+"That's true.  We are looking for team players, but...",1.21656050955414,0.040733186698041,157,130,20,7
 Is that the best pitch you got? It was out of left field. You're way off base! (I could do these all day.),1.21656050955414,0.039718171927335184,157,129,22,6
 Let's see the same pitch you used to win the Morgan account.,1.2164179104477613,0.04014609765660814,134,108,23,3
 This better be good.,1.2164179104477613,0.04285033090096287,134,110,19,5
@@ -1400,6 +1403,7 @@ Your email threw me a curve.,1.2152777777777777,0.037089104006679696,144,115,27,
 You'd be nothing without that mound!,1.2151898734177216,0.04049776173203979,158,131,20,7
 It looks like you're going to wind up with us again.,1.2151898734177216,0.03845539487689824,158,129,24,5
 Its time to wind up now.,1.2151898734177216,0.03629829314129352,158,127,28,3
+"So, it’s a strike you want, eh?",1.2151898734177216,0.03629829314129352,158,127,28,3
 "Buddy, whatever you're pitching, I ain't catching.",1.2148148148148148,0.043841496992071634,135,112,17,6
 Boy you really take this “work hard play hard” thing seriously.,1.2148148148148148,0.04508475549472759,135,113,15,7
 So like what's your pitch?,1.2148148148148148,0.0412426989839261,135,110,21,4
@@ -1415,7 +1419,6 @@ For 750 million dollars you will do what I tell you.,1.2147651006711409,0.043185
 So this is what HR meant when they said they had a real screwball job candidate.,1.2147239263803682,0.0386689968743908,163,134,23,6
 "So, you say what was a Field of Dreams is now a Mound of Maybe's.",1.2146892655367232,0.0391886970640903,177,148,20,9
 Pitch it to me low and hard.,1.2142857142857142,0.03681151300260929,154,124,27,3
-This is the third time this week DoorDash screwed up!,1.2142857142857142,0.04817882055187921,112,93,14,5
 "No, in this case we actually want a belly-itcher.",1.2142857142857142,0.04027872352660409,140,114,22,4
 I’d be more interested in your elevator pitch. You’ve got thirty seconds.,1.2142857142857142,0.03681151300260929,154,124,27,3
 "Per the new rules, you now have 6 seconds to scratch yourself.",1.2142857142857142,0.038982055435979795,140,113,24,3
@@ -1472,13 +1475,13 @@ Your stuff just isn’t what it used to be.,1.2118644067796611,0.044795307493204
 I didn’t mean it literally when I said pitch the idea.,1.2117647058823529,0.03748835326191492,170,140,24,6
 I said I want to see your pitch deck.,1.2117647058823529,0.03654809141413337,170,139,26,5
 "Sorry, but this isn’t going to be another one of those softball interviews.",1.2116788321167884,0.03796941342968509,137,110,25,2
-"That's true.  We are looking for team players, but...",1.2115384615384615,0.04068236762958047,156,130,19,7
 'Do you remember when this was all fields?',1.2115384615384615,0.03750887999036974,156,127,25,4
 "Well, yes. I did agree to take this pitch meeting.",1.2115384615384615,0.03859571302710641,156,128,23,5
 You're not pitching today; it's Thursday.,1.211340206185567,0.031151816132823872,194,155,37,2
 I hope you realize that home plate is behind you.,1.2112676056338028,0.03976630604598695,142,116,22,4
 Your ERA can't match my CPA.,1.2112676056338028,0.038489855490454264,142,115,24,3
 That's not the kind of sales pitch I was looking for.,1.2109375,0.04098375624962578,128,104,21,3
+"Mr. Cooper, Lou Gehrig was not a pitcher. Timing your appointment for high noon was a nice touch though.",1.2109375,0.04245821207248054,128,105,19,4
 "Your resume looks great, but I am concerned about the number of people stealing on you.",1.2108843537414966,0.038891657713431366,147,120,23,4
 "Im sorry Charlie, when I said 3 strikes your out, I meant it. now please take your mound and pack your things.",1.2108843537414966,0.041218162985870825,147,122,19,6
 "Just one more. Can you describe a time in your professional life that you had to resolve conflicting or ambiguous project demands, and / or had to consider walking a batter with a .317?""",1.2105263157894737,0.03570675039814121,152,122,28,2
@@ -1486,14 +1489,12 @@ That's not the kind of sales pitch I was looking for.,1.2109375,0.04098375624962
 Give me the elevator pitch !,1.2105263157894737,0.039196774755293144,152,125,22,5
 Do you really want to play hardball with me?,1.2105263157894737,0.04136017290460157,152,127,18,7
 "So you’re the closer, huh.",1.2105263157894737,0.04001115072838613,133,108,22,3
-"So, it’s a strike you want, eh?",1.2101910828025477,0.036182173683338134,157,127,27,3
 You’re going to have to take me to dinner before you get to 2nd base..,1.2101910828025477,0.03729355185255694,157,128,25,4
 We don’t like strikes in this game.,1.210144927536232,0.03910143069017933,138,112,23,3
 "We’re not accepting pitches right now, I’m afraid you’re gonna have to walk.",1.210144927536232,0.04418221331267686,138,116,15,7
 "I built it, you came. Now you work for me buster.",1.2100840336134453,0.04445294819591747,119,98,17,4
 Mind if I take a timeout?,1.2097902097902098,0.041933411464602686,143,119,18,6
 "Awesome. Now, try it in the elevator.”",1.2097902097902098,0.041933411464602686,143,119,18,6
-Very creative- proceed.,1.2097902097902098,0.03693831035796754,143,115,26,2
 I should have been a literary agent.”,1.2096774193548387,0.04326407174623475,124,102,18,4
 Let's tone it down to an 'Elevator Pitch',1.2094594594594594,0.0398256200544441,148,122,21,5
 "Don't call us, we'll call you.",1.2094594594594594,0.034905090736051685,148,118,29,1
@@ -1566,7 +1567,6 @@ Not exactly what I was expecting when I told you to give me your pitch.,1.205479
 HR has asked me to address these new pants you’ve been wearing.,1.2054794520547945,0.041143099950259714,146,122,18,6
 We're reclassifying you to a belly itcher.,1.2054794520547945,0.043378581075182505,146,124,14,8
 Now show me how you'd pitch to a Senior Accountant.,1.2054794520547945,0.038778964026104916,146,120,22,4
-Your ideas!!,1.205298013245033,0.03677733344878099,151,123,25,3
 Does this mean you’re going to strike?,1.205298013245033,0.03795882606658663,151,124,23,4
 Play ball and don’t spit on the carpet and we’ll get along fine.,1.205128205128205,0.04298482850550572,117,96,18,3
 "I’m sorry, but your pitch just doesn’t interest me.",1.204968944099379,0.03852684433814036,161,134,21,6
@@ -1578,7 +1578,6 @@ Do you think all of this is a game?,1.2049180327868851,0.044987954837924234,122,
 "No Max, I asked for a water pitcher not a relief pitcher.",1.204724409448819,0.042333188189562124,127,105,18,4
 I'm the boss - and YOU can't call a strike!,1.204724409448819,0.043784508667401564,127,106,16,5
 Sorry son but I can't leave the company to a knucklehead with a knuckleball.,1.204724409448819,0.043784508667401564,127,106,16,5
-"Mr. Cooper, Lou Gehrig was not a pitcher. Timing your appointment for high noon was a nice touch though.",1.204724409448819,0.042333188189562124,127,105,18,4
 "Sorry, we have a new company wide policy about stealing that has no exceptions",1.204724409448819,0.042333188189562124,127,105,18,4
 "Ok, you know the game. Give me your best pitch.",1.2045454545454546,0.04266541114118065,132,110,17,5
 It's just an expression,1.2045454545454546,0.04128773288571376,132,109,19,4
@@ -1598,6 +1597,7 @@ Your idea is terrible. Go back to the bullpen.,1.2040816326530612,0.039730214404
 You have three minutes to make your pitch.,1.2040816326530612,0.036040616758104264,147,119,26,2
 HR wants me to tell you that the proper corporate term is 'touch base with you' and not 'get to third base with you'.,1.2040816326530612,0.0408861577647834,147,123,18,6
 Just don't hit my face.,1.2039473684210527,0.03773245114514628,152,125,23,4
+Your ideas!!,1.2039473684210527,0.036559533553919624,152,124,25,3
 Isn’t this a little too inside baseball?,1.2039473684210527,0.03773245114514628,152,125,23,4
 "You’re out. Well, also.. I’m out.",1.2038216560509554,0.03469243023008109,157,127,28,2
 "When I told you pitch, I meant your proposal",1.2037037037037037,0.03929726318347483,162,136,19,7
@@ -1654,6 +1654,7 @@ What happened to the elevator pitch?,1.2013888888888888,0.03631728692182273,144,
 You’ve been designated for this assignment.,1.2013888888888888,0.03763071121420765,144,118,23,3
 When I said come here with your best pitch I meant SALES PITCH !,1.2013888888888888,0.041321250197233685,144,121,17,6
 "Okay, you’re very funny. Now make me cry.",1.2013888888888888,0.042480240288721084,144,122,15,7
+"No, that wasn’t perfect at all.",1.2013422818791946,0.03806953476017015,149,123,22,4
 Fair warning... there's a catcher to this job.,1.2012987012987013,0.04055873051919181,154,130,17,7
 You have 18 seconds to give me your pitch. Shoot!,1.2012987012987013,0.036131438803816876,154,126,25,3
 "No, we don't do trades. You're being fired.",1.20125786163522,0.03762289705854003,159,132,22,5
@@ -1680,7 +1681,6 @@ For today's meeting it looks like you have two on and two out.,1.2,0.03739608847
 I  think you're at the wrong pitch meeting.,1.2,0.038530427424764126,120,97,22,1
 Great idea. But where’s the pitch?,1.2,0.04200840252084031,120,99,18,3
 "Harold, great effort, but the memo clearly stated ""elevator pitch"".",1.2,0.03634218921558156,160,132,24,4
-Christ! What an asshole!,1.2,0.04683533267840396,125,107,11,7
 "No, it’s not Field of Dreams, but, then again, you’re no Kevin Costner.",1.2,0.04200840252084031,120,99,18,3
 I was thinking more along the lines of a PowerPoint prsentation.,1.2,0.04250237185032414,125,104,17,4
 I’m a Steinbrenner. I can put my office wherever I want.,1.2,0.03945381823835187,160,135,18,7
@@ -1701,6 +1701,7 @@ Let’s hear your pitch and reminder you’re on the clock.,1.1984732824427482,0
 "If you can make my toupee fly off, you’ve got the job",1.1984732824427482,0.04115172123601088,131,109,18,4
 That was one heck of a balk.,1.1984126984126984,0.03740781901092936,126,102,23,1
 I’m sorry.  This just isn’t your game.,1.1984126984126984,0.0406609539622806,126,104,19,3
+Christ! What an asshole!,1.1984126984126984,0.04648924268106774,126,108,11,7
 "The board really needs us to seal this deal, Jenkins, and HR says you're our best closer.",1.1983471074380165,0.04000660191858525,121,99,20,2
 I asked for a BUSINESS coach!,1.1981981981981982,0.04010596084093464,111,90,20,1
 You need to wind up your pitch now -- it's lunch time.,1.1975308641975309,0.036985880884117604,162,135,22,5
@@ -1723,14 +1724,13 @@ Is this out of left field for you as well?,1.1967213114754098,0.0379664357760268
 Your resume says they call you Lefty.,1.1967213114754098,0.04747997711497464,122,105,10,7
 "So you see the show as a kind of ""Seinfeld Meets the Dugout?""",1.1965811965811965,0.04416984246846931,117,98,15,4
 Make your pitch. But no spitting please.,1.1965811965811965,0.042468962400341995,117,97,17,3
+Please stop shaking off my signs.,1.1964285714285714,0.039785633992465014,112,91,20,1
 Not now. Save your best pitch for the client.,1.1962025316455696,0.03414315627610505,158,129,27,2
 "No, no, ""picture"" — like how we're both drawings.",1.196078431372549,0.038302050691219065,153,128,20,5
 "Johnson, this is not what I meant by a ""pitch meeting.""",1.196078431372549,0.038302050691219065,153,128,20,5
-I also do finance.,1.196078431372549,0.038302050691219065,153,128,20,5
 Not what I meant when I asked you to pitch me your story,1.195945945945946,0.04029079782974834,148,125,17,6
 My pitch clock says your time is up.,1.195945945945946,0.03913335823054826,148,124,19,5
 Would you describe yourself as a team player?,1.195945945945946,0.03794062549620373,148,123,21,4
-"No, that wasn’t perfect at all.",1.195945945945946,0.03794062549620373,148,123,21,4
 Computer analytics never lie.,1.195945945945946,0.03794062549620373,148,123,21,4
 "I’m just saying, I don’t appreciate your curveball.",1.195945945945946,0.03794062549620373,148,123,21,4
 Make your pitch was a figure of speech,1.1958041958041958,0.03747515183027524,143,118,22,3
@@ -1750,6 +1750,7 @@ You must have misunderstood me.  I meant that you should step up to the plate in
 I figure if I'm taking the same meds as Tony Soprano in an episode in the middle of season 5 I'm probably ok.,1.1951219512195121,0.042666263573966356,123,103,16,4
 "Ok, go ahead. Pitch it to me.",1.194915254237288,0.040385069910664935,118,97,19,2
 "I need to come clean, I find baseball incredibly boring.",1.194915254237288,0.04544829509037641,118,100,13,5
+I also do finance.,1.1948051948051948,0.03807381854944091,154,129,20,5
 You're probably wondering why I called you in here,1.1948051948051948,0.03917267027864408,154,130,18,6
 I’m honestly not interested in a company uniform.,1.1946902654867257,0.043289238099276685,113,94,16,3
 I think we both can agree that no return-to-office policy is perfect.,1.1946308724832215,0.03770806881243978,149,124,21,4
@@ -1850,7 +1851,6 @@ What were you thinking with that haircut?,1.1893939393939394,0.04319607046941939
 ...So what's more strange? Thinking out of left field or having the Director of Sales put your office in one to prove a point?,1.1893939393939394,0.041835870768935995,132,112,15,5
 This is not what I meant by ‘Pitch me your idea.’,1.1893939393939394,0.041835870768935995,132,112,15,5
 You want 67 million?  But can you hit?,1.1893939393939394,0.03897331447269078,132,110,19,3
-Please stop shaking off my signs.,1.1891891891891893,0.03947549964001198,111,91,19,1
 "Lefty, salary cap trumps baseball cap every time.",1.1891891891891893,0.03503386766748055,148,122,24,2
 Alright. I'm set. Pitch your idea.,1.1891891891891893,0.041498376301112666,111,92,17,2
 Careful now.,1.188976377952756,0.03829297767285124,127,105,20,2
@@ -1936,7 +1936,6 @@ I just hope you're not selling pitchforks.,1.184873949579832,0.03767639811444939
 1st time I've felt like I needed catchers gear for a sales pitch!,1.184873949579832,0.039521397092913316,119,99,18,2
 "When I said, ""Pitch me something authentic,"" I didn't mean THIS!",1.184873949579832,0.037676398114449394,119,98,20,1
 Hit me with your best shot.,1.184873949579832,0.04128402453096098,119,100,16,3
-"When I said bring your picture, I meant a photo ID.",1.184873949579832,0.04128402453096098,119,100,16,3
 I'm not looking for a Cy Young-just someone who can zing one high and inside when I need him.,1.184782608695652,0.04618599010841946,92,77,13,2
 The new rules say you only have 18 seconds to make your pitch.,1.1846153846153846,0.043387584110356495,130,112,12,6
 "We understand you need to run home, but unfortunately we don't have a personal day policy.",1.1846153846153846,0.04199073553245282,130,111,14,5
@@ -1955,7 +1954,6 @@ My strike zone is determined by the Supreme Court.,1.1843971631205674,0.04101404
 I understand you're looking for a sports agent.,1.1842105263157894,0.04416906847324455,114,97,13,4
 "Next person to miss their sales quota, I want you to hit them with a fastball, but make it look like an accident.",1.1842105263157894,0.04237512495166457,114,96,15,3
 "Please, no spitting in my office.",1.1842105263157894,0.04416906847324455,114,97,13,4
-No!  You tell ME why you are here.,1.184,0.038326273309656024,125,104,19,2
 Don't you dare go on strike!,1.184,0.038326273309656024,125,104,19,2
 "Okay, now I want you to try and sell me this pen …",1.184,0.04155680139201625,125,106,15,4
 "Ok, you have 15 seconds to sell me your pitch.",1.1838235294117647,0.03645841915187351,136,113,21,2
@@ -1972,6 +1970,7 @@ No spit balls please,1.18348623853211,0.04155722142841898,109,91,16,2
 I see you’re ready to pitch your idea.,1.1833333333333333,0.03922093802369406,120,100,18,2
 You lose one hundred percent of the bets you don’t make.,1.1833333333333333,0.04264263153554641,120,102,14,4
 "You did so well in the elevator, we’re moving you up to the big show.",1.1833333333333333,0.037392859706760685,120,99,20,1
+"When I said bring your picture, I meant a photo ID.",1.1833333333333333,0.04096752374585769,120,101,16,3
 Just give it to me slow and on the inside.,1.1833333333333333,0.04096752374585769,120,101,16,3
 We're in a tight one folks.,1.183206106870229,0.040259765329072605,131,111,16,4
 You're looking for the ballpark. This is an office park.,1.183206106870229,0.040259765329072605,131,111,16,4
@@ -1984,6 +1983,7 @@ Tell me about yourself in 8 seconds or less,1.182608695652174,0.0382345100239794
 "This is not the pitch competition we expected, but your commitment has been noted.",1.182608695652174,0.038234510023979464,115,95,19,1
 "Remember, you need to make a new pitch every 15 seconds.""",1.1825396825396826,0.03968253968253967,126,106,17,3
 Hit the 9 with a slider.,1.1825396825396826,0.04276297709028909,126,108,13,5
+No!  You tell ME why you are here.,1.1825396825396826,0.03804891363327222,126,105,19,2
 "Everyday and night, it is 12oClock, twice, in the wild world of sports and desk sitting.",1.1825396825396826,0.03968253968253967,126,106,17,3
 This isn’t quite the type of “pitch” we were looking for.,1.1825396825396826,0.03804891363327222,126,105,19,2
 "Actually, we're looking for a Starter, not a Reliever.",1.1824817518248176,0.03906784470821094,137,116,17,4
@@ -2083,6 +2083,7 @@ You can either retire early or continue taking the 7 train to the ballpark.,1.17
 The strike zone is at the warehouse,1.1785714285714286,0.04247469856733219,112,95,14,3
 "Unfortunately, your E.R.A. is higher than your I.R.A..",1.178343949044586,0.03195311452928326,157,130,26,1
 Well that certainly was a curve ball.,1.178294573643411,0.04036175503809792,129,110,15,4
+"Not *that* kind of pitch meeting, Simmons.",1.178294573643411,0.038832296336267204,129,109,17,3
 Interesting pitch.,1.178082191780822,0.03461773364813663,146,122,22,2
 Make sure it kills me,1.178082191780822,0.03461773364813663,146,122,22,2
 My wife is a slut.,1.178082191780822,0.03724693417601578,146,124,18,4
@@ -2105,6 +2106,7 @@ I don’t see ‘bellyitcher,1.176991150442478,0.04212678866913348,113,96,14,3
 Do you know what a homonym is?,1.176991150442478,0.04020744347355056,113,95,16,2
 It’s the bottom of the ninth with two outs  if you don’t finish the Henshaw case.,1.176991150442478,0.04396241731830613,113,97,12,4
 "Nephew or not, I don’t think this is working out.",1.176991150442478,0.03606359500782784,113,93,20,0
+"Not what i meant, Richard",1.176991150442478,0.04396241731830613,113,97,12,4
 "It's not 'My little friend', it is a desk lamp.",1.176923076923077,0.0369779457154703,130,109,19,2
 Corporate America is ninety percent mental. The other half is physical.,1.176923076923077,0.0369779457154703,130,109,19,2
 I’m here to complain about this year’s new uniforms,1.176923076923077,0.03532857037808641,130,108,21,1
@@ -2117,6 +2119,7 @@ You have fifteen second. I'm a busy man.,1.1764705882352942,0.03597740900528858,
 You say you feel a cold coming on and will be off for a few days?,1.1764705882352942,0.038941738870811815,119,100,17,2
 "First you pitch me that fifteen-hour clock, and now you are misusing the verb altogether.",1.1764705882352942,0.03888751576638827,136,116,16,4
 You've always been underhanded. Stay that way.,1.1764705882352942,0.037460731714789794,136,115,18,3
+I can see through you. Don't try to fool me!,1.1764705882352942,0.040729459603335606,119,101,15,3
 "I'm going to throw you a curve ball, Bob.",1.1764705882352942,0.037932811853078105,102,84,18,0
 I was talking about your sales pitch.,1.176056338028169,0.03779362887105737,142,121,17,4
 And you swear that you will never bet on games!,1.176056338028169,0.03644815855946875,142,120,19,3
@@ -2128,6 +2131,7 @@ The hand signals clearly are not working.,1.176,0.039454342743104005,125,106,16,
 "No, it is NOT the American Way!",1.176,0.037783765074775266,125,105,18,2
 "If you're here to make a pitch,  we're not interested.",1.176,0.037783765074775266,125,105,18,2
 I'm told you're the closer on this deal.,1.176,0.037783765074775266,125,105,18,2
+You’ve got 15 seconds to make your pitch. I’m sorry it’s the new rules.,1.176,0.039454342743104005,125,106,16,3
 Thanks for making the pitch in my office.,1.1759259259259258,0.03908946281414727,108,90,17,1
 In 15 seconds or less tell my why I should hire you.,1.1759259259259258,0.041243864630109685,108,91,15,2
 "Mr. Cotswold is running late, but he asked me to convey this to you: ""Booo, you stink.""",1.1759259259259258,0.04524596007030057,108,93,11,4
@@ -2158,6 +2162,7 @@ I'm afraid you'll never amound to anything in your field.,1.1748251748251748,0.0
 I've seen some pretty tough pitches. Bring it.,1.174757281553398,0.040053230491437206,103,86,16,1
 "No, I don't want to catch your fast ball.",1.174757281553398,0.04664079223275353,103,89,10,4
 Great news.  Analytics has the answer.  Strike guys out rather than give up home runs.,1.1746031746031746,0.04075379437684117,126,108,14,4
+Make your pitch quick.  I have a meeting in 10 minutes,1.1746031746031746,0.03577596085582426,126,105,20,1
 "Why yes, you are the starter for my fantasy team.",1.1746031746031746,0.04075379437684117,126,108,14,4
 I prefer style over speed.,1.1746031746031746,0.03750871234982077,126,106,18,2
 "Touch the ground, young man!",1.1746031746031746,0.04075379437684117,126,108,14,4
@@ -2214,7 +2219,6 @@ Why would you ask me to be an umpire? You know damn well management can't call a
 Shake me off one more time and I'm going to HR,1.1724137931034482,0.037291875366635134,116,97,18,1
 "I wanted you to pitch an idea, Hank—not a inning.",1.1724137931034482,0.04111610442786581,116,99,14,3
 That pitch won't get you to first base.,1.1724137931034482,0.035752485091944376,145,123,19,3
-"I think you need to revisit the meaning of ""inside baseball...",1.1724137931034482,0.04290057203353385,116,100,12,4
 Now are you ready to field a few questions about the merger?,1.1724137931034482,0.037291875366635134,116,97,18,1
 That's not what I meant!,1.1721311475409837,0.039801401970413236,122,104,15,3
 Ready for my Fuck You fastball?,1.1721311475409837,0.039801401970413236,122,104,15,3
@@ -2225,7 +2229,6 @@ I always thought no man was an island until I met you,1.1721311475409837,0.03980
 "I can assure you, all the bases will be covered this tax season.",1.171875,0.03697029924919195,128,108,18,2
 "Okay, so you can literalize metaphors. If we hire you, let's not get on like a house on fire.",1.171875,0.038598374611345944,128,109,16,3
 "Your valuation is too high, and for that reason, I'm out",1.171875,0.040160503217723596,128,110,14,4
-"Not *that* kind of pitch meeting, Simmons.",1.171875,0.038598374611345944,128,109,16,3
 I’ll allow the silly outfit but you have to leave the mound at home.,1.171875,0.03697029924919195,128,108,18,2
 That was the worst pitch I've ever seen.,1.171875,0.040160503217723596,128,110,14,4
 There's no catch.,1.1717171717171717,0.043169625690192184,99,84,13,2
@@ -2247,6 +2250,7 @@ The rules have changed. It's now a 15-second pitch clock.,1.170940170940171,0.03
 Now let's work on the elevator pitch.,1.170940170940171,0.04255784068883684,117,101,12,4
 While you're in the zone let's spitball a few ideas,1.170940170940171,0.0389415635464339,117,99,16,2
 Next month either figure out how to use PowerPoint like everyone else or at least bring me a hot dog and a beer.,1.170940170940171,0.04255784068883684,117,101,12,4
+"I think you need to revisit the meaning of ""inside baseball...",1.170940170940171,0.04255784068883684,117,101,12,4
 When I asked for your pitch you misunderstood our work,1.1708860759493671,0.03135397381778287,158,132,25,1
 "Sorry, we’re looking for someone with 5+ years experience for our rookie position.",1.170731707317073,0.0427423854249858,123,107,11,5
 "Simpkins, that’s not what I meant when I said you need a better sales pitch!",1.170731707317073,0.03950128439897153,123,105,15,3
@@ -2283,7 +2287,6 @@ Curve balls are my specialty.,1.1696428571428572,0.04185298021126821,112,96,13,3
 Have you ever considered that maybe ALL walks are intentional?,1.1696428571428572,0.04185298021126821,112,96,13,3
 You've got thirty seconds to give me your pitch.,1.1696428571428572,0.04185298021126821,112,96,13,3
 Deez nuts.,1.1696428571428572,0.037814304579279076,112,94,17,1
-"Not what i meant, Richard",1.1696428571428572,0.04373267786724212,112,97,11,4
 "Are you prepared to bring the heat, Giles?",1.1696428571428572,0.04373267786724212,112,97,11,4
 "Just the elevator version, please.",1.1694915254237288,0.03863730685944002,118,100,16,2
 Now pose like Nolan Ryan's statue...Leg held high...,1.1694915254237288,0.04046858081270881,118,101,14,3
@@ -2296,11 +2299,9 @@ You have no idea what it is like inside the lines.,1.1693548387096775,0.03920561
 "I appreciate the theatrics, but a simple Power Point would have sufficed.",1.1693548387096775,0.04241863934962231,124,108,11,5
 Think outside the box.  Pitch in it...,1.1693548387096775,0.037495998901067105,124,105,17,2
 "You pitch another baseball metaphor, Jenkins, and I’ll send you to the showers.",1.1693548387096775,0.033818474928148747,124,103,21,0
-DON'T THROW ME ANOTHER CURVE BALL!,1.1693548387096775,0.037495998901067105,124,105,17,2
 To say you know how to wind up a sales pitch would be an understatement.,1.1693548387096775,0.0357046158084263,124,104,19,1
 This is your third strike.,1.1693548387096775,0.037495998901067105,124,105,17,2
 "If you really want this job, show me how you'd slip a curve ball past Finance when we need it.",1.1693548387096775,0.037495998901067105,124,105,17,2
-You’ve got 15 seconds to make your pitch. I’m sorry it’s the new rules.,1.1693548387096775,0.0392056153777788,124,106,15,3
 Really? That's your pitch?,1.1692307692307693,0.036446939955723845,130,110,18,2
 Quit balking and get to work.,1.1691176470588236,0.036981929077634874,136,116,17,3
 Throw a good pitch and I’ll sign,1.1691176470588236,0.036981929077634874,136,116,17,3
@@ -2327,9 +2328,9 @@ You have 30 seconds to give me your best elevator pitch.,1.1680672268907564,0.04
 Your coming off a bad season the best we can do is 350 million over ten years,1.1680672268907564,0.040152337268993456,119,102,14,3
 You’re out!!!,1.168,0.04053831321983782,125,108,13,4
 The hard pitch isn't going to get you the sale,1.168,0.038914297894799055,125,107,15,3
-Make your pitch quick.  I have a meeting in 10 minutes,1.168,0.03544373096213391,125,105,19,1
 I thought YOU had the ball.,1.168,0.037219488478223955,125,106,17,2
 "No, you may not have ten extra seconds to adjust to the new rules.",1.168,0.038914297894799055,125,107,15,3
+DON'T THROW ME ANOTHER CURVE BALL!,1.168,0.037219488478223955,125,106,17,2
 "No strikes, no balls.",1.168,0.037219488478223955,125,106,17,2
 "High-noon, yes, sales-pitch, sure... but this is accounting.",1.168,0.037219488478223955,125,106,17,2
 You haven't a clue how to pitch.,1.168,0.04053831321983782,125,108,13,4
@@ -2359,7 +2360,6 @@ No! Three fingers is for the elevator pitch!,1.1666666666666667,0.03862723769652
 The Shark Tank studio is two doors down. Save your pitch for them.,1.1666666666666667,0.04478149380079898,114,100,9,5
 "You can call the singing telegram company if you want, but I get paid either way.",1.1666666666666667,0.03518657752744984,126,106,19,1
 You're gonna have to give me a better pitch than that.,1.1666666666666667,0.04321358157014429,120,105,10,5
-"No, you can’t bring in a reliever to finish your business pitch.",1.1666666666666667,0.03862723769652047,126,108,15,3
 I'm afraid you're also standing on a mound of debt.,1.1666666666666667,0.03591771190286293,150,129,17,4
 Where can I spit?,1.1666666666666667,0.044612868828113016,108,94,10,4
 Get Human Resources!  Their job posting “Join our team and play in the big league!” obviously isn’t working!,1.1666666666666667,0.03835488580989111,108,91,16,1
@@ -2373,6 +2373,7 @@ And if I refuse to renegotiate your contract?,1.1654135338345866,0.0401927049938
 Don't look at me. I'm the third base coach for the other team.,1.1654135338345866,0.03874961120027724,133,115,14,4
 "So, I know you're probably just spit-balling, but go ahead and lob me your idea.",1.1654135338345866,0.03568879425067707,133,113,18,2
 "Even if you ever manage to hit me, you are not getting a pay rise!",1.1653543307086613,0.03994086919204321,127,110,13,4
+"No, you can’t bring in a reliever to finish your business pitch.",1.1653543307086613,0.038344343192484406,127,109,15,3
 And I thought I was the one throwing the curveballs!,1.1653543307086613,0.038344343192484406,127,109,15,3
 You're high and inside.,1.1653543307086613,0.038344343192484406,127,109,15,3
 Pitching ideas.,1.1653543307086613,0.0366783897944027,127,108,17,2
@@ -2407,7 +2408,6 @@ You got one minute to make your pitch,1.1650485436893203,0.04384240371744845,103
 I was actually hoping for a belly-itcher...,1.1650485436893203,0.04384240371744845,103,89,11,3
 "This is the third time you've been on strike, Dave.",1.1649484536082475,0.04559743817771682,97,84,10,3
 And you say you call your act 'The Aristocrats'?,1.1649484536082475,0.04559743817771682,97,84,10,3
-The skipper will see you now. And bring your bathroom key.,1.1649484536082475,0.04559743817771682,97,84,10,3
 "Pitch, please.",1.1642857142857144,0.03302295175825108,140,118,21,1
 Sorry. It's a crafty LEFThander we're looking for.,1.1642857142857144,0.03740107099514934,140,121,15,4
 "You made your pitch, Jones. Now pick up your mound and go home. You're fired..!",1.164179104477612,0.03544296195119235,134,114,18,2
@@ -2415,7 +2415,6 @@ That was some sales pitch!,1.1640625,0.03806552536364932,128,110,15,3
 You're dressed for the wrong Bullpen.,1.1640625,0.03806552536364932,128,110,15,3
 "Keep doing what you love, and you’ll never work a day in your life.",1.1640625,0.03641363378114903,128,109,17,2
 What's your pitch,1.1640625,0.03468315483177166,128,108,19,1
-So you think you deserve a big multi-year contract?,1.1640625,0.04117095108613127,128,112,11,5
 "In private equity, throwing a 'beanball' is a transferable skill.",1.1640625,0.03964865341059671,128,111,13,4
 Let's see your wind-up.  Then toss me something I haven't seen yet.,1.1640625,0.032861675748836264,128,107,21,0
 Say Geronimo!,1.1640625,0.03806552536364932,128,110,15,3
@@ -2441,6 +2440,7 @@ Sorry to cut you off—but your pitch clock has already expired.,1.1634615384615
 I thought you made this appointment to talk about IRAs not ERAs.,1.1634615384615385,0.04344778940130916,104,90,11,3
 My advice is still the same—hit the glove with the ball.,1.1634615384615385,0.04344778940130916,104,90,11,3
 Why do think the game has become too much of a business?,1.163265306122449,0.042768385142882594,98,84,12,2
+The skipper will see you now. And bring your bathroom key.,1.163265306122449,0.04516113598498986,98,85,10,3
 I’ll take three sliders and a Coke.,1.163265306122449,0.042768385142882594,98,84,12,2
 Three strikes you… ‘ve got the job!,1.163265306122449,0.040233584627834676,98,83,14,1
 Your résumé pitch is a sinker.,1.1631205673758864,0.03431795055080989,141,120,19,2
@@ -2450,6 +2450,7 @@ Your résumé pitch is a sinker.,1.1631205673758864,0.03431795055080989,141,120,
 We know you”re a team player but some of your off base remarks are a real problem.,1.162962962962963,0.03673731683969508,135,116,16,3
 Please remember no spitting on the carpet.,1.162962962962963,0.03673731683969508,135,116,16,3
 When did you have your Tommy John surgery?,1.1627906976744187,0.03615263198871632,129,110,17,2
+So you think you deserve a big multi-year contract?,1.1627906976744187,0.04087034245923088,129,113,11,5
 What is it you want Wainright and stop shaking me off.,1.1627906976744187,0.039360651185251734,129,112,13,4
 Stop complaining and just throw the damn ball!,1.1627906976744187,0.03263073302419133,129,108,21,0
 Not the kind of pitch we’re looking for,1.1627906976744187,0.03615263198871632,129,110,17,2
@@ -2510,11 +2511,11 @@ You balk at everything. I mean everything.,1.1610169491525424,0.0380045877035980
 "Oh, you finally showed up -- what a relief",1.1610169491525424,0.03800458770359806,118,101,15,2
 "Sir, please do not throw me another curveball. I have rescheduled this meeting nine times.",1.1610169491525424,0.03986493745341499,118,102,13,3
 You have 20 seconds to give me your pitch.,1.1610169491525424,0.03397969368949714,118,99,19,0
-I can see through you. Don't try to fool me!,1.1610169491525424,0.03800458770359806,118,101,15,2
 "Bernie, We're sorry but we're going with your kid brother.",1.1610169491525424,0.03986493745341499,118,102,13,3
 "Go ahead and throw another strike, you're not getting a dental plan.",1.1610169491525424,0.041642259662618,118,103,11,4
 who do you have in your March Madness bracket?,1.1610169491525424,0.03800458770359806,118,101,15,2
 "I have a meeting in five minutes, how am I supposed to prepare when you keep throwing me these curve balls!",1.1607142857142858,0.03920372865562365,112,96,14,2
+...And what do you to have to pitch me today?,1.1607142857142858,0.037095244703716494,112,95,16,1
 What do you know about pitching?  You wouldn’t know a mound if you were standing on it!,1.1607142857142858,0.04311244208177135,112,98,10,4
 This is the third time you've been late this week. Put on a glove and get in the game!,1.1607142857142858,0.041204459726817536,112,97,12,3
 "You understand ""lowball,"" right? That's my offer.",1.1607142857142858,0.037095244703716494,112,95,16,1
@@ -2625,6 +2626,7 @@ I hear you’re looking for a position in management.,1.1578947368421053,0.03824
 "Unfortunately, the boss had to run home. Hopefully, he can touch base with you tomorrow about your pitch.",1.1578947368421053,0.040478076611364294,95,81,13,1
 This isn’t what I meant when I said I look forward to your pitch.,1.1574803149606299,0.03609690752623545,127,109,16,2
 Is that the best pitch you’ve got?,1.1574803149606299,0.03432203892551712,127,108,18,1
+"Better wind up, Mr. Johnson. These days, you only get 15 seconds to deliver your pitch.",1.1574803149606299,0.032450238505315046,127,107,20,0
 I don't think you're right for the Belly Itcher position.,1.1574803149606299,0.03609690752623545,127,109,16,2
 "Go ahead, pitch your idea.",1.1574074074074074,0.035207039905179684,108,91,17,0
 "Here, at the studio, we don't boast about 'no hits.'",1.1574074074074074,0.03982054986990179,108,93,13,2
@@ -2697,7 +2699,6 @@ How are you at being a team player?,1.1551724137931034,0.0359147922899005,116,99
 "Here at this company's, pitch has a different meaning",1.1551724137931034,0.041709080757917384,116,102,10,4
 Just hear my pitch.,1.1550387596899225,0.035576666183499646,129,111,16,2
 "I know this is a pitch meeting, but this is a bit on the nose, isn't it?",1.1550387596899225,0.035576666183499646,129,111,16,2
-"Sorry, but you’re mistaken. I didn’t build   anything.",1.1550387596899225,0.0338315702521242,129,110,18,1
 "I'd tell you, but the desk blocks my hand.",1.1550387596899225,0.037240075291813245,129,112,14,3
 "Sorry kid, I’m sending in the southpaw. Your VR glasses are officially deactivated.",1.1550387596899225,0.035576666183499646,129,111,16,2
 """Your image alone is worth giving you 35 million.",1.1546391752577319,0.04478903916748139,97,85,9,3
@@ -2726,6 +2727,7 @@ Juuust a bit outside...,1.1544715447154472,0.03656685005417629,123,106,15,2
 Be reminded that spit balls are illegal.,1.1544117647058822,0.03597184276266145,136,118,15,3
 "Why do they call you ""Slugger?""",1.1544117647058822,0.03597184276266145,136,118,15,3
 I'm afraid I only 'listen' to pitches.,1.1538461538461537,0.033499551565822544,117,99,18,0
+"Sorry, but you’re mistaken. I didn’t build   anything.",1.1538461538461537,0.0335914960373492,130,111,18,1
 You brought your own mound? Seriously?,1.1538461538461537,0.04270806550383293,104,91,10,3
 Aren't you supposed to be in an elevator?,1.1538461538461537,0.03955131608549081,117,102,12,3
 How can we negotiate when you’re not even in the ballpark?,1.1538461538461537,0.04270806550383293,104,91,10,3
@@ -2744,7 +2746,6 @@ Show me the stance you’d take when you’re pitching to a customer but another
 "Uh, James,I did say you could pitch me your idea over lunch, but...",1.153225806451613,0.03443819619684101,124,106,17,1
 "Go ahead, pitch your proposal.",1.153225806451613,0.03443819619684101,124,106,17,1
 "Analytics show in-game pitch clock data is unreliable.""",1.153225806451613,0.03443819619684101,124,106,17,1
-...And what do you to have to pitch me today?,1.1531531531531531,0.03664513893725978,111,95,15,1
 "You know you're supposed to be pitching an idea,right?",1.1531531531531531,0.04087134124703275,111,97,11,3
 I said give me your elevator pitch.,1.1531531531531531,0.03881580053961578,111,96,13,2
 The clock is ticking. Show me your stuff or you’re out!,1.1531531531531531,0.03433753112748365,111,94,17,0
@@ -2816,7 +2817,6 @@ Typical of Manfred to send you here!,1.150943396226415,0.03974865513372201,106,9
 There's more to this game than just being prepared.,1.150943396226415,0.03742006234124155,106,91,14,1
 You have ten minutes to deliver your pitch,1.150943396226415,0.04194818356325725,106,93,10,3
 Go Ahead.  Give me your best pitch.,1.1507936507936507,0.03914557335546761,126,111,11,4
-"Better wind up, Mr. Johnson. These days, you only get 15 seconds to deliver your pitch.",1.1507936507936507,0.03200686497287399,126,107,19,0
 Spitball me some ideas.,1.1507936507936507,0.03748855540487215,126,110,13,3
 It's a whole new ball game up here,1.1507936507936507,0.03200686497287399,126,107,19,0
 Have your interpreter enter his banking information here,1.1507936507936507,0.03914557335546761,126,111,11,4
@@ -2928,6 +2928,7 @@ This is not what Ira expected by “Work from Home”,1.1470588235294117,0.03789
 "Excellent!  Now, you tell me that your shoulder is getting sore, and you could really use a massage.",1.1470588235294117,0.04703819194404342,102,92,5,5
 "I wasn’t expecting a pitch at this juncture, son.",1.1470588235294117,0.0352406895156745,102,87,15,0
 As we're all out of our regular water jugs we'll be hiring you as our relief pitcher.,1.1470588235294117,0.03789516141019947,102,88,13,1
+This is not what I had in mind when I asked to receive your pitch.,1.146788990825688,0.036462894235514604,109,94,14,1
 When I said give me your best pitch I had something different in mind.,1.146788990825688,0.036462894235514604,109,94,14,1
 "The job description said work AT home, not work from home…",1.146788990825688,0.040857459375802395,109,96,10,3
 This is not the pitch I expected.,1.146788990825688,0.036462894235514604,109,94,14,1
@@ -2971,6 +2972,7 @@ Your Mom called and said don't forget you got a big game tonight.,1.145454545454
 "You’ve got 15 seconds to convince me, 20 if you go from the stretch.",1.1454545454545455,0.03615452803788169,110,95,14,1
 I asked for your SALES pitch.,1.1454545454545455,0.03615452803788169,110,95,14,1
 "You need to speed this pitch up, you know the rules.",1.1454545454545455,0.04050631111848656,110,97,10,3
+All these sports metaphors are great— but how are they going to help us make enough widgets this quarter to meet demand?,1.1454545454545455,0.0383921289984653,110,96,12,2
 "Do I have to remind you again that you must stand 60' 6"" away from me?",1.1454545454545455,0.0383921289984653,110,96,12,2
 "You take your sales job quite literally, don’t you, Duckworth?",1.1454545454545455,0.03615452803788169,110,95,14,1
 "As your new stats manager,  I needed to experience the whole pitcher.",1.1452991452991452,0.03489903179771764,117,101,15,1
@@ -3087,7 +3089,6 @@ You can’t avoid HR forever.,1.1415094339622642,0.03894078081719513,106,93,11,2
 You've got 15 minutes to give me your best pitch.,1.1415094339622642,0.03401463467418856,106,91,15,0
 "Frank, You've lost command of your sales pitch!",1.1415094339622642,0.036560769840577365,106,92,13,1
 It says here you want to be a catcher ? Is that right ?,1.1415094339622642,0.04331020029146891,106,95,7,4
-"Not a good start for your first post-retirement day, Nelson.",1.1415094339622642,0.03894078081719513,106,93,11,2
 "Chat GPT says inside fastbal, but Gemini is all about your slider",1.1415094339622642,0.036560769840577365,106,92,13,1
 "Lewis, is this another obscure baseball reference?",1.1415094339622642,0.03401463467418856,106,91,15,0
 "Well, Sir…your portable mound is an interesting idea, but here at the Acme Mound Company, we do all our design work in-house. Pass.",1.1415094339622642,0.03894078081719513,106,93,11,2
@@ -3130,6 +3131,7 @@ I have to say I’m intrigued by your sales pitch!,1.1401869158878504,0.03624160
 So give me 20 wins and bat .300 and I will give you the Statue of Liberty,1.1401869158878504,0.03859779567366521,107,94,11,2
 Pour me a glass of water?,1.1401869158878504,0.040818201505225166,107,95,9,3
 O.K. - enough windup already - what’s the sales pitch?,1.1401869158878504,0.03624160713338814,107,93,13,1
+"Not a good start for your first post-retirement day, Nelson.",1.1401869158878504,0.03859779567366521,107,94,11,2
 So you gonna pitch me or what?,1.1401869158878504,0.03859779567366521,107,94,11,2
 I meant relief with our elevator pitch.,1.14,0.04268749491621902,100,89,8,3
 "You apparently took my statement "" Let's buzz that fast ball past the opposition"" too literally.",1.14,0.04268749491621902,100,89,8,3
@@ -3172,7 +3174,6 @@ You're here to pitch your new startup?,1.1391304347826088,0.03468713058885158,11
 I saw you struggling and decided to bring in Henderson on the Synergy account.,1.1391304347826088,0.03468713058885158,115,100,14,1
 This *is* Oracle... Texas.,1.1391304347826088,0.03241360404508149,115,99,16,0
 We actually wanted to hear your sales pitch.,1.1388888888888888,0.03592792420744953,108,94,13,1
-This is not what I had in mind when I asked to receive your pitch.,1.1388888888888888,0.03592792420744953,108,94,13,1
 Make your budget pitch low and inside!,1.1388888888888888,0.03592792420744953,108,94,13,1
 "It's a good pitch, but it could be thrown a lot faster.",1.1388888888888888,0.033432700628696264,108,93,15,0
 "And providing color commentary is my lamp, Vince “Fastball” Edison.",1.1388888888888888,0.03826076324884866,108,95,11,2
@@ -3208,8 +3209,6 @@ This isn't our normal sales pitch but that fast ball has convinced me that we sh
 Go ahead. Make your sales pitch. You got 1.7 seconds.,1.1376146788990826,0.035619582486556875,109,95,13,1
 "Yeah, I got the statue, but I ordered a Babe Ruth and you sent me a Sandy Koufax. Are you trying to West Coast me again, Arnold?",1.1376146788990826,0.04010665764099083,109,97,9,3
 I've had sales pitches with more heat than what you're throwing.,1.1376146788990826,0.035619582486556875,109,95,13,1
-All these sports metaphors are great— but how are they going to help us make enough widgets this quarter to meet demand?,1.1376146788990826,0.037929530999264126,109,96,11,2
-I've heard this pitch before. What's your curve?,1.1376146788990826,0.04010665764099083,109,97,9,3
 ....and merely shaking your head and flicking your glove at me will not change your reassignment to the minors.,1.1376146788990826,0.04010665764099083,109,97,9,3
 "You have it wrong, your pitch needs to be hit out of the park here.",1.1376146788990826,0.035619582486556875,109,95,13,1
 Darryl Strawberry please just put the hour hand back in my clock and leave,1.1376146788990826,0.035619582486556875,109,95,13,1
@@ -3252,6 +3251,7 @@ Don’t balk at this opportunity.,1.1363636363636365,0.03531644797343022,110,96,
 "Thanks, but we've found our pitch person. Please remove the mound.",1.1363636363636365,0.037603951505830215,110,97,11,2
 "You don’t need a translator, I understood your pitch perfectly.",1.1363636363636365,0.03531644797343022,110,96,13,1
 I told you we did not offer work from home opportunities.,1.1363636363636365,0.03185368628143869,132,115,16,1
+I've heard this pitch before. What's your curve?,1.1363636363636365,0.03976006589840688,110,98,9,3
 "Ah, the ghost of Tom Seaver. How can I help?",1.1363636363636365,0.03976006589840688,110,98,9,3
 "Yes, our benefits plan includes health insurance, a 401K and your very own pitchers mound",1.1363636363636365,0.040185756578953784,88,77,10,1
 I heard you need relief so here I am.,1.136,0.034722865943853765,125,110,13,2
@@ -3259,9 +3259,9 @@ I heard you need relief so here I am.,1.136,0.034722865943853765,125,110,13,2
 Our focus here is on the job training,1.136,0.03281227150458078,125,109,15,1
 We removed the hot seat and brought in the clay so you wouldn't feel totally humiliated.,1.136,0.034722865943853765,125,110,13,2
 "I asked for an elevator pitch, not an elevated pitch.",1.1359223300970873,0.04150358801670185,103,92,8,3
-Our diversity hiring team tells me you spent most of your life as an Ambidexterian. Tell me more.,1.1359223300970873,0.039143076133085854,103,91,10,2
 Could you lower the target a little?,1.1359223300970873,0.039143076133085854,103,91,10,2
 "On second thought, I don't think the boss is ready for your pitch.",1.1359223300970873,0.0339329572976101,103,89,14,0
+"I've heard of pitching an idea, but this is too much",1.1359223300970873,0.03663076575859414,103,90,12,1
 Do you consider being a short stop a weakness?,1.1359223300970873,0.039143076133085854,103,91,10,2
 I can give you thirty seconds; make your pitch.,1.1359223300970873,0.039143076133085854,103,91,10,2
 "Sorry, but I'm not buying what you're pitching.",1.1359223300970873,0.03663076575859414,103,90,12,1
@@ -3319,6 +3319,7 @@ But how good are you at spitting chewing tobacco?,1.1349206349206349,0.030557101
 Ma’am; This is not a Wendy’s,1.1349206349206349,0.03625863812249935,126,112,11,3
 "Larson, I'm sending you back to advertising to work on your pitch.",1.1349206349206349,0.034463092019060566,126,111,13,2
 But what's your batting average?,1.1348314606741574,0.04285225120204906,89,79,8,2
+Our diversity hiring team tells me you spent most of your life as an Ambidexterian. Tell me more.,1.1346153846153846,0.03878689866158706,104,92,10,2
 "I replaced the suggestion box with this, the new idea mound. Now don’t hold back and throw me a heater, Dean.”",1.1346153846153846,0.03878689866158706,104,92,10,2
 That’s a hell of a pitch son but you’re not even in the right ballpark.,1.1346153846153846,0.03878689866158706,104,92,10,2
 "Jerry, take off the goggles and get back to work.",1.1346153846153846,0.03878689866158706,104,92,10,2
@@ -3402,6 +3403,7 @@ So... you trust me only as far as you can throw me?,1.1322314049586777,0.0370059
 What say you to Pink Sox?,1.1322314049586777,0.03700597219378201,121,108,10,3
 Stop trying to be cool making a pitch without your slide presentation!,1.1320754716981132,0.040383319878000985,106,95,8,3
 "That pitch is getting a little old, so i’m sending you down to the Omaha office.",1.1320754716981132,0.040383319878000985,106,95,8,3
+They said I could work from home.,1.1320754716981132,0.03304132210456275,106,92,14,0
 If we build what who will come?,1.1320754716981132,0.042550053392282725,106,96,6,4
 Hurry up!  We use a pitch clock now!,1.1320754716981132,0.03565702575558747,106,93,12,1
 You did too balk.,1.1320754716981132,0.03565702575558747,106,93,12,1
@@ -3536,7 +3538,6 @@ Soooooo. I give you 1 more chance to review my time off request for Opening Day.
 What kind of screwball pitch was that....,1.127659574468085,0.037765433825609485,94,83,10,1
 It's deductible as long as it's not next to home.,1.1274509803921569,0.03318224921942079,102,89,13,0
 Sorry but you can't make an elevator pitch here.,1.1274509803921569,0.03318224921942079,102,89,13,0
-"I've heard of pitching an idea, but this is too much",1.1274509803921569,0.03598886944632537,102,90,11,1
 I wanted to hear your pitch; I don't need to see it.,1.1274509803921569,0.038591913463697954,102,91,9,2
 "No sir,  our firm only handles Retirement IRA's.",1.1274509803921569,0.03318224921942079,102,89,13,0
 My name is Al Ka Seltzer I am the new relief pitcher,1.1274509803921569,0.038591913463697954,102,91,9,2
@@ -3608,6 +3609,7 @@ This is not what we meant by front office job.,1.125,0.03615398570158873,112,100
 "These conversations are difficult for everyone, but I'm sure you saw the rookie warming up in the bullpen, and . . .",1.125,0.03987370412567353,96,86,8,2
 "Let me put this in terms you’ll understand: if you throw even one more ball at me, I’m going to strike.",1.125,0.03615398570158873,112,100,10,2
 Down and away,1.125,0.03987370412567353,96,86,8,2
+Ste-riiiike!,1.125,0.037021804859943275,96,85,10,1
 Let's wind this sales pitch up!,1.125,0.03507584582914461,128,115,10,3
 "When I said I needed some relief, I meant in the office.",1.125,0.033931044626914805,96,84,12,0
 HR says you gave them up for the last time.,1.125,0.03615398570158873,112,100,10,2
@@ -3630,6 +3632,7 @@ Your pitch is very... interesting. We will get back to you soon with a call.,1.1
 "If I said I needed the ball to me yesterday, how fast then?",1.125,0.03533553029557649,104,92,11,1
 You must have hit the wrong button.,1.125,0.037885435178386336,104,93,9,2
 "I guess I should have been more specific when I said ""pitch me"".",1.125,0.038314303373359705,112,101,8,3
+This isn't what I had in mind when I asked you to pitch me your ideas.,1.125,0.03385610020713433,112,99,12,1
 "It's an interesting pitch, but I'm shaking it off.",1.125,0.032586702869168815,104,91,13,0
 "It's not bad, Ed, it's just that I had something different in mind when I asked you to pitch me a few ideas for our new ad campaign.",1.125,0.03327586910310427,128,114,12,2
 "Look, naming my mother as your CEO didn't help, this isn't going to either.",1.125,0.037021804859943275,96,85,10,1
@@ -3650,7 +3653,6 @@ Give me your best pitch on why you need a raise.,1.1238095238095238,0.0375417669
 I’ll make you an offer you can’t balk at.,1.1238095238095238,0.03754176696064164,105,94,9,2
 "Let me guess, they sent you here to ""pitch their product"" ... and you are an idiot.",1.1238095238095238,0.03754176696064164,105,94,9,2
 "That’s a pretty good pitch, but I want to hear something that’s going to improve our bottom line.",1.1238095238095238,0.035017625324641026,105,93,11,1
-They said I could work from home.,1.1238095238095238,0.032296809443453665,105,92,13,0
 You're hired if you can get a fast one by the IRS.,1.1238095238095238,0.035017625324641026,105,93,11,1
 I  hear the boss likes to play a mean hard ball!,1.1238095238095238,0.032296809443453665,105,92,13,0
 I actually see you standing on a pile of my money.,1.1238095238095238,0.035017625324641026,105,93,11,1
@@ -3690,7 +3692,6 @@ Testing,1.1226415094339623,0.037204252016892224,106,95,9,2
 All the bases?? I’m going to have to report your team to HR!,1.1226415094339623,0.037204252016892224,106,95,9,2
 "I'm sorry, but we only want team players here.",1.1226415094339623,0.03470535763854435,106,94,11,1
 "oK, I am ready for the sales pitch. No curve balls.",1.1226415094339623,0.03201198727823856,106,93,13,0
-You're late for your pitch meeting.,1.1226415094339623,0.03470535763854435,106,94,11,1
 It’s not that kind of pitch meeting.,1.1226415094339623,0.037204252016892224,106,95,9,2
 "Hey Boss! What’s the count, cause I’m pretty sure I have no balls.",1.1226415094339623,0.03954555458523233,106,96,7,3
 When I asked your team to hit a home run on this project I didn’t mean it literally.,1.1224489795918366,0.03328341697069122,98,86,12,0
@@ -3710,7 +3711,6 @@ I said you struck out WITH all the women in the office Bill.,1.1224489795918366,
 "When I said pitch, I meant ""marketing pit """,1.1221374045801527,0.03430871000647974,131,118,10,3
 Who's going to sing the national anthem?,1.1219512195121952,0.031795875876157974,123,109,13,1
 "OK, I'm glad you're not here to pitch gold bullion.",1.1219512195121952,0.03382687901738569,123,110,11,2
-"No, the three strikes and you’re out rule does not apply to me.",1.1219512195121952,0.02962596329922862,123,108,15,0
 "Yes, I know I asked entrepreneurs to pitch me their ideas, but …",1.1219512195121952,0.0357426603008457,123,111,9,3
 I was amazed by your pitch earlier.,1.1219512195121952,0.03382687901738569,123,110,11,2
 "After this, you may want to give me your best spit-ball.",1.1217391304347826,0.030624883036764215,115,101,14,0
@@ -3720,7 +3720,6 @@ There's one thing in the office you don't want to hit if you want the job,1.1217
 "Nice pitch, but you seem a little dodgy...",1.1217391304347826,0.030624883036764215,115,101,14,0
 Sixty seconds. Go!,1.1217391304347826,0.030624883036764215,115,101,14,0
 "Della, hold my calls after you bring in the new pitcher from the bullpen.",1.1217391304347826,0.03302179223349648,115,102,12,1
-"Not exactly what I mean when I said, 'Try not to throw me any curveballs before the presentation.'",1.1217391304347826,0.03302179223349648,115,102,12,1
 I’m going to finally make my dad proud and score a home run with this interview,1.1217391304347826,0.030624883036764215,115,101,14,0
 Now pretend I'm the catcher and we'll measure your fastball.,1.1217391304347826,0.03302179223349648,115,102,12,1
 I'm ready for best pitch!,1.1217391304347826,0.030624883036764215,115,101,14,0
@@ -3731,6 +3730,7 @@ You’ve got five minutes to hit him with your best pitch.”,1.1214953271028036
 "When I called for a meeting on the mound, I didn't mean it literally",1.1214953271028036,0.034398579580705475,107,95,11,1
 Just don’t break my -$250 computer. I am in credit card debt.,1.1214953271028036,0.03173210572771636,107,94,13,0
 "OK, now let's see what you can do with almond joy.",1.1214953271028036,0.03687272732556252,107,96,9,2
+You're late for your pitch meeting.,1.1214953271028036,0.034398579580705475,107,95,11,1
 "I’m not sure why you were hired, to succeed in this company you need balls.",1.1214953271028036,0.03687272732556252,107,96,9,2
 My firm is called Take Me Outplacement.,1.1214953271028036,0.03687272732556252,107,96,9,2
 "Hey, batter batter? Is this a cookbook?",1.1214953271028036,0.03687272732556252,107,96,9,2
@@ -3742,6 +3742,7 @@ This isn’t what I meant by stock pitch,1.121212121212121,0.035959410661983056,
 Sorry but your skills just don't match any of our current openings.,1.121212121212121,0.038719791818178216,99,89,8,2
 I had only agreed to hear your pitch,1.121212121212121,0.038719791818178216,99,89,8,2
 I don't think you've really grasped the concept of a pitch meeting.,1.121212121212121,0.038719791818178216,99,89,8,2
+"No, the three strikes and you’re out rule does not apply to me.",1.1209677419354838,0.029402525657030033,124,109,15,0
 Better make it high and outside,1.1209677419354838,0.03356738300992959,124,111,11,2
 "Unlike your last position as relief pitcher, this company requires you put in a full shift each day. Can you handle such a schedule?",1.1209677419354838,0.029402525657030033,124,109,15,0
 "When you realize the ""E"" on the eye chart stand for Exit",1.120879120879121,0.03436202021848665,91,80,11,0
@@ -3753,6 +3754,7 @@ Before your sent down it's not you it's your fastball.,1.1206896551724137,0.0327
 "Normally I do this riding in an elevator, but I'll grant you two minutes by the clock to pitch your idea to me.",1.1206896551724137,0.03275270206139953,116,103,12,1
 You have a good elevator pitch but I'm balking.,1.1206896551724137,0.0303778612618062,116,102,14,0
 "I want to hear it, not see it",1.1206896551724137,0.034966620222779105,116,104,10,2
+"Not exactly what I mean when I said, 'Try not to throw me any curveballs before the presentation.'",1.1206896551724137,0.03275270206139953,116,103,12,1
 "Jesús, Sermon on the Mount, not Player on the Mount.",1.1206896551724137,0.0303778612618062,116,102,14,0
 "I never realised ‘If you build it, he will come’ applied to office buildings.",1.1206896551724137,0.034966620222779105,116,104,10,2
 Most people pitch to me in jeans.,1.1206896551724137,0.034966620222779105,116,104,10,2
@@ -3774,7 +3776,6 @@ I can’t use a guy who walks in and unleashes a screwball elevator pitch.,1.12,
 I think you focused a bit too much on the “casual” part of “business casual.”,1.12,0.0356186309210063,100,89,10,1
 "No, Taylor; this isn't home plate. It's my home away from home.",1.12,0.0356186309210063,100,89,10,1
 "In the right setting, analytics can measure heart.",1.12,0.03834979883528814,100,90,8,2
-I wouldn't bet on it.,1.12,0.0356186309210063,100,89,10,1
 Don't balk at this next idea I have . . .,1.12,0.04089898865164358,100,91,6,3
 That's not what I meant by saying let's spitball some ideas.,1.12,0.0356186309210063,100,89,10,1
 "I want to hear your pitch for the project, not see you pitch!",1.12,0.0356186309210063,100,89,10,1
@@ -3812,7 +3813,9 @@ I'm afraid your pitch was a bit of a curve ball.,1.118811881188119,0.03235670225
 "I said give me your ‘elevator’ pitch, not ‘escalator’ pitch!",1.118811881188119,0.037986784343071005,101,91,8,2
 "The pitch clock is enough to send you to therapy, huh?",1.118811881188119,0.032356702254194396,101,89,12,0
 Hope you can pitch some new ideas at our next board meeting,1.118811881188119,0.03528421719050582,101,90,10,1
+I wouldn't bet on it.,1.118811881188119,0.03528421719050582,101,90,10,1
 "Sure,you can slow-pitch your idea.",1.118811881188119,0.032356702254194396,101,89,12,0
+"Because of your past work, your job here will be to pitch our product starting on Opening Day.",1.118811881188119,0.03528421719050582,101,90,10,1
 I'm afraid we've thrown out your first pitch.,1.118811881188119,0.03528421719050582,101,90,10,1
 This is not what I had in mind when I agreed to see your “pitch”,1.118811881188119,0.037986784343071005,101,91,8,2
 I said sell short not short stop,1.118811881188119,0.03528421719050582,101,90,10,1
@@ -3867,9 +3870,7 @@ Would you like to see my impression of Jeremy Irons doing his impression of Clau
 I'm calling in a pitch-hitter.,1.117117117117117,0.0356034643400341,111,100,9,2
 Did you like my pitch to go back remote?  The big boss doesn't wanna lose this real estate.,1.117117117117117,0.0332235836298843,111,99,11,1
 "SALES pitch, Andersen. We were expecting a SALES pitch.”",1.117117117117117,0.0332235836298843,111,99,11,1
-"As you know, we have been revisiting all the rules to make this game more fun...",1.117117117117117,0.037833937632927445,111,101,7,3
 You’re the last person I expected to accuse me of moving the goalposts.,1.117117117117117,0.0332235836298843,111,99,11,1
-This isn't what I had in mind when I asked you to pitch me your ideas.,1.117117117117117,0.0332235836298843,111,99,11,1
 I said mount a defence.  Not shovel dirt into my office.,1.117117117117117,0.0332235836298843,111,99,11,1
 You've got one minute...,1.117117117117117,0.03065952291559267,111,98,13,0
 and replace the carpet on your way out,1.117117117117117,0.0332235836298843,111,99,11,1
@@ -3906,12 +3907,12 @@ I'll show you a curve. Watch me restructure these debentures!,1.1160714285714286
 I'll have steve relieve you for the rest of the day.,1.1160714285714286,0.03529963603353464,112,101,9,2
 You would be wise to take your mound and get out of here before our fierce cleaning lady arrives.,1.1160714285714286,0.03294220914305621,112,100,11,1
 "I meant, ""Give me your best ""Sales"" pitch"".",1.1160714285714286,0.03294220914305621,112,100,11,1
+"As you know, we have been revisiting all the rules to make this game more fun...",1.1160714285714286,0.03750919173982796,112,102,7,3
 "Okay, now let's see your four-seam knuckle-slurve splitter-cutter slider- forkball.",1.1160714285714286,0.03040253249894975,112,99,13,0
 I built it and they did come. They are just invisible. Now show me what you got and strike out Babe Ruth.,1.1160714285714286,0.03750919173982796,112,102,7,3
 "No, there is no overtime if you exceed the pitch clock.",1.1160714285714286,0.03294220914305621,112,100,11,1
 Talk about the outfield!,1.1160714285714286,0.03294220914305621,112,100,11,1
 Coffee's for closers!,1.1157894736842104,0.03623723591084758,95,85,9,1
-Ste-riiiike!,1.1157894736842104,0.03623723591084758,95,85,9,1
 "You act as if you are determined to hit me with a ball, sir",1.1157894736842104,0.033002622634041356,95,84,11,0
 "Ok, pitch me some ideas",1.1157894736842104,0.03623723591084758,95,85,9,1
 "When I said pitch to the clients, I meant our investment portfolio.",1.1157894736842104,0.033002622634041356,95,84,11,0
@@ -3969,7 +3970,6 @@ It's come to my attention that you are out standing in your field.,1.11428571428
 "Ok, let's see your Sales Pitch!  I don't want any curveballs either.",1.1142857142857143,0.03660072086973421,105,95,8,2
 "Sorry, no openings here.",1.1142857142857143,0.031197955091381086,105,93,12,0
 "SO, WHAT'S YOUR BEEF, IS THE MOUND NOW TOO HIGH!?",1.1142857142857143,0.031197955091381086,105,93,12,0
-"Three strikes, you're fired!",1.1142857142857143,0.03400680204068024,105,94,10,1
 Sorry but the job description did specifically say we wanted a left-handed pitch.,1.1142857142857143,0.03660072086973421,105,95,8,2
 I feel like it's always the same old pitch.,1.1142857142857143,0.031197955091381086,105,93,12,0
 Sorry; three Tommy Johns and you're out!,1.1142857142857143,0.031197955091381086,105,93,12,0
@@ -4007,6 +4007,7 @@ The pitching clock is about to start.,1.1132075471698113,0.03370170590028939,106
 "In your case, we'll be delivering the release.",1.1132075471698113,0.036269815272575646,106,96,8,2
 "I'm sorry but it's not time for the national pastime, it's 12 PM",1.1132075471698113,0.03092103590231802,106,94,12,0
 "When I said that you can pitch your idea to me,  I didn't mean it literally"" Jeffrey Manly Toronto, On",1.1132075471698113,0.03866773873947017,106,97,6,3
+"Three strikes, you're fired!",1.1132075471698113,0.03370170590028939,106,95,10,1
 "No, I'll give you the wind-up.",1.1132075471698113,0.03092103590231802,106,94,12,0
 Billy Beane is my hero.,1.1132075471698113,0.03092103590231802,106,94,12,0
 "If I like your elevator pitch, I’ll give you $700 million.",1.1132075471698113,0.03370170590028939,106,95,10,1
@@ -4065,6 +4066,7 @@ You've got 30 seconds to make your pitch. Go!,1.1111111111111112,0.0316036130072
 "So, you said you had an idea you wanted to pitch to me?",1.1111111111111112,0.03484183684747369,99,89,9,1
 There's a time and a place for proving you don't need Tommy John surgery,1.1111111111111112,0.03331251951092717,90,80,10,0
 I see your ready to pitch me some ideas on the Ferguson account.,1.1111111111111112,0.030381596756651686,108,96,12,0
+Alright-What's YOUR sales pitch?,1.1111111111111112,0.03768416986205077,99,90,7,2
 It's high noon at the OK Corral. You are facing a notorious murderers' row of outlaws. What've you got?,1.1111111111111112,0.04032666266228605,99,91,5,3
 Playing hardball won't work with me,1.1111111111111112,0.036870202688664894,90,81,8,1
 "Yeah, I know, but still... Mr. Harriman doesn't want to hear your pitch.",1.1111111111111112,0.03174603174603174,99,88,11,0
@@ -4113,7 +4115,6 @@ This is not what I meant when I said I'd be interested in your pitch.,1.11,0.034
 "Max, your pitch needs to comply with only three rules:   1) No curve balls 2) No saliva 3) Don’t exceed the pitch clock!",1.11,0.03450955072018598,100,90,9,1
 Wow. Did you make that yourself or did you have some wildlife help.,1.11,0.037321967966993524,100,91,7,2
 "You've sold me. I'd like to have my pen back now, please.",1.11,0.037321967966993524,100,91,7,2
-"Because of your past work, your job here will be to pitch our product starting on Opening Day.",1.11,0.03450955072018598,100,90,9,1
 "'O.K., you've got 15 seconds to tell me why I should hire you...15,  14, 13....""",1.11,0.039936818788550155,100,92,5,3
 That was not a curveball question.,1.11,0.03144660377352198,100,89,11,0
 Adult Charlie Brown. Still trying to get an out!,1.11,0.037321967966993524,100,91,7,2
@@ -4171,7 +4172,6 @@ Which part of ‘remain standing’ is not making sense to you?,1.10810810810810
 So….How fast are going to pitch me that idea you have?,1.107843137254902,0.033863564072244695,102,92,9,1
 "An 8 inch mound? Wow, size really does matter.",1.107843137254902,0.03661800148069146,102,93,7,2
 "Yes, I know who's on first this season and it's not you.",1.107843137254902,0.03661800148069146,102,93,7,2
-"Other than your revealing clothing, I think you hit this interview out of the park!",1.107843137254902,0.03661800148069146,102,93,7,2
 Show me your sales pitch.,1.107843137254902,0.039179268666028236,102,94,5,3
 This pitch meeting for your baseball script just took a strange turn.,1.107843137254902,0.030864282122060153,102,91,11,0
 … and after launching the ball all I see is an explosion of feathers.  Meant to hit the batter not the innocent little dove.,1.107843137254902,0.030864282122060153,102,91,11,0
@@ -4207,6 +4207,7 @@ Let's see what you've got and maybe you'll fit under the cap!,1.1067961165048543
 I don't think he likes my pitch.,1.1067961165048543,0.030581088928331335,103,92,11,0
 The field? That was sent with the US Postal Service,1.1067961165048543,0.03627585723648214,103,94,7,2
 You can be the new right-hand man as long as you don't throw any curveballs.,1.1067961165048543,0.03354952174237468,103,93,9,1
+"Other than your revealing clothing, I think you hit this interview out of the park!",1.1067961165048543,0.03627585723648214,103,94,7,2
 "Our weekly ""Touch-Base"" meetings are on Zoom, not on the mound.",1.1067961165048543,0.030581088928331335,103,92,11,0
 "Looks like the boss is taking ""pitching ideas"" to a whole new level!",1.1067961165048543,0.030581088928331335,103,92,11,0
 So are you gonna pitch me an idea or what?,1.1067961165048543,0.030581088928331335,103,92,11,0
@@ -4322,7 +4323,6 @@ I wouldn’t touch you with a 60 foot 6 inch pole,1.1022727272727273,0.036284363
 I get it. It's a pitch.,1.1020408163265305,0.030734729362213643,98,88,10,0
 You throw another brushback fastball at me and you’re outta here.,1.1020408163265305,0.03398554140650584,98,89,8,1
 "Sorry, apparently you have no concept of 60 feet, 6 inches.  And 'no' it's not a racial thing.",1.1020408163265305,0.03398554140650584,98,89,8,1
-Alright-What's YOUR sales pitch?,1.1020408163265305,0.03695146086987804,98,90,6,2
 A lot of your coworkers are saying you've lost your fastball.,1.1020408163265305,0.03398554140650584,98,89,8,1
 "Give me your best pitch, why should I hire you?",1.1020408163265305,0.030734729362213643,98,88,10,0
 "To think, the one time I *DID* want a belly-itcher...",1.1020408163265305,0.03695146086987804,98,90,6,2
@@ -4340,7 +4340,6 @@ Now I'm gonna throw you a curveball.,1.1018518518518519,0.02923927267563271,108,
 Today you were also supposed show slides.,1.1018518518518519,0.034656537617835145,108,99,7,2
 "I worked really hard on my elevator pitch, but I just couldn't seem to get it right.",1.1018518518518519,0.02923927267563271,108,97,11,0
 You misunderstood.  I was curious about your elevator pitch.,1.1018518518518519,0.02923927267563271,108,97,11,0
-Now show me you mean business!,1.1018518518518519,0.034656537617835145,108,99,7,2
 You may share your idea when the pitch clock strikes 12.,1.1018518518518519,0.032062522251504355,108,98,9,1
 "I am sorry, but we can’t have you throwing your team any more curveballs.",1.101123595505618,0.03589275757061102,89,81,7,1
 "I meant a water pitcher because I am  thirsty , not  a baseball pitcher",1.101123595505618,0.03213918840153681,89,80,9,0
@@ -4362,13 +4361,13 @@ End of the 9th and you’re still lowballing?,1.101010101010101,0.03659082924417
 "A word to the wise.  Regardless of how good your product or service is, I am unlikely to be receptive to your pitch.",1.1009174311926606,0.031780748762731674,109,99,9,1
 A meeting with the commissioner.,1.1009174311926606,0.031780748762731674,109,99,9,1
 "You may be the closer, but I'm the one closing this deal.",1.1009174311926606,0.028984846499720524,109,98,11,0
+Now show me you mean business!,1.1009174311926606,0.034349827615686515,109,100,7,2
 Can't you give me just a elevator pitch?,1.1009174311926606,0.028984846499720524,109,98,11,0
 "Henry, have you gone baseball - oops postal - on me?",1.1009174311926606,0.031780748762731674,109,99,9,1
 I didn't quite hear the pitch.,1.1009174311926606,0.028984846499720524,109,98,11,0
 What I said is that we should have a meeting of the MINDS,1.1009174311926606,0.031780748762731674,109,99,9,1
 "When corporate agreed to allow standing desks and loosen up the dress code, you know darn well this isn’t what they had in mind.",1.1009174311926606,0.034349827615686515,109,100,7,2
 AI is recommending a fast curveball and for me to get under the table.,1.1008403361344539,0.030180008737379478,119,108,10,1
-I have a right arm. You have a left arm. I have vast mental powers. You are physically gifted. It is straight up midnight. You seem to be somewhat less than enthusiastic. I am motivated and ready to act......I seem to have lost my train of thought.,1.1008403361344539,0.030180008737379478,119,108,10,1
 "Loving the pitch--small town boy overcomes arm falling asleep--not digging that fast ball that outed my secretary.""",1.1008403361344539,0.030180008737379478,119,108,10,1
 Finally I can watch the matinee games.,1.1008403361344539,0.030180008737379478,119,108,10,1
 This isn’t the seventh inning stretch and you no longer work here.,1.1008403361344539,0.030180008737379478,119,108,10,1
@@ -4376,6 +4375,7 @@ This ChatGPT pitch visualization program is out of hand.,1.1007751937984496,0.03
 "So on your resume here, did you understate your base on balls or overtate your strikeouts?",1.1,0.031799936400190756,90,81,9,0
 "So, when are you making the pich?",1.1,0.03150386872730587,110,100,9,1
 I've got a roomful of applicants on deck. You've got twenty seconds to make your pitch.,1.1,0.02873478855663451,110,99,11,0
+I have a right arm. You have a left arm. I have vast mental powers. You are physically gifted. It is straight up midnight. You seem to be somewhat less than enthusiastic. I am motivated and ready to act......I seem to have lost my train of thought.,1.1,0.02993924754260477,120,109,10,1
 "Yes, the pitch is about to be served, yet do realize, this interview just as much  resides, on your ability…to catch…",1.1,0.03333333333333329,100,91,8,1
 "Yes, I’ve heard your elevator pitch.",1.1,0.03150386872730587,110,100,9,1
 "Some pitch, but no, we've had it with baseball books.",1.1,0.03150386872730587,110,100,9,1
@@ -4415,7 +4415,6 @@ Perhaps we should continue this in the elevator?,1.0990990990990992,0.0312317562
 "We’re thinking of getting a “no balking” sign, but we are unsure if it will be effective.",1.0990990990990992,0.028488987929444824,111,100,11,0
 "Look, Ryan, you are a really good pitchman. You don't need the outfit.",1.099009900990099,0.033016499010956525,101,92,8,1
 "I don’t know how things worked at your last job, but you don’t want another strike here.",1.099009900990099,0.033016499010956525,101,92,8,1
-"Okay, that's in order, now let's hear your pitch.",1.099009900990099,0.029867530948511554,101,91,10,0
 Gimme a fast ball on why I should hire you and a curve ball on something no one knows about you.,1.099009900990099,0.033016499010956525,101,92,8,1
 "That was some windup, now give me your business pitch.",1.099009900990099,0.029867530948511554,101,91,10,0
 I see you've been working on your pitch.  Now send in the next startup.,1.099009900990099,0.029867530948511554,101,91,10,0
@@ -4442,6 +4441,7 @@ This is an oral examination for your doctorate in obstetrics. Why would I want t
 the proposal is unusual but I think  we can have you pitch it to the board,1.0980392156862746,0.03270561326017676,102,93,8,1
 Why can't you just make a pitch like evrryone else ???,1.0980392156862746,0.029589188531613197,102,92,10,0
 "OK, you’ve got 20 seconds to make your sales pitch.",1.0980392156862746,0.029589188531613197,102,92,10,0
+"Okay, that's in order, now let's hear your pitch.",1.0980392156862746,0.029589188531613197,102,92,10,0
 "We  are seeking a right hand pitcher, but I only do interviews at 60 feet six inches. So take your mound move it!",1.0980392156862746,0.029589188531613197,102,92,10,0
 I specifically asked for a belly itcher,1.0980392156862746,0.03270561326017676,102,93,8,1
 "Okay son, you’ve got twenty minutes to make your best pitch.",1.0980392156862746,0.03270561326017676,102,93,8,1
@@ -4691,7 +4691,6 @@ You don’t have nine innings…you’ve got nine minutes to make you pitch.,1.0
 I had mounding concerns once this pitch left the elevator.,1.087719298245614,0.029384313829045588,114,105,8,1
 You’d better have a really good deck or you’re going down to Single-A without a Series A.,1.087719298245614,0.029384313829045588,114,105,8,1
 Dugout interview. “Now pitch me a split finger fastball.”,1.087719298245614,0.026611698631971225,114,104,10,0
-Don’t you dare pitch a strike at me.,1.087378640776699,0.03409596683771113,103,96,5,2
 "I understand your struggles with attachment, but until you let go of baseball, you’re not getting this job.",1.087378640776699,0.03117960143264719,103,95,7,1
 Are you going to do this from the stretch since Lenny is sitting behind you?,1.087378640776699,0.03117960143264719,103,95,7,1
 Even the pitcher can hit her home run.,1.087378640776699,0.03117960143264719,103,95,7,1
@@ -4714,6 +4713,7 @@ No ball.  It’s all about the look.,1.0869565217391304,0.033337141531704445,92,
 "With Excel skills like yours, we’re excited to offer you the position and overlook you being right-handed.",1.0869565217391304,0.029537661760293828,92,84,8,0
 No curveballs.,1.0869565217391304,0.029537661760293828,92,84,8,0
 "Alright, they’re ready for your pitch",1.0869565217391304,0.02913766318550928,115,106,8,1
+Don’t you dare pitch a strike at me.,1.0865384615384615,0.033776980538764594,104,97,5,2
 And just exactly what sign were your expecting?,1.0865384615384615,0.030889770425336166,104,96,7,1
 "You've got 15 seconds to convince me...go!""",1.0865384615384615,0.027703274527460894,104,95,9,0
 "'Should I catch your death notes, son?' The deceased boss asked.",1.0865384615384615,0.030889770425336166,104,96,7,1
@@ -4788,7 +4788,6 @@ It would have helped if you set this up in his office.,1.0833333333333333,0.0297
 "I said I wanted a PICTURE AROUND by noon for our case, not a pitcher on a mound!",1.0833333333333333,0.026719185044249957,108,99,9,0
 "I'd like to hear your pitch but, unfortunately, my shift just ended.",1.0833333333333333,0.03033723881473521,84,77,7,0
 This is not what I meant by ‘give me your best pitch’.,1.0825688073394495,0.02648395730227641,109,100,9,0
-"No, let *me* just spitball this for once.",1.0825688073394495,0.03226746542577862,109,102,5,2
 "You were a bum pitching from home, but now that you're back in the office you might be pretty good.",1.0825688073394495,0.02951770078607596,109,101,7,1
 It’s bad enough that you’re stealing your coworker’s parking spaces.,1.0824742268041236,0.02807583271197284,97,89,8,0
 "Your last 2 ideas were a curveball , followed by a screwball , now throw me a fastball  or you’re fired.",1.0824742268041236,0.02807583271197284,97,89,8,0
@@ -4805,6 +4804,7 @@ Our new policy is that you only get two strikes.,1.0824742268041236,0.0280758327
 Your investments are underwater!  It's lunchtime. Come back at 1 and we'll work on your knuckleball!  It's the only thing that will SAVE you now!,1.0823529411764705,0.02999423243289876,85,78,7,0
 Give me your best pitch for the open position,1.0818181818181818,0.02925775755734027,110,102,7,1
 "I hope this isn't out of left field, but your numbers have not been great this quarter.",1.0818181818181818,0.02925775755734027,110,102,7,1
+"No, let *me* just spitball this for once.",1.0818181818181818,0.03198158921437346,110,103,5,2
 I’ll take your pitch right after lunch.,1.0818181818181818,0.02925775755734027,110,102,7,1
 "HR has asked me to clarify what we mean by ""pitch deck"".",1.0816326530612246,0.031357092997350636,98,91,6,1
 "Give me a ""Go"" sign, i'll start throwing",1.0816326530612246,0.031357092997350636,98,91,6,1
@@ -4852,7 +4852,6 @@ Not what I meant when I said “pitch me”,1.0795454545454546,0.029010100343071
 I've heard you've got a mean off-speed movie pitch Bucky. Let's hear it.,1.0795454545454546,0.02901010034307146,88,81,7,0
 "Ok, now go to the stand and hit me with your best pitch",1.0792079207920793,0.03354668187346023,101,95,4,2
 What a relief it is to have you walk out of here.,1.0792079207920793,0.03045258712718752,101,94,6,1
-"Our ad said we need a ""Closer"" for real estate.",1.0792079207920793,0.027006300390071,101,93,8,0
 You’re the first person to take a pitch meeting this literally.,1.0792079207920793,0.027006300390071,101,93,8,0
 I’m sorry Buck but you’ve been caught napping one too many times.,1.0792079207920793,0.03045258712718752,101,94,6,1
 "Go away, Harris.  Maybe Shark Tank will take you.",1.0789473684210527,0.025367159007467045,114,105,9,0
@@ -4863,6 +4862,7 @@ I’m sorry Buck but you’ve been caught napping one too many times.,1.07920792
 Well you said you wanted to pitch an idea to me….so go ahead!,1.0784313725490196,0.026751495257385263,102,94,8,0
 "Count me as one on, you have 20 seconds to make your pitch.",1.0784313725490196,0.026751495257385263,102,94,8,0
 I asked for a left-handed pitcher.,1.0784313725490196,0.030162552267187306,102,95,6,1
+"Our ad said we need a ""Closer"" for real estate.",1.0784313725490196,0.026751495257385263,102,94,8,0
 "Before your first pitch, what’s the projected cash flow in year five?",1.0782608695652174,0.028023707101644646,115,107,7,1
 Well you asked me to pitch for you.,1.0782608695652174,0.028023707101644646,115,107,7,1
 "Alright Joe, give me your 15 second pitch with no one on base and then your 20 second pitch if there’s a runner on. Sorry, rules are rules.”  #mlbruleschang",1.0782608695652174,0.02515497681219461,115,106,9,0
@@ -4907,6 +4907,7 @@ Okay...Knuckle down and give your pitch.  I'm sure we can wind this up quickly.,
 You’ll be the one walking ace if you don’t stop with the wild pitches at the sales meeting!,1.074468085106383,0.027223209066950926,94,87,7,0
 "Per my last e-mail, that hat is the last strike.",1.074468085106383,0.027223209066950926,94,87,7,0
 "It’s the sales team meeting, dummy.",1.0740740740740742,0.028531933927964433,108,101,6,1
+As a salesperson you have to have a great pitch,1.0740740740740742,0.0253179972972097,108,100,8,0
 "When I asked for ""relief"" a pitcher wasn't what I had in mind.",1.0740740740740742,0.0253179972972097,108,100,8,0
 Let me flip the webcam around so we can deliver the pitch to the group,1.0740740740740742,0.029280348705262704,81,75,6,0
 "No, I don’t want your elevator pitch!",1.0740740740740742,0.029280348705262704,81,75,6,0
@@ -4996,7 +4997,6 @@ I don't think you quite understood what I meant when I invited you to pitch.,1.0
 "Who's on first, pitching in the boardroom?",1.065934065934066,0.026159078492830955,91,85,6,0
 They’re ready to hear your pitch now.,1.065934065934066,0.026159078492830955,91,85,6,0
 "With you at the helm, Smith, our global expansion project is sure to be a home run.",1.0655737704918034,0.022503232295888936,122,114,8,0
-As a salesperson you have to have a great pitch,1.0654205607476634,0.024016643399534934,107,100,7,0
 "So, what do you have to pitch me?",1.0654205607476634,0.024016643399534934,107,100,7,0
 "Okay, Rogers, pitch me your idea and make it fast.",1.0654205607476634,0.027443303435184013,107,101,5,1
 Bringing in the closer to end the game without HR.,1.065217391304348,0.025883102208852066,92,86,6,0
@@ -5013,16 +5013,16 @@ Could I get back to you next week as to when I yell “Play Ball?”,1.064220183
 Let's get the ball rolling...,1.0638297872340425,0.02534822966728812,94,88,6,0
 "If this is another elevator pitch, Mike, just forget about it!",1.0636363636363637,0.02338092550798894,110,103,7,0
 I thought you were going too pitch your movie idea.,1.0636363636363637,0.02338092550798894,110,103,7,0
-"When I pitch, there's usually a home run, and you sir, you're the batter.",1.0636363636363637,0.02338092550798894,110,103,7,0
 You pitch the same idea every day.,1.063157894736842,0.025088985264210828,95,89,6,0
 Our competition is planning  to play hard ball.,1.063157894736842,0.025088985264210828,95,89,6,0
 I like your pitch but we already have a base here.,1.063157894736842,0.029213376171221137,95,90,4,1
 "strike 3, you are out",1.063157894736842,0.025088985264210828,95,89,6,0
-"Very creative, synchronizing your start-up pitch with the first pitch.",1.063157894736842,0.025088985264210828,95,89,6,0
 "boss (sitting) : "" now, can you play alone without your team?   player (standing) : "" %\*|#]<{?",1.063157894736842,0.025088985264210828,95,89,6,0
 "I'm always excited to see what you've got, but be careful, my strike zone is all over the place today.",1.063063063063063,0.023176420843012604,111,104,7,0
+"When I pitch, there's usually a home run, and you sir, you're the batter.",1.063063063063063,0.023176420843012604,111,104,7,0
 "If you're here for an elevator pitch, it's down the hall.",1.0625,0.02483498169496957,96,90,6,0
 "The 2024 MLB season starts soon, and I haven't even drafted my fantasy team yet.",1.0625,0.02483498169496957,96,90,6,0
+"Very creative, synchronizing your start-up pitch with the first pitch.",1.0625,0.02483498169496957,96,90,6,0
 "Bob, first pitch doesn’t really first pitch.",1.0625,0.02297545694043149,112,105,7,0
 "I asked you a simple question, don't throw curveballs at me in response.",1.062015503875969,0.02131782945736434,129,121,8,0
 That's your best pitch? That curve ball barely tore my left arm off.,1.0618556701030928,0.024586061892189325,97,91,6,0
@@ -5057,10 +5057,10 @@ You can't balk around the law with an interpreter.,1.0588235294117647,0.02341263
 "Thanks again for pitching in, Gerrit”  @gerritcole4",1.0588235294117647,0.02724497681680325,102,97,4,1
 I'm really not in the mood for a sales pitch,1.0588235294117647,0.02341263976964679,102,96,6,0
 Let me just show you my fast ball.,1.0588235294117647,0.025672692968940272,85,80,5,0
-"I’m bored elevators, I want the real thing.",1.0576923076923077,0.026730346115573927,104,99,4,1
 I have a lot of experience working  theswing shift.,1.0574712643678161,0.02995283577189294,87,83,3,1
 So what’s the homerunworking policy around here?,1.0574712643678161,0.02995283577189294,87,83,3,1
 You’re gonna have to wait. I have a lunch date with ……….,1.0571428571428572,0.02276078590901976,105,99,6,0
+"I’m bored elevators, I want the real thing.",1.0571428571428572,0.026480248457037097,105,100,4,1
 I didn’t realize you were a bronze statue when I picked you out of the police line.,1.0568181818181819,0.02481885546488537,88,83,5,0
 "next item on the agenda: as our deadline fast approaches, are we calling this the eleventh hour or the bottom of the ninth? please discuss at length",1.0568181818181819,0.029617707649995127,88,84,3,1
 "Strike three, funny, 'cause I'm a baseball player."" ""No, Tony, corporate takes sexual harrassement very seriously. You're fired.",1.0566037735849056,0.029461134277691568,106,102,2,2
@@ -5077,23 +5077,23 @@ If you’re gonna stand there then maybe pitch it higher,1.0555555555555556,0.02
 If you go for a curve ball i swear to God this will be your third strike,1.0545454545454545,0.025296782642673498,110,105,4,1
 If you throw that at me you'll never work in baseball again!,1.0543478260869565,0.02834893844968005,92,88,3,1
 "Emily, what have you done? Clark is not moving. Why is he not moving? I was just kidding, about getting him to second base, whatever it would take ...Emily?",1.0543478260869565,0.02376490622713203,92,87,5,0
-"Well its past 12, Still you haven't strike a job interview yet",1.0543478260869565,0.02376490622713203,92,87,5,0
 I meant your best pitch to our client.,1.0543478260869565,0.02376490622713203,92,87,5,0
 You used up all the time on our pitch clock,1.0543478260869565,0.02376490622713203,92,87,5,0
 That’s not the home run pitch I was anticipating.,1.0543478260869565,0.02376490622713203,92,87,5,0
 That mound is not your be all and end all,1.054054054054054,0.02156010905993156,111,105,6,0
+"Well its past 12, Still you haven't strike a job interview yet",1.053763440860215,0.02351524327248115,93,88,5,0
 "I told you we needed your pitch by noon, but it's appears you misunderstood the message.",1.0535714285714286,0.021372190951239895,112,106,6,0
 "Oh please, what is it now?... the: Final Pitch?",1.053191489361702,0.023270765919160656,94,89,5,0
 "Your pitch count is too high, we'll not be exercising our rights to any more screenplays.",1.053191489361702,0.023270765919160656,94,89,5,0
 "Well honestly, your entire resume appears as if you are trying to throw me a curve ball. Perhaps, a change up is in order.  These things can be a real sinker on your career.  Slide by next week to see if I can make you a starter.",1.053191489361702,0.027754443713926956,94,90,3,1
 Are You Gonna Let Me Swing At It . . ?,1.0530973451327434,0.021187516766238083,113,107,6,0
 Your pitches for the company need to be better than your pitches for the Major Leagues.,1.0526315789473684,0.02746644518119758,95,91,3,1
-So you say IF you can hit my desk lamp on your first throw I don’t charge my insurmountable rent increase for your next month?,1.0526315789473684,0.023031314447036,95,90,5,0
 That pitch was foul. Does your reliever have a better one?,1.0521739130434782,0.0208275702571767,115,109,6,0
 Your metrics indicate that you should avoid throwing the slider at midday.,1.0520833333333333,0.022796735620934004,96,91,5,0
 "Receptionist mistake. She thought you were making a sales pitch, And I really need my teeth.",1.0520833333333333,0.022796735620934004,96,91,5,0
 Why you’re being cut?  Four balls is not an ‘out’’ and the pitcher’s mound is not a removable obstruction.”,1.0520833333333333,0.022796735620934004,96,91,5,0
 keep balking at these terms you'll be off that mound and looking for work in the minors!,1.0520833333333333,0.022796735620934004,96,91,5,0
+So you say IF you can hit my desk lamp on your first throw I don’t charge my insurmountable rent increase for your next month?,1.0520833333333333,0.022796735620934004,96,91,5,0
 I'm not catching your pitch.,1.0515463917525774,0.022566882365229714,97,92,5,0
 I'm going to give you one mire chance to make your pitch!,1.0510204081632653,0.026637213210524497,98,94,3,1
 More juice for the pop because i see amazing.,1.0505050505050506,0.022120793242071942,99,94,5,0
@@ -5121,7 +5121,7 @@ Now move your ring finger three degrees to the left.,1.0480769230769231,0.021079
 "Sorry, Roscoe, but the employment ad certainly did not suggest that the bookkeeping department was a 'Field of Dreams.'",1.0467289719626167,0.020499741172303944,107,102,5,0
 "Actually, Roger, I’m a Braves fan, but go ahead and give me your best pitch…",1.0467289719626167,0.024424887540920457,107,103,3,1
 "I'm not hitting the security button, I am opening the vault. I am cooperating!",1.0458715596330275,0.023982243335409995,109,105,3,1
-You're 0 for 3 so far.  This better be a great sales pitch or you're out!,1.045045045045045,0.019775096589106714,111,106,5,0
+You're 0 for 3 so far.  This better be a great sales pitch or you're out!,1.0446428571428572,0.019601864327811826,112,107,5,0
 I don’t think that’s what they meant when they said they were ready for your pitch.,1.0444444444444445,0.021844479878251593,90,86,4,0
 "60 feet , not 6 feet...",1.0444444444444445,0.021844479878251593,90,86,4,0
 "On behalf of my clients in the upper deck, I am here to inform you that we request a pitcher, not a belly itcher.",1.0444444444444445,0.021844479878251593,90,86,4,0
