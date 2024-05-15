@@ -3,22 +3,22 @@ caption,mean,precision,votes,not_funny,somewhat_funny,funny
 Do you think death rays would be considered electronics or sporting goods?,1.6313030454318522,0.012005437650100866,4006,2167,1149,690
 I've never heard of planet fitness.,1.6277486910994765,0.017931027040589697,1910,1074,473,363
 "Wait, was it ""conquer the mall"" or ""conquer them all""?",1.625,0.020115626037313532,1528,866,369,293
-"To Bed, Bath, and Beyond!",1.6204920795416244,0.01397501933167349,2967,1636,821,510
+"To Bed, Bath, and Beyond!",1.6202830188679245,0.01397187414512077,2968,1637,821,510
 "What do they mean ""Space for Rent""?",1.6171581769436998,0.01280680424517236,3730,2128,902,700
 "You idiot!  I said Area 51, not Forever 21!",1.603896103896104,0.021738757370109465,1232,699,322,211
 They deny our existence but know where we are?,1.6008344923504867,0.01976042945099034,1438,805,402,231
 We’re good; they’re all looking at their phones.,1.5992996498249124,0.016894903634284867,1999,1131,538,330
 "Dairy Queen, that must be their leader",1.5863720073664824,0.014355454724233592,2715,1553,732,430
 We were so careful.  How did they find out?,1.5813106796116505,0.025545753720221158,824,466,237,121
-I assume their leader is this “Burger King.”,1.581255374032674,0.015204196253236064,2326,1316,668,342
 What happened to Radio Shack? Now we'll never get home.,1.580999242997729,0.014948430382586487,2642,1565,619,458
+I assume their leader is this “Burger King.”,1.5805758487322734,0.015212845079583197,2327,1317,668,342
 "It's just a long way to come for khakis, is all I'm saying.",1.5804924242424243,0.02244318276501894,1056,595,309,152
 The currency exchange store has to be the one called Starbucks.,1.5782761653474056,0.015850289785734144,2274,1331,571,372
 We knew they were litigious- but a food court?,1.5762599469496021,0.019205443060451424,1508,874,399,235
 "If they know where we are, then they’re more advanced than we thought.",1.5728155339805825,0.013053473201340142,3296,1930,844,522
 We found earth. We’ll find Target.,1.5721583652618136,0.015192418488809024,2349,1354,646,349
 This is the only place in the galaxy where they have those pretzels I like.,1.571011673151751,0.022060842563052362,1028,572,325,131
-How do they know we're here?,1.5695897023330652,0.020656537265478524,1243,712,354,177
+How do they know we're here?,1.5691318327974277,0.02064500364390338,1244,713,354,177
 Cancel the invasion -- they know we are here.,1.5690376569037656,0.016334387668642796,1912,1077,582,253
 I thought this was a strip mall!,1.5681586978636826,0.017211137663155535,1966,1180,455,331
 "Oh, great.  All those lightyears traveling here and now Sears is out of business.",1.5653973509933774,0.02138560978536507,1208,710,313,185
@@ -35,7 +35,7 @@ Their king of burgers and queen of dairy appear to live in something called the 
 "We can still get home. I saw a sign ""space available""",1.5465405674464907,0.016270209942176195,2009,1196,528,285
 "Well, I like the sound of Starbucks.",1.5431985294117647,0.021564537574528433,1088,637,311,140
 "These humans are very clever, they already know where we are",1.533497234173325,0.017892386693572935,1627,980,426,221
-This is all so alien to me.,1.5312239800166527,0.020759234320368903,1201,724,316,161
+This is all so alien to me.,1.5307820299500832,0.020746664346185138,1202,725,316,161
 "Should we abduct one now, or wait until they go on sale?""",1.5291039895356442,0.018353102686393934,1529,923,403,203
 Now all we need is a map of the galaxies.,1.5268096514745308,0.0207944751251983,1492,1001,196,295
 You said this was uncharted territory.,1.5253648366921473,0.01811210023447129,1439,843,436,160
@@ -48,7 +48,7 @@ How do they know that we are here?,1.5199698568198945,0.01981988705573366,1327,8
 "Dammit, they know where we are",1.5190548780487805,0.020137761750445217,1312,816,311,185
 "I gotta go bad, so which one are we,  Men’s or Women?",1.518005540166205,0.02143503613701998,1083,656,293,134
 "So, on this planet we’re both named ‘Here’?",1.5178571428571428,0.02006815626168279,1288,794,321,173
-I didn’t anticipate the ‘no shirts or shoes- no service’ rule!,1.5175644028103044,0.02003020870871778,1281,787,325,169
+I didn’t anticipate the ‘no shirts or shoes- no service’ rule!,1.5171606864274572,0.020018649713431876,1282,788,325,169
 "Seemingly less advanced than us in every way, and yet somehow they were able to predict our precise location at this exact moment.",1.5165615141955835,0.020763935796393587,1268,801,279,188
 The men here are trained to sit on benches and watch over bags.”,1.5142857142857142,0.02110714423953446,1225,776,268,181
 "If these humans need constant reminders where they are, I'm not sure there's much point in asking to see their leader.",1.5103448275862068,0.021263597194264742,1160,727,274,159
@@ -1148,7 +1148,6 @@ Clothes encounters of the worst kind,1.2330827067669172,0.04638592364753896,133,
 But we've come so far,1.2330827067669172,0.04386127653785083,133,107,21,5
 So confusing. Let’s phone home.,1.2328767123287672,0.0401239175152433,146,116,26,4
 They closed Sears! Where are we supposed to get tools to fix our ship?,1.2328767123287672,0.04241315101886642,146,118,22,6
-"Well, we're sure as hell not in Kansas anymore.",1.2327586206896552,0.04126514736324097,116,90,25,1
 You were right. We're pretty much alone in the cosmos after all.,1.2325581395348837,0.04735190590259928,129,106,16,7
 Why is it so hard to find normal jeans?,1.2325581395348837,0.04735190590259928,129,106,16,7
 It was easier finding this planet.,1.232394366197183,0.04200724017029981,142,114,23,5
@@ -1166,6 +1165,7 @@ I'm famished. How many light years to the food court?,1.2313432835820894,0.04356
 "Staring, humbled and defeated, Grylax and Dirvion, master intergalactic cartographers, had finally met their match.",1.2313432835820894,0.047273524501387255,134,111,15,8
 This is the last time that we drive all the way here just to shop for clothes.,1.2307692307692308,0.04174409487036005,143,115,23,5
 Try under “P” for probe.,1.2307692307692308,0.04174409487036005,143,115,23,5
+"Well, we're sure as hell not in Kansas anymore.",1.2307692307692308,0.040959274348012276,117,91,25,1
 Here? Where?,1.2307692307692308,0.04290760437014813,143,116,21,6
 "As predicted, it seems they're leaderless and wandering around aimlessly.",1.2307692307692308,0.04573452932028563,130,106,18,6
 We came from 236 million light years away and the Apple Store is closed.,1.2307692307692308,0.04174409487036005,143,115,23,5
@@ -3462,7 +3462,6 @@ Where is this Cinnabon we heard about?,1.1238095238095238,0.035017625324641026,1
 Alien Wear,1.1238095238095238,0.03990657150993188,105,95,7,3
 But where did we park?,1.1237113402061856,0.03360413610929201,97,85,12,0
 "We're here but the sign says we're there. This appears to be the handiwork of our neighbor, Mr. Schrodinger, who wants to know whether or not we're planning to feed his cat when he's away next month.",1.1237113402061856,0.03948153021675622,97,87,8,2
-Do you think we should use the women's restroom or the men's?,1.1237113402061856,0.03948153021675622,97,87,8,2
 We just need to find Auntie Anne before it’s too late.,1.1237113402061856,0.03948153021675622,97,87,8,2
 "Allie, look! They’re not accepting cash anymore. Now they want us to pay with fruit. They’re regressing faster than we anticipated.",1.1237113402061856,0.03666080462775236,97,86,10,1
 There's no one to take us to their leader.,1.1237113402061856,0.03666080462775236,97,86,10,1
@@ -3513,6 +3512,7 @@ This makes our multidimensional galaxy map look like child’s play.,1.122448979
 A 600 IQ and you didn’t know Cinnabon was trash?,1.1224489795918366,0.03909696556888407,98,88,8,2
 Do you think it's directions to their leader?,1.1224489795918366,0.03630673878179781,98,87,10,1
 "Leader... leader... nope, can't see it anywhere",1.1224489795918366,0.04415155249981723,98,90,4,4
+Do you think we should use the women's restroom or the men's?,1.1224489795918366,0.03909696556888407,98,88,8,2
 We may have taken a left when we should have taken a right at the last fork in the sky!,1.1224489795918366,0.03328341697069122,98,86,12,0
 I have a feeling we’re not in Kansas anymore.,1.1224489795918366,0.03328341697069122,98,86,12,0
 Do you think we could pass as earthlings if we bought some clothes?,1.1224489795918366,0.03630673878179781,98,87,10,1
@@ -4431,7 +4431,6 @@ This last clothing store didn’t have our style. What else is here? Maybe we ne
 Someone will come get us...You'll See...,1.0879120879120878,0.03369166970715586,91,84,6,1
 Where do you think the gynecology unit is?,1.0879120879120878,0.03369166970715586,91,84,6,1
 "Bummer, no Red Robin.",1.0879120879120878,0.029848423131814513,91,83,8,0
-"Which strip mall window, did you say, is outfitting manikins?",1.0879120879120878,0.03369166970715586,91,84,6,1
 "What is ""clothing""? These humanoids cover themselves?",1.0879120879120878,0.029848423131814513,91,83,8,0
 "We stepped out for a watch, now we've to watch our step.",1.0879120879120878,0.029848423131814513,91,83,8,0
 Did we get any recommendations for clothing stores?,1.087719298245614,0.029384313829045588,114,105,8,1
@@ -4445,6 +4444,7 @@ Biden said there would be free food here. But he is known around the galaxy for 
 I knew coming here was a bad idea years ago. Humans are hopeless.,1.0869565217391304,0.033337141531704445,92,85,6,1
 It’s depressing! They had nothing in my size.,1.0869565217391304,0.029537661760293828,92,84,8,0
 You sorted by nearest food court?,1.0869565217391304,0.03416979339101634,69,63,6,0
+"Which strip mall window, did you say, is outfitting manikins?",1.0869565217391304,0.033337141531704445,92,85,6,1
 This galaxy is too complicated.   Let's stay with Amazon!,1.0869565217391304,0.033337141531704445,92,85,6,1
 Where's the pretzel stand? I heard they're out of this world.,1.0869565217391304,0.033337141531704445,92,85,6,1
 I wanna pick some Jackie O's at the Sunglass Hut,1.0869565217391304,0.039922828555730934,69,64,4,1
@@ -4484,7 +4484,6 @@ Hope there’s a Brooks Brothers in here……..,1.0851063829787233,0.0326499653
 "Okay, we’re done storing our clothes. Now where do we put our jamba juice?",1.0851063829787233,0.028935093578151275,94,86,8,0
 X-13 said we have to try the Cinnabon!,1.0851063829787233,0.03264996538714156,94,87,6,1
 Where's can we find some underpants?,1.0851063829787233,0.03264996538714156,94,87,6,1
-Maybe their leader is at Macy’s.,1.0851063829787233,0.028935093578151275,94,86,8,0
 I guess we better go online”  ptio,1.0851063829787233,0.028935093578151275,94,86,8,0
 So they took the Hot Topic out if this mall too?,1.0851063829787233,0.03264996538714156,94,87,6,1
 we can take that wormhole to the food court,1.0851063829787233,0.028935093578151275,94,86,8,0
@@ -4508,6 +4507,7 @@ I told you there was no clothing store in here!,1.0842105263157895,0.02864290665
 TCBY can’t possibly be as good as The Universe's Top Flan.,1.0842105263157895,0.02864290665845136,95,87,8,0
 I think we made a wrong turn just past Mars!,1.0842105263157895,0.03231687280010614,95,88,6,1
 It was easy to find this planet. But how do we find our way around this mall?,1.0842105263157895,0.02864290665845136,95,87,8,0
+Maybe their leader is at Macy’s.,1.0842105263157895,0.02864290665845136,95,87,8,0
 "Spirit Halloween site selection committee, torn between Sears, KMart or Penny’s.",1.0841121495327102,0.03543690409153725,107,101,3,3
 I can't find the Saucer Park.,1.0841121495327102,0.030051666926852717,107,99,7,1
 We must be lost because I do not see anything about a leader on this directory.,1.0833333333333333,0.03033723881473521,84,77,7,0
@@ -4521,7 +4521,6 @@ the restrooms here are overrated and the hamburger tastes like the mush on my be
 That woman to your right is headed for our portal!,1.0833333333333333,0.03033723881473521,84,77,7,0
 Snag a wedding gown. Lemme grab diamonds. Will be out in a jiffy.,1.0833333333333333,0.03199049566457979,96,89,6,1
 I think that you pulled the 'time travel' lever instead of the 'space travel' lever.,1.0833333333333333,0.0431088443009553,72,68,2,2
-"Wait, did you enter the 19/97 degree latitude and longitude as the destination date? This mall has a ChiChi’s!",1.0833333333333333,0.03033723881473521,84,77,7,0
 You are here.,1.0833333333333333,0.03199049566457979,96,89,6,1
 First stop is Williams Sonoma for some new probes… wait is a meat thermometer the same as a probe?,1.0833333333333333,0.03033723881473521,84,77,7,0
 Where’s the food court? Im starving from that lightyear long journey.,1.0833333333333333,0.03255849171084698,108,101,5,2
@@ -4537,6 +4536,7 @@ I don't think we are in New Jersey anymore.,1.0823529411764705,0.038208350774073
 "See is it shows the location of ""their leader.""",1.0823529411764705,0.03434772225427304,85,79,5,1
 Take us to your lingerie.,1.0823529411764705,0.03434772225427304,85,79,5,1
 I can’t believe there’s no Starbucks in this mall!,1.0823529411764705,0.02999423243289876,85,78,7,0
+"Wait, did you enter the 19/97 degree latitude and longitude as the destination date? This mall has a ChiChi’s!",1.0823529411764705,0.02999423243289876,85,78,7,0
 They appear to be big on covering their bodies.,1.0823529411764705,0.03434772225427304,85,79,5,1
 How did we end up here?,1.0823529411764705,0.03434772225427304,85,79,5,1
 We’re in luck. We’ll need a proper outfit if we want to pass among these earthlings.,1.0818181818181818,0.026252822817580485,110,101,9,0
